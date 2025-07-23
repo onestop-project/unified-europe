@@ -1,0 +1,63 @@
+---
+title: "Unified Europe"
+author: "Sanne Govaert"
+date: "`r Sys.Date()`"
+output: html_document
+---
+
+# Setup
+
+## Install elodea
+```{r}
+# devtools::install_github("onestop-project/elodea@create-functions")
+```
+
+## Load libraries
+
+```{r}
+library(elodea)
+library(yaml)
+library(purrr)
+```
+
+## Read yaml
+
+```{r}
+checklists <- yaml::read_yaml(here::here("src", "checklists.yml"))
+```
+
+## Filter checklists if needed
+
+```{r}
+#checklists <- purrr::keep(checklists, ~ .x$country %in% c("Austria", "Belarus")) 
+```
+
+# Download taxa and distributions
+
+```{r}
+save_taxa_and_distributions <- function(datasetKey, directory) {
+  cli::cli_h2("Downloading files")
+  taxa <- elodea::get_taxa(datasetKey)
+  distributions <- elodea::get_distributions(datasetKey)
+  taxa_path <- file.path(directory, "taxa.csv")
+  distributions_path <- file.path(directory, "distributions.csv")
+  cli::cli_h2("Writing files")
+  cli::cli_ul("{.file {taxa_path}}")
+  cli::cli_ul("{.file {distributions_path}}")
+  if (!dir.exists(directory)) {
+    dir.create(directory, recursive = TRUE)
+  }
+  readr::write_csv(taxa, taxa_path, na = "")
+  readr::write_csv(distributions, distributions_path, na = "")
+}
+```
+
+```{r}
+purrr::walk(
+  checklists,
+  ~ save_taxa_and_distributions(
+    datasetKey = purrr::pluck(.x, "uuid"),
+    directory = here::here("data", "interim", purrr::pluck(.x, "country"))
+  )
+)
+```
