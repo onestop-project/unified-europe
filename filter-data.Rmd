@@ -1,0 +1,70 @@
+---
+title: "Filter local data"
+author: "Sanne Govaert"
+date: "`r Sys.Date()`"
+output: html_document
+---
+
+## Load libraries
+
+```{r}
+library(elodea)
+library(here)
+library(readr)
+```
+
+## Set directory
+
+```{r}
+parent_dir <- here::here("data", "interim")
+```
+
+### Read taxa and distributions
+
+```{r}
+# List all folders (countries) in the parent directory
+country_folders <- list.dirs(parent_dir, recursive = FALSE)
+```
+
+```{r}
+# Define a function to process one folder
+process_folder <- function(folder, directory) {
+  country <- basename(folder)
+  
+  taxa_file <- file.path(folder, "taxa.csv")
+  distributions_file <- file.path(folder, "distributions.csv")
+  
+  taxa <- readr::read_csv(taxa_file, show_col_types = FALSE)
+  distributions <- readr::read_csv(distributions_file, show_col_types = FALSE)
+  
+  result <- elodea::filter_data(
+    taxa, distributions, establishmentMeans = "introduced"
+    )
+  
+  dir <- file.path(directory, country)
+  taxa_path <- file.path(dir, "taxa.csv")
+  distributions_path <- file.path(dir, "distributions.csv")
+  notes_path <- file.path(dir, "notes.csv")
+  if (!dir.exists(dir)) {
+    dir.create(dir, recursive = TRUE)
+  }
+  cli::cli_h2("Writing files for {country}")
+  readr::write_csv(result$taxa, taxa_path, na = "")
+  cli::cli_ul("{.file {taxa_path}}")
+  readr::write_csv(result$distributions, distributions_path, na = "")
+  cli::cli_ul("{.file {distributions_path}}")
+  readr::write_csv(result$notes, notes_path, na = "")
+  cli::cli_ul("{.file {notes_path}}")
+}
+```
+
+
+```{r}
+# Use purrr::map to process all folders
+purrr::map(
+  country_folders, 
+  ~ process_folder(.x, directory = here::here("data", "processed"))
+  )
+```
+
+
