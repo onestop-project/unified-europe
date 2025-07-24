@@ -1,5 +1,5 @@
 ---
-title: "Unified Europe"
+title: "Download taxa and distributions"
 author: "Sanne Govaert"
 date: "`r Sys.Date()`"
 output: html_document
@@ -17,6 +17,7 @@ output: html_document
 ```{r}
 library(elodea)
 library(yaml)
+library(here)
 library(purrr)
 ```
 
