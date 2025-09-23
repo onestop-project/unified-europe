@@ -16,22 +16,35 @@ library(readr)
 ## Set directory
 
 ```{r}
-parent_dir <- here::here("data", "processed")
+processed_dir <- here::here("data", "processed")
 ```
 
-### Read taxa and distributions
+### Combine taxa and distributions files
 
 ```{r}
-# List all folders (countries) in the parent directory
-country_folders <- list.dirs(parent_dir, recursive = FALSE)
+taxa_files <- list.files(processed_dir, pattern = "taxa.csv$", recursive = TRUE, full.names = TRUE)
+distributions_files <- list.files(processed_dir, pattern = "distributions.csv$", recursive = TRUE, full.names = TRUE)
+
+taxa <-
+  do.call(rbind, purrr::map(taxa_files, read.csv)) %>% 
+  dplyr::mutate(
+    taxonKey = NA_character_,
+    taxonID = NA_character_
+    ) %>% 
+  dplyr::distinct()
+distributions <-
+  do.call(rbind, purrr::map(distributions_files, read.csv)) %>% 
+  dplyr::mutate(taxonKey = NA_character_) 
 ```
 
-## Including Plots
-
-You can also embed plots, for example:
-
-```{r pressure, echo=FALSE}
-plot(pressure)
+```{r}
+directory <- here::here("data", "Europe")
+taxa_path <- file.path(directory, "taxa.csv")
+distributions_path <- file.path(directory, "distributions.csv")
+ if (!dir.exists(directory)) {
+    dir.create(directory, recursive = TRUE)
+  }
+readr::write_csv(taxa, taxa_path, na = "")
+readr::write_csv(distributions, distributions_path, na = "")
 ```
 
-Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
