@@ -1,0 +1,13 @@
+taxonID,taxonKey,scientificName,action,acceptedKey,accepted
+120115,163732873,"Rhopilema nomadica Galil, 1990",scientificName_replaced_by_backbone_name,,
+120108,163732885,"Sargocentron rubrum (ForsskÃ¥l, 1775)",scientificName_replaced_by_backbone_name,,
+120116,163732886,"Sargocentron rubrum (ForsskÃ¥l, 1775)",scientificName_replaced_by_backbone_name,,
+120109,163732892,"Siganus luridus (RÃ¼ppell, 1829)",scientificName_replaced_by_backbone_name,,
+120110,163732893,"Siganus rivulatus ForsskÃ¥l, 1775",scientificName_replaced_by_backbone_name,,
+120107,163732895,"Parupeneus forsskali (Fourmanoir & GuÃ©zÃ©, 1976)",scientificName_replaced_by_backbone_name,,
+120113,163732898,"Fistularia commersonii RÃ¼ppell, 1838",not_matched_with_backbone,,
+120105,163732899,"Fistularia commersonii RÃ¼ppell, 1838",not_matched_with_backbone,,
+120111,163732911,Symphyotrichum squamatum (Spreng.) G.L.Nesom,merged_with_accepted,265495483,Symphyotrichum subulatum var. squamatum (Spreng.) S.D.Sundb.
+120103,163732914,Eucalyptus camaldulensis Dehnh.,scientificName_replaced_by_backbone_name,,
+120104,163732915,Eucalyptus gomphocephala DC.,scientificName_replaced_by_backbone_name,,
+120102,163732918,Dodonaea viscosa Jacq.,scientificName_replaced_by_backbone_name,,

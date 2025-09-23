@@ -1,0 +1,44 @@
+taxonID,taxonKey,scientificName,action,acceptedKey,accepted
+42733,148789227,Azolla Lamarck,scientificName_replaced_by_backbone_name,,
+42778,148789252,Elodea nuttallii St.John,scientificName_replaced_by_backbone_name,,
+42763,148789262,Cyperus esculentus var. leptostachyus Boeckeler,merged_with_accepted,201352279,Cyperus esculentus L.
+42844,148789269,Panicum miliaceum subsp. ruderale (Kitag.) Tzvelev,merged_with_accepted,201352274,Panicum miliaceum L.
+42862,148789270,"Potamopyrgus antipodarum (Gray, 1843)",scientificName_replaced_by_backbone_name,,
+42885,148789273,Sorghum halepense Pers.,scientificName_replaced_by_backbone_name,,
+42818,148789276,"Melanoides tuberculata (O.F.MÃ¼ller, 1774)",scientificName_replaced_by_backbone_name,,
+42758,148789287,"Cornu aspersum (O.F.MÃ¼ller, 1774)",scientificName_replaced_by_backbone_name,,
+42769,148789295,"Dreissena rostriformis bugensis Andrusov, 1897",merged_with_accepted,201352420,"Dreissena bugensis (Andrusov, 1897)"
+42852,148789301,Parthenocissus inserta (A.Kerner) Fritsch,merged_with_accepted,201352352,Parthenocissus vitacea (Knerr) Hitchc.
+42851,148789302,Parthenocissus inserta (A.Kerner) Fritsch,merged_with_accepted,201352352,Parthenocissus vitacea (Knerr) Hitchc.
+42801,148789314,Hydrocotyle ranunculoides L.f.,scientificName_replaced_by_backbone_name,,
+42754,148789315,"Corbicula fluminalis (O.F.MÃ¼ller, 1774)",scientificName_replaced_by_backbone_name,,
+42755,148789316,"Corbicula fluminea (O.F.MÃ¼ller, 1774)",scientificName_replaced_by_backbone_name,,
+42772,148789330,Echinocystis lobata Torr. & A.Gray,scientificName_replaced_by_backbone_name,,
+42729,148789333,"Anodonta woodiana (I.Lea, 1834)",merged_with_accepted,148789327,"Sinanodonta woodiana (I.Lea, 1834)"
+42761,148789335,Cuscuta campestris Yunck.,merged_with_accepted,201352367,Cuscuta pentagona Engelm.
+42770,148789343,Duchesnea indica (Andr.) Focke,merged_with_accepted,201352345,Potentilla indica (Andrews) T.Wolf
+42840,148789353,"Oxyura jamaicensis (Gmelin, 1789)",scientificName_replaced_by_backbone_name,,
+42752,148789361,"Columba livia Gmelin, 1789",scientificName_replaced_by_backbone_name,,
+42800,148789362,Humulus japonicus Sieb. & Zucc.,merged_with_accepted,201352340,Humulopsis scandens (Lour.) Grudz.
+42793,148789407,"Gasterosteus gymnurus Cuvier, 1829",merged_with_accepted,148789406,"Gasterosteus aculeatus Linnaeus, 1758"
+42893,148789417,Symphyotrichum salignum (Willd.) G.L.Nesom,scientificName_replaced_by_backbone_name,,
+42807,148789425,Iva xanthifolia Nutt.,merged_with_accepted,201352314,Cyclachaena xanthiifolia Fresen.
+42904,148789428,Xanthium saccharatum Wallr.,merged_with_accepted,201352308,Xanthium orientale L.
+42902,148789430,Xanthium albinum subsp. riparium (Celak.) Widd. & Wagenitz,merged_with_accepted,201352308,Xanthium orientale L.
+42906,148789435,Xanthium strumarium Lour.,scientificName_replaced_by_backbone_name,,
+42819,148789438,"Micropterus salmoides (LacepÃ¨de, 1802)",scientificName_replaced_by_backbone_name,,
+42857,148789448,"Ponticola kessleri (GÃ¼nther, 1861)",scientificName_replaced_by_backbone_name,,
+42781,148789453,Erigeron annuus Pers.,scientificName_replaced_by_backbone_name,,
+42812,148789465,"Lasius neglectus van Loon, Boomsma & AndrÃ¡sfalvy, 1990",scientificName_replaced_by_backbone_name,,
+42872,148789475,Reynoutria bohemica Chrtek & ChrtkovÃ¡,scientificName_replaced_by_backbone_name,,
+42871,148789477,Reynoutria bohemica Chrtek & ChrtkovÃ¡,scientificName_replaced_by_backbone_name,,
+42874,148789478,Reynoutria sachalinensis Nakai,scientificName_replaced_by_backbone_name,,
+42875,148789481,Reynoutria sachalinensis Nakai,scientificName_replaced_by_backbone_name,,
+42855,148789486,Phytolacca esculenta Van Houtte,merged_with_accepted,201352383,Phytolacca acinosa Roxb.
+42719,148789500,Ailanthus altissima Swingle,scientificName_replaced_by_backbone_name,,
+42887,148789531,"Stenogammarus compressus (Sars G.O., 1894)",scientificName_replaced_by_backbone_name,,
+42888,148789532,"Stenogammarus macrurus (Sars, 1894)",scientificName_replaced_by_backbone_name,,
+42890,148789534,"Stenogammarus similis (Sars, 1894)",scientificName_replaced_by_backbone_name,,
+42829,148789541,"Obesogammarus crassus (Sars G.O., 1894)",scientificName_replaced_by_backbone_name,,
+42830,148789543,"Obesogammarus obesus (Sars G.O., 1894)",scientificName_replaced_by_backbone_name,,
+42744,148789569,"Chaetogammarus warpachowskyi Sars, 1897",scientificName_replaced_by_backbone_name,,
