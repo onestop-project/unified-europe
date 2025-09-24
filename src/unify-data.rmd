@@ -26,7 +26,7 @@ taxa_files <- list.files(processed_dir, pattern = "taxa.csv$", recursive = TRUE,
 distributions_files <- list.files(processed_dir, pattern = "distributions.csv$", recursive = TRUE, full.names = TRUE)
 
 taxon <-
-  do.call(rbind, purrr::map(taxa_files, read.csv)) %>% 
+  do.call(rbind, purrr::map(taxa_files, read.csv)) |>
   dplyr::mutate(
     id = paste0("https://www.gbif.org/species/", .data$nubKey),
     taxonID = paste0("https://www.gbif.org/species/", .data$nubKey),
@@ -43,8 +43,8 @@ taxon <-
     datasetID = NA_character_, # doi of dataset
     datasetName = "Global Register of Introduced and Invasive Species - Europe",
     .keep = "none"
-    ) %>% 
-  dplyr::distinct() %>% 
+    ) |>
+  dplyr::distinct() |>
   dplyr::select(
     "id", "taxonID", "scientificName", "kingdom", "taxonRank", "taxonRemarks",
     "language", "license", "rightsHolder", "bibliographicCitation",
@@ -52,11 +52,11 @@ taxon <-
   )
 
 distributions <-
-  do.call(rbind, purrr::map(distributions_files, read.csv)) %>% 
+  do.call(rbind, purrr::map(distributions_files, read.csv)) |>
   dplyr::mutate(
     taxonID = paste0("https://www.gbif.org/species/", .data$nubKey)
-  ) %>% 
-  dplyr::distinct() %>% 
+  ) |>
+  dplyr::distinct() |>
   dplyr::select(
     "taxonID", "countryCode", "occurrenceStatus", "establishmentMeans",
     "degreeOfEstablishment", "pathway", "eventDate", "source"
