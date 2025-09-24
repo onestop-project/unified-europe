@@ -25,11 +25,24 @@ processed_dir <- here::here("data", "processed")
 taxa_files <- list.files(processed_dir, pattern = "taxa.csv$", recursive = TRUE, full.names = TRUE)
 distributions_files <- list.files(processed_dir, pattern = "distributions.csv$", recursive = TRUE, full.names = TRUE)
 
-taxa <-
+taxon <-
   do.call(rbind, purrr::map(taxa_files, read.csv)) %>% 
   dplyr::mutate(
-    taxonKey = NA_character_,
-    taxonID = NA_character_
+    id = paste0("https://www.gbif.org/species/", .data$nubKey),
+    taxonID = paste0("https://www.gbif.org/species/", .data$nubKey),
+    scientificName = .data$scientificName,
+    kingdom = .data$kingdom,
+    taxonRank = .data$taxonRank,
+    taxonRemarks = "", # e.g. Sources considered for this taxon: https://doi.org/10.14284/347
+    language = "en",
+    license = "http://creativecommons.org/licenses/by/4.0/legalcode",
+    rightsHolder = "",
+    bibliograpicCitation = paste0("https://www.gbif.org/species/", .data$nubKey, ": ", .data$scientificName, " in GBIF Secretariat. GBIF Backbone Taxonomy. Checklist dataset https://doi.org/10.15468/39omei"),
+    references = paste0("https://www.gbif.org/species/", .data$nubKey),
+    institutionCode = "",
+    datasetID = NA_character_, # doi of dataset
+    datasetName = "Global Register of Introduced and Invasive Species - Europe",
+    .keep = "none"
     ) %>% 
   dplyr::distinct()
 distributions <-
@@ -39,12 +52,12 @@ distributions <-
 
 ```{r}
 directory <- here::here("data", "Europe")
-taxa_path <- file.path(directory, "taxa.csv")
+taxon_path <- file.path(directory, "taxon.csv")
 distributions_path <- file.path(directory, "distributions.csv")
  if (!dir.exists(directory)) {
     dir.create(directory, recursive = TRUE)
   }
-readr::write_csv(taxa, taxa_path, na = "")
+readr::write_csv(taxon, taxon_path, na = "")
 readr::write_csv(distributions, distributions_path, na = "")
 ```
 
