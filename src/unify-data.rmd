@@ -45,9 +45,17 @@ taxon <-
     .keep = "none"
     ) %>% 
   dplyr::distinct()
+
 distributions <-
   do.call(rbind, purrr::map(distributions_files, read.csv)) %>% 
-  dplyr::mutate(taxonKey = NA_character_) 
+  dplyr::mutate(
+    taxonID = paste0("https://www.gbif.org/species/", .data$nubKey)
+  ) %>% 
+  dplyr::distinct() %>% 
+  dplyr::select(
+    "taxonID", "countryCode", "occurrenceStatus", "establishmentMeans",
+    "degreeOfEstablishmet", "pathway", "eventDate", "source"
+    )
 ```
 
 ```{r}
