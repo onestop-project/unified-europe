@@ -37,14 +37,19 @@ taxon <-
     language = "en",
     license = "http://creativecommons.org/licenses/by/4.0/legalcode",
     rightsHolder = "",
-    bibliograpicCitation = paste0("https://www.gbif.org/species/", .data$nubKey, ": ", .data$scientificName, " in GBIF Secretariat. GBIF Backbone Taxonomy. Checklist dataset https://doi.org/10.15468/39omei"),
+    bibliographicCitation = paste0("https://www.gbif.org/species/", .data$nubKey, ": ", .data$scientificName, " in GBIF Secretariat. GBIF Backbone Taxonomy. Checklist dataset https://doi.org/10.15468/39omei"),
     references = paste0("https://www.gbif.org/species/", .data$nubKey),
     institutionCode = "",
     datasetID = NA_character_, # doi of dataset
     datasetName = "Global Register of Introduced and Invasive Species - Europe",
     .keep = "none"
     ) %>% 
-  dplyr::distinct()
+  dplyr::distinct() %>% 
+  dplyr::select(
+    "id", "taxonID", "scientificName", "kingdom", "taxonRank", "taxonRemarks",
+    "language", "license", "rightsHolder", "bibliographicCitation",
+    "references", "institutionCode", "datasetID", "datasetName"
+  )
 
 distributions <-
   do.call(rbind, purrr::map(distributions_files, read.csv)) %>% 
@@ -54,7 +59,7 @@ distributions <-
   dplyr::distinct() %>% 
   dplyr::select(
     "taxonID", "countryCode", "occurrenceStatus", "establishmentMeans",
-    "degreeOfEstablishmet", "pathway", "eventDate", "source"
+    "degreeOfEstablishment", "pathway", "eventDate", "source"
     )
 ```
 
