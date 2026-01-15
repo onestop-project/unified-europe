@@ -1,0 +1,852 @@
+taxonKey,nubKey,taxonID,scientificName,acceptedKey,accepted,kingdom,taxonRank
+160882215,2264796,87975,"Muggiaea atlantica Cunningham, 1892",,,Animalia,species
+160882218,,87660,Ceratoperidinium margalefii A.R.Loeblich III,,,Chromista,species
+160882225,2327735,87831,"Ficopomatus enigmaticus (Fauvel, 1923)",,,Animalia,species
+160882228,3277417,88101,Phytophthora plurivora T.Jung & T.I.Burgess,,,Chromista,species
+160882230,3277396,88102,Phytophthora pseudosyringae T.Jung & Delatour,,,Chromista,species
+160882232,3277396,88103,Phytophthora pseudosyringae T.Jung & Delatour,,,Chromista,species
+160882234,3203610,88104,"Phytophthora ramorum Werres, De Cock & Man",,,Chromista,species
+160882235,2501248,87969,"Mnemiopsis leidyi A.Agassiz, 1865",,,Animalia,species
+160882236,3203716,88097,Phytophthora infestans (Mont.) de Bary,,,Chromista,species
+160882238,3203716,88098,Phytophthora infestans (Mont.) de Bary,,,Chromista,species
+160882240,3203617,88099,"Phytophthora kernoviae Brasier, Beales & S.A.Kirk",,,Chromista,species
+160882242,3203617,88100,"Phytophthora kernoviae Brasier, Beales & S.A.Kirk",,,Chromista,species
+160882243,5233152,87600,"Beroe ovata BruguiÃ¨re, 1789",,,Animalia,species
+160882244,3203610,88105,"Phytophthora ramorum Werres, De Cock & Man",,,Chromista,species
+160882245,3277404,88086,"Phytophthora alni Brasier & S.A.Kirk, 2004",,,Chromista,species
+160882247,3277404,88085,"Phytophthora alni Brasier & S.A.Kirk, 2004",,,Chromista,species
+160882250,3203674,88088,Phytophthora cactorum (Lebert & Cohn) J.Schröt.,,,Chromista,species
+160882252,3203674,88087,Phytophthora cactorum (Lebert & Cohn) J.SchrÃ¶t.,,,Chromista,species
+160882253,3203618,88094,Phytophthora gonapodyides (H.E.Petersen) Buisman,,,Chromista,species
+160882254,4363583,88175,"Rapana venosa (Valenciennes, 1846)",,,Animalia,species
+160882255,3203618,88093,Phytophthora gonapodyides (H.E.Petersen) Buisman,,,Chromista,species
+160882257,3277457,88096,Phytophthora hedraiandra De Cock & Man,,,Chromista,species
+160882259,3277457,88095,Phytophthora hedraiandra De Cock & Man,,,Chromista,species
+160882260,9680062,87628,"Bursatella leachii Blainville, 1817",,,Animalia,species
+160882261,3203622,88090,Phytophthora cambivora (Petri) Buisman,,,Chromista,species
+160882263,3203622,88089,Phytophthora cambivora (Petri) Buisman,,,Chromista,species
+160882265,3203625,88092,Phytophthora citricola Sawada,,,Chromista,species
+160882266,3203682,88091,Phytophthora cinnamomi Rands,,,Chromista,species
+160882268,3203553,88057,Peronospora violae de Bary,,,Chromista,species
+160882270,3204123,88116,Plasmopara viticola (Berk. & M.A.Curtis) Berl. & De Toni,,,Chromista,species
+160882271,2287753,88329,"Venerupis philippinarum (Adams & Reeve, 1850)",201310814,"Ruditapes philippinarum (Adams & Reeve, 1850)",Animalia,species
+160882272,3204095,88115,Plasmopara nivea (Unger) J.SchrÃ¶t.,,,Chromista,species
+160882273,3203734,88048,Peronospora chlorae de Bary,,,Chromista,species
+160882275,3203836,88047,Peronospora arborescens (Berk.) de Bary,,,Chromista,species
+160882277,3203735,88056,Peronospora viciae (Berk.) de Bary,,,Chromista,species
+160882279,3203855,88055,Peronospora trifoliorum de Bary,,,Chromista,species
+160882280,2286069,87706,"Crassostrea gigas (Thunberg, 1793)",201310806,"Magallana gigas (Thunberg, 1793)",Animalia,species
+160882281,3277157,88054,Peronospora phyteumatis Fuckel,,,Chromista,species
+160882283,3203730,88053,Peronospora myosotidis de Bary,,,Chromista,species
+160882285,3203749,88052,Peronospora lamii A.Braun,,,Chromista,species
+160882286,6531311,87577,"Arcuatula senhousia (Benson, 1842)",,,Animalia,species
+160882287,3203870,88051,Peronospora grisea (Unger) de Bary,,,Chromista,species
+160882288,6531311,87578,"Arcuatula senhousia (Benson, 1842)",,,Animalia,species
+160882289,3203768,88050,Peronospora farinosa (Fr.) Fr.,,,Chromista,species
+160882291,3203751,88049,Peronospora conglomerata Fuckel,,,Chromista,species
+160882293,3203913,87878,Hyaloperonospora parasitica (Pers.) Constant.,,,Chromista,species
+160882294,6529629,87556,"Anadara kagoshimensis (Tokunaga, 1906)",,,Animalia,species
+160882295,5424258,87617,Bremia lactucae Regel,160882293,Hyaloperonospora parasitica (Pers.) Constant.,Chromista,species
+160882296,5188945,87557,"Anadara transversa (Say, 1822)",,,Animalia,species
+160882301,3202936,87569,Aphanomyces astaci Schikora,,,Chromista,species
+160882306,2443002,88290,"Trachemys scripta (Thunberg In Schoepff, 1792)",,,Animalia,species
+160882307,3203258,87524,Albugo candida (Pers.) Roussel,,,Chromista,species
+160882309,5220435,88044,"Pelodiscus sinensis (Wiegmann, 1835)",,,Animalia,species
+160882315,,88012,"Oidium verbenae ThÃ¼m. & P.C.Bolle, 1885",201311155,Acrosporium verbenae (Thüm. & P.C.Bolle) J.A.Stev.,Fungi,species
+160882318,2436940,88020,"Oryctolagus cuniculus (Linnaeus, 1758)",,,Animalia,species
+160882323,2593065,88277,Taphrina deformans (Berk.) Tul.,,,Fungi,species
+160882324,5219858,88015,"Ondatra zibethicus (Linnaeus, 1766)",,,Animalia,species
+160882325,2593060,88278,Taphrina pruni Tul.,,,Fungi,species
+160882327,2593120,88275,Taphrina bullata (Berk. & Broome) Tul.,,,Fungi,species
+160882328,2439270,88177,"Rattus rattus (Linnaeus, 1758)",,,Animalia,species
+160882329,2593110,88276,Taphrina cerasi (Fuckel) Sadeb.,,,Fungi,species
+160882330,2439261,88176,"Rattus norvegicus (Berkenhout, 1769)",,,Animalia,species
+160882332,7429082,87978,"Mus musculus Linnaeus, 1758",,,Animalia,species
+160882336,4264680,87986,"Myocastor coypus (Molina, 1782)",,,Animalia,species
+160882337,3374230,87952,Melampsoridium hiratsukanum S.Ito ex Hirats.f.,,,Fungi,species
+160882341,2433652,87996,"Neovison vison (Schreber, 1777)",,,Animalia,species
+160882345,5219219,87639,"Canis aureus Linnaeus, 1758",,,Animalia,species
+160882346,8555773,88112,Pithya cupressina Fuckel,,,Fungi,species
+160882351,5258630,87842,Geopora sumneriana (Cooke) M.Torre,,,Fungi,species
+160882352,4409366,87641,"Capra aegagrus Erxleben, 1777",201310706,"Capra hircus Linnaeus, 1758",Animalia,species
+160882354,2441110,88022,"Ovis aries Linnaeus, 1758",,,Animalia,species
+160882355,2441055,87642,"Capra ibex Linnaeus, 1758",,,Animalia,species
+160882356,,88254,Strasseria geniculata (Berk. & Broome) HÃ¶hn.,,,Fungi,species
+160882359,5220136,87740,"Dama dama (Linnaeus, 1758)",,,Animalia,species
+160882361,2440934,87591,"Axis axis (Erxleben, 1777)",,,Animalia,species
+160882363,2579659,87930,Lophodermium pini-excelsae S.Ahmad,,,Fungi,species
+160882365,,87929,Lophodermium piceae (Fuckel) HÃ¶hn.,,,Fungi,species
+160882368,2497522,88257,"Strix nebulosa J.R.Forster, 1772",,,Animalia,species
+160882373,2495659,88256,"Streptopelia senegalensis (Linnaeus, 1766)",,,Animalia,species
+160882374,5495312,88122,Podosphaera clandestina var. clandestina,201311171,"Podosphaera clandestina (Wallr.) Lév., 1851",Fungi,variety
+160882375,2495715,88255,"Streptopelia chinensis (Scopoli, 1786)",,,Animalia,species
+160882378,,87963,"Microsphaera berberidis (DC.) LÃ©v., 1851",201311179,"Erysiphe berberidis DC., 1805",Fungi,species
+160882380,2577948,88206,Sawadaea tulasnei (Fuckel) Homma,,,Fungi,species
+160882381,2480410,88034,"Parabuteo unicinctus (Temminck, 1824)",,,Animalia,species
+160882382,5255338,88123,Podosphaera leucotricha (Ellis & Everh.) E.S.Salmon,,,Fungi,species
+160882384,2578258,87994,Neoerysiphe galeopsidis (DC.) U.Braun,,,Fungi,species
+160882386,2578515,87813,Erysiphe platani (Howe) U.Braun & S.Takam.,,,Fungi,species
+160882387,5229055,88138,"Psittacula eupatria (Linnaeus, 1766)",,,Animalia,species
+160882388,2578415,87812,Erysiphe necator Schwein.,,,Fungi,species
+160882389,2479226,88139,"Psittacula krameri (Scopoli, 1769)",,,Animalia,species
+160882390,2479977,88006,"Nymphicus hollandicus (Kerr, 1792)",,,Animalia,species
+160882391,2578830,87811,Erysiphe lonicerae DC.,,,Fungi,species
+160882392,2479798,87955,"Melopsittacus undulatus (Shaw, 1805)",,,Animalia,species
+160882393,2578649,87810,Erysiphe heraclei DC.,,,Fungi,species
+160882396,2578759,87804,Erysiphe alphitoides (Griffon & Maubl.) U.Braun & S.Takam.,,,Fungi,species
+160882397,8069880,87827,"Falco rusticolus Linnaeus, 1758",,,Animalia,species
+160882398,2578586,87805,"Erysiphe arcuata U.Braun, V.P.Heluta & S.Takam.",,,Fungi,species
+160882400,2578778,87808,Erysiphe elevata (Burrill) U.Braun & S.Takam.,,,Fungi,species
+160882402,2473341,88005,"Numida meleagris (Linnaeus, 1758)",,,Animalia,species
+160882403,2578489,87809,Erysiphe flexuosa (Peck) U.Braun & S.Takam.,,,Fungi,species
+160882405,2578424,87806,Erysiphe azaleae (U.Braun) U.Braun & S.Takam.,,,Fungi,species
+160882406,9791464,87691,"Colinus virginianus (Linnaeus, 1758)",,,Animalia,species
+160882407,2578322,87807,Erysiphe cruciferarum Opiz ex L.Junell,,,Fungi,species
+160882409,9752149,88064,"Phasianus colchicus Linnaeus, 1758",,,Animalia,species
+160882410,2578272,87610,Blumeria graminis (DC.) Speer,,,Fungi,species
+160882411,2474029,87526,"Alectoris chukar (J.E.Gray, 1830)",,,Animalia,species
+160882413,2474051,87527,"Alectoris rufa (Linnaeus, 1758)",,,Animalia,species
+160882418,2498015,88266,"Tadorna ferruginea (Pallas, 1764)",,,Animalia,species
+160882419,,88196,Rutstroemia echinophila (Bull.) HÃ¶hn.,201311191,Lanzia echinophila (Bull.) Korf,Fungi,species
+160882420,2498305,88027,"Oxyura jamaicensis (Gmelin, 1789)",,,Animalia,species
+160882421,2498181,87997,"Netta peposaca (Vieillot, 1816)",,,Animalia,species
+160882423,2498408,87931,"Lophodytes cucullatus (Linnaeus, 1758)",,,Animalia,species
+160882424,2586797,87902,Lachnellula occidentalis (G.G.Hahn & Ayers) Dharne,,,Fungi,species
+160882425,2498402,87748,"Dendrocygna bicolor (Vieillot, 1816)",,,Animalia,species
+160882426,2586748,87903,Lachnellula willkommii (Hartig) Dennis,,,Fungi,species
+160882427,2498344,87733,"Cygnus atratus (Latham, 1790)",,,Animalia,species
+160882428,2498343,87734,"Cygnus olor (Gmelin, 1789)",,,Animalia,species
+160882430,2498046,87666,"Chenonetta jubata (Latham, 1802)",,,Animalia,species
+160882431,8313437,87881,"Hymenoscyphus fraxineus (T.Kowalski) Baral, Queloz & Hosoya, 2014",,,Fungi,species
+160882432,2498384,87634,"Callonetta leucophrys (Vieillot, 1816)",,,Animalia,species
+160882433,2498283,87633,"Cairina moschata (Linnaeus, 1758)",,,Animalia,species
+160882435,5232446,87615,"Branta bernicla (Linnaeus, 1758)",,,Animalia,species
+160882436,5232437,87616,"Branta canadensis (Linnaeus, 1758)",,,Animalia,species
+160882438,2498034,87564,"Anser cygnoides (Linnaeus, 1758)",,,Animalia,species
+160882439,5255908,87957,"Meria laricis Vuill., 1896",201311194,"Rhabdocline laricis (Vuill.) Stone, 2014",Fungi,species
+160882440,2498035,87565,"Anser indicus (Latham, 1790)",,,Animalia,species
+160882441,2498090,87558,"Anas bahamensis Linnaeus, 1758",,,Animalia,species
+160882442,2580559,88178,Rhabdocline pseudotsugae Syd.,,,Fungi,species
+160882443,2498107,87559,"Anas formosa Georgi, 1775",,,Animalia,species
+160882444,2580627,87753,Didymascella thujina (E.J.Durand) Maire,,,Fungi,species
+160882445,2498071,87560,"Anas hottentota (Eyton, 1838)",,,Animalia,species
+160882446,2498110,87561,"Anas sibilatrix Poeppig, 1829",,,Animalia,species
+160882448,2498252,87529,"Alopochen aegyptiaca (Linnaeus, 1766)",,,Animalia,species
+160882450,2498387,87522,"Aix sponsa (Linnaeus, 1758)",,,Animalia,species
+160882451,2498388,87521,"Aix galericulata (Linnaeus, 1758)",,,Animalia,species
+160882452,5256647,88220,Septotinia podophyllina (Ellis & Everh.) Whetzel,201311202,"Septotis podophyllina (Ellis & Everh.) Arx, 1970",Fungi,species
+160882455,,87708,Cristulariella depraedans (Cooke) HÃ¶hn.,,,Fungi,species
+160882458,2486147,88171,"Pycnonotus barbatus (Desfontaines, 1789)",,,Animalia,species
+160882462,2580870,87762,Drepanopeziza punctiformis Gremmen,,,Fungi,species
+160882464,2490494,88066,"Pheucticus ludovicianus (Linnaeus, 1766)",,,Animalia,species
+160882465,2581196,87611,Blumeriella jaapii (Rehm) Arx,,,Fungi,species
+160882469,5231210,88042,"Passer luteus (Lichtenstein, 1823)",,,Animalia,species
+160882470,7230558,87688,Codium fragile subsp. fragile,,,Plantae,subspecies
+160882474,5231398,87909,"Leiothrix lutea (Scopoli, 1786)",,,Animalia,species
+160882478,2575053,88214,Seiridium cardinale (W.W.Wagener) B.Sutton & I.A.S.Gibson,,,Fungi,species
+160882480,2491521,87779,"Emberiza bruniceps von J.F.Brandt, 1841",,,Animalia,species
+160882483,2491517,87780,"Emberiza rutila Pallas, 1776",,,Animalia,species
+160882485,2668884,87612,Bonnemaisonia hamifera Hariot,,,Plantae,species
+160882487,5254314,88016,Ophiostoma ulmi (Buisman) Nannf.,,,Fungi,species
+160882488,2493633,88267,"Taeniopygia guttata (Vieillot, 1817)",,,Animalia,species
+160882489,5279840,87587,Asparagopsis armata Harv.,,,Plantae,species
+160882490,2493598,87927,"Lonchura punctulata (Linnaeus, 1758)",,,Animalia,species
+160882493,2493660,87815,"Estrilda astrild (Linnaeus, 1758)",,,Animalia,species
+160882494,2493698,87532,"Amandava amandava (Linnaeus, 1758)",,,Animalia,species
+160882500,2489005,87508,"Acridotheres tristis (Linnaeus, 1766)",,,Animalia,species
+160882502,2563905,87995,"Neonectria galligena (Bres.) Rossman & Samuels, 1999",201311066,Neonectria ditissima (Tul. & C.Tul.) Samuels & Rossman,Fungi,species
+160882504,5285604,88106,Pinus halepensis Mill.,,,Plantae,species
+160882507,5285565,88107,Pinus pinaster Aiton,,,Plantae,species
+160882508,5251680,88343,"Volutella buxi (DC.) Berk. & Broome, 1850",201311068,"Pseudonectria buxi (DC.) Seifert, Gräfenhan & Schroers, 2011",Fungi,species
+160882510,5285165,88108,Pinus pinea L.,,,Plantae,species
+160882511,2374535,88281,"Terapon theraps Cuvier, 1829",,,Animalia,species
+160882513,5284982,88109,Pinus strobus L.,,,Plantae,species
+160882515,9028102,87789,Epichloe typhina (Pers.) Tul. & C.Tul.,,,Fungi,species
+160882516,2685796,88135,Pseudotsuga menziesii (Mirb.) Franco,,,Plantae,species
+160882517,4285968,88127,"Ponticola kessleri (GÃ¼nther, 1861)",,,Animalia,species
+160882522,2684178,88286,Thuja occidentalis L.,,,Plantae,species
+160882523,4285694,88018,"Oreochromis niloticus (Linnaeus, 1758)",,,Animalia,species
+160882524,2569149,88338,Verticillium dahliae Kleb.,,,Fungi,species
+160882525,2684855,88118,Platycladus orientalis (L.) Franco,,,Plantae,species
+160882528,2684860,88287,Thuja orientalis L.,160882525,Platycladus orientalis (L.) Franco,Plantae,species
+160882529,2394563,87962,"Micropterus salmoides (LacepÃ¨de, 1802)",,,Animalia,species
+160882531,2394486,87913,"Lepomis gibbosus (Linnaeus, 1758)",,,Animalia,species
+160882533,5253592,87849,"Glomerella cingulata (Stoneman) Spauld. & H.Schrenk, 1903",201311091,"Colletotrichum gloeosporioides (Penz.) Penz. & Sacc., 1884",Fungi,species
+160882536,8884140,87692,Colletotrichum dematium (Pers.) Grove,,,Fungi,species
+160882538,2350570,87838,"Gambusia holbrooki Girard, 1859",,,Animalia,species
+160882543,5274858,88202,Salvinia natans (L.) All.,,,Plantae,species
+160882545,2575249,87825,Eutypella parasitica R.W.Davidson & R.C.Lorenz,,,Fungi,species
+160882546,2650107,87592,Azolla filiculoides Lam.,,,Plantae,species
+160882547,2351259,88200,"Salvelinus umbla (Linnaeus, 1758)",,,Animalia,species
+160882549,2351271,88199,"Salvelinus fontinalis (Mitchill, 1814)",,,Animalia,species
+160882551,2592401,87720,Cryptostroma corticale (Ellis & Everh.) P.H.Greg. & S.Waller,,,Fungi,species
+160882552,5204019,88014,"Oncorhynchus mykiss (Walbaum, 1792)",,,Animalia,species
+160882555,2351211,87698,"Coregonus lavaretus Valenciennes, 1848",,,Animalia,species
+160882556,2576553,87782,Entoleuca mammata (Wahlenb.) J.D.Rogers & Y.M.Ju,,,Fungi,species
+160882560,3461069,87608,"Biscogniauxia mediterranea (De Not.) Kuntze, 1891",,,Fungi,species
+160882561,2739071,88291,Trachycarpus fortunei H.Wendl.,,,Plantae,species
+160882562,2362868,88134,"Pseudorasbora parva (Temminck & Schlegel, 1846)",,,Animalia,species
+160882563,9115053,87609,Biscogniauxia nummularia (Bull.) Kuntze,,,Fungi,species
+160882565,2362110,87985,"Mylopharyngodon piceus (Richardson, 1846)",,,Animalia,species
+160882568,2362486,87885,"Hypophthalmichthys nobilis (Richardson, 1845)",,,Animalia,species
+160882570,2362473,87884,"Hypophthalmichthys molitrix (Valenciennes, 1844)",,,Animalia,species
+160882571,5328909,88197,Sagittaria latifolia Willd.,,,Plantae,species
+160882572,5252679,88328,Valsa laurocerasi Tul. & C.Tul.,,,Fungi,species
+160882573,2362030,87721,"Ctenopharyngodon idella (Valenciennes, 1844)",,,Animalia,species
+160882576,4286942,87644,"Carassius auratus (Linnaeus, 1758)",,,Animalia,species
+160882577,2366634,87645,"Carassius gibelio (Bloch, 1782)",,,Animalia,species
+160882578,2568517,87953,Melanconis modonia Tul. & C.Tul.,,,Fungi,species
+160882579,2870583,88111,Pistia stratiotes L.,,,Plantae,species
+160882581,5253510,87752,Dicarpella dryina Belisario & M.E.Barr,,,Fungi,species
+160882585,5202793,87683,"Clarias gariepinus (Burchell, 1822)",,,Animalia,species
+160882586,5329212,87777,Elodea nuttallii St.John,,,Plantae,species
+160882589,2865448,87776,Elodea canadensis Michx.,,,Plantae,species
+160882590,5253417,88071,"Phomopsis juniperivora G.Hahn, 1920",201311082,"Diaporthe juniperivora (G.G.Hahn) Rossman & Udayanga, 2015",Fungi,species
+160882591,2340977,87553,"Ameiurus melas (Rafinesque, 1820)",,,Animalia,species
+160882592,2567763,87751,Diaporthe oncostoma (Duby) Fuckel,,,Fungi,species
+160882594,2340989,87554,"Ameiurus nebulosus (Lesueur, 1819)",,,Animalia,species
+160882599,2566393,87711,Cryphonectria parasitica (Murrill) M.E.Barr,,,Fungi,species
+160882600,2858896,87987,Narcissus medioluteus Mill.,,,Plantae,species
+160882601,5212833,88126,Polyodon spathula,,,Animalia,species
+160882603,4287131,87506,"Acipenser baerii Brandt, 1869",,,Animalia,species
+160882604,2858244,87988,Narcissus pseudonarcissus L.,,,Plantae,species
+160882607,5252955,87852,"Gnomonia leptostyla (Fr.) Ces. & De Not., 1863",201311077,"Ophiognomonia leptostyla (Fr.) Sogonov, 2008",Fungi,species
+160882610,7638976,87853,"Gnomoniopsis smithogilvyi L.A.Shuttlew., E.C.Y.Liew & D.I.Guest, 2012",,,Fungi,species
+160882611,5296097,88227,Sisyrinchium bermudiana L.,,,Plantae,species
+160882613,5252870,87755,Discula destructiva Redlin,,,Fungi,species
+160882615,5298765,87890,Iris foetidissima L.,,,Plantae,species
+160882616,2234831,87742,"Daphnia parvula Fordyce, 1901",,,Animalia,species
+160882617,,87572,Apiognomonia errabunda (Roberge ex Desm.) HÃ¶hn.,,,Fungi,species
+160882619,,87573,Apiognomonia veneta (Sacc. & Speg.) HÃ¶hn.,,,Fungi,species
+160882623,2781074,87873,Hemerocallis fulva L.,,,Plantae,species
+160882629,2140000,88279,"Tegenaria atrica C.L.Koch, 1843",201311025,"Eratigena atrica (C.L.Koch, 1843)",Animalia,species
+160882630,,88334,Venturia saliciperda NÃ¼esch,,,Fungi,species
+160882631,2773281,88019,Ornithogalum nutans L.,,,Plantae,species
+160882633,5262809,88333,Venturia pyrina Aderh.,,,Fungi,species
+160882634,5304283,87877,Hyacinthoides non-scripta (L.) Chouard ex W.Rothmaler,,,Plantae,species
+160882635,2155847,88283,"Theridula gonygaster (Simon, 1873)",,,Animalia,species
+160882636,5262827,88332,Venturia populina (Vuill.) Fabric.,,,Fungi,species
+160882638,5303891,87741,Danae racemosa Moench,,,Plantae,species
+160882639,5262796,88331,Venturia inaequalis (Cooke) G.Winter,,,Fungi,species
+160882640,2142464,88310,"Uloborus glomosus (Walckenaer, 1841)",,,Animalia,species
+160882641,5262811,88330,Venturia chlorospora (Ces.) P.Karst.,,,Fungi,species
+160882644,5262904,88181,Rhizosphaera kalkhoffii BubÃ¡k,,,Fungi,species
+160882648,8679900,88070,Pholcus phalangoides,201311022,"Pholcus phalangioides (Fuesslin, 1775)",Animalia,species
+160882649,2765272,88293,Tradescantia virginiana L.,,,Plantae,species
+160882651,2149784,88136,"Psilochorus simoni (Berland, 1911)",,,Animalia,species
+160882652,2613011,87898,Kabatina thujae R.Schneid. & Arx,,,Fungi,species
+160882653,2764179,87693,Commelina communis L.,,,Plantae,species
+160882656,2159209,87905,"Larinioides sclopetarius (Clerck, 1757)",,,Animalia,species
+160882661,5894340,87778,Elsinoe ampelina Shear,,,Fungi,species
+160882662,2164198,87664,"Cheiracanthium mildei L.Koch, 1864",,,Animalia,species
+160882664,5289503,88308,Typha laxmannii Lepech.,,,Plantae,species
+160882669,2612582,88061,Phaeocryptopus gaeumannii (T.Rohde) Petr.,,,Fungi,species
+160882671,2702084,87897,Juncus tenuis Willd.,,,Plantae,species
+160882672,2227000,88017,"Orconectes limosus (Rafinesque, 1817)",,,Animalia,species
+160882675,2620615,87682,Cladosporium macrocarpum Preuss,,,Fungi,species
+160882677,2226990,88028,"Pacifastacus leniusculus (Dana, 1852)",,,Animalia,species
+160882679,2720269,88210,Scirpus georgianus Harper,,,Plantae,species
+160882682,2716226,87737,Cyperus esculentus L.,,,Plantae,species
+160882683,4648609,87674,"Cherax quadricarinatus (von Martins, 1868)",,,Animalia,species
+160882685,2715482,87736,Cyperus eragrostis Lam.,,,Plantae,species
+160882686,5264298,88216,"Septoria betulae Pass., 1867",201311110,"Sphaerulina betulae (Pass.) Quaedvl., Verkley & Crous, 2013",Fungi,species
+160882689,2714818,87738,Cyperus rotundus L.,,,Plantae,species
+160882692,5503879,88174,"Ramularia sambucina f. ebuli Sacc., 1882",201311112,Ramularia sambucina Sacc.,Fungi,form
+160882693,2722380,87647,Carex crawfordii Fernald,,,Plantae,species
+160882694,2115724,87593,"Balanus trigonus Darwin, 1854",,,Animalia,species
+160882698,2621536,87735,"Cymadothea trifolii (Pers.) F.A.Wolf, 1935",201311108,"Polythrincium trifolii Kunze, 1817",Fungi,species
+160882700,5290052,88350,Zea mays L.,,,Plantae,species
+160882704,5154481,88253,"Stictocephala bisonia Kopp & Yonke, 1977",,,Animalia,species
+160882705,,87662,"Cercospora thalictri ThÃ¼m., 1878",201311109,"Passalora thalictri (Thüm.) U.Braun, 2013",Fungi,species
+160882706,5264349,88219,Septoria stellariae Roberge ex Desm.,,,Fungi,species
+160882708,5289728,87655,Cenchrus incertus M.A.Curtis,201311386,Cenchrus spinifex Cav.,Plantae,species
+160882709,5264372,88217,Septoria petroselini Desm.,,,Fungi,species
+160882710,2068870,87959,"Metcalfa pruinosa (Say, 1830)",,,Animalia,species
+160882711,2704757,88247,Sporobolus indicus R.Br.,,,Plantae,species
+160882712,5264528,88218,Septoria scleranthi Desm.,,,Fungi,species
+160882714,2704793,88248,Sporobolus neglectus Nash,,,Plantae,species
+160882715,5156102,87915,"Leptoglossus occidentalis Heidemann, 1910",,,Animalia,species
+160882716,,88069,Phloeospora robiniae (Lib.) HÃ¶hn.,,,Fungi,species
+160882717,5289666,88222,Setaria faberi R.A.W.Herrm.,,,Plantae,species
+160882719,3505975,87981,Mycosphaerella isariphora (Desm.) Johanson,,,Fungi,species
+160882720,4485843,87867,"Halyomorpha halys (Stål, 1855)",,,Animalia,species
+160882721,5673848,88223,Setaria macrocarpa Luchnik,160882717,Setaria faberi R.A.W.Herrm.,Plantae,species
+160882722,2622310,87983,Mycosphaerella podagrariae (Fr.) Petr.,,,Fungi,species
+160882724,5289744,88062,Phalaris canariensis L.,,,Plantae,species
+160882725,2621869,87982,Mycosphaerella mori (Fuckel) F.A.Wolf,,,Fungi,species
+160882726,2020689,88252,"Stephanitis pyrioides (Scott, 1874)",,,Animalia,species
+160882727,2705090,88032,Panicum miliaceum L.,,,Plantae,species
+160882728,2020655,87704,"Corythucha ciliata (Say, 1832)",,,Animalia,species
+160882729,2621971,87984,Mycosphaerella ribis (Fuckel) Lindau,,,Fungi,species
+160882730,4134741,88033,Panicum miliaceum subsp. ruderale (Kitag.) Tzvelev,160882727,Panicum miliaceum L.,Plantae,subspecies
+160882731,2020671,87703,"Corythucha arcuata (Say, 1832)",,,Animalia,species
+160882732,2622090,87908,"Lecanosticta acicola (Thüm.) Syd., 1924",,,Fungi,species
+160882734,7985821,88029,Panicum acuminatum Sw.,,,Plantae,species
+160882735,2621905,87759,"Dothistroma septosporum (Dorogin) M.Morelet, 1968",,,Fungi,species
+160882736,2073287,87679,"Cinara curvipes (Patch, 1912)",,,Animalia,species
+160882737,2705144,88031,Panicum dichotomiflorum Michx.,,,Plantae,species
+160882739,2621914,87758,Dothistroma pini Hulbary,,,Fungi,species
+160882741,2705162,88030,Panicum capillare L.,,,Plantae,species
+160882742,5264574,87661,Cercospora apii Fresen.,,,Fungi,species
+160882743,4522744,88282,"Theresimima ampellophaga (Bayle-Barelle, 1808)",,,Animalia,species
+160882744,2705565,88040,Paspalum dilatatum Poir.,,,Plantae,species
+160882747,2705622,88041,Paspalum distichum L.,,,Plantae,species
+160882749,4528099,88307,"Tuta absoluta (Meyrick, 1917)",,,Animalia,species
+160882750,1849209,88230,"Sitotroga cerealella (Olivier, 1789)",,,Animalia,species
+160882751,,87977,Muhlenbergia vaginiflora,,,Plantae,species
+160882753,1849924,88211,"Scrobipalpa ocellatella (Boyd, 1858)",,,Animalia,species
+160882754,2704002,87976,Muhlenbergia schreberi J.F.Gmel.,,,Plantae,species
+160882755,2611440,87860,"Guignardia philoprina (Berk. & M.A.Curtis) Aa, 1973",201311121,"Phyllosticta philoprina (Berk. & M.A.Curtis) Wikee & Crous, 2013",Fungi,species
+160882756,1852118,88076,"Phthorimaea operculella (Zeller, 1873)",,,Animalia,species
+160882757,2706026,87968,Miscanthus sinensis Andersson,,,Plantae,species
+160882760,2705503,87850,Glyceria striata (Lam.) Hitchc.,,,Plantae,species
+160882761,1941864,88043,"Paysandisia archon (Burmeister, 1880)",,,Animalia,species
+160882762,2611361,87859,"Guignardia aesculi (Peck) V.B.Stewart, 1916",201311122,"Phyllosticta paviae Desm., 1847",Fungi,species
+160882763,2705420,87794,Eragrostis pectinacea (Michx.) Nees,,,Plantae,species
+160882765,1845963,88008,"Oegoconia novimundi (Busck, 1915)",,,Animalia,species
+160882767,2702820,87771,Echinochloa oryzoides (Ard.) Fritsch,,,Plantae,species
+160882769,8566554,87772,Echinochloa phyllopogon (Stapf) Stapf,160882767,Echinochloa oryzoides (Ard.) Fritsch,Plantae,species
+160882771,1746149,88075,"Phtheochroa pulvillana Herrich-Schaffer, 1851",,,Animalia,species
+160882772,6084992,87770,Echinochloa erecta (Pollacci) Pignatti,160882767,Echinochloa oryzoides (Ard.) Fritsch,Plantae,species
+160882773,1736574,87857,"Grapholita molesta (Busck, 1916)",,,Animalia,species
+160882774,2611775,87990,Nattrassia mangiferae (Syd. & P.Syd.) B.Sutton & Dyko,201311117,"Neofusicoccum mangiferae (Syd. & P.Syd.) Crous, Slippers & A.J.L.Phillips",Fungi,species
+160882775,6431411,87768,Echinochloa colona (L.) Link,,,Plantae,species
+160882778,1817797,87883,"Hyphantria cunea (Drury, 1773)",,,Animalia,species
+160882779,2702804,87769,Echinochloa crus-pavonis Schult.,,,Plantae,species
+160882780,5116698,87774,"Eilema caniola (Hubner, 1808)",,,Animalia,species
+160882781,2591893,87754,Diplodia pinea (Desm.) J.Kickx f.,201311119,Sphaeropsis sapinea (Fr.) Dyko & B.Sutton,Fungi,species
+160882782,2705407,87793,Eragrostis frankii Steud.,,,Plantae,species
+160882784,2611508,87935,Macrophomina phaseolina (Tassi) Goid.,,,Fungi,species
+160882785,2705953,87775,Eleusine indica (L.) Gaertn.,,,Plantae,species
+160882786,4532122,87731,"Cydalima perspectalis (Walker, 1859)",,,Animalia,species
+160882787,2611548,87614,Botryosphaeria dothidea (Moug.) Ces. & De Not.,,,Fungi,species
+160882789,2704523,87702,Cortaderia selloana Asch. & Graebn.,,,Plantae,species
+160882790,5121010,87689,"Coleophora spiraeella Rebel, 1916",,,Animalia,species
+160882792,2703723,87619,Bromus catharticus Vahl,,,Plantae,species
+160882795,2703712,87618,Bromus carinatus Hook. & Arn.,,,Plantae,species
+160882796,1749886,88081,"Phyllonorycter robiniella (Clemens, 1859)",,,Animalia,species
+160882797,3535859,88245,Splanchnonema platani (Ces.) M.E.Barr,,,Fungi,species
+160882798,1750159,88079,"Phyllonorycter leucographella (Zeller, 1850)",,,Animalia,species
+160882799,2703711,87622,Bromus lepidus Holmb.,,,Plantae,species
+160882800,1749936,88080,"Phyllonorycter platani (Staudinger, 1870)",,,Animalia,species
+160882802,,87621,Bromus japonicus subsp. anatolicus (Boiss. & Heldr.) PÃ©nzes,,,Plantae,subspecies
+160882803,1749558,88077,"Phyllocnistis vitegenella Clemens, 1859",,,Animalia,species
+160882804,2614141,88133,"Pseudodidymella fagi C.Z.Wei, Y.Harada & Katum.",,,Fungi,species
+160882805,6312496,87620,Bromus commutatus subsp. neglectus (Parl.) P.M.Sm.,,,Plantae,subspecies
+160882806,1750166,88078,"Phyllonorycter issikii (Kumata, 1963)",,,Animalia,species
+160882808,2703041,87584,Arundo donax L.,,,Plantae,species
+160882809,1748922,88036,"Parectopa robiniella Clemens, 1863",,,Animalia,species
+160882810,5104903,87636,"Caloptilia azaleella (Brants, 1913)",,,Animalia,species
+160882812,2706259,87581,Aristida longispica Poir.,,,Plantae,species
+160882813,1749449,87637,"Cameraria ohridella Deschka & Dimic, 1986",,,Animalia,species
+160882814,5289783,87513,Aegilops cylindrica Host,,,Plantae,species
+160882815,8981443,88119,"Pleospora herbarum (Pers.) Rabenh., 1854",201311131,Stemphylium vesicarium (Wallr.) E.G.Simmons,Fungi,species
+160882817,2706501,87519,Agrostis castellana Boiss. & Reut.,,,Plantae,species
+160882819,1932752,87629,"Cacyreus marshalli Butler, 1898",,,Animalia,species
+160882820,5289796,87512,Aegilops biuncialis Vis.,,,Plantae,species
+160882822,2588760,88059,Petrakia echinata (Peglion) Syd. & P.Syd.,,,Fungi,species
+160882823,1873079,88120,"Plodia interpunctella (Hubner, 1813)",,,Animalia,species
+160882824,5289795,87514,Aegilops lorentii Hochst.,160882820,Aegilops biuncialis Vis.,Plantae,species
+160882825,5263262,87954,Melanomma rhododendri Rehm,,,Fungi,species
+160882826,1877032,88035,"Paralipsa gularis (Zeller, 1877)",,,Animalia,species
+160882828,1878470,87787,"Ephestia elutella (Hubner, 1796)",,,Animalia,species
+160882830,1878490,87788,"Ephestia kuehniella Zeller, 1879",,,Animalia,species
+160882832,2618947,87725,Cucurbitaria piceae Borthw.,,,Fungi,species
+160882833,1873890,87630,"Cadra cautella (Walker, 1863)",,,Animalia,species
+160882834,2873769,87507,Acorus calamus L.,,,Plantae,species
+160882835,1873903,87631,"Cadra figulilella (Gregson, 1871)",,,Animalia,species
+160882837,1869858,87575,"Apomyelois ceratoniae (Zeller, 1839)",,,Animalia,species
+160882842,1830284,87579,"Argyresthia thuiella (Packard, 1871)",,,Animalia,species
+160882843,8144147,87724,"Cucurbitaria laburni (Pers.) De Not., 1862",201311137,"Camarosporidiella laburni (Pers.) Wanas., Bulgakov, Camporesi & K.D.Hyde, 2017",Fungi,species
+160882845,1830271,87580,"Argyresthia trifasciata Staudinger, 1871",,,Animalia,species
+160882848,7887000,88207,Saxifraga granulata L.,,,Plantae,species
+160882849,1866356,88203,"Samia cynthia (Drury, 1773)",,,Animalia,species
+160882850,2614239,87916,Leptosphaerulina trifolii (Rostr.) Petr.,,,Fungi,species
+160882852,1866556,87566,"Antheraea pernyi (Guerin-Meneville, 1855)",,,Animalia,species
+160882853,2615156,87585,Ascochyta syringae Bres.,,,Fungi,species
+160882854,2986097,88187,Ribes rubrum L.,,,Plantae,species
+160882855,1866568,87567,"Antheraea yamamai (Guerin-Meneville, 1861)",,,Animalia,species
+160882856,2615125,87586,Ascochyta trifolii Siemaszko,,,Fungi,species
+160882861,5362004,88212,Sedum sarmentosum Bunge,,,Plantae,species
+160882863,4201607,88065,Phedimus spurius (M.Bieb.) 't Hart,,,Plantae,species
+160882864,10212955,88339,"Vespa orientalis Fabricius, 1761",,,Animalia,species
+160882867,5362018,88213,Sedum spurium Bieb.,160882863,Phedimus spurius (M.Bieb.) 't Hart,Plantae,species
+160882868,1314773,87972,"Monomorium pharaonis (Linnaeus, 1758)",,,Animalia,species
+160882869,3466883,87563,Anisomeridium polypori (Ellis & Everh.) M.E.Barr,,,Fungi,species
+160882874,4493111,87993,"Neodryinus typhlocybae (Ashmead, 1893)",,,Animalia,species
+160882875,7300214,88117,Platanus hispanica Ten.,,,Plantae,species
+160882881,1370978,87941,"Megastigmus wachtli Seitner, 1916",,,Animalia,species
+160882885,2891661,88026,Oxalis pes-caprae L.,,,Plantae,species
+160882886,5041466,88208,"Sceliphron caementarium (Drury, 1773)",,,Animalia,species
+160882887,5250215,88312,Urocystis occulta (Wallr.) Rabenh.,201311310,"Urocystis occulta (Wallr.) A.A.Fisch.Waldh., 1867",Fungi,species
+160882888,,88025,Oxalis fontana subsp. fontana,,,Plantae,subspecies
+160882889,5041422,88209,"Sceliphron curvatum (F.Smith, 1870)",,,Animalia,species
+160882890,5250210,88311,Urocystis cepulae Frost,,,Fungi,species
+160882891,2891677,88024,Oxalis dillenii Jacq.,,,Plantae,species
+160882892,1346919,87892,"Isodontia mexicana (de Saussure, 1867)",,,Animalia,species
+160882893,5250132,88313,Urocystis syncocca (L.A.Kirchn.) B.Lindeb.,,,Fungi,species
+160882894,2891664,88023,Oxalis articulata Savign.,,,Plantae,species
+160882898,1309652,87764,"Dryocosmus kuriphilus Yasumatsu, 1951",,,Animalia,species
+160882902,2557445,88324,Ustilago avenae (Pers.) Rostr.,,,Fungi,species
+160882903,5372424,88342,Vitis labrusca L.,,,Plantae,species
+160882904,8599762,87576,"Aproceros leucopoda Takeuchi, 1939",,,Animalia,species
+160882905,8664341,88325,Ustilago cynodontis (Pass.) Henn.,,,Fungi,species
+160882906,3039194,88038,Parthenocissus quinquefolia (L.) Planch.,,,Plantae,species
+160882908,2557530,88326,Ustilago hordei (Pers.) Lagerh.,,,Fungi,species
+160882909,3039193,88039,Parthenocissus vitacea (Knerr) Hitchc.,,,Plantae,species
+160882910,1365463,87781,"Encarsia berlesei (Howard, 1906)",,,Animalia,species
+160882911,3039203,88037,Parthenocissus inserta (A.Kerner) Fritsch,160882909,Parthenocissus vitacea (Knerr) Hitchc.,Plantae,species
+160882912,2557469,88327,Ustilago maydis (DC.) Corda,,,Fungi,species
+160882913,1364719,87571,"Aphytis mytilaspidis (Le Baron, 1870)",,,Animalia,species
+160882914,2557682,88246,Sporisorium sorghi Ehrenb. ex Link,,,Fungi,species
+160882916,1364062,87570,"Aphelinus mali (Haldeman, 1851)",,,Animalia,species
+160882922,4499838,87509,"Adelencyrtus aulacaspidis (BrÃ¨thes, 1914)",,,Animalia,species
+160882924,5599249,87928,Lonicera nitida E.H.Wilson,201311368,Lonicera pileata Oliv.,Plantae,species
+160882926,2556042,88243,Sphacelotheca reiliana (J.G.KÃ¼hn) G.P.Clinton,,,Fungi,species
+160882927,,88261,Symphoricarpos albus (L.) C.Koch,,,Plantae,species
+160882929,2556337,87960,Microbotryum violaceum (Pers.) G.Deml & Oberw.,,,Fungi,species
+160882931,1476105,88299,"Trichopoda pennipes (Fabricius, 1781)",,,Animalia,species
+160882935,3054357,87896,Juglans nigra L.,,,Plantae,species
+160882937,1553384,87925,"Liriomyza trifolii Burgess, 1880",,,Animalia,species
+160882940,1553410,87924,"Liriomyza huidobrensis Blanchard, 1926",,,Animalia,species
+160882942,2513463,88288,Tilletia caries (DC.) Tul. & C.Tul.,,,Fungi,species
+160882945,2891770,87887,Impatiens glandulifera Royle,,,Plantae,species
+160882946,1577153,87874,"Hermetia illucens (Linnaeus, 1758)",,,Animalia,species
+160882948,2891773,87886,Impatiens balsamina L.,,,Plantae,species
+160882950,5073820,87763,"Drosophila suzukii (Matsumura, 1931)",,,Animalia,species
+160882951,2891782,87888,Impatiens parviflora DC.,,,Plantae,species
+160882952,2513171,87964,"Microstroma juglandis (BÃ©renger) Sacc., 1886",201311324,"Pseudomicrostroma juglandis (Bérenger) Kijporn. & Aime, 2017",Fungi,species
+160882957,1546523,87940,"Megaselia gregaria (Wood, 1910)",,,Animalia,species
+160882959,1548900,87757,"Dohrniphora cornuta (Bigot, 1857)",,,Animalia,species
+160882960,2891266,87844,Geranium thunbergii Siebold ex Lindl. & Paxton,,,Plantae,species
+160882961,2513208,87826,Exobasidium rhododendri (Fuckel) C.E.Cramer,,,Fungi,species
+160882962,2891583,87843,Geranium sibiricum L.,,,Plantae,species
+160882965,1597320,88250,"Stenodiplosis panici Plotnikov, 1926",,,Animalia,species
+160882968,1601456,87971,"Monarthropalpus flavus (Schrank, 1776)",,,Animalia,species
+160882969,2513609,87783,Entyloma calendulae (Oudem.) de Bary,,,Fungi,species
+160882971,1595831,88007,"Obolodiplosis robiniae (Haldeman, 1847)",,,Animalia,species
+160882972,1595142,87743,"Dasineura gleditchiae (Osten Sacken, 1866)",,,Animalia,species
+160882973,2513587,87784,Entyloma fergussonii (Berk. & Broome) Plowr.,,,Fungi,species
+160882974,2914547,87837,Galium saxatile L.,,,Plantae,species
+160882975,1595250,87744,"Dasineura oxycoccana (Johnson, 1899)",,,Animalia,species
+160882976,2513690,87785,Entyloma fuscum J.SchrÃ¶t.,,,Fungi,species
+160882978,5082067,87697,"Contarinia quinquenotata (Low, 1888)",,,Animalia,species
+160882980,5082199,87696,"Contarinia pisi (Winnertz, 1854)",,,Animalia,species
+160882985,5420901,88170,Punica granatum L.,,,Plantae,species
+160882986,1622658,88180,"Rhagoletis completa Cresson, 1929",,,Animalia,species
+160882987,2516438,88294,Tranzschelia anemones (Pers.) Nannf.,,,Fungi,species
+160882988,1622599,88179,"Rhagoletis cingulata (Loew, 1862)",,,Animalia,species
+160882991,1626096,87659,"Ceratitis capitata (Wiedemann, 1824)",,,Animalia,species
+160882992,3188894,88010,Oenothera glazioviana Micheli,,,Plantae,species
+160882995,1652212,87511,"Aedes japonicus (Theobald, 1901)",,,Animalia,species
+160882996,2516764,88292,"Trachyspora intrusa (Grev.) Arthur, 1934",201311289,"Trachyspora alchemillae (Pers.) Fuckel, 1861",Fungi,species
+160882997,3188924,88009,Oenothera biennis L.,,,Plantae,species
+160882998,1651430,87510,"Aedes albopictus Skuse, 1894",,,Animalia,species
+160882999,2516527,88072,Phragmidium fusiforme J.SchrÃ¶t.,,,Fungi,species
+160883000,3188926,88011,Oenothera pycnocarpa G.F.Atk. & Bartlett,,,Plantae,species
+160883002,2516510,88073,Phragmidium potentillae (Pers.) P.Karst.,,,Fungi,species
+160883004,9188840,87791,Epilobium ciliatum Raf.,,,Plantae,species
+160883005,2516604,88074,Phragmidium violaceum (Schultz) G.Winter,,,Fungi,species
+160883006,4990338,88295,"Tribolium castaneum (Herbst, 1797)",,,Animalia,species
+160883008,6427720,87790,Epilobium adenocaulon Hausskn.,160883004,Epilobium ciliatum Raf.,Plantae,species
+160883009,7987689,88296,"Tribolium confusum Jaquelin Du Val, 1868",,,Animalia,species
+160883011,7095758,87792,Epilobium ciliatum subsp. ciliatum,,,Plantae,subspecies
+160883013,7658435,87950,"Melampsorella symphyti (DC.) BubÃ¡k, 1903",201311299,"Pucciniastrum symphyti (DC.) McKenzie & Padamsee, 2014",Fungi,species
+160883015,1095973,88304,"Trogoderma glabrum (Herbst, 1783)",,,Animalia,species
+160883016,2516915,88168,Pucciniastrum areolatum (Fr.) G.H.Otth,,,Fungi,species
+160883018,1095979,88305,"Trogoderma granarium Everts, 1898",,,Animalia,species
+160883019,2516897,88169,Pucciniastrum epilobii G.H.Otth,,,Fungi,species
+160883020,2984366,88239,Soleirolia soleirolii (Req.) Dandy,,,Plantae,species
+160883021,1095984,88303,"Trogoderma angustum (Solier, 1849)",,,Animalia,species
+160883022,1095976,88306,"Trogoderma versicolor (Creutzer, 1799)",,,Animalia,species
+160883023,2516840,87949,Melampsorella caryophyllacearum (DC.) J.SchrÃ¶t.,,,Fungi,species
+160883026,2516809,87951,Melampsoridium betulinum (Pers.) Kleb.,,,Fungi,species
+160883027,5361889,87973,Morus alba L.,,,Plantae,species
+160883028,1161887,88280,Tenebroides mauritanicus (Linnaeus),,,Animalia,species
+160883030,5361888,87974,Morus nigra L.,,,Plantae,species
+160883032,9812051,87948,Melampsora populnea (Pers.) P.Karst.,,,Fungi,species
+160883034,6132234,88185,"Rhynchophorus ferrugineus Heyne, A.-Taschenberg & O., 1908",,,Animalia,species
+160883035,8193400,87944,Melampsora euphorbiae (Ficinus & C.Schub.) Castagne,,,Fungi,species
+160883036,3874408,87876,Humulopsis scandens (Lour.) Grudz.,,,Plantae,species
+160883037,4291553,88229,"Sitophilus zeamais Motschulsky, 1855",,,Animalia,species
+160883038,2513996,87945,Melampsora hypericorum (DC.) J.SchrÃ¶t.,,,Fungi,species
+160883040,8984023,88228,"Sitophilus oryzae Linnaeus, 1758",,,Animalia,species
+160883041,2514067,87946,Melampsora laricis-pentandrae Kleb.,,,Fungi,species
+160883044,2514062,87947,Melampsora laricis-populina Kleb.,,,Fungi,species
+160883045,3026444,88244,Spiraea ×pseudosalicifolia Silverside,201311249,Spiraea ×billardii Hérincq,Plantae,species
+160883046,2513990,87942,Melampsora allii-populina Kleb.,,,Fungi,species
+160883047,1033851,88140,"Ptilodactyla exotica Chapin, 1927",,,Animalia,species
+160883049,,87943,Melampsora caprearum ThÃ¼m.,,,Fungi,species
+160883052,3031919,87765,Duchesnea indica (Andr.) Focke,201311254,Potentilla indica (Andrews) T.Wolf,Plantae,species
+160883053,1043875,88021,"Oryzaephilus surinamensis (Linnaeus, 1758)",,,Animalia,species
+160883055,3003979,88190,Rosa rugosa Thunb.,,,Plantae,species
+160883057,2515265,88146,"Puccinia allii (DC.) F.Rudolphi, 1829",201311277,"Puccinia porri (Sowerby) G.Winter, 1881",Fungi,species
+160883058,2988188,88173,Pyracantha coccinea M.Roem.,,,Plantae,species
+160883059,9716265,88046,"Perigona nigriceps (Dejean, 1831)",,,Animalia,species
+160883061,2988354,88084,Physocarpus opulifolius (L.) Maxim.,,,Plantae,species
+160883063,1095716,88186,"Rhyzopertha dominica (Fabricius, 1792)",,,Animalia,species
+160883064,8149923,88132,Prunus persica Stokes,,,Plantae,species
+160883065,,88161,Puccinia phragmitis (Schumach.) KÃ¶rn.,201311275,Puccinia phragmitis Tul,Fungi,species
+160883066,10470364,87933,"Lyctus brunneus Stephens, 1830",,,Animalia,species
+160883068,3021730,88131,Prunus cerasifera Ehrh.,,,Plantae,species
+160883070,3031774,87958,Mespilus germanica L.,,,Plantae,species
+160883071,2515665,88320,Uromyces polygoni-avicularis (Pers.) P.Karst.,201311273,"Uromyces polygoni-avicularis (Pers.) G.H.Otth, 1864",Fungi,species
+160883072,4436873,88068,"Philonthus rectangulus Sharp, 1874",,,Animalia,species
+160883073,5371450,87899,Kerria japonica (L.) DC.,,,Plantae,species
+160883075,4442348,87961,"Micropeplus marietti Jacquelin du Val, 1857",,,Animalia,species
+160883076,5369685,87845,Geum aleppicum Jacq.,,,Plantae,species
+160883077,2515679,88315,"Uromyces appendiculatus F.Strauss, 1833",201311279,"Uromyces appendiculatus (Pers.) Link, 1816",Fungi,species
+160883079,3029912,87832,Fragaria ananassa (Weston) Duchesne ex Rozier,,,Plantae,species
+160883080,8375625,88314,Uromyces anthyllidis (Grev.) J.SchrÃ¶t.,,,Fungi,species
+160883082,5362215,87732,Cydonia oblonga Mill.,,,Plantae,species
+160883083,2515591,88317,Uromyces dianthi (Pers.) Niessl,,,Fungi,species
+160883084,4448894,87900,"Korynetes caeruleus (De Geer, 1775)",201310848,"Clerus caeruleus De Geer, 1775",Animalia,species
+160883086,8208889,88316,Uromyces dactylidis G.H.Otth,,,Fungi,species
+160883087,4448925,87991,"Necrobia violacea (Linnaeus, 1758)",,,Animalia,species
+160883089,2515775,88318,Uromyces erythronii (DC.) Pass.,,,Fungi,species
+160883091,2986045,88067,Philadelphus coronarius L.,,,Plantae,species
+160883092,2515938,88319,Uromyces pisi-sativi (Pers.) Liro,,,Fungi,species
+160883093,4998194,87906,"Lasioderma serricorne (Fabricius, 1792)",,,Animalia,species
+160883094,2985986,87880,Hydrangea arborescens L.,,,Plantae,species
+160883095,2515881,88321,Uromyces rumicis (Schumach.) G.Winter,,,Fungi,species
+160883097,2985965,87749,Deutzia scabra Thunb.,,,Plantae,species
+160883098,2515896,88322,Uromyces trifolii-repentis (Castagne) Liro,,,Fungi,species
+160883099,1159172,88349,"Xylotrechus stebbingi Gahan, 1906",,,Animalia,species
+160883101,9802104,88166,Puccinia tanaceti DC.,,,Fungi,species
+160883102,1107218,87989,"Nathrius brevipennis (Mulsant, 1839)",,,Animalia,species
+160883103,2515392,88167,Puccinia violae (Schumach.) DC.,,,Fungi,species
+160883104,3082274,87700,Cornus kousa Bürger ex Hance,,,Plantae,species
+160883105,4293134,87992,"Neoclytus acuminatus (Fabricius, 1775)",,,Animalia,species
+160883106,7778821,88164,"Puccinia recondita Roberge ex Desm., 1857",,,Fungi,species
+160883108,1112380,87936,"Mallodon downesii Hope, 1843",,,Animalia,species
+160883109,2514966,88165,Puccinia sorghi Schwein.,,,Fungi,species
+160883111,5000208,87856,"Gracilia minuta (Fabricius, 1781)",,,Animalia,species
+160883112,2514980,88162,Puccinia pimpinellae (F.Strauss) Link,,,Fungi,species
+160883113,2874538,88284,Thladiantha dubia Bunge,,,Plantae,species
+160883115,2514368,88163,Puccinia poarum E.Nielsen,,,Fungi,species
+160883116,5331404,87773,Echinocystis lobata Torr. & A.Gray,,,Plantae,species
+160883117,2514887,88160,Puccinia menthae Pers.,,,Fungi,species
+160883118,1043326,88189,"Rodolia cardinalis (Mulsant, 1850)",,,Animalia,species
+160883119,2874508,87723,Cucurbita pepo L.,,,Plantae,species
+160883120,2514560,88145,Puccinia aegopodii (Schumach.) Link,,,Fungi,species
+160883121,4989904,87868,"Harmonia axyridis (Pallas, 1773)",,,Animalia,species
+160883122,2874569,87722,Cucumis sativus L.,,,Plantae,species
+160883123,8091991,88147,Puccinia arenariae (Schumach.) J.SchrÃ¶t.,,,Fungi,species
+160883125,2874621,87681,Citrullus lanatus (Thunb.) Matsumura & Nakai,,,Plantae,species
+160883126,2513588,88148,Puccinia asarina Kunze,,,Fungi,species
+160883129,2514938,88149,Puccinia chaerophylli Purton,,,Fungi,species
+160883130,4426634,87786,"Epauloecus unicolor (Piller & Mitterpacher, 1783)",201310916,"Tipnus unicolor (Piller & Mitterpacher, 1783)",Animalia,species
+160883132,2514802,88150,Puccinia cnici-oleracei Pers.,,,Fungi,species
+160883133,1095783,88144,"Ptinus tectus Boieldieu, 1856",,,Animalia,species
+160883134,2514774,88151,Puccinia coronata Corda,,,Fungi,species
+160883136,1095788,88141,"Ptinus bicinctus Sturm, 1837",,,Animalia,species
+160883137,2514942,88152,Puccinia difformis Kunze,,,Fungi,species
+160883138,3610757,87728,Cuscuta campestris Yunck.,201311233,Cuscuta pentagona Engelm.,Plantae,species
+160883139,1095800,88143,"Ptinus latro Fabricius, 1775",,,Animalia,species
+160883140,2514556,88153,Puccinia distincta McAlpine,,,Fungi,species
+160883141,2928576,87889,Ipomoea purpurea (L.) Roth,,,Plantae,species
+160883142,1095795,88142,"Ptinus fur (Linnaeus, 1758)",,,Animalia,species
+160883143,2514610,88154,Puccinia festucae Plowr.,,,Fungi,species
+160883144,1095750,87846,"Gibbium psylloides (Czenpinski, 1778)",,,Animalia,species
+160883145,7323876,87729,Cuscuta scandens Brot.,,,Plantae,species
+160883146,2514394,88155,Puccinia gentianae (F.Strauss) Link,,,Fungi,species
+160883147,7154776,87727,Cuscuta australis R.Br.,160883145,Cuscuta scandens Brot.,Plantae,species
+160883149,2514501,88156,Puccinia graminis Pers.,,,Fungi,species
+160883151,4989843,87714,"Cryptolestes pusillus (SchÃ¶nherr, 1817)",,,Animalia,species
+160883152,2514832,88157,Puccinia iridis Wallr.,,,Fungi,species
+160883153,4989835,87713,"Cryptolestes ferrugineus (Stephens, 1831)",,,Animalia,species
+160883155,2515050,88158,Puccinia lagenophorae Cooke,,,Fungi,species
+160883156,5749724,87712,"Cryptolestes duplicatus (Waltl, 1839)",,,Animalia,species
+160883157,2929710,88232,Solanum chenopodioides Lam.,201311240,Solanum nigrum L.,Plantae,species
+160883158,2514679,88159,Puccinia malvacearum Bertero ex Mont.,,,Fungi,species
+160883160,2932144,88235,Solanum physalifolium Rusby,,,Plantae,species
+160883161,,87866,Gymnosporangium tremelloides Syd.,,,Fungi,species
+160883163,2930137,88234,Solanum lycopersicum L.,,,Plantae,species
+160883164,8564813,87862,Gymnosporangium clavariiforme (Wulfen) DC.,,,Fungi,species
+160883165,4465725,88251,"Stenoscelis submuricata (SchÃ¶nherr, 1832)",201310893,"Rhyncolus submuricatus Schoenherr, 1832",Animalia,species
+160883166,2929892,88233,Solanum elaeagnifolium Cav.,,,Plantae,species
+160883167,2516117,87863,Gymnosporangium confusum Plowr.,,,Fungi,species
+160883169,2929505,88238,Solanum villosum Mill.,,,Plantae,species
+160883170,2516126,87864,Gymnosporangium cornutum Arthur ex F.Kern,,,Fungi,species
+160883171,8164979,88231,Solanum alatum Moench,160883169,Solanum villosum Mill.,Plantae,species
+160883172,4465638,87816,"Euophryum confine (Broun, 1880)",201310898,"Pentarthrum confine Broun, 1881",Animalia,species
+160883173,2516137,87865,Gymnosporangium sabinae (Dicks.) G.Winter,,,Fungi,species
+160883174,2930262,88237,Solanum tuberosum L.,,,Plantae,species
+160883176,2516075,87726,Cumminsiella mirabilissima (Peck) Nannf.,,,Fungi,species
+160883177,2930805,88236,Solanum sarrachoides Sendtn.,,,Plantae,species
+160883178,1230310,87687,"Coccotrypes dactyliperda Eichhoff, 1878b",201310899,"Bostrichus dactyliperda Fabricius & J.C., 1801",Animalia,species
+160883180,5341792,88082,Physalis angulata L.,,,Plantae,species
+160883183,5341784,88083,Physalis peruviana L.,,,Plantae,species
+160883184,1221824,87851,"Gnathotrichus materiarius Wood & Bright, 1992",201310894,"Tomicus materiarius Fitch, 1858",Animalia,species
+160883185,2517477,87709,"Cronartium flaccidum (Alb. & Schwein.) G.Winter, 1880",201311293,"Cronartium pini (Willd.) Jørst., 1925",Fungi,species
+160883186,2928761,88000,Nicotiana alata Link & Otto,,,Plantae,species
+160883188,5341754,87998,Nicandra physalodes (L.) Gaertn.,,,Plantae,species
+160883189,2517512,87710,Cronartium ribicola J.C.Fisch.,,,Fungi,species
+160883190,8469824,88348,"Xylosandrus germanus (Blandford, 1894), 2011",201310892,"Xyleborus germanus Blandford, 1894d",Animalia,species
+160883191,8286968,87999,Nicandra physalodes Scop.,160883188,Nicandra physalodes (L.) Gaertn.,Plantae,species
+160883193,7730115,88347,"Xyleborus pfeilii Ratzeburg, 1837",,,Animalia,species
+160883194,2928774,88002,Nicotiana tabacum L.,,,Plantae,species
+160883195,,87690,Coleosporium tussilaginis (Pers.) LÃ©v.,,,Fungi,species
+160883197,2928775,88001,Nicotiana rustica L.,,,Plantae,species
+160883198,2513941,87677,Chrysomyxa abietis (Wallr.) Unger,,,Fungi,species
+160883199,1034244,87719,"Cryptopleurum subtile Sharp, 1884",,,Animalia,species
+160883200,2928809,87932,Lycium chinense Mill.,,,Plantae,species
+160883202,1034447,87663,"Cercyon laminatus Sharp, 1873",,,Animalia,species
+160883203,7894250,87745,Datura ferox L.,,,Plantae,species
+160883206,2928755,87746,Datura innoxia Mill.,,,Plantae,species
+160883208,1044673,87646,"Carcinops pumilio (Erichson, 1834)",,,Animalia,species
+160883209,2928751,87747,Datura stramonium L.,,,Plantae,species
+160883210,,88195,Russula melliolens QuÃ©l.,,,Fungi,species
+160883211,2932944,87643,Capsicum annuum L.,,,Plantae,species
+160883213,,87904,Lactarius deterrimus GrÃ¶ger,,,Fungi,species
+160883214,1044156,88323,"Urophorus humeralis (Fabricius, 1798)",,,Animalia,species
+160883217,1043978,88249,"Stelidota geminata (Say, 1825)",,,Animalia,species
+160883219,8824388,87858,Guepinia helvelloides (DC.) Fr.,,,Fungi,species
+160883220,4453163,87848,"Glischrochilus quadrisignatus (Say, 1835)",,,Animalia,species
+160883221,2928226,88060,Phacelia tanacetifolia Benth.,,,Plantae,species
+160883223,4453189,87650,"Carpophilus nepos Murray, 1864",,,Animalia,species
+160883226,1044111,87649,"Carpophilus hemipterus (Linnaeus, 1758)",,,Animalia,species
+160883227,2926066,88264,Symphytum asperum Lepech.,,,Plantae,species
+160883228,2554353,87841,Geastrum campestre Morgan,,,Fungi,species
+160883229,4453205,87651,"Carpophilus pilosellus Motschulsky, 1858",,,Animalia,species
+160883230,2926042,88004,Nonea lutea DC.,,,Plantae,species
+160883231,9547586,87648,"Carpophilus bifenestratus Murray, 1864",,,Animalia,species
+160883233,2926045,87626,Brunnera macrophylla I.M.Johnst.,,,Plantae,species
+160883236,2926110,87613,Borago officinalis L.,,,Plantae,species
+160883238,2543387,88172,Pycnoporellus fulgens (Fr.) Donk,,,Fungi,species
+160883240,4451126,87653,"Cartodere nodifer (Westwood, 1839)",201310862,"Lathridius nodifer Westwood, 1839",Animalia,species
+160883244,2549099,88045,Perenniporia ochroleuca (Berk.) Ryvarden,,,Fungi,species
+160883246,5749068,87718,"Cryptophagus subfumatus Kraatz, 1856",,,Animalia,species
+160883248,8297936,87686,Cleome graveolens Rafin.,201311212,Arivela viscosa Raf.,Plantae,species
+160883249,5749004,87716,"Cryptophagus cellaris (Scopoli, 1763)",,,Animalia,species
+160883250,2549683,87840,Ganoderma resinaceum Boud.,,,Fungi,species
+160883251,3054274,88124,Polanisia dodecandra DC.,,,Plantae,species
+160883252,5748933,87717,"Cryptophagus fallax Balfour-Browne, 1953",,,Animalia,species
+160883253,2549556,87839,Ganoderma pfeifferi Bres.,,,Fungi,species
+160883255,4989868,87715,"Cryptophagus acutangulus Gyllenhal, 1827",,,Animalia,species
+160883257,6370689,87640,Capparis spinosa L.,,,Plantae,species
+160883258,4451849,87632,"Caenoscelis subdeplanata Brisout de Barneville, 1882",,,Animalia,species
+160883262,5239534,88221,Serpula lacrymans (Wulfen) J.SchrÃ¶t.,,,Fungi,species
+160883264,4463823,87588,"Aspidapion validum (Germar, 1817)",,,Animalia,species
+160883266,3045486,88285,Thlaspi caerulescens J.Presl & C.Presl,201311203,Noccaea caerulescens (J.Presl & C.Presl) F.K.Mey.,Plantae,species
+160883268,2525455,88110,Pisolithus arhizus (Scop.) Rauschert,,,Fungi,species
+160883269,4463518,88182,"Rhopalapion longirostre (Olivier, 1807)",,,Animalia,species
+160883270,7068613,88003,Noccaea caerulescens subsp. caerulescens,,,Plantae,subspecies
+160883272,4463833,87528,"Alocentron curvirostre (Gyllenhal, 1833)",,,Animalia,species
+160883273,5374118,87891,Isatis tinctoria L.,,,Plantae,species
+160883275,2525039,87855,Gomphidius maculatus (Scop.) Fr.,,,Fungi,species
+160883276,5377060,87911,Lepidium didymum L.,,,Plantae,species
+160883277,6950681,87939,"Megabruchidius dorsalis (FÃ¥hraeus, 1839)",,,Animalia,species
+160883278,2525027,87854,Gomphidius glutinosus (Schaeff.) Fr.,,,Fungi,species
+160883279,5377061,87701,Coronopus didymus (L.) Sm.,160883276,Lepidium didymum L.,Plantae,species
+160883280,1047536,87914,"Leptinotarsa decemlineata (Say, 1824)",,,Animalia,species
+160883281,2524993,87676,Chroogomphus helveticus (Singer) M.M.Moser,,,Fungi,species
+160883282,5376648,87912,Lepidium virginicum L.,,,Plantae,species
+160883283,1048497,87750,"Diabrotica virgifera J.L.LeConte, 1868",,,Animalia,species
+160883285,5375547,87801,Erucastrum gallicum O.E.Schulz,,,Plantae,species
+160883286,5752143,87625,"Bruchus rufimanus Boheman, 1833",,,Animalia,species
+160883288,5375555,87802,Erucastrum nasturtiifolium O.E.Schulz,,,Plantae,species
+160883289,5752155,87624,"Bruchus pisorum (Linnaeus, 1758)",,,Animalia,species
+160883290,3314876,88063,"Phallus impudicus L., 1753",,,Fungi,species
+160883291,3048203,87803,Erysimum cheiri Crantz,,,Plantae,species
+160883292,,87623,"Bruchus lentis FrÃ¶lich, 1799",,,Animalia,species
+160883293,5239471,87979,Mutinus elegans (Mont.) E.Fisch.,,,Fungi,species
+160883294,5375597,87665,Cheiranthus cheiri L.,160883291,Erysimum cheiri Crantz,Plantae,species
+160883295,1047341,87635,"Callosobruchus chinensis (Linnaeus, 1758)",,,Animalia,species
+160883296,5239466,87980,Mutinus ravenelii (Berk. & M.A.Curtis) E.Fisch.,,,Fungi,species
+160883297,3049685,87761,Draba nemorosa L.,,,Plantae,species
+160883298,1047525,87502,"Acanthoscelides obtectus (Say, 1831)",,,Animalia,species
+160883299,5239500,87934,Lysurus cruciatus (Lepr. & Mont.) Henn.,,,Fungi,species
+160883300,3049836,87760,Draba muralis L.,,,Plantae,species
+160883301,7636990,87685,Clathrus ruber Mich.,,,Fungi,species
+160883302,3044349,87675,Chorispora tenella DC.,,,Plantae,species
+160883303,5374635,87596,Barbarea intermedia Boreau,,,Plantae,species
+160883304,5239483,87684,Clathrus archeri (Berk.) Dring,,,Fungi,species
+160883310,,88298,Tricholoma psammopus (Kalchbr.) QuÃ©l.,,,Fungi,species
+160883311,5241764,88297,Tricholoma caligatum (Viv.) Ricken,,,Fungi,species
+160883312,7887942,87965,Mimulus guttatus Fisch.,201311351,Erythranthe lutea (L.) G.L.Nesom,Plantae,species
+160883315,5243623,88258,Strobilurus esculentus (Wulfen) Singer,,,Fungi,species
+160883316,6070793,87966,Mimulus moschatus Douglas ex Lindl.,201311352,Erythranthe moschata (Douglas ex Lindl.) G.L.Nesom,Plantae,species
+160883321,2533339,88259,"Stropharia aurantiaca (Cooke) M.Imai, 1938",201311226,"Stropholoma aurantiacum (Cooke) Ryman, 2008",Fungi,species
+160883322,3684450,87894,Jasminum fruticans L.,201311358,Chrysojasminum fruticans (L.) Banfi,Plantae,species
+160883323,2533347,88260,Stropharia rugosoannulata Farl. ex Murrill,,,Fungi,species
+160883324,5415039,88265,Syringa vulgaris L.,,,Plantae,species
+160883325,5242465,88137,Psilocybe cyanescens Wakef.,,,Fungi,species
+160883326,3172261,87895,Jasminum officinale L.,,,Plantae,species
+160883329,5449629,88121,Pluteus variabilicolor Babos,,,Fungi,species
+160883330,3171888,87923,Lindernia dubia (L.) Pennell,,,Plantae,species
+160883333,2538088,88013,Omphalotus olearius (DC.) Singer,,,Fungi,species
+160883334,3172615,87654,Catalpa bignonioides Walter,,,Plantae,species
+160883335,2537743,87910,Lentinula edodes (Berk.) Pegler,,,Fungi,species
+160883338,3173338,87627,Buddleja davidii Franch.,,,Plantae,species
+160883339,8595864,87901,Laccaria fraterna (Sacc.) Pegler,,,Fungi,species
+160883341,2530904,87879,Hydnangium carneum Wallr.,,,Fungi,species
+160883344,3896247,87833,Galeobdolon argentatum Smejkal,201311348,Lamium galeobdolon (L.) L.,Plantae,species
+160883347,7550871,87707,Crepidotus crocophyllus Berk.,201311220,"Crepidotus crocophyllus (Berk.) Sacc., 1887",Fungi,species
+160883348,3883336,87594,Ballota alba L.,201311347,Ballota nigra L.,Plantae,species
+160883350,2926885,88205,Satureja hortensis L.,,,Plantae,species
+160883352,2927000,88201,Salvia sclarea L.,,,Plantae,species
+160883353,7535010,87918,Leucoagaricus leucothites (Vittad.) M.M.Moser ex Bon,201311234,Leucoagaricus leucothites (Vittad.) Wasser,Fungi,species
+160883354,5341407,87970,Monarda didyma L.,,,Plantae,species
+160883355,8707933,87956,Mentha piperita L.,,,Plantae,species
+160883357,2927305,87907,Lavandula angustifolia Mill.,,,Plantae,species
+160883358,2535630,87922,Leucocoprinus lilacinogranulosus (Henn.) Locq.,201311231,Leucocoprinus ianthinus (Cooke) P.Mohr,Fungi,species
+160883359,3882777,87595,Ballota nigra subsp. foetida (Lam.) Hayek,,,Plantae,subspecies
+160883360,8495305,87921,Leucocoprinus ianthinus (Cooke) Locq.,201311231,Leucocoprinus ianthinus (Cooke) P.Mohr,Fungi,species
+160883364,8232933,87517,Agaricus bisporus (J.E.Lange) Pilat,201311232,Agaricus bisporus (J.E.Lange) Imbach,Fungi,species
+160883365,2535581,87920,Leucocoprinus cepistipes (Sowerby) Pat.,,,Fungi,species
+160883366,3189763,88114,Plantago indica L.,201311355,Plantago arenaria Waldst. & Kit.,Plantae,species
+160883367,2535839,87917,Leucoagaricus americanus (Peck) Vellinga,,,Fungi,species
+160883368,3172077,88337,Veronica persica hort. ex Poir.,,,Plantae,species
+160883369,7502353,87919,Leucocoprinus bresadolae (Schulzer) M.M.Moser,160883367,Leucoagaricus americanus (Peck) Vellinga,Fungi,species
+160883370,3172104,88336,Veronica peregrina L.,,,Plantae,species
+160883371,5243140,87730,Cyathus stercoreus (Schwein.) De Toni,,,Fungi,species
+160883372,3172100,88335,Veronica filiformis Sm.,,,Plantae,species
+160883373,,87516,Agaricus bernardii QuÃ©l.,,,Fungi,species
+160883374,7303015,88113,Plantago arenaria subsp. arenaria,,,Plantae,subspecies
+160883376,3172001,87568,Antirrhinum majus L.,,,Plantae,species
+160883377,2533207,87518,Agrocybe putaminum (Maire) Singer,,,Fungi,species
+160883381,5359178,88302,Trifolium suaveolens Willd.,201311365,Trifolium resupinatum L.,Plantae,species
+160883382,5359177,88301,Trifolium resupinatum var. majus Boiss.,,,Plantae,variety
+160883383,5359378,88300,Trifolium incarnatum L.,,,Plantae,species
+160883384,2977331,88344,Wisteria sinensis Sweet,,,Plantae,species
+160883385,2951984,88309,Ulex europaeus L.,,,Plantae,species
+160883386,5352251,88188,Robinia pseudoacacia L.,,,Plantae,species
+160883387,9151957,87938,Medicago sativa L.,,,Plantae,species
+160883388,2959443,87847,Gleditsia triacanthos L.,,,Plantae,species
+160883389,5354656,87739,Cytisus scoparius (L.) Link,,,Plantae,species
+160883390,2958376,88204,Sarothamnus scoparius (L.) W.D.J.Koch,160883389,Cytisus scoparius (L.) Link,Plantae,species
+160883391,2947311,87678,Cicer arietinum L.,,,Plantae,species
+160883392,5357407,87555,Amorpha fruticosa L.,,,Plantae,species
+160883396,5371895,87574,Apium leptophyllum (Pers.) F.Muell.,201311337,Cyclospermum leptophyllum (Pers.) Sprague,Plantae,species
+160883397,3034871,87699,Coriandrum sativum L.,,,Plantae,species
+160883398,3034646,87562,Anethum graveolens L.,,,Plantae,species
+160883401,5408087,87926,Lobelia erinus L.,,,Plantae,species
+160883402,5411284,87638,Campanula baumgartenii subsp. beckiana (Hayek) Podlech,,,Plantae,subspecies
+160883405,6064140,88345,Xanthium italicum Moretti,201311342,Xanthium orientale L.,Plantae,species
+160883407,5401612,87817,Eupatorium maculatum L.,201311341,Eutrochium maculatum (L.) E.E.Lamont,Plantae,species
+160883409,6065079,87871,Helianthus rigidus (Cass.) Desf.,201311344,Helianthus pauciflorus Nutt.,Plantae,species
+160883411,5402620,87893,Iva xanthifolia Nutt.,201311343,Cyclachaena xanthiifolia Fresen.,Plantae,species
+160883412,3088488,88268,Tagetes erecta L.,,,Plantae,species
+160883413,3088492,88270,Tagetes patula L.,160883412,Tagetes erecta L.,Plantae,species
+160883414,3151558,88262,Symphyotrichum novi-belgii (L.) G.L.Nesom,,,Plantae,species
+160883415,3151474,88263,Symphyotrichum tradescantii (L.) G.L.Nesom,,,Plantae,species
+160883416,3118254,88273,Tanacetum balsamita L.,,,Plantae,species
+160883417,3118430,88274,Tanacetum parthenium Sch.Bip.,,,Plantae,species
+160883418,3110686,87551,Ambrosia psilostachya DC.,,,Plantae,species
+160883419,3110588,87552,Ambrosia trifida L.,,,Plantae,species
+160883420,8002952,87550,Ambrosia artemisiifolia L.,,,Plantae,species
+160883421,3120790,87583,Artemisia verlotiorum Lamotte,,,Plantae,species
+160883422,8373355,87582,Artemisia annua L.,,,Plantae,species
+160883423,5406509,87589,Aster squamatus Hieron.,,,Plantae,species
+160883424,5392083,87603,Bidens connata Muhl. ex Willd.,,,Plantae,species
+160883425,5392174,87604,Bidens frondosa L.,,,Plantae,species
+160883426,5389402,87601,Bidens bipinnata L.,,,Plantae,species
+160883427,5391710,87602,Bidens cernua L.,,,Plantae,species
+160883428,5391810,87607,Bidens vulgata Greene,,,Plantae,species
+160883429,5391845,87605,Bidens pilosa L.,,,Plantae,species
+160883430,5391882,87606,Bidens subalternans DC.,,,Plantae,species
+160883431,3128888,87657,Centaurea solstitialis L.,,,Plantae,species
+160883432,3128962,87656,Centaurea diffusa Lam.,,,Plantae,species
+160883433,3138327,87652,Carthamus tinctorius L.,,,Plantae,species
+160883434,3113777,87680,Cirsium helenioides (L.) Hill,,,Plantae,species
+160883435,3098912,87705,Cosmos bipinnatus Cav.,,,Plantae,species
+160883436,3101193,87756,Dittrichia graveolens (L.) Greuter,,,Plantae,species
+160883437,3132570,87835,Galinsoga parviflora Cav.,,,Plantae,species
+160883438,8298495,87836,Galinsoga quadriradiata Ruiz & Pav.,,,Plantae,species
+160883439,3132590,87834,Galinsoga ciliata (Rafin.) S.F.Blake,160883438,Galinsoga quadriradiata Ruiz & Pav.,Plantae,species
+160883440,3146791,87798,Erigeron canadensis L.,,,Plantae,species
+160883441,3146632,87800,Erigeron strigosus Muhl. ex Willd.,,,Plantae,species
+160883442,6298107,87799,"Erigeron septentrionalis (Fernald & Wiegand) Holub, 1974",160883441,Erigeron strigosus Muhl. ex Willd.,Plantae,species
+160883443,3132457,87795,Erechtites hieraciifolia (L.) Raf. ex DC.,,,Plantae,species
+160883444,3146717,87797,Erigeron bonariensis L.,,,Plantae,species
+160883445,3117449,87796,Erigeron annuus Pers.,,,Plantae,species
+160883446,7223475,87870,Helianthus pauciflorus subsp. pauciflorus,,,Plantae,subspecies
+160883447,9206251,87869,Helianthus annuus L.,,,Plantae,species
+160883448,3119175,87872,Helianthus tuberosus L.,,,Plantae,species
+160883449,8584304,87861,Guizotia abyssinica (L.f.) Cass.,,,Plantae,species
+160883450,3103791,87937,Matricaria discoidea DC.,,,Plantae,species
+160883451,3109086,88215,Senecio inaequidens DC.,,,Plantae,species
+160883452,3125901,88224,Sigesbeckia orientalis L.,,,Plantae,species
+160883453,3145214,88226,Silybum marianum Gaertn.,,,Plantae,species
+160883454,3105650,88242,Sonchus palustris L.,,,Plantae,species
+160883455,5389017,88241,Solidago gigantea Aiton,,,Plantae,species
+160883456,5389029,88240,Solidago canadensis L.,,,Plantae,species
+160883457,3114238,88193,Rudbeckia triloba L.,,,Plantae,species
+160883458,3114229,88192,Rudbeckia laciniata L.,,,Plantae,species
+160883459,3114225,88191,Rudbeckia hirta L.,,,Plantae,species
+160883460,3089150,88346,Xanthium spinosum L.,,,Plantae,species
+160883461,7497356,88271,Tagetes tenuifolia Cav.,,,Plantae,species
+160883462,3088481,88269,Tagetes minuta L.,,,Plantae,species
+160883465,8380575,88272,Tamarix gallica L.,,,Plantae,species
+160883467,3084700,88130,Portulaca grandiflora Hook.,,,Plantae,species
+160883469,3086240,87967,Mirabilis jalapa L.,,,Plantae,species
+160883472,5334436,87828,Fallopia aubertii (Louis Henry) J.Holub,201311331,Fallopia baldschuanica (Regel) Holub,Plantae,species
+160883474,5652296,87829,Fallopia bohemica (Chrtek & ChrtkovÃ¡) J.P.Bailey,201311332,Reynoutria bohemica Chrtek & Chrtková,Plantae,species
+160883476,5334357,87830,Fallopia japonica (Houtt.) Ronse Decraene,201311333,Reynoutria japonica Houtt.,Plantae,species
+160883477,2888946,88194,Rumex longifolius DC.,,,Plantae,species
+160883478,2889229,88058,Persicaria orientalis (L.) Spach,,,Plantae,species
+160883479,5334392,88125,Polygonum orientale L.,160883478,Persicaria orientalis (L.) Spach,Plantae,species
+160883482,5384830,88225,Silene armeria L.,201311328,Atocion armeria Fourr.,Plantae,species
+160883483,3085438,87658,Cerastium tomentosum L.,,,Plantae,species
+160883486,5384345,87547,Amaranthus rudis J.Sauer,201311325,Amaranthus tuberculatus (Moq. ex DC.) J.D.Sauer,Plantae,species
+160883487,5568446,87766,Dysphania ambrosioides (L.) Mosyakin & Clemants,,,Plantae,species
+160883488,3083836,87667,Chenopodium ambrosioides L.,160883487,Dysphania ambrosioides (L.) Mosyakin & Clemants,Plantae,species
+160883489,5568428,87767,Dysphania botrys (L.) Mosyakin & Clemants,,,Plantae,species
+160883490,3083858,87668,Chenopodium botrys L.,160883489,Dysphania botrys (L.) Mosyakin & Clemants,Plantae,species
+160883491,3756077,87670,Chenopodium giganteum D.Don,,,Plantae,species
+160883492,8157588,87669,Chenopodium capitatum Wats. ex Britton,,,Plantae,species
+160883493,3083935,87673,Chenopodium quinoa Willd.,,,Plantae,species
+160883494,,87672,Chenopodium probstii Aell.,,,Plantae,species
+160883495,3083934,87671,Chenopodium hircinum Schrad.,,,Plantae,species
+160883496,3083761,87590,Atriplex hortensis L.,,,Plantae,species
+160883497,5383936,87597,Bassia scoparia (L.) A.J.Scott,,,Plantae,species
+160883498,5384393,87543,Amaranthus palmeri S.Watson,,,Plantae,species
+160883499,9080185,87542,Amaranthus hypochondriacus L.,,,Plantae,species
+160883500,5384364,87541,Amaranthus hybridus L.,,,Plantae,species
+160883501,5384397,87548,Amaranthus tricolor L.,,,Plantae,species
+160883502,6109534,87546,Amaranthus retroflexus L.,,,Plantae,species
+160883503,5384334,87549,Amaranthus viridis L.,,,Plantae,species
+160883504,8911082,87535,Amaranthus blitum L.,,,Plantae,species
+160883505,5384361,87536,Amaranthus bouchonii Thell.,,,Plantae,species
+160883506,5548528,87545,Amaranthus powellii subsp. bouchonii (Thell.) Costea & Carretero,160883505,Amaranthus bouchonii Thell.,Plantae,subspecies
+160883507,7905507,87533,Amaranthus albus L.,,,Plantae,species
+160883508,5384395,87534,Amaranthus blitoides S.Watson,,,Plantae,species
+160883509,5384396,87539,Amaranthus deflexus L.,,,Plantae,species
+160883510,8279930,87540,Amaranthus dubius Mart.,,,Plantae,species
+160883511,6109611,87537,Amaranthus caudatus L.,,,Plantae,species
+160883512,5384390,87538,Amaranthus cruentus L.,,,Plantae,species
+160883513,5384366,87544,Amaranthus patulus Bertol.,160883512,Amaranthus cruentus L.,Plantae,species
+160883516,2888380,87814,Eschscholzia californica Cham.,,,Plantae,species
+160883518,8562330,87695,Consolida orientalis (J.Gay) R.SchrÃ¶dinger,,,Plantae,species
+160883519,3033830,87694,Consolida ajacis (L.) Schur,,,Plantae,species
+160883521,3033896,87599,Berberis thunbergii DC.,,,Plantae,species
+160883522,3033868,87598,Berberis aquifolium Pursh,,,Plantae,species
+160883524,3033965,87523,Akebia quinata Decne.,,,Plantae,species
+160883528,6427274,88183,Rhus radicans L.,201311281,Toxicodendron radicans (L.) Kuntze,Plantae,species
+160883529,7221288,88289,Toxicodendron radicans subsp. radicans,,,Plantae,subspecies
+160883530,3190538,88184,Rhus typhina L.,,,Plantae,species
+160883532,3190653,87520,Ailanthus altissima (Mill.) Swingle,,,Plantae,species
+160883534,3189815,87515,Aesculus hippocastanum L.,,,Plantae,species
+160883535,3189866,87503,Acer negundo L.,,,Plantae,species
+160883536,3189859,87504,Acer saccharum Marshall,,,Plantae,species
+160883537,3189843,87505,Acer tataricum L.,,,Plantae,species
+160883540,3152583,87875,Hibiscus syriacus L.,,,Plantae,species
+160883541,3152521,87530,Althaea hirsuta L.,,,Plantae,species
+160883542,3152520,87531,Althaea officinalis L.,,,Plantae,species
+160883543,5406789,87525,Alcea rosea L.,,,Plantae,species
+160883544,3152614,87500,Abutilon theophrasti Medik.,,,Plantae,species
+160883547,5331189,88341,Viola cucullata Aiton,,,Plantae,species
+160883548,7628663,88340,Viola cornuta L.,,,Plantae,species
+160883550,5372639,88198,Salix babylonica L.,,,Plantae,species
+160883551,3040184,88128,Populus balsamifera L.,,,Plantae,species
+160883552,8190077,88129,Populus canadensis Moench,,,Plantae,species
+160883554,3189525,87882,Hypericum androsaemum L.,,,Plantae,species
+160883556,3066965,87820,Euphorbia lathyris L.,,,Plantae,species
+160883557,3067054,87819,Euphorbia humifusa Willd.,,,Plantae,species
+160883558,3067353,87818,Euphorbia characias L.,,,Plantae,species
+160883559,3067891,87824,Euphorbia prostrata Aiton,,,Plantae,species
+160883560,3070346,87823,Euphorbia nutans Lag.,,,Plantae,species
+160883561,3064943,87822,Euphorbia marginata Pursh,,,Plantae,species
+160883562,3067119,87821,Euphorbia maculata L.,,,Plantae,species
+160883563,3056055,87501,Acalypha virginica L.,,,Plantae,species

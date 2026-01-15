@@ -16,7 +16,6 @@ taxonKey,nubKey,taxonID,scientificName,acceptedKey,accepted,kingdom,taxonRank
 152543152,2516809,https://www.gbif.org/species/2516809,Melampsoridium betulinum (Pers.) Kleb.,,,Fungi,species
 152543157,2516419,https://www.gbif.org/species/2516419,Tranzschelia discolor (Fuckel) Tranzschel & M.A.Litv.,,,Fungi,species
 152543162,7239373,https://www.gbif.org/species/7239373,Uromyces veratri (DC.) J.Schröt.,,,Fungi,species
-152543163,6159273,https://www.gbif.org/species/6159273,"Lacerta viridis (Laurenti, 1768)",,,Animalia,species
 152543166,2516117,https://www.gbif.org/species/2516117,Gymnosporangium confusum Plowr.,,,Fungi,species
 152543167,2516137,https://www.gbif.org/species/2516137,Gymnosporangium sabinae (Dicks.) G.Winter,,,Fungi,species
 152543168,9185677,https://www.gbif.org/species/9185677,"Podarcis siculus (Rafinesque-Schmaltz, 1810)",,,Animalia,species
@@ -47,7 +46,6 @@ taxonKey,nubKey,taxonID,scientificName,acceptedKey,accepted,kingdom,taxonRank
 152543250,5414239,https://www.gbif.org/species/5414239,Ilex crenata Thunb.,,,Plantae,species
 152543251,5533814,https://www.gbif.org/species/5533814,Ilex ×meserveae S.Y.Hu,,,Plantae,species
 152543252,5220170,https://www.gbif.org/species/5220170,"Rupicapra rupicapra (Linnaeus, 1758)",,,Animalia,species
-152543254,2441122,https://www.gbif.org/species/2441122,"Ovis ammon (Linnaeus, 1758)",,,Animalia,species
 152543258,5220136,https://www.gbif.org/species/5220136,"Dama dama (Linnaeus, 1758)",,,Animalia,species
 152543260,2440954,https://www.gbif.org/species/2440954,"Cervus nippon Temminck, 1838",,,Animalia,species
 152543264,2440946,https://www.gbif.org/species/2440946,"Muntiacus reevesi (Ogilby, 1839)",,,Animalia,species
@@ -56,7 +54,6 @@ taxonKey,nubKey,taxonID,scientificName,acceptedKey,accepted,kingdom,taxonRank
 152543273,4264680,https://www.gbif.org/species/4264680,"Myocastor coypus (Molina, 1782)",,,Animalia,species
 152543277,2439838,https://www.gbif.org/species/2439838,"Castor canadensis Kuhl, 1820",,,Animalia,species
 152543281,3686235,https://www.gbif.org/species/3686235,Staphylea pinnata L.,,,Plantae,species
-152543282,5786666,https://www.gbif.org/species/5786666,"Hydrochoerus hydrochaeris (Linnaeus, 1766)",,,Animalia,species
 152543284,2437619,https://www.gbif.org/species/2437619,"Dolichotis patagonum (Zimmermann, 1780)",,,Animalia,species
 152543289,5219721,https://www.gbif.org/species/5219721,"Meriones unguiculatus (Milne-Edwards, 1867)",,,Animalia,species
 152543292,5914287,https://www.gbif.org/species/5914287,Melia azedarach L.,,,Plantae,species
@@ -75,15 +72,12 @@ taxonKey,nubKey,taxonID,scientificName,acceptedKey,accepted,kingdom,taxonRank
 152543320,7740617,https://www.gbif.org/species/7740617,Skimmia japonica Thunb.,,,Plantae,species
 152543323,5219380,https://www.gbif.org/species/5219380,"Mephitis mephitis (Schreber, 1776)",,,Animalia,species
 152543324,8077391,https://www.gbif.org/species/8077391,Citrus ×aurantium L.,,,Plantae,species
-152543327,9518324,https://www.gbif.org/species/9518324,Procyon cancrivorus G,,,Animalia,species
 152543329,5218786,https://www.gbif.org/species/5218786,"Procyon lotor (Linnaeus, 1758)",,,Animalia,species
 152543330,3190382,https://www.gbif.org/species/3190382,Ruta graveolens L.,,,Plantae,species
-152543332,2433536,https://www.gbif.org/species/2433536,"Nasua nasua (Linnaeus, 1766)",,,Animalia,species
 152543334,3190411,https://www.gbif.org/species/3190411,Ptelea trifoliata L.,,,Plantae,species
 152543337,2435035,https://www.gbif.org/species/2435035,"Felis catus Linnaeus, 1758",,,Animalia,species
 152543341,2434552,https://www.gbif.org/species/2434552,"Nyctereutes procyonoides (Gray, 1834)",,,Animalia,species
 152543345,5421180,https://www.gbif.org/species/5421180,Koelreuteria paniculata Laxm.,,,Plantae,species
-152543348,2435451,https://www.gbif.org/species/2435451,"Sarcophilus harrisii (Boitard, 1841)",,,Animalia,species
 152543350,3189939,https://www.gbif.org/species/3189939,Cardiospermum halicacabum L.,,,Plantae,species
 152543351,3189935,https://www.gbif.org/species/3189935,Cardiospermum grandiflorum Sw.,,,Plantae,species
 152543356,2436940,https://www.gbif.org/species/2436940,"Oryctolagus cuniculus (Linnaeus, 1758)",,,Animalia,species
@@ -2450,7 +2444,6 @@ taxonKey,nubKey,taxonID,scientificName,acceptedKey,accepted,kingdom,taxonRank
 159747262,2489004,https://www.gbif.org/species/2489004,"Acridotheres ginginianus (Latham, 1790)",,,Animalia,species
 159747264,2489005,https://www.gbif.org/species/2489005,"Acridotheres tristis (Linnaeus, 1766)",,,Animalia,species
 159747269,2488960,https://www.gbif.org/species/2488960,"Oriolus auratus Vieillot, 1817",,,Animalia,species
-159747272,9362842,https://www.gbif.org/species/9362842,"Junco hyemalis (Linnaeus, 1758)",,,Animalia,species
 159747275,5231103,https://www.gbif.org/species/5231103,"Zonotrichia capensis (P.L.S.Müller, 1776)",,,Animalia,species
 159747277,2492196,https://www.gbif.org/species/2492196,"Melospiza melodia (A.Wilson, 1810)",,,Animalia,species
 159747281,2492081,https://www.gbif.org/species/2492081,"Paroaria coronata (J.F.Miller, 1776)",,,Animalia,species
@@ -2595,7 +2588,6 @@ taxonKey,nubKey,taxonID,scientificName,acceptedKey,accepted,kingdom,taxonRank
 159748299,1450317,https://www.gbif.org/species/1450317,"Telmatogeton japonicus Tokunaga, 1933",,,Animalia,species
 159748319,3005039,https://www.gbif.org/species/3005039,Rosa chinensis Jacq.,,,Plantae,species
 159748397,10269496,https://www.gbif.org/species/10269496,"Epuraea imperialis (Reitter, 1877)",,,Animalia,species
-159748450,4985433,https://www.gbif.org/species/4985433,"Victorella pavida Saville-Kent, 1870",,,Animalia,species
 159748459,8428595,https://www.gbif.org/species/8428595,"Bugulina stolonifera (Ryland, 1960)",,,Animalia,species
 159748461,7668385,https://www.gbif.org/species/7668385,"Bugulina simplex (Hincks, 1886)",,,Animalia,species
 159748463,4984851,https://www.gbif.org/species/4984851,"Bugula neritina (Linnaeus, 1758)",,,Animalia,species
@@ -2736,7 +2728,6 @@ taxonKey,nubKey,taxonID,scientificName,acceptedKey,accepted,kingdom,taxonRank
 182133818,2470656,https://www.gbif.org/species/2470656,"Varanus niloticus (Linnaeus, 1766)",,,Animalia,species
 182133821,8566446,https://www.gbif.org/species/8566446,Aesculus indica (Colebr. ex Cambess.) Hook.,,,Plantae,species
 182133823,6159223,https://www.gbif.org/species/6159223,"Lacerta agilis Linnaeus, 1758",,,Animalia,species
-182133829,2470376,https://www.gbif.org/species/2470376,"Naja melanoleuca Hallowell, 1857",,,Animalia,species
 182133830,3767816,https://www.gbif.org/species/3767816,Acer japonicum Thunb.,,,Plantae,species
 182133832,2444141,https://www.gbif.org/species/2444141,"Boa Linnaeus, 1758",,,Animalia,genus
 182133833,2464899,https://www.gbif.org/species/2464899,"Boa constrictor Linnaeus, 1758",,,Animalia,species
@@ -2770,7 +2761,6 @@ taxonKey,nubKey,taxonID,scientificName,acceptedKey,accepted,kingdom,taxonRank
 182133914,2442843,https://www.gbif.org/species/2442843,"Pseudemys nelsoni Carr, 1938",,,Animalia,species
 182133916,5362046,https://www.gbif.org/species/5362046,Sedum spathulifolium Hook.,,,Plantae,species
 182133918,9803191,https://www.gbif.org/species/9803191,"Pelusios castaneus (Schweigger, 1812)",,,Animalia,species
-182133921,2442257,https://www.gbif.org/species/10545407,"Pelomedusa subrufa (Bonnaterre, 1789)",,,Animalia,species
 182133937,4194699,https://www.gbif.org/species/4194699,Ribes ×nidigrolaria Rud.Bauer & A.Bauer,,,Plantae,species
 182133941,2308609,https://www.gbif.org/species/2308609,"Potamothrix moldaviensis Vejdovský & Mrázek, 1903",,,Animalia,species
 182133944,2308549,https://www.gbif.org/species/2308549,"Limnodrilus maumeensis Brinkhurst & Cook, 1966",,,Animalia,species
@@ -2865,7 +2855,6 @@ taxonKey,nubKey,taxonID,scientificName,acceptedKey,accepted,kingdom,taxonRank
 182134960,3095939,https://www.gbif.org/species/3095939,Erigeron ×huelsenii Vatke,,,Plantae,species
 182134971,3119206,https://www.gbif.org/species/3119206,Helianthus maximiliani Schrad.,,,Plantae,species
 182134977,3115828,https://www.gbif.org/species/3115828,Filago congesta Guss. ex DC.,,,Plantae,species
-182135018,3190715,https://www.gbif.org/species/3190715,Aldrovanda vesiculosa L.,,,Plantae,species
 182135021,5384889,https://www.gbif.org/species/5384889,Abronia fragrans Nutt. ex Hook.,,,Plantae,species
 182135028,3084872,https://www.gbif.org/species/3084872,Drosanthemum floribundum (Haw.) Schwantes,,,Plantae,species
 182135052,7975549,https://www.gbif.org/species/7975549,Amaranthus ×ralletii Contré,,,Plantae,species
@@ -2888,24 +2877,10 @@ taxonKey,nubKey,taxonID,scientificName,acceptedKey,accepted,kingdom,taxonRank
 213212213,2432352,https://www.gbif.org/species/2432352,"Eptesicus fuscus (Palisot de Beauvois, 1796)",,,Animalia,species
 213212227,8699607,https://www.gbif.org/species/8699607,Mycosarcoma maydis (DC.) Bref.,,,Fungi,species
 213212253,2440196,https://www.gbif.org/species/2440196,"Macropus rufogriseus (Desmarest, 1817)",,,Animalia,species
-213212261,2515982,https://www.gbif.org/species/2515982,Uromyces croci Pass.,,,Fungi,species
 213212262,5219702,https://www.gbif.org/species/5219702,"Cavia porcellus (Linnaeus, 1758)",,,Animalia,species
-213212264,2515591,https://www.gbif.org/species/2515591,Uromyces dianthi (Pers.) Niessl,,,Fungi,species
-213212265,7239389,https://www.gbif.org/species/7239389,"Uromyces proeminens (DC.) Lév., 1847",,,Fungi,species
-213212268,2515673,https://www.gbif.org/species/2515673,Uromyces hedysari-obscuri (DC.) Carestia & Picc.,,,Fungi,species
-213212271,3377362,https://www.gbif.org/species/3377362,Puccinia porphyrogenita M.A.Curtis,,,Fungi,species
 213212272,2439270,https://www.gbif.org/species/2439270,"Rattus rattus (Linnaeus, 1758)",,,Animalia,species
-213212273,2514552,https://www.gbif.org/species/2514552,Puccinia smyrnii Biv.,,,Fungi,species
-213212274,8427910,https://www.gbif.org/species/8427910,Puccinia oreoselini (F.Strauss) Körn.,,,Fungi,species
-213212276,7805464,https://www.gbif.org/species/7805464,Puccinia nigrescens L.A.Kirchn.,,,Fungi,species
-213212278,2514415,https://www.gbif.org/species/2514415,Puccinia umbilici Guépin,,,Fungi,species
 213212281,10797854,https://www.gbif.org/species/10797854,Puccinia grisea (F.Strauss) Bonord.,,,Fungi,species
-213212282,2514345,https://www.gbif.org/species/2514345,Puccinia helianthi-mollis (Schwein.) H.S.Jacks.,,,Fungi,species
-213212284,2514574,https://www.gbif.org/species/2514574,Puccinia subnitens Dietel,,,Fungi,species
-213212286,2514484,https://www.gbif.org/species/2514484,Puccinia soldanellae (DC.) Fuckel,,,Fungi,species
-213212288,7954545,https://www.gbif.org/species/7954545,Puccinia conglomerata (F.Strauss) Röhl.,,,Fungi,species
 213212296,2437399,https://www.gbif.org/species/2437399,"Callosciurus finlaysonii (Horsfield, 1823)",,,Animalia,species
-213212299,2513597,https://www.gbif.org/species/2513597,Entyloma dahliae Syd. & P.Syd.,,,Fungi,species
 213212302,2513637,https://www.gbif.org/species/2513637,Entyloma eschscholziae Harkn.,,,Fungi,species
 213212313,3340858,https://www.gbif.org/species/3340858,Lepiota elaiophylla Vellinga & Huijser,,,Fungi,species
 213212318,5218899,https://www.gbif.org/species/5218899,"Amblonyx cinereus (Illiger, 1815)",,,Animalia,species
@@ -2967,10 +2942,8 @@ taxonKey,nubKey,taxonID,scientificName,acceptedKey,accepted,kingdom,taxonRank
 213212584,2481066,https://www.gbif.org/species/2481066,"Milvago chimachima (Vieillot, 1816)",,,Animalia,species
 213212588,2765942,https://www.gbif.org/species/2765942,Pontederia crassipes Mart.,,,Plantae,species
 213212594,5329038,https://www.gbif.org/species/5329038,Sagittaria graminea Michx.,,,Plantae,species
-213212599,2479027,https://www.gbif.org/species/2479027,"Lybius dubius (J.F.Gmelin, 1788)",,,Animalia,species
 213212605,2870049,https://www.gbif.org/species/2870049,Pinellia tripartita (Blume) Schott,,,Plantae,species
 213212609,2871376,https://www.gbif.org/species/2871376,Spirodela punctata (G.Mey.) C.H.Thomps.,,,Plantae,species
-213212612,8082581,https://www.gbif.org/species/8082581,"Synoicus chinensis (Linnaeus, 1766)",,,Animalia,species
 213212615,5330001,https://www.gbif.org/species/5330001,Dracunculus vulgaris Schott,,,Plantae,species
 213212620,2866850,https://www.gbif.org/species/2866850,Arisaema dracontium (L.) Schott,,,Plantae,species
 213212627,10236166,https://www.gbif.org/species/9817629,Lysichiton americanus × camtschatcensis,,,Plantae,species
@@ -3014,7 +2987,6 @@ taxonKey,nubKey,taxonID,scientificName,acceptedKey,accepted,kingdom,taxonRank
 213212730,9592414,https://www.gbif.org/species/9592414,Sporobolus michauxianus (Hitchc.) P.M.Peterson & Saarela,,,Plantae,species
 213212731,9379326,https://www.gbif.org/species/9379326,Sporobolus aculeatus (L.) P.M.Peterson,,,Plantae,species
 213212733,2498325,https://www.gbif.org/species/2498325,"Bucephala islandica (J.F.Gmelin, 1789)",,,Animalia,species
-213212736,11335341,https://www.gbif.org/species/11335341,Trisetaria panicea (Lam.) Maire,,,Plantae,species
 213212737,4114502,https://www.gbif.org/species/4114502,Trisetaria panicea (Lam.) Paunero,,,Plantae,species
 213212744,4154206,https://www.gbif.org/species/4154206,Polypogon imberbis (Phil.) Johow,,,Plantae,species
 213212759,4845821,https://www.gbif.org/species/4845821,"Aidemosyne modesta (Gould, 1837)",,,Animalia,species
@@ -3067,7 +3039,6 @@ taxonKey,nubKey,taxonID,scientificName,acceptedKey,accepted,kingdom,taxonRank
 213212937,2479720,https://www.gbif.org/species/2479720,"Barnardius zonarius (Shaw, 1805)",,,Animalia,species
 213212944,2702543,https://www.gbif.org/species/2702543,Dichanthelium clandestinum (L.) Gould,,,Plantae,species
 213212947,4932232,https://www.gbif.org/species/4932232,Dactylis glomerata subsp. lobata (Drejer) H.Lindb.,,,Plantae,subspecies
-213212951,2480317,https://www.gbif.org/species/2480317,"Charadrius pecuarius Temminck, 1823",,,Animalia,species
 213212952,7528816,https://www.gbif.org/species/7528816,Avena nuda Thuill.,,,Plantae,species
 213212957,8389446,https://www.gbif.org/species/8389446,Triticum turgidum subsp. dicoccum (Schrank ex Schübl.) Thell.,,,Plantae,subspecies
 213212959,6313049,https://www.gbif.org/species/6313049,Triticum turgidum subsp. polonicum (L.) Thell.,,,Plantae,subspecies
@@ -3125,7 +3096,6 @@ taxonKey,nubKey,taxonID,scientificName,acceptedKey,accepted,kingdom,taxonRank
 213213150,4139037,https://www.gbif.org/species/4139037,Eragrostis virescens J.Presl,,,Plantae,species
 213213157,5220435,https://www.gbif.org/species/5220435,"Pelodiscus sinensis Wiegmann, 1835",,,Animalia,species
 213213177,7594735,https://www.gbif.org/species/7594735,Carex curvata Knaf,,,Plantae,species
-213213178,2723909,https://www.gbif.org/species/2723909,Carex plantaginea Lam.,,,Plantae,species
 213213183,2718377,https://www.gbif.org/species/2718377,Bolboschoenus planiculmis (F.Schmidt) T.V.Egorova,,,Plantae,species
 213213188,7540482,https://www.gbif.org/species/7540482,"Cyperus longus A.Rich., 1850",,,Plantae,species
 213213191,2714166,https://www.gbif.org/species/2714166,Cyperus involucratus Rottb.,,,Plantae,species
@@ -3172,7 +3142,6 @@ taxonKey,nubKey,taxonID,scientificName,acceptedKey,accepted,kingdom,taxonRank
 213213437,3188847,https://www.gbif.org/species/3188847,Oenothera affinis Cambess.,,,Plantae,species
 213213443,7440977,https://www.gbif.org/species/7440977,Oenothera glazioviana var. azorica Rostaski,,,Plantae,variety
 213213446,3188896,https://www.gbif.org/species/3188896,Oenothera villosa Thunb.,,,Plantae,species
-213213449,8045384,https://www.gbif.org/species/8045384,"Granaria frumentum (Draparnaud, 1801)",,,Animalia,species
 213213452,3666059,https://www.gbif.org/species/3666059,Oenothera glazioviana f. rubricalyx (R.R.Gates) Lambinon,,,Plantae,form
 213213455,4567449,https://www.gbif.org/species/4567449,"Gittenbergia sororcula (Benoit, 1859)",,,Animalia,species
 213213458,6427785,https://www.gbif.org/species/6427785,Oenothera tetragona Roth,,,Plantae,species
@@ -3218,7 +3187,6 @@ taxonKey,nubKey,taxonID,scientificName,acceptedKey,accepted,kingdom,taxonRank
 213213574,7324507,https://www.gbif.org/species/7324507,Ipomoea lacunosa f. lacunosa,,,Plantae,form
 213213578,7162908,https://www.gbif.org/species/7162908,Convolvulus tricolor L.,,,Plantae,species
 213213583,7225712,https://www.gbif.org/species/7225712,Calystegia silvatica subsp. silvatica,,,Plantae,subspecies
-213213588,5341725,https://www.gbif.org/species/5341725,Jacquemontia tamnifolia (L.) Griseb.,,,Plantae,species
 213213596,7293727,https://www.gbif.org/species/7293727,Ampelopsis glandulosa (Wall.) Momiy.,,,Plantae,species
 213213599,3039203,https://www.gbif.org/species/3039203,Parthenocissus inserta (A.Kern.) Fritsch,,,Plantae,species
 213213603,5855746,https://www.gbif.org/species/5855746,"Meretrix lyrata (G.B.Sowerby II, 1851)",,,Animalia,species
@@ -3269,7 +3237,6 @@ taxonKey,nubKey,taxonID,scientificName,acceptedKey,accepted,kingdom,taxonRank
 213213824,6109535,https://www.gbif.org/species/6109535,Trifolium hybridum L.,,,Plantae,species
 213213825,5041422,https://www.gbif.org/species/5041422,"Sceliphron curvatum (F.Smith, 1870)",,,Animalia,species
 213213826,5041471,https://www.gbif.org/species/5041471,"Sceliphron destillatorium (Illiger, 1807)",,,Animalia,species
-213213827,5041423,https://www.gbif.org/species/5041423,"Sceliphron spirifex (Linnaeus, 1758)",,,Animalia,species
 213213830,1346919,https://www.gbif.org/species/1346919,"Isodontia mexicana (de Saussure, 1867)",,,Animalia,species
 213213836,5356892,https://www.gbif.org/species/5356892,Lotus parviflorus Desf.,,,Plantae,species
 213213837,7753114,https://www.gbif.org/species/7753114,Lotus corniculatus var. sativus Hyl.,,,Plantae,variety
@@ -3282,7 +3249,6 @@ taxonKey,nubKey,taxonID,scientificName,acceptedKey,accepted,kingdom,taxonRank
 213213865,1276876,https://www.gbif.org/species/1276876,"Ctenochares bicolorus (Linnaeus, 1767)",,,Animalia,species
 213213869,5869933,https://www.gbif.org/species/5869933,"Laelius pedatus (Say, 1836)",,,Animalia,species
 213213871,2956442,https://www.gbif.org/species/2956442,Colutea orientalis Mill.,,,Plantae,species
-213213874,1349836,https://www.gbif.org/species/1349836,"Hylaeus absolutus (Gribodo, 1894)",,,Animalia,species
 213213877,5354675,https://www.gbif.org/species/5354675,Chamaecytisus elongatus (Waldst. & Kit.) Link,,,Plantae,species
 213213878,1371011,https://www.gbif.org/species/1371011,"Megastigmus spermotrophus Wachtl, 1893",,,Animalia,species
 213213882,4496869,https://www.gbif.org/species/4496869,"Neuroterus saliens (Kollar, 1857)",,,Animalia,species
@@ -3375,17 +3341,12 @@ taxonKey,nubKey,taxonID,scientificName,acceptedKey,accepted,kingdom,taxonRank
 213214097,4486243,https://www.gbif.org/species/4486243,"Oxycarenus lavaterae (Fabricius, 1787)",,,Animalia,species
 213214101,2049512,https://www.gbif.org/species/2049512,"Daktulosphaira vitifoliae (Fitch, 1855)",,,Animalia,species
 213214104,7600329,https://www.gbif.org/species/7600329,Pulmonaria mollis Wulfen,,,Plantae,species
-213214109,7769968,https://www.gbif.org/species/7769968,"Tuponia brevirostris Reuter, 1883",,,Animalia,species
 213214110,9629001,https://www.gbif.org/species/9629001,"Iberodes linifolia (L.) Serrano, R.Carbajal & S.Ortiz",,,Plantae,species
 213214111,5152721,https://www.gbif.org/species/5152721,"Tuponia mixticolor (A.Costa, 1862)",,,Animalia,species
-213214114,4487661,https://www.gbif.org/species/4487661,"Dichrooscytus intermedius Reuter, 1885",,,Animalia,species
-213214116,4487660,https://www.gbif.org/species/4487660,"Dichrooscytus gustavi Josifov, 1981",,,Animalia,species
 213214119,2010226,https://www.gbif.org/species/2010226,"Sthenarus rotermundi (Scholtz, 1847)",,,Animalia,species
 213214121,4487598,https://www.gbif.org/species/4487598,"Closterotomus trivialis (A.Costa, 1853)",,,Animalia,species
 213214126,8052025,https://www.gbif.org/species/8052025,"Dicyphus escalerae Lindberg, 1934",,,Animalia,species
-213214129,4488819,https://www.gbif.org/species/4488819,"Deraeocoris annulipes (Herrich-Schaeffer, 1842)",,,Animalia,species
 213214130,4488821,https://www.gbif.org/species/4488821,"Deraeocoris flavilinea (A.Costa, 1862)",,,Animalia,species
-213214133,4487610,https://www.gbif.org/species/4487610,"Neolygus populi (Leston, 1957)",,,Animalia,species
 213214137,2008616,https://www.gbif.org/species/2008616,"Empicoris rubromaculatus (Blackburn, 1888)",,,Animalia,species
 213214139,4059971,https://www.gbif.org/species/4059971,Glandora diffusa (Lag.) D.C.Thomas,,,Plantae,species
 213214143,10972541,https://www.gbif.org/species/10972541,"Cicada barbara (Stål, 1866)",,,Animalia,species
@@ -3402,7 +3363,6 @@ taxonKey,nubKey,taxonID,scientificName,acceptedKey,accepted,kingdom,taxonRank
 213214165,2020655,https://www.gbif.org/species/2020655,"Corythucha ciliata (Say, 1832)",,,Animalia,species
 213214169,5153082,https://www.gbif.org/species/5153082,"Homotoma ficus (Linnaeus, 1758)",,,Animalia,species
 213214175,4484176,https://www.gbif.org/species/4484176,"Cacopsylla fulguralis (Kuwayama, 1908)",,,Animalia,species
-213214179,4485839,https://www.gbif.org/species/4485839,"Apodiphus amygdali (Germar, 1817)",,,Animalia,species
 213214183,2078852,https://www.gbif.org/species/2078852,"Nezara viridula (Linnaeus, 1758)",,,Animalia,species
 213214184,7318199,https://www.gbif.org/species/7318199,"Oxalis tetraphylla Link & Otto, 1828",,,Plantae,species
 213214186,9823072,https://www.gbif.org/species/9823072,Oxalis stricta L.,,,Plantae,species
@@ -3516,7 +3476,6 @@ taxonKey,nubKey,taxonID,scientificName,acceptedKey,accepted,kingdom,taxonRank
 213214571,3046929,https://www.gbif.org/species/3046929,Sisymbrium chrysanthum Jord.,,,Plantae,species
 213214572,8909595,https://www.gbif.org/species/8909595,"Faxonius limosus (Rafinesque, 1817)",,,Animalia,species
 213214577,3049314,https://www.gbif.org/species/3049314,Euclidium syriacum (L.) W.T.Aiton,,,Plantae,species
-213214578,2225770,https://www.gbif.org/species/2225770,"Hemigrapsus penicillatus (De Haan, 1835)",,,Animalia,species
 213214583,5972004,https://www.gbif.org/species/5972004,"Homarus americanus H.Milne Edwards, 1837",,,Animalia,species
 213214584,5376158,https://www.gbif.org/species/5376158,Hornungia procumbens (L.) Hayek,,,Plantae,species
 213214589,5373124,https://www.gbif.org/species/5373124,Malcolmia maritima (L.) W.T.Aiton,,,Plantae,species
@@ -3597,12 +3556,10 @@ taxonKey,nubKey,taxonID,scientificName,acceptedKey,accepted,kingdom,taxonRank
 213214852,3084748,https://www.gbif.org/species/3084748,Claytonia perfoliata Donn ex Willd.,,,Plantae,species
 213214856,7288892,https://www.gbif.org/species/7288892,Calandrinia pilosiuscula DC.,,,Plantae,species
 213214862,7624620,https://www.gbif.org/species/7624620,Rumex crispus var. robustus Rech.,,,Plantae,variety
-213214867,2888990,https://www.gbif.org/species/2888990,Rumex salicifolius Weinm.,,,Plantae,species
 213214869,2888978,https://www.gbif.org/species/2888978,Rumex pulcher L.,,,Plantae,species
 213214873,4036350,https://www.gbif.org/species/4036350,Rumex salicifolius var. triangulivalvis (Danser) J.C.Hickman,,,Plantae,variety
 213214875,2888945,https://www.gbif.org/species/2888945,Rumex brownii Campd.,,,Plantae,species
 213214878,2888982,https://www.gbif.org/species/2888982,Rumex fueginus Phil.,,,Plantae,species
-213214879,4985069,https://www.gbif.org/species/4985069,"Tricellaria ternata (Ellis & Solander, 1786)",,,Animalia,species
 213214880,2888955,https://www.gbif.org/species/2888955,Rumex pseudonatronatus Borbás,,,Plantae,species
 213214887,8909872,https://www.gbif.org/species/8909872,Rumex hypogaeus T.M.Schust. & Reveal,,,Plantae,species
 213214891,6709291,https://www.gbif.org/species/6709291,Reynoutria compacta (Hook.fil.) Nakai,,,Plantae,species
@@ -3617,9 +3574,7 @@ taxonKey,nubKey,taxonID,scientificName,acceptedKey,accepted,kingdom,taxonRank
 213214917,7291643,https://www.gbif.org/species/7291643,Persicaria filiformis (Thunb.) Nakai,,,Plantae,species
 213214920,3082279,https://www.gbif.org/species/3082279,Ceratostigma plumbaginoides Bunge,,,Plantae,species
 213214922,4088624,https://www.gbif.org/species/4088624,Limonium platyphyllum Lincz.,,,Plantae,species
-213214924,7298085,https://www.gbif.org/species/7298085,Armeria humilis subsp. humilis,,,Plantae,subspecies
 213214925,8129694,https://www.gbif.org/species/8129694,Armeria arenaria (Pers.) Schult.,,,Plantae,species
-213214926,7136602,https://www.gbif.org/species/7136602,Armeria alliacea (Cav.) Hoffmanns. & Link,,,Plantae,species
 213214932,3755928,https://www.gbif.org/species/3755928,Chenopodium album var. missouriense (Aellen) Bassett & Crompton,,,Plantae,variety
 213214933,6035638,https://www.gbif.org/species/6035638,Chenopodium probstii Aellen,,,Plantae,species
 213214934,3757050,https://www.gbif.org/species/3757050,Chenopodium berlandieri var. bushianum (Aellen) Cronquist,,,Plantae,variety
@@ -3642,7 +3597,6 @@ taxonKey,nubKey,taxonID,scientificName,acceptedKey,accepted,kingdom,taxonRank
 213214985,9440906,https://www.gbif.org/species/9440906,Sagina alexandrae Iamonico,,,Plantae,species
 213214988,6363863,https://www.gbif.org/species/6363863,Arenaria montana L.,,,Plantae,species
 213214990,5587011,https://www.gbif.org/species/5587011,Sabulina mediterranea (Ledeb. ex Link) Rchb.,,,Plantae,species
-213214992,5588185,https://www.gbif.org/species/5588185,Colobanthus subulatus (d'Urv.) Hook.fil.,,,Plantae,species
 213214996,3085366,https://www.gbif.org/species/3085366,Agrostemma brachyloba (Fenzl) K.Hammer,,,Plantae,species
 213214999,5586656,https://www.gbif.org/species/5586656,Silene linicola C.C.Gmel.,,,Plantae,species
 213215000,5384782,https://www.gbif.org/species/5384782,Silene csereii Baumg.,,,Plantae,species
@@ -3702,8 +3656,6 @@ taxonKey,nubKey,taxonID,scientificName,acceptedKey,accepted,kingdom,taxonRank
 213215178,3136320,https://www.gbif.org/species/3136320,Hieracium amplexicaule L.,,,Plantae,species
 213215179,4248063,https://www.gbif.org/species/4248063,Hieracium pulmonarioides subsp. spelaeum (Arv.-Touv.) Greuter,,,Plantae,subspecies
 213215181,4207403,https://www.gbif.org/species/4207403,Centaurea adami Willd.,,,Plantae,species
-213215182,3089549,https://www.gbif.org/species/3089549,Centaurea depressa M.Bieb.,,,Plantae,species
-213215183,8708866,https://www.gbif.org/species/8708866,Centaurea ×psammogena Gáyer,,,Plantae,species
 213215184,6076279,https://www.gbif.org/species/6076279,Centaurea diluta subsp. algeriensis (Coss. & Durieu) Maire,,,Plantae,subspecies
 213215185,3128601,https://www.gbif.org/species/3128601,Centaurea napifolia L.,,,Plantae,species
 213215186,3128225,https://www.gbif.org/species/3128225,Centaurea nigra L.,,,Plantae,species
@@ -3763,7 +3715,6 @@ taxonKey,nubKey,taxonID,scientificName,acceptedKey,accepted,kingdom,taxonRank
 213215365,2878826,https://www.gbif.org/species/2878826,Quercus pyrenaica Willd.,,,Plantae,species
 213215366,2879520,https://www.gbif.org/species/2879520,Quercus conferta Kit.,,,Plantae,species
 213215368,2882360,https://www.gbif.org/species/2882360,Fagus orientalis Lipsky,,,Plantae,species
-213215372,3054366,https://www.gbif.org/species/3054366,Juglans ailantifolia Carrière,,,Plantae,species
 213215374,4205304,https://www.gbif.org/species/4205304,Pterocarya ×rehderiana C.K.Schneid.,,,Plantae,species
 213215375,8288647,https://www.gbif.org/species/8288647,Pterocarya fraxinifolia (Poir.) Spach,,,Plantae,species
 213215379,3856436,https://www.gbif.org/species/3856436,Viburnum davidi Franch.,,,Plantae,species
@@ -3772,7 +3723,6 @@ taxonKey,nubKey,taxonID,scientificName,acceptedKey,accepted,kingdom,taxonRank
 213215387,8212772,https://www.gbif.org/species/8212772,Symphoricarpos ×doorenbosii Krüssm.,,,Plantae,species
 213215392,2888805,https://www.gbif.org/species/2888805,Scabiosa atropurpurea L.,,,Plantae,species
 213215395,7298987,https://www.gbif.org/species/7298987,Centranthus calcitrapae (L.) Dufr.,,,Plantae,species
-213215397,5598788,https://www.gbif.org/species/5598788,Lonicera ×americana (Mill.) K.Koch,,,Plantae,species
 213215398,5599249,https://www.gbif.org/species/5599249,Lonicera nitida E.H.Wilson,,,Plantae,species
 213215399,5334247,https://www.gbif.org/species/5334247,Lonicera etrusca Santi,,,Plantae,species
 213215401,2888799,https://www.gbif.org/species/2888799,Cephalaria alpina (L.) Roem. & Schult.,,,Plantae,species
@@ -3819,7 +3769,6 @@ taxonKey,nubKey,taxonID,scientificName,acceptedKey,accepted,kingdom,taxonRank
 213215528,2925616,https://www.gbif.org/species/2925616,Verbena ×hybrida Groenland & Rümpler,,,Plantae,species
 213215536,3727713,https://www.gbif.org/species/3727713,Veronica pinguifolia Hook.fil.,,,Plantae,species
 213215537,8983123,https://www.gbif.org/species/8983123,Veronica teucrium var. teucrium,,,Plantae,variety
-213215540,5414989,https://www.gbif.org/species/5414989,Digitalis lanata Ehrh.,,,Plantae,species
 213215541,5414991,https://www.gbif.org/species/5414991,Digitalis ferruginea L.,,,Plantae,species
 213215544,5415006,https://www.gbif.org/species/5415006,Linaria bipartita (Vent.) Willd.,,,Plantae,species
 213215546,8006893,https://www.gbif.org/species/8006893,Kickxia elatine subsp. sieberi (Rchb.) Hayek,,,Plantae,subspecies
@@ -3858,7 +3807,6 @@ taxonKey,nubKey,taxonID,scientificName,acceptedKey,accepted,kingdom,taxonRank
 213215673,10786206,https://www.gbif.org/species/10786206,Rhaphiolepis bibas (Lour.) Galasso & Banfi,,,Plantae,species
 213215675,2988188,https://www.gbif.org/species/2988188,Pyracantha coccinea M.Roem.,,,Plantae,species
 213215676,2988224,https://www.gbif.org/species/2988224,Pyracantha fortuneana (Maxim.) H.L.Li,,,Plantae,species
-213215678,7219988,https://www.gbif.org/species/7219988,Crataegus microphylla subsp. microphylla,,,Plantae,subspecies
 213215679,7790614,https://www.gbif.org/species/7790614,Crataegus coccinea L.,,,Plantae,species
 213215681,3000679,https://www.gbif.org/species/3000679,Chaenomeles speciosa (Sweet) Nakai,,,Plantae,species
 213215683,5362573,https://www.gbif.org/species/5362573,Pyrus communis L.,,,Plantae,species
@@ -3898,3 +3846,371 @@ taxonKey,nubKey,taxonID,scientificName,acceptedKey,accepted,kingdom,taxonRank
 213215741,3012426,https://www.gbif.org/species/3012426,Sorbus latifolia K.Koch,,,Plantae,species
 213215743,5367294,https://www.gbif.org/species/5367294,Potentilla recta L.,,,Plantae,species
 213215744,5365494,https://www.gbif.org/species/5365494,Potentilla argyrophylla var. atrosanguinea (G.Lodd. ex D.Don) Hook.fil.,,,Plantae,variety
+310015165,5855054,https://www.gbif.org/species/5855054,"Cephalothrix simula (Iwata, 1952)",,,Animalia,species
+310015173,2327326,https://www.gbif.org/species/2327326,"Neodexiospira brasiliensis (Grube, 1872)",,,Animalia,species
+310015179,2328383,https://www.gbif.org/species/2328383,"Hydroides ezoensis Okuda, 1934",,,Animalia,species
+310015191,11403089,https://www.gbif.org/species/11403089,Gongolaria baccata (S.G.Gmelin) Molinari & Guiry,,,Chromista,species
+310015194,5422716,https://www.gbif.org/species/5422716,Halidrys siliquosa (L.) Lyngb.,,,Chromista,species
+310015208,3195749,https://www.gbif.org/species/3195749,Chorda filum (L.) Stackh.,,,Chromista,species
+310015214,5422479,https://www.gbif.org/species/5422479,Laminaria digitata (Huds.) J.V.Lamour.,,,Chromista,species
+310015215,8845441,https://www.gbif.org/species/8845441,"Hirudo verbana Carena, 1820",,,Animalia,species
+310015219,4377207,https://www.gbif.org/species/4377207,"Saccharina latissima (L.) C.E.Lane, C.Mayes, Druehl & G.W.Saunders",,,Chromista,species
+310015325,5166341,https://www.gbif.org/species/5166341,"Lepas anserifera Linnaeus, 1767",,,Animalia,species
+310015327,5166345,https://www.gbif.org/species/5166345,"Lepas pectinata Spengler, 1793",,,Animalia,species
+310015329,5166339,https://www.gbif.org/species/5166339,"Lepas anatifera Linnaeus, 1758",,,Animalia,species
+310015332,2113862,https://www.gbif.org/species/2113862,"Dosima fascicularis (Ellis & Solander, 1786)",,,Animalia,species
+310015336,2113864,https://www.gbif.org/species/2113864,"Conchoderma virgatum Spengler, 1789",,,Animalia,species
+310015345,5895429,https://www.gbif.org/species/5895429,Natantiella ligneola (Berk. & Broome) Réblová,,,Fungi,species
+310015372,5281739,https://www.gbif.org/species/5281739,Grimmia elatior Bruch ex Bals.-Criv. & De Not.,,,Plantae,species
+310015389,4544445,https://www.gbif.org/species/4544445,Aceria cerrea Nalepa,,,Animalia,species
+310015394,4544238,https://www.gbif.org/species/4544238,"Acalitus phyllereus (Nalepa, 1919)",,,Animalia,species
+310015406,2653394,https://www.gbif.org/species/2653394,Ephedra saxatilis (Stapf) Royle ex Florin,,,Plantae,species
+310015410,2150501,https://www.gbif.org/species/2150501,"Spermophorides mediterranea (Senglet, 1973)",,,Animalia,species
+310015439,2168363,https://www.gbif.org/species/2168363,"Salticus mutabilis Lucas, 1846",,,Animalia,species
+310015447,2169069,https://www.gbif.org/species/2169069,"Menemerus semilimbatus (Hahn, 1829)",,,Animalia,species
+310015499,2687940,https://www.gbif.org/species/2687940,Equisetum ramosissimum Desf.,,,Plantae,species
+310015525,4505917,https://www.gbif.org/species/4505917,"Megascolia maculata (Drury, 1773)",,,Animalia,species
+310015547,1309561,https://www.gbif.org/species/1309561,"Plagiotrochus quercusilicis (Fabricius, 1798)",,,Animalia,species
+310015562,5330496,https://www.gbif.org/species/5330496,Arum concinnatum Schott,,,Plantae,species
+310015564,4504757,https://www.gbif.org/species/4504757,"Tapinoma nigerrimum (Nylander, 1856)",,,Animalia,species
+310015565,2871650,https://www.gbif.org/species/2871650,Amorphophallus albus P.Y.Liu & J.F.Chen,,,Plantae,species
+310015573,1325120,https://www.gbif.org/species/1325120,"Crematogaster scutellaris (Olivier, 1792)",,,Animalia,species
+310015603,2772020,https://www.gbif.org/species/2772020,Muscari neglectum Guss. ex Ten.,,,Plantae,species
+310015606,1523193,https://www.gbif.org/species/1523193,"Euxesta pechumani Curran, 1938",,,Animalia,species
+310015625,5048690,https://www.gbif.org/species/5048690,"Ameles decolor Charpentier, 1825",,,Animalia,species
+310015637,4423350,https://www.gbif.org/species/4423350,"Cyrtaspis scutata (Charpentier, 1825)",,,Animalia,species
+310015655,1713418,https://www.gbif.org/species/1713418,"Locusta migratoria (Linnaeus, 1758)",,,Animalia,species
+310015660,1700335,https://www.gbif.org/species/1700335,"Oedipoda germanica (Latreille, 1804)",,,Animalia,species
+310015673,2107724,https://www.gbif.org/species/2107724,"Mantispa styriaca (Poda, 1761)",,,Animalia,species
+310015677,5791733,https://www.gbif.org/species/5791733,"Anax ephippiger (Burmeister, 1839)",,,Animalia,species
+310015680,5051955,https://www.gbif.org/species/5051955,"Gomphus simillimus Selys, 1840",,,Animalia,species
+310015688,1428861,https://www.gbif.org/species/1428861,"Trithemis kirbyi Selys, 1891",,,Animalia,species
+310015690,1429199,https://www.gbif.org/species/1429199,"Leucorrhinia albifrons (Burmeister, 1839)",,,Animalia,species
+310015696,1080709,https://www.gbif.org/species/1080709,"Protaetia morio (Fabricius, 1781)",,,Animalia,species
+310015699,1112380,https://www.gbif.org/species/1112380,"Mallodon downesii Hope, 1843",,,Animalia,species
+310015704,2857829,https://www.gbif.org/species/2857829,Allium unifolium Kellogg,,,Plantae,species
+310015706,1146023,https://www.gbif.org/species/1146023,"Aegosoma scabricorne (Scopoli, 1763)",,,Animalia,species
+310015712,1102800,https://www.gbif.org/species/1102800,"Penichroa fasciata (Stephens, 1831)",,,Animalia,species
+310015732,1047525,https://www.gbif.org/species/1047525,"Acanthoscelides obtectus (Say, 1831)",,,Animalia,species
+310015734,4461680,https://www.gbif.org/species/4461680,"Bruchidius imbricornis (Panzer, 1795)",,,Animalia,species
+310015736,6950919,https://www.gbif.org/species/6950919,"Bruchidius siliquastri Delobel, 2007",,,Animalia,species
+310015740,6950681,https://www.gbif.org/species/6950681,"Megabruchidius dorsalis (Fåhraeus, 1839)",,,Animalia,species
+310015743,8498959,https://www.gbif.org/species/8498959,"Luperomorpha xanthodera (Fairmaire, 1888)",,,Animalia,species
+310015745,1047343,https://www.gbif.org/species/1047343,"Callosobruchus maculatus (Fabricius, 1775)",,,Animalia,species
+310015748,5752143,https://www.gbif.org/species/5752143,"Bruchus rufimanus Boheman, 1833",,,Animalia,species
+310015749,5752145,https://www.gbif.org/species/5752145,"Bruchus brachialis Fåhraeus, 1839",,,Animalia,species
+310015750,5752155,https://www.gbif.org/species/5752155,"Bruchus pisorum Linnaeus, 1758",,,Animalia,species
+310015756,1176471,https://www.gbif.org/species/1176471,"Polydrusus picus (Fabricius, 1792)",,,Animalia,species
+310015758,1224025,https://www.gbif.org/species/1224025,"Lixus ochraceus Boheman, 1843",,,Animalia,species
+310015790,2008840,https://www.gbif.org/species/2008840,"Zelus renardii Kolenati, 1857",,,Animalia,species
+310015804,4486330,https://www.gbif.org/species/4486330,"Spilostethus pandurus (Scopoli, 1763)",,,Animalia,species
+310015805,2715830,https://www.gbif.org/species/2715830,Cyperus vaginatus R.Br.,,,Plantae,species
+310015812,2077209,https://www.gbif.org/species/2077209,"Idiopterus nephrelepidis Davis, 1909",,,Animalia,species
+310015814,2078259,https://www.gbif.org/species/2078259,"Neotoxoptera formosana (Takahashi, 1921)",,,Animalia,species
+310015816,2072196,https://www.gbif.org/species/2072196,"Aphis nerii Boyer de Fonscolombe, 1841",,,Animalia,species
+310015817,4485136,https://www.gbif.org/species/4485136,"Aphis aurantii Boyer de Fonscolombe, 1841",,,Animalia,species
+310015828,5867595,https://www.gbif.org/species/5867595,"Platypleura kaempferi (Fabricius, 1794)",,,Animalia,species
+310015832,2013904,https://www.gbif.org/species/2013904,"Ctenarytaina eucalypti (Maskell, 1890)",,,Animalia,species
+310015836,2014352,https://www.gbif.org/species/2014352,"Livilla variegata (Löw, 1881)",,,Animalia,species
+310015847,2051533,https://www.gbif.org/species/2051533,"Agalmatium bilobum (Fieber, 1877)",,,Animalia,species
+310015861,2701281,https://www.gbif.org/species/2701281,Juncus australis Hook.fil.,,,Plantae,species
+310015864,2702056,https://www.gbif.org/species/2702056,Juncus vaginatus R.Br.,,,Plantae,species
+310015866,2701838,https://www.gbif.org/species/2701838,Juncus edgariae L.A.S.Johnson & K.L.Wilson,,,Plantae,species
+310015871,2049688,https://www.gbif.org/species/2049688,"Adelges tardus (Dreyfus, 1888)",,,Animalia,species
+310015872,2702004,https://www.gbif.org/species/2702004,Juncus usitatus L.A.S.Johnson,,,Plantae,species
+310015875,2702012,https://www.gbif.org/species/2702012,Juncus firmus L.A.S.Johnson,,,Plantae,species
+310015881,2701176,https://www.gbif.org/species/2701176,Juncus subglaucus L.A.S.Johnson,,,Plantae,species
+310015883,2701410,https://www.gbif.org/species/2701410,Juncus aridicola L.A.S.Johnson,,,Plantae,species
+310015884,8636371,https://www.gbif.org/species/8636371,"Hauptidia maroccana (Melichar, 1907)",,,Animalia,species
+310015886,2039881,https://www.gbif.org/species/2039881,"Macropsis vicina (Horváth, 1897)",,,Animalia,species
+310015887,7548011,https://www.gbif.org/species/7548011,Juncus microcephalus Kunth,,,Plantae,species
+310015890,2026623,https://www.gbif.org/species/2026623,"Pediopsoides sharmai (Viraktamath, 1981)",,,Animalia,species
+310015894,2036052,https://www.gbif.org/species/2036052,"Hishimonus hamatus Kuoh, 1976",,,Animalia,species
+310015907,4485837,https://www.gbif.org/species/4485837,"Dryadocoris apicalis (Herrich-Schäffer, 1842)",,,Animalia,species
+310015911,4485921,https://www.gbif.org/species/4485921,"Mecidea lindbergi Wagner, 1954",,,Animalia,species
+310015976,1994767,https://www.gbif.org/species/1994767,"Pycnoscelus surinamensis (Linnaeus, 1758)",,,Animalia,species
+310015986,2000167,https://www.gbif.org/species/2000167,"Periplaneta fuliginosa Serville, 1838",,,Animalia,species
+310015989,2000335,https://www.gbif.org/species/2000335,"Neostylopyga rhombifolia (Stoll, 1813)",,,Animalia,species
+310016017,1920491,https://www.gbif.org/species/1920491,"Pieris mannii (Mayer, 1851)",,,Animalia,species
+310016021,1737850,https://www.gbif.org/species/1737850,"Cydia interscindana (Möschler, 1866)",,,Animalia,species
+310016033,1857143,https://www.gbif.org/species/1857143,"Opogona omoscopa (Meyrick, 1893)",,,Animalia,species
+310016038,1882905,https://www.gbif.org/species/1882905,"Diplopseustis perieresalis (Walker, 1859)",,,Animalia,species
+310016040,1879408,https://www.gbif.org/species/1879408,"Hellula undalis (Fabricius, 1781)",,,Animalia,species
+310016045,1879691,https://www.gbif.org/species/1879691,"Eudonia angustea Curtis, 1827",,,Animalia,species
+310016049,1889905,https://www.gbif.org/species/1889905,"Pseudobissetia terrestrellus Christoph, 1885",,,Animalia,species
+310016051,1890776,https://www.gbif.org/species/1890776,Pyrausta virginalis Duponchel,,,Animalia,species
+310016055,1803163,https://www.gbif.org/species/1803163,"Utetheisa pulchella Linnaeus, 1758",,,Animalia,species
+310016057,1814653,https://www.gbif.org/species/1814653,"Dysauxes punctata Fabricius, 1781",,,Animalia,species
+310016059,1797333,https://www.gbif.org/species/1797333,"Catocala nymphagoga Esper, 1787",,,Animalia,species
+310016061,1798504,https://www.gbif.org/species/1798504,"Dysgonia algira Linnaeus, 1767",,,Animalia,species
+310016068,4533345,https://www.gbif.org/species/4533345,"Mniotype solieri (Boisduval, 1829)",,,Animalia,species
+310016071,1792768,https://www.gbif.org/species/1792768,Dryobota labecula Esper,,,Animalia,species
+310016073,5109931,https://www.gbif.org/species/5109931,"Spodoptera littoralis (Boisduval, 1833)",,,Animalia,species
+310016075,1770416,https://www.gbif.org/species/1770416,Ochropleura leucogaster Freyer,,,Animalia,species
+310016077,5113853,https://www.gbif.org/species/5113853,"Aedia leucomelas (Linnaeus, 1758)",,,Animalia,species
+310016078,5113847,https://www.gbif.org/species/5113847,Aedia funesta Esper,,,Animalia,species
+310016081,1786515,https://www.gbif.org/species/1786515,Paradiarsia punicea Hübner,,,Animalia,species
+310016104,5133088,https://www.gbif.org/species/5133088,"Danaus plexippus (Linnaeus, 1758)",,,Animalia,species
+310016116,1876624,https://www.gbif.org/species/1876624,"Elegia atrifasciella Ragonot, 1887",,,Animalia,species
+310016122,1890065,https://www.gbif.org/species/1890065,Musotima nitidalis (Walker),,,Animalia,species
+310016130,1830822,https://www.gbif.org/species/1830822,"Prays oleae Bernard, 1788",,,Animalia,species
+310016141,5716906,https://www.gbif.org/species/5716906,"Zeuxo holdichi Bamber, 1990",,,Animalia,species
+310016165,6461590,https://www.gbif.org/species/6461590,"Ptilohyale littoralis (Stimpson, 1853)",,,Animalia,species
+310016195,2203614,https://www.gbif.org/species/2203614,"Armadillidium maculatum (Risso, 1816)",,,Animalia,species
+310016217,9442269,https://www.gbif.org/species/9442269,"Procambarus virginalis Lyko, 2017",,,Animalia,species
+310016254,5290161,https://www.gbif.org/species/5290161,Phyllostachys aureosulcata McClure,,,Plantae,species
+310016257,5290167,https://www.gbif.org/species/5290167,Phyllostachys aurea (André) Rivière & C.Rivière,,,Plantae,species
+310016267,5185431,https://www.gbif.org/species/5185431,"Aurelia coerulea von Lendenfeld, 1884",,,Animalia,species
+310016289,2290489,https://www.gbif.org/species/2290489,"Todarodes sagittatus (Lamarck, 1798)",,,Animalia,species
+310016295,5189038,https://www.gbif.org/species/5189038,"Theora lubrica Gould, 1861",,,Animalia,species
+310016305,5729351,https://www.gbif.org/species/5729351,"Bucardium ringens (Bruguière, 1789)",,,Animalia,species
+310016319,4372673,https://www.gbif.org/species/4372673,"Venus casina Linnaeus, 1758",,,Animalia,species
+310016321,2287689,https://www.gbif.org/species/2287689,"Clausinella fasciata (da Costa, 1778)",,,Animalia,species
+310016325,4372803,https://www.gbif.org/species/4372803,"Gafrarium pectinatum (Linnaeus, 1758)",,,Animalia,species
+310016335,2285746,https://www.gbif.org/species/2285746,"Ischadium recurvum (Rafinesque, 1820)",,,Animalia,species
+310016339,5189500,https://www.gbif.org/species/5189500,"Limaria loscombi (G.B.Sowerby I, 1823)",,,Animalia,species
+310016353,4373699,https://www.gbif.org/species/4373699,"Talochlamys pusio (Linnaeus, 1758)",,,Animalia,species
+310016377,6126571,https://www.gbif.org/species/6126571,"Haloa japonica (Pilsbry, 1895)",,,Animalia,species
+310016383,5828232,https://www.gbif.org/species/5828232,Cenchrus setaceus (Forssk.) Morrone,,,Plantae,species
+310016418,2294129,https://www.gbif.org/species/2294129,"Rumina decollata (Linnaeus, 1758)",,,Animalia,species
+310016437,5191102,https://www.gbif.org/species/5191102,"Monacha cantiana (Montagu, 1803)",,,Animalia,species
+310016451,4564216,https://www.gbif.org/species/4564216,"Otala punctata (O.F.Müller, 1774)",,,Animalia,species
+310016460,2293404,https://www.gbif.org/species/2293404,"Tricolia pullus (Linnaeus, 1758)",,,Animalia,species
+310016465,10800497,https://www.gbif.org/species/10800497,"Steromphala tumida (Montagu, 1803)",,,Animalia,species
+310016467,7992320,https://www.gbif.org/species/7992320,"Phorcus lineatus (da Costa, 1778)",,,Animalia,species
+310016500,2292567,https://www.gbif.org/species/2292567,"Cipangopaludina chinensis (Griffith & Pidgeon, 1865)",,,Animalia,species
+310016511,2300980,https://www.gbif.org/species/2300980,"Graphis albida (Kanmacher, 1798)",,,Animalia,species
+310016516,2765359,https://www.gbif.org/species/2765359,Tradescantia zebrina Bosse,,,Plantae,species
+310016554,2685265,https://www.gbif.org/species/2685265,Cephalotaxus fortunei Hook.,,,Plantae,species
+310016560,5284682,https://www.gbif.org/species/5284682,Cedrus libani A.Rich.,,,Plantae,species
+310016599,2684102,https://www.gbif.org/species/2684102,Thujopsis dolabrata (Thunb. ex L.f.) Siebold & Zucc.,,,Plantae,species
+310016603,9990542,https://www.gbif.org/species/9990542,"Naja subfulva Laurent, 1955",,,Animalia,species
+310016608,6159243,https://www.gbif.org/species/6159243,"Lacerta bilineata Daudin, 1802",,,Animalia,species
+310016639,5788062,https://www.gbif.org/species/5788062,"Babka gymnotrachelus (Kessler, 1857)",,,Animalia,species
+310016647,2376461,https://www.gbif.org/species/2376461,"Tridentiger bifasciatus Steindachner, 1881",,,Animalia,species
+310016656,2393382,https://www.gbif.org/species/2393382,"Eleutheronema tetradactylum (Shaw, 1804)",,,Animalia,species
+310016668,5211975,https://www.gbif.org/species/5211975,"Istiophorus albicans (Latreille, 1804)",,,Animalia,species
+310016695,2498259,https://www.gbif.org/species/2498259,"Aythya nyroca (Güldenstädt, 1770)",,,Animalia,species
+310016697,2498257,https://www.gbif.org/species/2498257,"Aythya affinis (Eyton, 1838)",,,Animalia,species
+310016698,2498264,https://www.gbif.org/species/2498264,"Aythya collaris (Donovan, 1809)",,,Animalia,species
+310016706,2498350,https://www.gbif.org/species/2498350,"Somateria spectabilis (Linnaeus, 1758)",,,Animalia,species
+310016708,5232451,https://www.gbif.org/species/5232451,"Branta ruficollis (Pallas, 1769)",,,Animalia,species
+310016714,9422220,https://www.gbif.org/species/9422220,"Spatula discors (Linnaeus, 1766)",,,Animalia,species
+310016722,2498246,https://www.gbif.org/species/2498246,"Melanitta perspicillata (Linnaeus, 1758)",,,Animalia,species
+310016728,2498125,https://www.gbif.org/species/2498125,"Anas carolinensis J.F.Gmelin, 1789",,,Animalia,species
+310016732,2498302,https://www.gbif.org/species/2498302,"Oxyura leucocephala (Scopoli, 1769)",,,Animalia,species
+310016749,2498294,https://www.gbif.org/species/2498294,"Lophonetta specularioides (P.P.King, 1828)",,,Animalia,species
+310016765,2498026,https://www.gbif.org/species/2498026,"Anser erythropus (Linnaeus, 1758)",,,Animalia,species
+310016766,2917001,https://www.gbif.org/species/2917001,Asperula orientalis Boiss. & Hohen.,,,Plantae,species
+310016787,8069880,https://www.gbif.org/species/8069880,"Falco rusticolus Linnaeus, 1758",,,Animalia,species
+310016789,9584698,https://www.gbif.org/species/9584698,"Falco naumanni J.G.Fleischer, 1818",,,Animalia,species
+310016790,2481062,https://www.gbif.org/species/2481062,"Falco vespertinus Linnaeus, 1766",,,Animalia,species
+310016798,2496287,https://www.gbif.org/species/2496287,"Coccyzus americanus (Linnaeus, 1758)",,,Animalia,species
+310016801,2496464,https://www.gbif.org/species/2496464,"Clamator glandarius (Linnaeus, 1758)",,,Animalia,species
+310016820,2474863,https://www.gbif.org/species/2474863,"Chlamydotis macqueenii (J.E.Gray, 1832)",,,Animalia,species
+310016824,5228228,https://www.gbif.org/species/5228228,"Tetrax tetrax (Linnaeus, 1758)",,,Animalia,species
+310016826,2474921,https://www.gbif.org/species/2474921,"Otis tarda Linnaeus, 1758",,,Animalia,species
+310016830,2475419,https://www.gbif.org/species/2475419,"Merops persicus Pallas, 1773",,,Animalia,species
+310016840,3189912,https://www.gbif.org/species/3189912,Peganum harmala L.,,,Plantae,species
+310016841,2475365,https://www.gbif.org/species/2475365,"Coracias garrulus Linnaeus, 1758",,,Animalia,species
+310016848,2480353,https://www.gbif.org/species/2480353,"Pelecanus crispus Bruch, 1832",,,Animalia,species
+310016861,2480773,https://www.gbif.org/species/2480773,"Plegadis falcinellus (Linnaeus, 1766)",,,Animalia,species
+310016870,2480906,https://www.gbif.org/species/2480906,"Ardeola ralloides (Scopoli, 1769)",,,Animalia,species
+310016878,2481962,https://www.gbif.org/species/2481962,"Gavia immer (Brunnich, 1764)",,,Animalia,species
+310016879,2481957,https://www.gbif.org/species/2481957,"Gavia adamsii (G.R.Gray, 1859)",,,Animalia,species
+310016880,2481959,https://www.gbif.org/species/2481959,"Gavia arctica (Linnaeus, 1758)",,,Animalia,species
+310016884,3768452,https://www.gbif.org/species/3768452,Acer griseum (Franch.) Pax,,,Plantae,species
+310016886,2495681,https://www.gbif.org/species/2495681,"Streptopelia orientalis (Latham, 1790)",,,Animalia,species
+310016889,3189884,https://www.gbif.org/species/3189884,Acer circinatum Pursh,,,Plantae,species
+310016919,2891607,https://www.gbif.org/species/2891607,Pelargonium panduriforme Eckl. & Zeyh.,,,Plantae,species
+310016920,2891614,https://www.gbif.org/species/2891614,Pelargonium grossularioides (L.) L'Hér.,,,Plantae,species
+310016928,7841302,https://www.gbif.org/species/7841302,Erodium geoides A.St.-Hil.,,,Plantae,species
+310016933,2482077,https://www.gbif.org/species/2482077,"Podilymbus podiceps (Linnaeus, 1758)",,,Animalia,species
+310016975,5414248,https://www.gbif.org/species/5414248,Ilex opaca Aiton,,,Plantae,species
+310016977,5414267,https://www.gbif.org/species/5414267,Ilex verticillata (L.) A.Gray,,,Plantae,species
+310016980,5228695,https://www.gbif.org/species/5228695,"Apus pallidus (Shelley, 1870)",,,Animalia,species
+310016982,5228662,https://www.gbif.org/species/5228662,"Apus affinis (J.E.Gray, 1830)",,,Animalia,species
+310016985,2477411,https://www.gbif.org/species/2477411,"Tachymarptis melba (Linnaeus, 1758)",,,Animalia,species
+310016992,5959111,https://www.gbif.org/species/5959111,"Bubo africanus (Temminck, 1821)",,,Animalia,species
+310016993,5959143,https://www.gbif.org/species/5959143,"Bubo scandiacus (Linnaeus, 1758)",,,Animalia,species
+310016994,2888490,https://www.gbif.org/species/2888490,Argemone ochroleuca Sweet,,,Plantae,species
+310016998,2497701,https://www.gbif.org/species/2497701,"Otus scops (Linnaeus, 1758)",,,Animalia,species
+310017005,10095118,https://www.gbif.org/species/10095118,"Microcarbo pygmaeus (Pallas, 1773)",,,Animalia,species
+310017010,2481930,https://www.gbif.org/species/2481930,"Cathartes aura (Linnaeus, 1758)",,,Animalia,species
+310017013,2480491,https://www.gbif.org/species/2480491,"Circus macrourus (S.G.Gmelin, 1770)",,,Animalia,species
+310017015,2480696,https://www.gbif.org/species/2480696,"Neophron percnopterus (Linnaeus, 1758)",,,Animalia,species
+310017020,2480649,https://www.gbif.org/species/2480649,"Gypaetus barbatus (Linnaeus, 1758)",,,Animalia,species
+310017022,2480524,https://www.gbif.org/species/2480524,"Buteo lagopus (Pontoppidan, 1763)",,,Animalia,species
+310017024,2480564,https://www.gbif.org/species/2480564,"Buteo rufinus (Cretzschmar, 1829)",,,Animalia,species
+310017029,2480666,https://www.gbif.org/species/2480666,"Circaetus gallicus (Gmelin, 1788)",,,Animalia,species
+310017032,5229165,https://www.gbif.org/species/5229165,"Aegypius monachus (Linnaeus, 1766)",,,Animalia,species
+310017036,2480685,https://www.gbif.org/species/2480685,"Hieraaetus pennatus (Gmelin, 1788)",,,Animalia,species
+310017039,2480513,https://www.gbif.org/species/2480513,"Aquila nipalensis Hodgson, 1833",,,Animalia,species
+310017040,2480506,https://www.gbif.org/species/2480506,"Aquila chrysaetos (Linnaeus, 1758)",,,Animalia,species
+310017041,2480500,https://www.gbif.org/species/2480500,"Aquila heliaca Savigny, 1809",,,Animalia,species
+310017043,5844449,https://www.gbif.org/species/5844449,"Aquila fasciata Vieillot, 1822",,,Animalia,species
+310017046,2480372,https://www.gbif.org/species/2480372,"Elanus caeruleus (Desfontaines, 1789)",,,Animalia,species
+310017048,2480659,https://www.gbif.org/species/2480659,"Polyboroides typus A.Smith, 1829",,,Animalia,species
+310017050,2480389,https://www.gbif.org/species/2480389,"Gyps fulvus (Hablizl, 1783)",,,Animalia,species
+310017051,2480384,https://www.gbif.org/species/2480384,"Gyps rueppellii (A.E.Brehm, 1852)",,,Animalia,species
+310017055,2490681,https://www.gbif.org/species/2490681,"Calandrella brachydactyla (Leisler, 1814)",,,Animalia,species
+310017065,2493060,https://www.gbif.org/species/2493060,"Phylloscopus coronatus (Temminck & Schlegel, 1847)",,,Animalia,species
+310017066,7341522,https://www.gbif.org/species/7341522,"Phylloscopus humei (W.E.Brooks, 1878)",,,Animalia,species
+310017070,5846290,https://www.gbif.org/species/5846290,"Saxicola maurus (Pallas, 1773)",,,Animalia,species
+310017082,2482515,https://www.gbif.org/species/2482515,"Corvus cornix Linnaeus, 1758",,,Animalia,species
+310017087,7277720,https://www.gbif.org/species/7277720,Thalictrum lucidum L.,,,Plantae,species
+310017094,11081628,https://www.gbif.org/species/11081628,"Stilpnia vitriolina (Cabanis, 1851)",,,Animalia,species
+310017112,2487430,https://www.gbif.org/species/2487430,"Vireo olivaceus (Linnaeus, 1766)",,,Animalia,species
+310017124,5231640,https://www.gbif.org/species/5231640,"Spinus tristis (Linnaeus, 1758)",,,Animalia,species
+310017137,6100888,https://www.gbif.org/species/6100888,"Geokichla sibirica (Pallas, 1776)",,,Animalia,species
+310017143,2487877,https://www.gbif.org/species/2487877,"Cyanistes cyanus (Pallas, 1770)",,,Animalia,species
+310017148,2492854,https://www.gbif.org/species/2492854,"Lanius minor Gmelin, 1788",,,Animalia,species
+310017150,4408670,https://www.gbif.org/species/4408670,"Lanius phoenicuroides (Schalow, 1875)",,,Animalia,species
+310017151,9273219,https://www.gbif.org/species/9273219,"Lanius schach Linnaeus, 1758",,,Animalia,species
+310017152,2492867,https://www.gbif.org/species/2492867,"Lanius senator Linnaeus, 1758",,,Animalia,species
+310017153,2492865,https://www.gbif.org/species/2492865,"Lanius isabellinus Hemprich & Ehrenberg, 1833",,,Animalia,species
+310017155,2492846,https://www.gbif.org/species/2492846,"Lanius cristatus Linnaeus, 1758",,,Animalia,species
+310017158,2484605,https://www.gbif.org/species/2484605,"Bombycilla garrulus (Linnaeus, 1758)",,,Animalia,species
+310017169,2493987,https://www.gbif.org/species/2493987,"Quelea quelea (Linnaeus, 1758)",,,Animalia,species
+310017177,7340335,https://www.gbif.org/species/7340335,"Euodice cantans (Gmelin, 1789)",,,Animalia,species
+310017186,4408455,https://www.gbif.org/species/4408455,"Hydrobates pelagicus (Linnaeus, 1758)",,,Animalia,species
+310017190,2481410,https://www.gbif.org/species/2481410,"Thalassarche melanophris (Temminck, 1828)",,,Animalia,species
+310017194,5229360,https://www.gbif.org/species/5229360,"Puffinus mauretanicus Lowe, 1921",,,Animalia,species
+310017211,2481312,https://www.gbif.org/species/2481312,"Cepphus grylle (Linnaeus, 1758)",,,Animalia,species
+310017214,2481339,https://www.gbif.org/species/2481339,"Uria lomvia (Linnaeus, 1758)",,,Animalia,species
+310017217,7406504,https://www.gbif.org/species/7406504,"Ichthyaetus audouinii (Payraudeau, 1826)",,,Animalia,species
+310017218,8028588,https://www.gbif.org/species/8028588,"Ichthyaetus ichthyaetus (Pallas, 1773)",,,Animalia,species
+310017221,2481263,https://www.gbif.org/species/2481263,"Gelochelidon nilotica (J.F.Gmelin, 1789)",,,Animalia,species
+310017223,6065818,https://www.gbif.org/species/6065818,"Chroicocephalus philadelphia (Ord, 1815)",,,Animalia,species
+310017225,6065810,https://www.gbif.org/species/6065810,"Chroicocephalus genei (Brème, 1839)",,,Animalia,species
+310017228,2481285,https://www.gbif.org/species/2481285,"Thalasseus elegans (Gambel, 1849)",,,Animalia,species
+310017230,5229249,https://www.gbif.org/species/5229249,"Sterna dougallii Montagu, 1813",,,Animalia,species
+310017231,5229247,https://www.gbif.org/species/5229247,"Sterna forsteri Nuttall, 1834",,,Animalia,species
+310017234,2481218,https://www.gbif.org/species/2481218,"Rhodostethia rosea (W.MacGillivray, 1824)",,,Animalia,species
+310017236,5846430,https://www.gbif.org/species/5846430,"Leucophaeus pipixcan (Wagler, 1831)",,,Animalia,species
+310017237,6065844,https://www.gbif.org/species/6065844,"Leucophaeus atricilla (Linnaeus, 1758)",,,Animalia,species
+310017240,2481156,https://www.gbif.org/species/2481156,"Larus glaucoides B.Meyer, 1822",,,Animalia,species
+310017241,2481134,https://www.gbif.org/species/2481134,"Larus delawarensis Ord, 1815",,,Animalia,species
+310017242,2481127,https://www.gbif.org/species/2481127,"Larus hyperboreus Gunnerus, 1767",,,Animalia,species
+310017245,5789286,https://www.gbif.org/species/5789286,"Onychoprion anaethetus (Scopoli, 1786)",,,Animalia,species
+310017249,2481831,https://www.gbif.org/species/2481831,"Gallinago media (Latham, 1787)",,,Animalia,species
+310017252,2481782,https://www.gbif.org/species/2481782,"Numenius minutus Gould, 1841",,,Animalia,species
+310017253,2481789,https://www.gbif.org/species/2481789,"Numenius tenuirostris Vieillot, 1817",,,Animalia,species
+310017255,2481670,https://www.gbif.org/species/2481670,"Limnodromus scolopaceus (Say, 1822)",,,Animalia,species
+310017257,5229389,https://www.gbif.org/species/5229389,"Phalaropus tricolor (Vieillot, 1819)",,,Animalia,species
+310017259,7537888,https://www.gbif.org/species/7537888,"Calidris falcinellus (Pontoppidan, 1763)",,,Animalia,species
+310017260,2481770,https://www.gbif.org/species/2481770,"Calidris bairdii (Coues, 1861)",,,Animalia,species
+310017261,2481745,https://www.gbif.org/species/2481745,"Calidris minutilla (Vieillot, 1819)",,,Animalia,species
+310017262,2481744,https://www.gbif.org/species/2481744,"Calidris melanotos (Vieillot, 1819)",,,Animalia,species
+310017263,2481756,https://www.gbif.org/species/2481756,"Calidris fuscicollis (Vieillot, 1819)",,,Animalia,species
+310017264,8292425,https://www.gbif.org/species/8292425,"Calidris subruficollis (Vieillot, 1819)",,,Animalia,species
+310017266,2481769,https://www.gbif.org/species/2481769,"Calidris acuminata (Horsfield, 1821)",,,Animalia,species
+310017267,2481746,https://www.gbif.org/species/2481746,"Calidris ruficollis (Pallas, 1776)",,,Animalia,species
+310017269,2481703,https://www.gbif.org/species/2481703,"Xenus cinereus (Güldenstädt, 1775)",,,Animalia,species
+310017272,2481719,https://www.gbif.org/species/2481719,"Tringa stagnatilis (Bechstein, 1803)",,,Animalia,species
+310017273,2481720,https://www.gbif.org/species/2481720,"Tringa melanoleuca (J.F.Gmelin, 1789)",,,Animalia,species
+310017275,2481721,https://www.gbif.org/species/2481721,"Tringa flavipes (J.F.Gmelin, 1789)",,,Animalia,species
+310017277,2481798,https://www.gbif.org/species/2481798,"Actitis macularius (Linnaeus, 1766)",,,Animalia,species
+310017281,2480757,https://www.gbif.org/species/2480757,"Glareola pratincola (Linnaeus, 1766)",,,Animalia,species
+310017282,2480758,https://www.gbif.org/species/2480758,"Glareola nordmanni Fischer von Waldheim, 1842",,,Animalia,species
+310017289,2480328,https://www.gbif.org/species/2480328,"Pluvialis dominica (P.L.S.Müller, 1776)",,,Animalia,species
+310017290,2480331,https://www.gbif.org/species/2480331,"Pluvialis fulva (J.F.Gmelin, 1789)",,,Animalia,species
+310017293,5229147,https://www.gbif.org/species/5229147,"Vanellus leucurus (M.H.K.Lichtenstein, 1823)",,,Animalia,species
+310017294,5229131,https://www.gbif.org/species/5229131,"Vanellus indicus (Boddaert, 1783)",,,Animalia,species
+310017296,5229138,https://www.gbif.org/species/5229138,"Vanellus gregarius (Pallas, 1771)",,,Animalia,species
+310017318,3042809,https://www.gbif.org/species/3042809,Brassica fruticulosa Cirillo,,,Plantae,species
+310017340,2442165,https://www.gbif.org/species/2442165,"Lepidochelys kempii Garman, 1880",,,Animalia,species
+310017343,8894817,https://www.gbif.org/species/8894817,"Caretta caretta (Linnaeus, 1758)",,,Animalia,species
+310017388,2422538,https://www.gbif.org/species/2422538,"Duttaphrynus melanostictus (Schneider, 1799)",,,Animalia,species
+310017423,5220003,https://www.gbif.org/species/5220003,"Delphinapterus leucas (Pallas, 1776)",,,Animalia,species
+310017425,5220008,https://www.gbif.org/species/5220008,"Monodon monoceros Linnaeus, 1758",,,Animalia,species
+310017429,2440483,https://www.gbif.org/species/2440483,"Orcinus orca (Linnaeus, 1758)",,,Animalia,species
+310017433,5220086,https://www.gbif.org/species/5220086,"Megaptera novaeangliae (Borowski, 1781)",,,Animalia,species
+310017440,5218525,https://www.gbif.org/species/5218525,"Nyctalus lasiopterus (Schreber, 1780)",,,Animalia,species
+310017448,2441055,https://www.gbif.org/species/2441055,"Capra ibex Linnaeus, 1758",,,Animalia,species
+310017462,5334269,https://www.gbif.org/species/5334269,Lonicera caerulea L.,,,Plantae,species
+310017465,5334268,https://www.gbif.org/species/5334268,Lonicera fragrantissima Lindl. & Paxton,,,Plantae,species
+310017474,5219369,https://www.gbif.org/species/5219369,"Pusa hispida (Schreber, 1775)",,,Animalia,species
+310017479,3856322,https://www.gbif.org/species/3856322,Weigela japonica Thunb.,,,Plantae,species
+310017555,6479063,https://www.gbif.org/species/6479063,"Prosthiostomum wagurensis Kato, 1944",,,Animalia,species
+310017560,2503215,https://www.gbif.org/species/2503215,"Euplana gracilis Girard, 1853",,,Animalia,species
+310017562,5382780,https://www.gbif.org/species/5382780,Phyllanthus urinaria L.,,,Plantae,species
+310017592,8155634,https://www.gbif.org/species/8155634,"Watersipora subatra (Ortmann, 1890)",,,Animalia,species
+310017601,3066495,https://www.gbif.org/species/3066495,Euphorbia segetalis L.,,,Plantae,species
+310017604,1007512,https://www.gbif.org/species/1007512,"Pacificincola perforata (Okada & Mawatari, 1937)",,,Animalia,species
+310017624,2874529,https://www.gbif.org/species/2874529,Cyclanthera pedata (L.) Schrad.,,,Plantae,species
+310017641,3082274,https://www.gbif.org/species/3082274,Cornus kousa Bürger ex Hance,,,Plantae,species
+310017651,3966592,https://www.gbif.org/species/3966592,Cullen leucanthum (F.Muell.) J.W.Grimes,,,Plantae,species
+310017652,3966547,https://www.gbif.org/species/3966547,Cullen tenax (Lindl.) J.W.Grimes,,,Plantae,species
+310017658,2972983,https://www.gbif.org/species/2972983,Albizia julibrissin Durazz.,,,Plantae,species
+310017668,2971499,https://www.gbif.org/species/2971499,Indigofera linnaei Ali,,,Plantae,species
+310017680,5358823,https://www.gbif.org/species/5358823,Trifolium leucanthum M.Bieb.,,,Plantae,species
+310017681,5359414,https://www.gbif.org/species/5359414,Trifolium cernuum Brot.,,,Plantae,species
+310017684,2952882,https://www.gbif.org/species/2952882,Bituminaria bituminosa (L.) C.H.Stirt.,,,Plantae,species
+310017692,2965747,https://www.gbif.org/species/2965747,Glycyrrhiza acanthocarpa (Lindl.) J.M.Black,,,Plantae,species
+310017696,2942291,https://www.gbif.org/species/2942291,Crotalaria medicaginea Lam.,,,Plantae,species
+310017703,5356354,https://www.gbif.org/species/5356354,Ceratonia siliqua L.,,,Plantae,species
+310017709,2956964,https://www.gbif.org/species/2956964,Senna barclayana (Sweet) Randell,,,Plantae,species
+310017710,2956979,https://www.gbif.org/species/2956979,Senna planitiicola (Domin) Randell,,,Plantae,species
+310017721,4090162,https://www.gbif.org/species/4090162,Armeria pseudarmeria (Murray) Mansf.,,,Plantae,species
+310017752,5554574,https://www.gbif.org/species/5554574,Tetragonia tetragonoides (Pall.) Kuntze,,,Plantae,species
+310017790,6391377,https://www.gbif.org/species/6391377,Rumex triangulivalvis (Danser) Rech.fil.,,,Plantae,species
+310017792,2889320,https://www.gbif.org/species/2889320,Persicaria virginiana (L.) Gaertn.,,,Plantae,species
+310017799,3084740,https://www.gbif.org/species/3084740,Claytonia rubra (Howell) Tidestr.,,,Plantae,species
+310017806,7912535,https://www.gbif.org/species/7912535,Falkia repens L.fil.,,,Plantae,species
+310017808,3680974,https://www.gbif.org/species/3680974,Ipomoea lonchophylla J.M.Black,,,Plantae,species
+310017812,3678785,https://www.gbif.org/species/3678785,Convolvulus graminetinus R.W.Johnson,,,Plantae,species
+310017813,3679569,https://www.gbif.org/species/3679569,Convolvulus farinosus L.,,,Plantae,species
+310017814,7324396,https://www.gbif.org/species/7324396,Convolvulus clementii Domin,,,Plantae,species
+310017862,3145311,https://www.gbif.org/species/3145311,Smallanthus sonchifolius (Poepp. & Endl.) H.Rob.,,,Plantae,species
+310017871,3128725,https://www.gbif.org/species/3128725,Centaurea varnensis Velen.,,,Plantae,species
+310017898,3121525,https://www.gbif.org/species/3121525,Artemisia gilvescens Miq.,,,Plantae,species
+310018006,5414975,https://www.gbif.org/species/5414975,Scoparia montevidensis (Spreng.) R.E.Fr.,,,Plantae,species
+310018045,2925562,https://www.gbif.org/species/2925562,Vitex agnus-castus L.,,,Plantae,species
+310018060,2927045,https://www.gbif.org/species/2927045,Salvia microphylla Kunth,,,Plantae,species
+310018137,2891661,https://www.gbif.org/species/2891661,Oxalis pes-caprae L.,,,Plantae,species
+310018148,2882758,https://www.gbif.org/species/2882758,Gaultheria shallon Pursh,,,Plantae,species
+310018162,3032980,https://www.gbif.org/species/3032980,Diospyros lotus L.,,,Plantae,species
+310018177,3189636,https://www.gbif.org/species/3189636,Camellia japonica L.,,,Plantae,species
+310018192,5362063,https://www.gbif.org/species/5362063,Crassula ovata (Mill.) Druce,,,Plantae,species
+310018195,3702764,https://www.gbif.org/species/3702764,Corylopsis spicata Siebold & Zucc.,,,Plantae,species
+310018211,11742641,https://www.gbif.org/species/11742641,Myriophyllum rubricaule Valk. & Duist.,,,Plantae,species
+310018218,3940858,https://www.gbif.org/species/3940858,Abelmoschus ficulneus (L.) Wight & Arn. ex Wight,,,Plantae,species
+310018222,3937556,https://www.gbif.org/species/3937556,Abutilon malvifolium (Benth.) J.M.Black,,,Plantae,species
+310018223,3937065,https://www.gbif.org/species/3937065,Abutilon nobile Domin,,,Plantae,species
+310018224,7279347,https://www.gbif.org/species/7279347,Abutilon guineense (Schum.) Baker fil. & Exell,,,Plantae,species
+310018225,3937851,https://www.gbif.org/species/3937851,Abutilon lepidum (F.Muell.) A.S.Mitch.,,,Plantae,species
+310018226,3935859,https://www.gbif.org/species/3935859,Abutilon sonneratianum (Cav.) Sweet,,,Plantae,species
+310018227,7279119,https://www.gbif.org/species/7279119,Abutilon oxycarpum (F.Muell.) Benth.,,,Plantae,species
+310018229,5619178,https://www.gbif.org/species/5619178,Pavonia columella Cav.,,,Plantae,species
+310018230,5617982,https://www.gbif.org/species/5617982,Pavonia urens Cav.,,,Plantae,species
+310018232,3935695,https://www.gbif.org/species/3935695,Fuertesimalva echinata (J.Presl) Fryxell,,,Plantae,species
+310018234,3937996,https://www.gbif.org/species/3937996,Sphaeralcea purpurata (Lindl.) Krapov.,,,Plantae,species
+310018237,3152514,https://www.gbif.org/species/3152514,Herissantia crispa (L.) Brizicky,,,Plantae,species
+310018239,3152084,https://www.gbif.org/species/3152084,Corchorus olitorius L.,,,Plantae,species
+310018240,3152090,https://www.gbif.org/species/3152090,Corchorus tridens L.,,,Plantae,species
+310018241,3152081,https://www.gbif.org/species/3152081,Corchorus trilocularis L.,,,Plantae,species
+310018245,3152253,https://www.gbif.org/species/3152253,Urena lobata L.,,,Plantae,species
+310018251,4261116,https://www.gbif.org/species/4261116,Triumfetta annua L.,,,Plantae,species
+310018253,5618579,https://www.gbif.org/species/5618579,Sida hackettiana W.Fitzg.,,,Plantae,species
+310018254,5617809,https://www.gbif.org/species/5617809,Sida platycalyx F.Muell. ex Benth.,,,Plantae,species
+310018255,7278666,https://www.gbif.org/species/7278666,Sida atherophora Domin,,,Plantae,species
+310018256,5619128,https://www.gbif.org/species/5619128,Sida cerradoensis Krapov.,,,Plantae,species
+310018257,5619253,https://www.gbif.org/species/5619253,Sida brachypoda A.E.Holland & S.T.Reynolds,,,Plantae,species
+310018258,7278839,https://www.gbif.org/species/7278839,Sida rohlenae Domin,,,Plantae,species
+310018259,5406755,https://www.gbif.org/species/5406755,Sida cordifolia L.,,,Plantae,species
+310018260,5617151,https://www.gbif.org/species/5617151,Sida variegata (Griseb.) Krapov.,,,Plantae,species
+310018261,3933670,https://www.gbif.org/species/3933670,Sida acuta Burm.fil.,,,Plantae,species
+310018263,5618470,https://www.gbif.org/species/5618470,Lawrencia glomerata Hook.,,,Plantae,species
+310018265,7579470,https://www.gbif.org/species/7579470,Hibiscus verdcourtii Craven,,,Plantae,species
+310018266,3152547,https://www.gbif.org/species/3152547,Hibiscus cannabinus L.,,,Plantae,species
+310018267,3940696,https://www.gbif.org/species/3940696,Hibiscus tridactylites Lindl.,,,Plantae,species
+310018269,3152125,https://www.gbif.org/species/3152125,Melochia corchorifolia L.,,,Plantae,species
+310018271,7931233,https://www.gbif.org/species/7931233,Waltheria rotundifolia Schrank,,,Plantae,species
+310018273,8248445,https://www.gbif.org/species/8248445,Malva weinmanniana (Besser ex Rchb.) Conran,,,Plantae,species
+310018275,4261619,https://www.gbif.org/species/4261619,Tilia henryana Szyszyl.,,,Plantae,species
+310018301,7141655,https://www.gbif.org/species/7141655,Celtis caucasica Willd.,,,Plantae,species
+310018302,2984481,https://www.gbif.org/species/2984481,Celtis occidentalis L.,,,Plantae,species
+310018309,3025684,https://www.gbif.org/species/3025684,Cotoneaster gamblei G.Klotz,,,Plantae,species
+310018320,3021357,https://www.gbif.org/species/3021357,Prunus nipponica Matsum.,,,Plantae,species
+310018337,3013404,https://www.gbif.org/species/3013404,Crataegus crus-galli L.,,,Plantae,species
