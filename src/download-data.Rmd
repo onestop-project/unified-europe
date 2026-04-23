@@ -30,15 +30,19 @@ checklists <- yaml::read_yaml(here::here("src", "checklists.yml"))
 ## Filter checklists if needed
 
 ```{r}
-# checklists <- purrr::keep(checklists, ~ .x$country %in% c("Austria", "Belarus")) 
+# checklists <- purrr::keep(checklists, ~ .x$country %in% c("Belgium")) 
 ```
 
 # Download taxa and distributions
 
 ```{r}
 save_taxa_and_distributions <- function(datasetKey, directory) {
+  country <- basename(directory)
+  cli::cli_h1(country)
   cli::cli_h2("Downloading files")
+  cli::cli_ul("Downloading taxa")
   taxa <- elodea::get_taxa(datasetKey)
+  cli::cli_ul("Downloading distributions")
   distributions <- elodea::get_distributions(datasetKey, taxa)
   taxa_path <- file.path(directory, "taxa.csv")
   distributions_path <- file.path(directory, "distributions.csv")
