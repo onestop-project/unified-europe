@@ -1,57 +1,67 @@
-taxonKey,nubKey,taxonID,scientificName,acceptedKey,accepted,kingdom,taxonRank
-201348180,9237565,,Mawia benovici,,,Animalia,
-201348337,2643093,,Caulerpa racemosa (Forssk.) J.Agardh,,,Plantae,
-201348621,4289220,,"Euphione tenuisetosa Gravier, 1901",,,Animalia,
-201348312,2656854,,Anotrichium furcellatum (J.Agardh) Baldock,,,Plantae,
-201348315,2657657,,Antithamnionella boergesenii (Cormaci & G.Furnari) Athanas.,,,Plantae,
-201348301,5277736,,Polysiphonia fucoides,,,Plantae,
-201348296,5277464,,Polysiphonia setacea,,,Plantae,
-201348307,7776152,,Neosiphonia harveyi,,,Plantae,
-201348436,5329463,,Najas chinensis,,,Plantae,
-201348396,2714156,,Cyperus alternifolius L.,,,Plantae,
-201348374,2702843,,Hilaria jamesii Benth.,,,Plantae,
-201348371,2705162,,Panicum capillare,,,Plantae,
-201348391,2702808,,Echinochloa crus-galli (L.) P.Beauv.,,,Plantae,
-201348363,4135892,,Lachnagrostis lachnantha,,,Plantae,
-149688024,2702820,,Echinochloa oryzoides (Ard.) Fritsch,,,Plantae,
-201348277,9520065,,"Ferrissia californica (Rowell, 1863)",,,Animalia,
-201348407,2750383,,Gladiolus tristis L.,,,Plantae,
-201348416,2859597,,Ipheion uniflorum Raf.,,,Plantae,
-201348584,2115692,,"Balanus tintinnabulum (Linnaeus, 1758)",,,Animalia,
-201348424,2768686,,Asparagus setaceus (Kunth) Jessop,,,Plantae,
-201348482,3039193,,Parthenocissus vitacea,,,Plantae,
-201348666,2891605,,Pelargonium peltatum,,,Plantae,
-201348571,2223511,,Trachysalambria curvirostris,,,Animalia,
-201348572,2223838,,"Farfantepenaeus aztecus (Ives, 1891)",,,Animalia,
-201348669,7655426,,Cucurbita maxima (Duchesne) Duchesne ex Poir.,,,Plantae,
-201348558,5974552,,"Gonioinfradens paucidentatus (A.Milne Edwards, 1861)",,,Animalia,
-201348566,2927490,,Cuscuta pentagona Engelm.,,,Plantae,
-201348557,8968455,,Solanum nigrum,,,Plantae,
-201348561,2929800,,Solanum angustifolium,,,Plantae,
-201348554,2930137,,Solanum lycopersicum,,,Plantae,
-149688279,8969026,,Physalis philadelphica Lam.,,,Plantae,
-201348675,3020791,,Prunus avium,,,Plantae,
-201348676,3001093,,Malus pumila,,,Plantae,
-201348382,7504253,,Stellagama stellio,,,Animalia,
-201348575,2925870,,Amsinckia menziesii (Lehm.) A.Nels.Macbr.,,,Plantae,
-201348520,7350944,,Daucus carota subsp. sativus (Hoffm.) Schübl. & Martens,,,Plantae,
-201348518,8350395,,Cyclospermum leptophyllum (Pers.) Sprague,,,Plantae,
-201348410,9377860,,Planiliza haematocheila,,,Animalia,
-149688500,3188894,,Oenothera glazioviana Micheli,,,Plantae,
-201348588,3094253,,Symphyotrichum subulatum,,,Plantae,
-201348605,3088488,,Tagetes erecta,,,Plantae,
-201348601,9568148,,Osteospermum barberae,,,Plantae,
-201348596,5384955,,Eclipta alba Hassk.,,,Plantae,
-201348433,4285694,,Oreochromis niloticus,,,Animalia,
-201348506,2986111,,Ribes aureum,,,Plantae,
-201348659,2889088,,Reynoutria sachalinensis,,,Plantae,
-201348658,2889173,,Reynoutria japonica,,,Plantae,
-149688697,5334351,,Fallopia baldschuanica (Regel) Holub,,,Plantae,
-201348649,8185812,,Mesembryanthemum cordifolium,,,Plantae,
-201348651,3083504,,Basella alba L.,,,Plantae,
-201348636,7346102,,Erythranthe guttata (DC.) G.L.Nesom,,,Plantae,
-201348634,8252253,,Antirrhinum tortuosum Bosc ex Vent.,,,Plantae,
-201348628,5667614,,Glandularia aristigera (S.Moore) Tronc.,,,Plantae,
-201348627,5341112,,Phyla nodiflora,,,Plantae,
-201348618,3974754,,Vachellia karroo,,,Plantae,
-201348613,2979265,,Vachellia farnesiana,,,Plantae,
+taxonKey,taxonID,scientificName,kingdom,taxonRank
+4282894,50250,"Tridentata marginata (Kirchenpauer, 1864)",Animalia,SPECIES
+9237565,50151,"Mawia benovici (Piraino, Aglieri, Scorrano & Boero, 2014)",Animalia,SPECIES
+5273309,50322,Ulva lactuca L.,Plantae,SPECIES
+2643093,49786,Caulerpa racemosa (Forssk.) J.Agardh,Plantae,SPECIES
+10344972,50049,"Paucibranchia adenensis (Gravier, 1900)",Animalia,SPECIES
+2656854,49705,Anotrichium furcellatum (J.Agardh) Baldock,Plantae,SPECIES
+2657657,49711,Antithamnionella boergesenii (Cormaci & G.Furnari) Athanas.,Plantae,SPECIES
+12194263,50328,Vertebrata spec (Hudson) Kuntze,Plantae,SPECIES
+6109529,50168,Phoenix canariensis hort. ex Chabaud,Plantae,SPECIES
+5329463,50079,Najas chinensis N.Z.Wang,Plantae,SPECIES
+2714158,49866,Cyperus alternifolius subsp. flabelliformis Kük.,Plantae,SUBSPECIES
+4374764,50178,"Pinctada radiata (Leach, 1814)",Animalia,SPECIES
+2702843,50183,Hilaria jamesii (Torr.) Benth.,Plantae,SPECIES
+2705162,50128,Panicum capillare L.,Plantae,SPECIES
+7226834,49895,Echinochloa crus-galli subsp. crus-galli,Plantae,SUBSPECIES
+4135892,49658,Lachnagrostis lachnantha (Nees) Rúgolo & A.M.Molina,Plantae,SPECIES
+2702820,49894,Echinochloa oryzoides (Ard.) Fritsch,Plantae,SPECIES
+9520065,49935,"Ferrissia californica (Rowell, 1863)",Animalia,SPECIES
+2750383,49946,Gladiolus tristis L.,Plantae,SPECIES
+5298079,49994,Iris florentina L.,Plantae,SPECIES
+2859597,50316,Ipheion uniflorum (Graham) Raf.,Plantae,SPECIES
+10906181,49958,"Lamprohaminoea ovalis (Pease, 1868)",Animalia,SPECIES
+10513850,49734,"Weinkauffia macandrewii (E.A.Smith, 1872)",Animalia,SPECIES
+2768686,49727,Asparagus setaceus (Kunth) Jessop,Plantae,SPECIES
+2891602,50152,Pelargonium L'Hér. ex Aiton,Plantae,GENUS
+2223511,50309,"Trachysalambria curvirostris (Stimpson, 1860)",Animalia,SPECIES
+5974552,49814,"Gonioinfradens paucidentatus (A.Milne-Edwards, 1861)",Animalia,SPECIES
+2929800,50268,Solanum angustifolium Houst. ex Mill.,Plantae,SPECIES
+2930137,50041,Solanum lycopersicum L.,Plantae,SPECIES
+5581168,50173,Physalis philadelphica subsp. ixocarpa (Brot. ex Hornem.) Sobr.-Vesp. & Sanz-Elorza,Plantae,SUBSPECIES
+5218823,50085,"Mustela vison Schreber, 1777",Animalia,SPECIES
+8149923,50206,Prunus persica (L.) Stokes,Plantae,SPECIES
+3020980,50205,Prunus amygdalus Batsch,Plantae,SPECIES
+10786206,49913,Rhaphiolepis bibas (Lour.) Galasso & Banfi,Plantae,SPECIES
+7504253,50012,"Stellagama stellio (Linnaeus, 1758)",Animalia,SPECIES
+2925870,49701,Amsinckia menziesii (Lehm.) A.Nelson & J.F.Macbr.,Plantae,SPECIES
+6550056,49873,Daucus carota var. sativus Hoffm.,Plantae,VARIETY
+8350395,49855,Cyclospermum leptophyllum (Pers.) Sprague,Plantae,SPECIES
+9377860,50028,"Planiliza haematocheila (Temminck & Schlegel, 1845)",Animalia,SPECIES
+3176197,49919,Eucalyptus camaldulensis Dehn.,Plantae,SPECIES
+7322393,50099,Oenothera indecora Cambess.,Plantae,SPECIES
+3188894,50096,Oenothera glazioviana Micheli,Plantae,SPECIES
+3089178,50336,Xanthium occidentale Bertol.,Plantae,SPECIES
+11519882,50335,Xanthium orientale var. italicum (Moretti) M.Hassl.,Plantae,VARIETY
+3088488,50296,Tagetes erecta L.,Plantae,SPECIES
+5402361,50116,Dimorphotheca barberae Harv.,Plantae,SPECIES
+4285694,50111,"Oreochromis niloticus (Linnaeus, 1758)",Animalia,SPECIES
+3117449,49909,Erigeron annuus (L.) Pers.,Plantae,SPECIES
+4194303,50227,Ribes aureum var. villosum DC.,Plantae,VARIETY
+2889088,49934,Reynoutria sachalinensis (F.Schmidt) Nakai,Plantae,SPECIES
+2889173,49933,Reynoutria japonica Houtt.,Plantae,SPECIES
+5334351,49931,Fallopia baldschuanica (Regel) Holub,Plantae,SPECIES
+8185812,49716,Mesembryanthemum cordifolium L.fil.,Plantae,SPECIES
+3083504,49740,Basella alba L.,Plantae,SPECIES
+7576335,49669,Amaranthus ozanonii Piszter,Plantae,SPECIES
+7346102,50066,Erythranthe guttata (DC.) G.L.Nesom,Plantae,SPECIES
+3172549,49772,Campsis radicans (L.) Bureau,Plantae,SPECIES
+8252253,49709,Antirrhinum tortuosum Bosc ex Vent.,Plantae,SPECIES
+7455425,50170,Phyla nodiflora var. minor (Gillies & Hook.) N.O'Leary & Múlgura,Plantae,VARIETY
+8149049,50332,Wisteria sinensis (Sims) DC.,Plantae,SPECIES
+3974754,49636,Vachellia karroo (Hayne) Banfi & Galasso,Plantae,SPECIES
+2979265,49635,Vachellia farnesiana (L.) Wight & Arn.,Plantae,SPECIES
+10683509,50179,Lathyrus oleraceus var. oleraceus,Plantae,VARIETY
+7068169,50053,Medicago sativa subsp. sativa,Plantae,SUBSPECIES
+3973001,50018,Vicia lens (L.) Coss. & Germ.,Plantae,SPECIES
+8130309,49766,Erythrostemon gilliesii (Hook.) Klotzsch,Plantae,SPECIES

@@ -1,13 +1,12 @@
-taxonID,taxonKey,scientificName,action,acceptedKey,accepted
-120115,163732873,"Rhopilema nomadica Galil, 1990",scientificName_replaced_by_backbone_name,,
-120108,163732885,"Sargocentron rubrum (ForsskÃ¥l, 1775)",scientificName_replaced_by_backbone_name,,
-120116,163732886,"Sargocentron rubrum (ForsskÃ¥l, 1775)",scientificName_replaced_by_backbone_name,,
-120109,163732892,"Siganus luridus (RÃ¼ppell, 1829)",scientificName_replaced_by_backbone_name,,
-120110,163732893,"Siganus rivulatus ForsskÃ¥l, 1775",scientificName_replaced_by_backbone_name,,
-120107,163732895,"Parupeneus forsskali (Fourmanoir & GuÃ©zÃ©, 1976)",scientificName_replaced_by_backbone_name,,
-120113,163732898,"Fistularia commersonii RÃ¼ppell, 1838",not_matched_with_backbone,,
-120105,163732899,"Fistularia commersonii RÃ¼ppell, 1838",not_matched_with_backbone,,
-120111,163732911,Symphyotrichum squamatum (Spreng.) G.L.Nesom,merged_with_accepted,265495483,Symphyotrichum subulatum var. squamatum (Spreng.) S.D.Sundb.
-120103,163732914,Eucalyptus camaldulensis Dehnh.,scientificName_replaced_by_backbone_name,,
-120104,163732915,Eucalyptus gomphocephala DC.,scientificName_replaced_by_backbone_name,,
-120102,163732918,Dodonaea viscosa Jacq.,scientificName_replaced_by_backbone_name,,
+taxonID,taxonKey,scientificName,action,acceptedKey,acceptedName
+120115,163732873,"Rhopilema nomadica Galil, 1990",scientificName_replaced_by_backbone_name,2264597,"Rhopilema nomadica Galil, Spanier & Ferguson, 1990"
+120108,163732885,"Sargocentron rubrum (ForsskÃ¥l, 1775)",scientificName_replaced_by_backbone_name,2356802,"Sargocentron rubrum (Forsskål, 1775)"
+120116,163732886,"Sargocentron rubrum (ForsskÃ¥l, 1775)",scientificName_replaced_by_backbone_name,2356802,"Sargocentron rubrum (Forsskål, 1775)"
+120109,163732892,"Siganus luridus (RÃ¼ppell, 1829)",scientificName_replaced_by_backbone_name,2390262,"Siganus luridus (Rüppell, 1829)"
+120110,163732893,"Siganus rivulatus ForsskÃ¥l, 1775",scientificName_replaced_by_backbone_name,2390185,"Siganus rivulatus Forsskål & Niebuhr, 1775"
+120107,163732895,"Parupeneus forsskali (Fourmanoir & GuÃ©zÃ©, 1976)",scientificName_replaced_by_backbone_name,2396749,"Parupeneus forsskali (Fourmanoir & Guézé, 1976)"
+120113,163732898,"Fistularia commersonii RÃ¼ppell, 1838",not_matched_with_backbone,,"Fistularia commersonii RÃ¼ppell, 1838"
+120105,163732899,"Fistularia commersonii RÃ¼ppell, 1838",not_matched_with_backbone,,"Fistularia commersonii RÃ¼ppell, 1838"
+120103,163732914,Eucalyptus camaldulensis Dehnh.,merged_with_accepted,3176197,Eucalyptus camaldulensis Dehn.
+120104,163732915,Eucalyptus gomphocephala DC.,scientificName_replaced_by_backbone_name,3176772,Eucalyptus gomphocephala A.Cunn. ex DC.
+120102,163732918,Dodonaea viscosa Jacq.,scientificName_replaced_by_backbone_name,5421144,Dodonaea viscosa (L.) Jacq.

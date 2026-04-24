@@ -1,0 +1,284 @@
+taxonID,taxonKey,scientificName,action,acceptedKey,acceptedName
+166586,163302355,Prorocentrum minimum (Pavillard) J.Schiller,merged_with_accepted,8368630,Prorocentrum cordatum (Ostenf.) J.D.Dodge
+166465,163302391,Microsphaera palczewskii Jacz.,merged_with_accepted,2578578,Erysiphe palczewskii (Jacz.) U.Braun & S.Takam.
+166466,163302394,Microsphaera vanbruntiana W.R.Gerard,merged_with_accepted,3482288,Erysiphe vanbruntiana (W.R.Gerard) U.Braun & S.Takam.
+166578,163302399,"Potamopyrgus antipodarum (Gray, 1843)",scientificName_replaced_by_backbone_name,5192470,"Potamopyrgus antipodarum (J.E.Gray, 1843)"
+166473,163302405,Mutinus ravenelii (Berk. & M.A.Curtis) E.Fisch.,scientificName_replaced_by_backbone_name,5239466,Mutinus ravenelii (Berk.) E.Fisch.
+166551,163302406,"Physella heterostropha (Say, 1817)",merged_with_accepted,5189806,"Physella acuta (Draparnaud, 1805)"
+166453,163302410,"Melanoides tuberculata (O.F.MÃ¼ller, 1774)",scientificName_replaced_by_backbone_name,4362965,"Melanoides tuberculata (O.F.Müller, 1774)"
+166343,163302416,"Helisoma duryi (Wetherby, 1879)",merged_with_accepted,5189745,"Planorbella duryi (Wetherby, 1879)"
+166152,163302417,"Campylopus introflexus Bridel, 1819",scientificName_replaced_by_backbone_name,5281901,Campylopus introflexus (Hedw.) Brid.
+166304,163302420,"Ferrissia clessiniana (Jickeli, 1882)",merged_with_accepted,9776227,"Pettancylus clessinianus (Jickeli, 1882)"
+166517,163302432,"Oxychilus cellarius (O.F.MÃ¼ller, 1774)",scientificName_replaced_by_backbone_name,5190768,"Oxychilus cellarius (O.F.Müller, 1774)"
+166252,163302443,"Deroceras reticulatum (O.F.MÃ¼ller, 1774)",scientificName_replaced_by_backbone_name,5781277,"Deroceras reticulatum (O.F.Müller, 1774)"
+166085,163302453,"Arion lusitanicus J.Mabille, 1868",scientificName_replaced_by_backbone_name,5779455,"Arion lusitanicus Mabille, 1868"
+166345,163302461,Hemerocallis fulva L.,scientificName_replaced_by_backbone_name,2781074,Hemerocallis fulva (L.) L.
+166034,163302474,Allium montanum Rchb.,merged_with_accepted,7227615,Allium flavum subsp. flavum
+166218,163302485,"Corophium curvispinum G.O.Sars, 1895",merged_with_accepted,4314683,"Chelicorophium curvispinum (G.O.Sars, 1895)"
+166507,163302490,"Orconectes limosus (Rafinesque, 1817)",merged_with_accepted,8909595,"Faxonius limosus (Rafinesque, 1817)"
+166100,163302499,"Astacus leptodactylus Eschscholtz, 1823",merged_with_accepted,8946295,"Pontastacus leptodactylus (Eschscholtz, 1823)"
+166560,163302504,Poa crispa Thuill.,merged_with_accepted,8086756,Poa bulbosa L.
+166117,163302509,"Balanus improvisus Darwin, 1854",merged_with_accepted,6467647,"Amphibalanus improvisus (Darwin, 1854)"
+166526,163302513,Panicum miliaceum subsp. ruderale (Kitag.) Tzvelev,merged_with_accepted,2705090,Panicum miliaceum L.
+166354,163302517,Hordeum leporinum Link,merged_with_accepted,4270548,Hordeum murinum subsp. leporinum (Link) Arcang.
+166422,163302523,"Lymantria dispar (Linnaeus, 1758)",scientificName_replaced_by_backbone_name,1820406,"Lymantria dispar Linnaeus, 1758"
+166697,163302526,Sorghum saccharatum (L.) Moench,merged_with_accepted,2705181,Sorghum bicolor (L.) Moench
+166150,163302527,"Cameraria ohridella Deschka & Dimic, 1986",scientificName_replaced_by_backbone_name,1749449,"Cameraria ohridella Deschka & Dimić, 1986"
+166594,163302530,Puccinellia gigantea Grossheim.,scientificName_replaced_by_backbone_name,4148420,Puccinellia gigantea (Grossh.) Grossh.
+166795,163302532,Zizania latifolia Turcz. ex Stapf,merged_with_accepted,2703231,Zizania latifolia (Griseb.) Stapf
+166028,163302539,Agropyron pectinatum (M.Bieb.) P.Beauv.,merged_with_accepted,2705196,Agropyron cristatum (L.) Gaertn.
+166065,163302543,Anisantha sterilis (L.) Nevski,merged_with_accepted,2703647,Bromus sterilis L.
+166687,163302544,"Sitophilus granarius (Linnaeus & C., 1758)",scientificName_replaced_by_backbone_name,1170174,"Sitophilus granarius (C.Linnaeus, 1758)"
+166688,163302546,"Sitophilus oryzae Schoenherr, 1838",not_matched_with_backbone,,"Sitophilus oryzae Schoenherr, 1838"
+166689,163302547,"Sitophilus zeamais Motschulsky, 1855",scientificName_replaced_by_backbone_name,4291553,"Sitophilus zeamais Motschulsky & V.de, 1855"
+166066,163302548,Anisantha tectorum (L.) Nevski,merged_with_accepted,2703746,Bromus tectorum L.
+166725,163302551,Tenebroides mauritanicus (Linnaeus),scientificName_replaced_by_backbone_name,1161887,"Tenebroides mauritanicus (Linnaeus, 1758)"
+166064,163302552,Anisantha rubens (L.) Nevski,merged_with_accepted,2703740,Bromus rubens L.
+166789,163302554,Vulpia myuros (L.) C.C.Gmel.,merged_with_accepted,2702727,Festuca myuros L.
+166232,163302558,Crypsis schoenoides (L.) Lam.,merged_with_accepted,9382716,Sporobolus schoenoides (L.) P.M.Peterson
+166476,163302564,"Mycetophagus quadriguttatus MÃ¼ller, 1821",not_matched_with_backbone,,"Mycetophagus quadriguttatus MÃ¼ller, 1821"
+166121,163302568,Beckmannia eruciformis Host,scientificName_replaced_by_backbone_name,5290063,Beckmannia eruciformis (L.) Host
+166593,163302569,"Ptinus clavipes Panzer, 1792",merged_with_accepted,1095800,"Ptinus latro Fabricius, 1775"
+166488,163302571,"Niptus hololeucus (Falderman, 1836)",scientificName_replaced_by_backbone_name,1095760,"Niptus hololeucus (Faldermann, 1835)"
+166134,163302572,Bromopsis erecta (Huds.) Fourr.,merged_with_accepted,7647071,Bromus erectus Huds.
+166382,163302576,"Lasioderma serricorne (Fabricius, 1792)",scientificName_replaced_by_backbone_name,4998194,"Lasioderma serricorne Fabricius, 1792"
+166136,163302577,Bromus brizaeformis Fischer & C.Meyer,merged_with_accepted,2703682,Bromus briziformis Fisch. & C.A.Mey.
+166135,163302581,Bromopsis riparia (Rehmann) Holub,merged_with_accepted,4109815,Bromus riparius Rehmann
+166138,163302585,Bromus japonicus Thunb.,merged_with_accepted,7226794,Bromus japonicus subsp. japonicus
+166710,163302586,"Stromatium unicolor Danilevsky, 2012",merged_with_accepted,7467841,"Stromatium auratum (Böber, 1793)"
+166696,163302587,Sorghum halepense Pers.,scientificName_replaced_by_backbone_name,2705185,Sorghum halepense (L.) Pers.
+166666,163302590,Setaria italica P.Beauv.,scientificName_replaced_by_backbone_name,5289698,Setaria italica (L.) P.Beauv.
+166658,163302592,Secale montanum Guss.,merged_with_accepted,4121049,Secale strictum (C.Presl) C.Presl
+166026,163302601,Agropyron desertorum Schult.,scientificName_replaced_by_backbone_name,2705200,Agropyron desertorum (Fisch. ex Link) Schult.
+166608,163302606,"Rhinocyllus conicus (Froelich & J.A., 1792)",scientificName_replaced_by_backbone_name,4291199,"Rhinocyllus conicus (J.A.Froelich, 1792)"
+166251,163302610,"Dermestes undulatus Brahm, 1790",scientificName_replaced_by_backbone_name,1095858,"Dermestes undulatus Brahms, 1790"
+166248,163302612,"Dermestes ater De Geer, 1774",scientificName_replaced_by_backbone_name,1095855,"Dermestes ater DeGeer, 1774"
+166250,163302616,"Dermestes frischi Kugelann, 1792",scientificName_replaced_by_backbone_name,1095854,"Dermestes frischi Kugelman, 1792"
+166234,163302626,"Cryptolestes testaceus (Stephens, 1831)",merged_with_accepted,4989835,"Cryptolestes ferrugineus (Stephens, 1831)"
+166274,163302627,Elymus dahuricus Griseb.,scientificName_replaced_by_backbone_name,5290313,Elymus dahuricus Turcz. ex Griseb.
+166356,163302636,Hordeum turkestanicum R.E.Regel,merged_with_accepted,8332019,Hordeum distichon L.
+166241,163302647,"Cylindera arenaria (Fuesslin, 1775)",scientificName_replaced_by_backbone_name,8324031,"Cylindera arenaria (Fuessli, 1775)"
+166568,163302655,Polypogon monspeliensis Desf.,scientificName_replaced_by_backbone_name,5289917,Polypogon monspeliensis (L.) Desf.
+166081,163302660,"Araecerus fasciculatus (DeGeer & C., 1775)",scientificName_replaced_by_backbone_name,1166198,"Araecerus fasciculatus (C.DeGeer, 1775)"
+166714,163302667,Swida alba (L.) Opiz,merged_with_accepted,8365953,Cornus alba L.
+166256,163302670,"Dienerella filum (AubÃ©, 1850)",scientificName_replaced_by_backbone_name,6097714,"Dienerella filum (Aubé, 1850)"
+166715,163302671,Swida sericea (L.) Holub,merged_with_accepted,3082244,Cornus sericea L.
+166728,163302678,Thesium arvense HorvÃ¡tovszky,merged_with_accepted,7460783,Thesium ramosum Hayne
+166114,163302692,"Attagenus unicolor (Brahm, 1791)",scientificName_replaced_by_backbone_name,1095958,"Attagenus unicolor (Brahm, 1790)"
+166529,163302699,Parthenocissus inserta (A.Kerner) Fritsch,scientificName_replaced_by_backbone_name,3039203,Parthenocissus inserta (A.Kern.) Fritsch
+166796,163302704,"Zophobas morio (Fabricius, 1776)",merged_with_accepted,7882289,"Zophobas atratus (Fabricius, 1775)"
+166370,163302707,Juglans ailanthifolia CarriÃ¨re,scientificName_replaced_by_backbone_name,3054366,Juglans ailantifolia Carrière
+166359,163302715,Hylotelephium carpaticum (G.Reuss) Sojak,merged_with_accepted,6441863,Hylotelephium telephium subsp. telephium
+166329,163302719,"Gnathocerus cornutus (Fabricius, 1798)",merged_with_accepted,6097732,"Gnatocerus cornutus (Fabricius, 1798)"
+166662,163302724,Sedum rupestre L.,merged_with_accepted,7334609,Petrosedum rupestre subsp. rupestre
+166659,163302728,Sedum aizoon L.,merged_with_accepted,7172831,Phedimus aizoon (L.) 't Hart
+166664,163302732,Sedum spurium Bieb.,merged_with_accepted,11162940,Phedimus spurius subsp. spurius
+166142,163302735,"Bruchus pisorum (Linnaeus, 1758)",scientificName_replaced_by_backbone_name,5752155,"Bruchus pisorum Linnaeus, 1758"
+166038,163302737,"Altica ampelophaga (GuÃ©rin-MÃ©nÃ©ville, 1858)",scientificName_replaced_by_backbone_name,4462336,"Altica ampelophaga (Guérin-Ménéville, 1858)"
+166333,163302746,Grossularia reclinata (L.) Mill.,merged_with_accepted,2986185,Ribes uva-crispa L.
+166497,163302759,"Oenothera suaveolens Desf., 1804",merged_with_accepted,3188924,Oenothera biennis L.
+166494,163302763,Oenothera canovirens Steele,merged_with_accepted,6427623,Oenothera villosa subsp. villosa
+166533,163302766,"Pelodiscus sinensis (Wiegmann, 1835)",scientificName_replaced_by_backbone_name,5220435,"Pelodiscus sinensis Wiegmann, 1835"
+166495,163302767,Oenothera depressa Greene,merged_with_accepted,6427623,Oenothera villosa subsp. villosa
+166276,163302771,Epilobium adenocaulon Hausskn.,merged_with_accepted,7095758,Epilobium ciliatum subsp. ciliatum
+166498,163302776,Oenothera wienii Renner ex RostaÅ„ski,scientificName_replaced_by_backbone_name,3667774,Oenothera ×wienii Renner ex Rostanski
+166496,163302778,Oenothera perangusta R.R.Gates,merged_with_accepted,3188884,Oenothera oakesiana (A.Gray) J.W.Robbins ex S.Watson
+166787,163302793,Viola saxatilis F.W.Schmidt,merged_with_accepted,7389776,Viola tricolor subsp. alpestris (Ging.) Ces.
+166484,163302798,"Neovison vison (Schreber, 1777)",merged_with_accepted,5218823,"Mustela vison Schreber, 1777"
+166571,163302802,Populus berolinensis Dippel,merged_with_accepted,8345607,Populus ×berolinensis K.Koch
+166573,163302805,Populus canescens Sm.,scientificName_replaced_by_backbone_name,3040185,Populus ×canescens (Aiton) Sm.
+166576,163302811,Populus trichocarpa Torr. & Gray ex Hooker,scientificName_replaced_by_backbone_name,6362904,Populus trichocarpa Torr. & A.Gray ex Hook.
+166572,163302815,Populus canadensis Moench,scientificName_replaced_by_backbone_name,8190077,Populus ×canadensis Moench
+166639,163302817,Salix acutifolia x S.daphnoides,not_matched_with_backbone,,Salix acutifolia x S.daphnoides
+166640,163302819,Salix alba L.,establishmentMeans_missing,5372513,Salix alba L.
+166282,163302839,Erodium ciconium (L.) L'HÃ©r.,not_matched_with_backbone,,Erodium ciconium (L.) L'HÃ©r.
+166283,163302843,Erodium laciniatum Willd.,scientificName_replaced_by_backbone_name,2891619,Erodium laciniatum (Cav.) Willd.
+166269,163302860,"Egretta alba (Linnaeus, 1758)",merged_with_accepted,9752617,"Ardea alba Linnaeus, 1758"
+166247,163302866,"Dendrocopos medius (Linnaeus, 1758)",merged_with_accepted,8773033,"Dendrocoptes medius (Linnaeus, 1758)"
+166204,163302872,"Columba livia Gmelin, 1789",scientificName_replaced_by_backbone_name,2495414,"Columba livia J.F.Gmelin, 1789"
+166197,163302878,Chlidonias hybridus hybridus,merged_with_accepted,2481121,"Chlidonias hybrida (Pallas, 1811)"
+166262,163302894,Dipsacus sylvestris Huds.,merged_with_accepted,8435025,Dipsacus fullonum L.
+166171,163302898,Cephalaria transsylvanica (L.) Roem. & Schult.,scientificName_replaced_by_backbone_name,4934466,Cephalaria transsylvanica (L.) Schrad. ex Roem. & Schult.
+166764,163302904,Valerianella rimosa Bast.,scientificName_replaced_by_backbone_name,4095539,Valerianella rimosa Bastard
+166031,163302905,"Aix sponsa Linnaeus, 1758",scientificName_replaced_by_backbone_name,2498387,"Aix sponsa (Linnaeus, 1758)"
+166266,163302922,Echinocystis lobata Torr. & A.Gray,scientificName_replaced_by_backbone_name,5331404,Echinocystis lobata (Michx.) Torr. & A.Gray
+166708,163302928,"Stenodus leucichthys (GÃ¼ldenstÃ¤dt, 1772)",scientificName_replaced_by_backbone_name,2351343,"Stenodus leucichthys (Güldenstädt, 1772)"
+166549,163302939,Physalis ixocarpa Brot. ex Hornem.,merged_with_accepted,5581168,Physalis philadelphica subsp. ixocarpa (Brot. ex Hornem.) Sobr.-Vesp. & Sanz-Elorza
+166690,163302948,Solanum cornutum Lam.,merged_with_accepted,2929800,Solanum angustifolium Houst. ex Mill.
+166157,163302955,Carassius gibelio,scientificName_replaced_by_backbone_name,2366634,"Carassius gibelio (Bloch, 1782)"
+166421,163302960,Lycopersicon esculentum (L.) Karst. ex Farw.,not_matched_with_backbone,,Lycopersicon esculentum (L.) Karst. ex Farw.
+166014,163302963,Acipenser baerii baerii,merged_with_accepted,4287131,"Acipenser baerii Brandt, 1869"
+166246,163302966,Datura tatula L.,merged_with_accepted,2928753,Datura stramonium var. tatula (L.) Torr.
+166015,163302969,"Acipenser gueldenstaedtii Brandt & Ratzeburg, 1831",scientificName_replaced_by_backbone_name,2402129,"Acipenser gueldenstaedtii Brandt & Ratzeburg, 1833"
+166467,163302982,Mimulus guttatus Fisch. ex DC.,merged_with_accepted,7346102,Erythranthe guttata (DC.) G.L.Nesom
+166311,163302988,Fraxinus pennsylvanica var. subintegerrima (Vahl) Fernald,merged_with_accepted,3172348,Fraxinus pennsylvanica Marshall
+166307,163302989,Forsythia suspensa Vahl,scientificName_replaced_by_backbone_name,5415056,Forsythia suspensa (Thunb.) Vahl
+166468,163302992,Misopates orontium Raf.,scientificName_replaced_by_backbone_name,3171145,Misopates orontium (L.) Raf.
+166409,163302996,Linaria repens Mill.,scientificName_replaced_by_backbone_name,5415019,Linaria repens (L.) Mill.
+166773,163302998,Veronica jacquinii Baumg.,merged_with_accepted,10763872,Veronica austriaca subsp. jacquinii (Baumg.) Watzl
+166459,163303006,Mentha piperita L.,scientificName_replaced_by_backbone_name,8707933,Mentha ×piperita L.
+166461,163303008,Mentha x gentilis,merged_with_accepted,2927192,Mentha arvensis L.
+166439,163303010,Marrubium alternidens Rech.f.,merged_with_accepted,3887893,Marrubium anisodon K.Koch
+166733,163303014,Thymus marschallianus Willd.,merged_with_accepted,5341447,Thymus pannonicus All.
+166273,163303018,Elsholtzia ciliata (Thunb.) Hylander,scientificName_replaced_by_backbone_name,2927075,Elsholtzia ciliata (Thunb.) Hyl.
+166705,163303020,Stachys annua L.,scientificName_replaced_by_backbone_name,2927235,Stachys annua (L.) L.
+166458,163303030,Mentha longifolia Huds.,merged_with_accepted,7510173,Mentha longifolia (L.) L.
+166118,163303037,Ballota borealis Schweigg.,merged_with_accepted,3882777,Ballota nigra subsp. foetida (Vis.) Hayek
+166519,163303046,Oxycoccus macrocarpus (Aiton) Pursh,merged_with_accepted,2882841,Vaccinium macrocarpon Aiton
+166585,163303053,Primula elatior Hill,merged_with_accepted,7290697,Primula elatior subsp. elatior
+166059,163303055,Anagallis foemina Miller,merged_with_accepted,8368021,Lysimachia foemina (Mill.) U.Manns & Anderb.
+166061,163303056,Androsace raddeana Sommier & Levier,merged_with_accepted,4005907,Androsace maxima subsp. caucasica (Kusn.) Fed.
+166340,163303061,Hedera hibernica (G.Kirchn.) CarriÃ¨re,merged_with_accepted,3036157,Hedera hibernica (G.Kirchn.) Carrière
+166541,163303065,Peucedanum ostruthium (L.) Koch,merged_with_accepted,5538108,Imperatoria ostruthium L.
+166481,163303075,Myrrhis odorata Scop.,scientificName_replaced_by_backbone_name,3034681,Myrrhis odorata (L.) Scop.
+166076,163303085,Anthriscus cerefolium Hoffm.,scientificName_replaced_by_backbone_name,5371746,Anthriscus cerefolium (L.) Hoffm.
+166380,163303093,Lappula squarrosa Dumort.,scientificName_replaced_by_backbone_name,2925756,Lappula squarrosa (Retz.) Dumort.
+166058,163303095,Amsinckia micrantha Suksdorf,merged_with_accepted,2925870,Amsinckia menziesii (Lehm.) A.Nelson & J.F.Macbr.
+166480,163303097,Myosotis sylvatica Hoffm.,scientificName_replaced_by_backbone_name,5341175,Myosotis sylvatica Ehrh. ex Hoffm.
+166489,163303098,Nonea pulla DC.,scientificName_replaced_by_backbone_name,7294644,Nonea pulla (L.) DC.
+166447,163303108,Medicago denticulata Willd.,merged_with_accepted,2965531,Medicago polymorpha L.
+166450,163303110,Medicago romanica Prodan,merged_with_accepted,2965367,Medicago falcata subsp. falcata
+166557,163303114,Pisum arvense L.,merged_with_accepted,5347846,Lathyrus oleraceus Lam.
+166520,163303116,Oxytropis pilosa DC.,scientificName_replaced_by_backbone_name,5361010,Oxytropis pilosa (L.) DC.
+166328,163303118,Glycine soja Siebold & Zucc.,merged_with_accepted,5359662,Glycine max subsp. soja (Siebold & Zucc.) H.Ohashi
+166743,163303121,Trifolium expansum Waldst. & Kit.,merged_with_accepted,7302638,Trifolium pratense subsp. pratense
+166783,163303123,Vicia varia Host,merged_with_accepted,2974921,Vicia villosa subsp. varia (Host) Corb.
+166751,163303125,Trigonella noeana Boiss.,merged_with_accepted,2965226,Medicago monantha (C.A.Mey.) Trautv.
+166748,163303127,Trifolium sativum (Schreb.) Crome,merged_with_accepted,8324121,Trifolium pratense L.
+166776,163303131,Vicia cordata Hoppe,merged_with_accepted,8271282,Vicia sativa subsp. cordata (Wulfen ex Hoppe) Batt.
+166654,163303133,Sarothamnus scoparius (L.) W.D.J.Koch,merged_with_accepted,5354656,Cytisus scoparius (L.) Link
+166103,163303135,Astragalus filicaulis Fisch. & Mey. ex Karel.,merged_with_accepted,5344472,Astragalus filicaulis Kar. & Kir.
+166156,163303147,Caragana frutex K.Koch,scientificName_replaced_by_backbone_name,2943316,Caragana frutex (L.) K.Koch
+166385,163303156,Lathyrus pannonicus Garcke,scientificName_replaced_by_backbone_name,5356631,Lathyrus pannonicus (Jacq.) Garcke
+166448,163303157,Medicago minima (L.) L.,merged_with_accepted,8073758,Medicago minima (L.) Bartal.
+166452,163303160,Medicago varia Martyn,scientificName_replaced_by_backbone_name,2965331,Medicago ×varia Martyn
+166455,163303161,Melilotus dentatus Pers.,merged_with_accepted,8349589,Melilotus dentatus (Waldst. & Kit.) Desf.
+166615,163303167,Robinia luxurians Rydb.,merged_with_accepted,6593197,Robinia neomexicana var. neomexicana
+166617,163303169,Robinia viscosa Vent.,scientificName_replaced_by_backbone_name,5352245,Robinia viscosa Michx. ex Vent.
+166750,163303174,Trigonella caerulea Ser.,scientificName_replaced_by_backbone_name,5360498,Trigonella caerulea (L.) Ser.
+166443,163303186,Matthiola bicornis (Sm.) DC.,merged_with_accepted,7740944,Matthiola longipetala subsp. bicornis (Sm.) P.W.Ball
+166350,163303188,Hirschfeldia incana (L.) Lagreze-Fossat,scientificName_replaced_by_backbone_name,3050595,Hirschfeldia incana (L.) Lagr.-Foss.
+166730,163303192,Thlaspi alpestre Jacq.,merged_with_accepted,3688425,Noccaea alpestris (Jacq.) Kerguélen
+166685,163303194,Sisymbrium wolgense M.Bieb. ex E.Fourn.,merged_with_accepted,3046744,Sisymbrium volgense M.Bieb. ex E.Fourn.
+166040,163303198,Alyssum parviflorum Fisch. ex M.Bieb.,merged_with_accepted,3045042,Alyssum simplex Rudolphi
+166039,163303200,Alyssum calycinum L.,merged_with_accepted,3044855,Alyssum alyssoides (L.) L.
+166217,163303202,Coronopus squamatus (Forssk.) Asch.,merged_with_accepted,5376627,Lepidium coronopus (L.) Al-Shehbaz
+166216,163303204,Coronopus didymus (L.) Sm.,merged_with_accepted,5377060,Lepidium didymum L.
+166260,163303206,Diplotaxis muralis DC.,scientificName_replaced_by_backbone_name,5376337,Diplotaxis muralis (L.) DC.
+166261,163303208,Diplotaxis tenuifolia DC.,scientificName_replaced_by_backbone_name,5376426,Diplotaxis tenuifolia (L.) DC.
+166284,163303210,Eruca sativa Mill.,merged_with_accepted,5375920,Eruca vesicaria (L.) Cav.
+166285,163303212,Erucastrum armoracioides (Czern. ex Turcz.) Cruchet,merged_with_accepted,3042889,Brassica elongata subsp. integrifolia (Boiss.) Breistr.
+166290,163303214,Erysimum cuspidatum DC.,scientificName_replaced_by_backbone_name,3048411,Erysimum cuspidatum (M.Bieb.) DC.
+166291,163303216,Erysimum durum J.Presl & C.Presl,merged_with_accepted,3048613,Erysimum marschallianum Andrz. ex M.Bieb.
+166286,163303218,Erucastrum gallicum O.E.Schulz,scientificName_replaced_by_backbone_name,5375547,Erucastrum gallicum (Willd.) O.E.Schulz
+166131,163303226,Brassica campestris L.,merged_with_accepted,7903057,Brassica rapa L.
+166149,163303230,Camelina sativa Crantz,scientificName_replaced_by_backbone_name,9073641,Camelina sativa (L.) Crantz
+166159,163303232,Cardaria draba (L.) Desv.,merged_with_accepted,5376961,Lepidium draba L.
+166199,163303234,Chorispora tenella DC.,scientificName_replaced_by_backbone_name,3044349,Chorispora tenella (Pall.) DC.
+166206,163303236,Conringia orientalis Dumort.,scientificName_replaced_by_backbone_name,3040913,Conringia orientalis (L.) Dumort.
+166148,163303245,Camelina pilosa (DC.) N.W. Zinger,merged_with_accepted,3042416,Camelina microcarpa Andrz. ex DC.
+166287,163303246,Erucastrum nasturtiifolium O.E.Schulz,scientificName_replaced_by_backbone_name,5375555,Erucastrum nasturtiifolium (Poir.) O.E.Schulz
+166369,163303258,Isatis tinctoria L.,establishmentMeans_missing,5374118,Isatis tinctoria L.
+166599,163303262,Rapistrum rugosum All.,scientificName_replaced_by_backbone_name,5373368,Rapistrum rugosum (L.) All.
+166760,163303268,Ulmus minor var. suberosa (Moench) Soo,merged_with_accepted,7303591,Ulmus minor subsp. minor
+166271,163303272,Elaeagnus argentea Moench,merged_with_accepted,3039269,Elaeagnus angustifolia L.
+166522,163303279,Padus serotina (Ehrh.) Borkh.,merged_with_accepted,3021850,Prunus serotina Ehrh.
+166429,163303281,Malus domestica Borkh.,scientificName_replaced_by_backbone_name,3001244,Malus domestica (Suckow) Borkh.
+166704,163303283,Spiraea pseudosalicifolia Silverside,scientificName_replaced_by_backbone_name,3026444,Spiraea ×pseudosalicifolia Silverside
+166587,163303285,Prunus cerasifera var. divaricata (Ledeb.) L.H.Bailey,merged_with_accepted,3021730,Prunus cerasifera Ehrh.
+166624,163303287,Rosa gorinkensis Besser,merged_with_accepted,3004747,Rosa gorenkensis Besser
+166627,163303289,Rosa pimpinellifolia L.,merged_with_accepted,3002333,Rosa spinosissima L.
+166579,163303291,Potentilla bifurca L.,merged_with_accepted,3000723,Sibbaldianthe bifurca (L.) Kurtto & T.Erikss.
+166580,163303293,Potentilla canescens Besser,merged_with_accepted,5365888,Potentilla inclinata Vill.
+166581,163303295,Potentilla goldbachii (Rupr.) Rupr.,merged_with_accepted,7960595,Potentilla thuringiaca Bernh. ex Link
+166584,163303297,Poterium polygamum Waldst. & Kit.,merged_with_accepted,7925720,Poterium sanguisorba subsp. polygamum (Waldst. & Kit.) Asch. & Graebn.
+166628,163303299,Rosa pomifera subsp.pomifera,not_matched_with_backbone,,Rosa pomifera subsp.pomifera
+166088,163303301,Aronia prunifolia (Marsh.) Rehd.,scientificName_replaced_by_backbone_name,5363613,Aronia ×prunifolia (Marshall) Rehder
+166225,163303303,Crataegus flabellata (Spach) K.Koch,scientificName_replaced_by_backbone_name,3014366,Crataegus flabellata (Bosc ex Spach) K.Koch
+166308,163303305,Fragaria moschata Weston,merged_with_accepted,8350369,Fragaria moschata Duchesne
+166175,163303307,Cerasus avium (L.) Moench,merged_with_accepted,3020791,Prunus avium (L.) L.
+166703,163303309,Spiraea menziesii Hook.,merged_with_accepted,6287826,Spiraea douglasii subsp. menziesii (Hook.) Calder & Taylor
+166702,163303311,Spiraea media F.Schmidt,scientificName_replaced_by_backbone_name,3027231,Spiraea media Schmidt
+166701,163303312,Spiraea latifolia Borkh.,merged_with_accepted,3026842,Spiraea alba var. latifolia (Aiton) Dippel
+166055,163303313,Amelanchier spicata K.Koch,merged_with_accepted,3023903,Amelanchier humilis Wiegand
+166220,163303316,Cotoneaster lucidus Schltdl.,merged_with_accepted,3025770,Cotoneaster acutifolius Turcz.
+166223,163303319,Crataegus alemanniensis Cinovskis,merged_with_accepted,9220780,Crataegus monogyna Jacq.
+166229,163303321,Crataegus uhrovae SoÃ³,merged_with_accepted,3013716,Crataegus ×uhrovae So
+166426,163303323,Malus × purpurea (Barbier & Cie) Rehder,scientificName_replaced_by_backbone_name,3001270,Malus ×purpurea (A.Barbier) Rehder
+166430,163303324,Malus mandshurica (Maxim.) Komarov,scientificName_replaced_by_backbone_name,4272229,Malus mandshurica (Maxim.) Kom.
+166431,163303325,Malus sachalinensis Juzep,merged_with_accepted,4272229,Malus mandshurica (Maxim.) Kom.
+166428,163303326,Malus dasyphylla Borkh.,scientificName_replaced_by_backbone_name,3001561,Malus ×dasyphylla Borkh.
+166620,163303331,Rosa alba L.,scientificName_replaced_by_backbone_name,3007383,Rosa ×alba L.
+166632,163303332,Rubus parviflorus Nutt.,merged_with_accepted,2994229,Rubus nutkanus Moc. ex Ser.
+166625,163303336,Rosa majalis ‘Foecundissima,scientificName_replaced_by_backbone_name,3002263,Rosa majalis Herrm.
+166622,163303337,Rosa glabrifolia Rupr.,scientificName_replaced_by_backbone_name,3010499,Rosa glabrifolia C.A.Mey. ex Rupr.
+166629,163303338,Rosa pratorum Sukatch.,merged_with_accepted,3010499,Rosa glabrifolia C.A.Mey. ex Rupr.
+166589,163303342,Prunus insititia L.,merged_with_accepted,7409013,Prunus domestica subsp. insititia (L.) Bonnier & Layens
+166590,163303343,Prunus spinosa L.,establishmentMeans_missing,3023221,Prunus spinosa L.
+166539,163303353,Petrorhagia saxifraga Link,scientificName_replaced_by_backbone_name,3085623,Petrorhagia saxifraga (L.) Link
+166419,163303357,Lychnis coronaria (L.) Desr.,merged_with_accepted,5384741,Silene coronaria (L.) Clairv.
+166418,163303359,Lychnis chalcedonica L.,merged_with_accepted,5584611,Silene chalcedonica (L.) E.H.L.Krause
+166762,163303361,Vaccaria hispanica (Miller) Rauschert,merged_with_accepted,8091998,Gypsophila vaccaria (L.) Sm.
+166670,163303363,Silene armeria L.,merged_with_accepted,7268098,Atocion armeria (L.) Raf.
+166678,163303365,Silene wolgensis (Willd.) Bess. ex Spreng.,merged_with_accepted,8111132,Silene wolgensis (Hornem.) Otth
+166677,163303367,Silene viscosa Schleich.,merged_with_accepted,10896917,Silene italica subsp. italica
+166255,163303369,Dianthus versicolor Fisch. ex Link,merged_with_accepted,3085418,Dianthus chinensis L.
+166254,163303370,Dianthus campestris Willd. ex Ledeb.,merged_with_accepted,3085418,Dianthus chinensis L.
+166173,163303372,Cerastium dubium (Bast.) GuÃ©pin,not_matched_with_backbone,,Cerastium dubium (Bast.) GuÃ©pin
+166676,163303373,Silene repens Patrin ex Pers.,merged_with_accepted,5384777,Silene repens Patrin ex Pers.
+166675,163303374,Silene procumbens Murr.,scientificName_replaced_by_backbone_name,5584964,Silene procumbens Murray
+166673,163303376,Silene multiflora Pers.,scientificName_replaced_by_backbone_name,7267530,Silene multiflora (Ehrh.) Pers.
+166374,163303388,Kochia scoparia (L.) Schrad.,merged_with_accepted,5383936,Bassia scoparia (L.) A.J.Scott
+166373,163303389,Kochia densiflora Turcz. ex Aellen,merged_with_accepted,7788974,Bassia scoparia var. subvillosa (Moq.) Buttler
+166047,163303395,Amaranthus paniculatus L.,merged_with_accepted,5384390,Amaranthus cruentus L.
+166120,163303401,Bassia sedoides (Pall.) Ascherson,merged_with_accepted,7520244,Sedobassia sedoides (Pall.) Freitag & G.Kadereit
+166185,163303405,Chenopodium aristatum L.,merged_with_accepted,3083888,Teloxys aristata (L.) Moq.
+166186,163303407,Chenopodium bonus-henricus L.,merged_with_accepted,8044896,Blitum bonus-henricus (L.) Rchb.
+166195,163303429,Chenopodium vachellii Hook. & Arn.,merged_with_accepted,3760713,Chenopodium acuminatum Willd.
+166215,163303431,Corispermum orientale Lam.,merged_with_accepted,6285693,Corispermum aralocaspicum Iljin
+166713,163303433,Suaeda salsa Pall.,scientificName_replaced_by_backbone_name,6035568,Suaeda salsa (L.) Pall.
+166711,163303434,Suaeda corniculata Bunge,scientificName_replaced_by_backbone_name,6035660,Suaeda corniculata (C.A.Mey.) Bunge
+166214,163303437,Corispermum leptopterum (Ascherson) Iljin,merged_with_accepted,3083975,Corispermum pallasii Steven
+166194,163303439,Chenopodium schraderianum Roem. ex Schult.,merged_with_accepted,5568322,Dysphania schraderiana (Schult.) Mosyakin & Clemants
+166190,163303441,Chenopodium foliosum (Moench) Ascherson,merged_with_accepted,8336376,Blitum virgatum subsp. virgatum
+166188,163303443,Chenopodium capitatum (L.) Ascherson,merged_with_accepted,7507099,Blitum capitatum subsp. capitatum
+166187,163303445,Chenopodium botrys L.,merged_with_accepted,5568428,Dysphania botrys (L.) Mosyakin & Clemants
+166607,163303452,Reynoutria sachalinensis Nakai,scientificName_replaced_by_backbone_name,2889088,Reynoutria sachalinensis (F.Schmidt) Nakai
+166567,163303458,Polygonum pulchellum Loisel.,merged_with_accepted,8336551,Polygonum arenarium subsp. pulchellum (Loisel.) Thell.
+166638,163303462,Rumex triangulivalvis (Danser) Rech.f.,scientificName_replaced_by_backbone_name,6391377,Rumex triangulivalvis (Danser) Rech.fil.
+166020,163303464,Aconogonon weyrichii (F.Schmidt) Hara,merged_with_accepted,8811572,Koenigia weyrichii (F.Schmidt) T.M.Schust. & Reveal
+166019,163303466,Aconogonon divaricatum (L.) Nakai,merged_with_accepted,8720751,Koenigia divaricata (L.) T.M.Schust. & Reveal
+166018,163303468,Aconogonon alpinum (All.) Schur,merged_with_accepted,9020499,Koenigia alpina (All.) T.M.Schust. & Reveal
+166301,163303473,Fagopyrum tataricum Gaertn.,scientificName_replaced_by_backbone_name,2889378,Fagopyrum tataricum (L.) Gaertn.
+166423,163303480,Macleaya × kewensis Turrill,scientificName_replaced_by_backbone_name,5530751,Macleaya ×kewensis Turrill
+166424,163303483,Mahonia aquifolium x M.repens,not_matched_with_backbone,,Mahonia aquifolium x M.repens
+166202,163303487,Clematis erecta L.,merged_with_accepted,3033543,Clematis recta L.
+166207,163303489,Consolida ajacis (L.) Schur,merged_with_accepted,3033833,Delphinium ajacis L.
+166208,163303491,Consolida orientalis (J.Gay) R.SchrÃ¶dinger,merged_with_accepted,3033833,Delphinium ajacis L.
+166727,163303492,Thalictrum minus f. minus,not_matched_with_backbone,,Thalictrum minus f. minus
+166341,163303500,Helianthemum nummularium Mill.,scientificName_replaced_by_backbone_name,8890062,Helianthemum nummularium (L.) Mill.
+166390,163303503,Lavatera thuringiaca L.,merged_with_accepted,7428145,Malva thuringiaca subsp. thuringiaca
+166391,163303505,Lavatera trimestris L.,merged_with_accepted,3940326,Malva trimestris (L.) Salisb.
+166008,163303523,Acer platanoides L.'Schwedleri',not_matched_with_backbone,,Acer platanoides L.'Schwedleri'
+166556,163303530,Picris echioides L.,merged_with_accepted,3141855,Helminthotheca echioides (L) Holub
+166544,163303532,Phalacroloma annuum (L.) Dumort.,merged_with_accepted,3117449,Erigeron annuus (L.) Pers.
+166377,163303536,Lactuca sibirica Benth. ex Maxim.,scientificName_replaced_by_backbone_name,3140552,Lactuca sibirica (L.) Benth. ex Maxim.
+166378,163303538,Lactuca tatarica C.A.Mey.,scientificName_replaced_by_backbone_name,9123250,Lactuca tatarica (L.) C.A.Mey.
+166316,163303540,Galinsoga quadriradiata Cav.,merged_with_accepted,3132567,Galinsoga quadriradiata Cav.
+166442,163303544,Matricaria recutita L.,merged_with_accepted,8370958,Matricaria chamomilla L.
+166441,163303546,Matricaria matricarioides (Less.) Porter,merged_with_accepted,3103791,Matricaria discoidea DC.
+166401,163303548,Lepidotheca suaveolens (Pursh) Nutt.,merged_with_accepted,3103791,Matricaria discoidea DC.
+166790,163303554,Xanthium albinum (Widder) Scholz & Sukopp,merged_with_accepted,4225554,Xanthium orientale var. albinum (Widder) Adema & M.T.Jansen
+166022,163303562,Acroptilon repens (L.) DC.,merged_with_accepted,10676000,Leuzea repens (L.) D.J.N.Hind
+166097,163303568,Artemisia umbrosa Verl.,merged_with_accepted,8271521,Artemisia umbrosa Turcz. ex DC.
+166093,163303570,Artemisia gnaphalodes Nutt.,merged_with_accepted,7222925,Artemisia ludoviciana subsp. ludoviciana
+166239,163303574,Cyclachaena xanthiifolia Fresen.,scientificName_replaced_by_backbone_name,3141890,Cyclachaena xanthiifolia (Nutt.) Fresen.
+166280,163303576,Erigeron annuus Pers.,scientificName_replaced_by_backbone_name,3117449,Erigeron annuus (L.) Pers.
+166313,163303578,Galatella punctata Nees,merged_with_accepted,7066336,Galatella sedifolia subsp. sedifolia
+166200,163303582,Chrysanthemum segetum L.,merged_with_accepted,3141101,Glebionis segetum (L.) Fourr.
+166209,163303584,Conyza canadensis (L.) Cronq.,merged_with_accepted,3146791,Erigeron canadensis L.
+166722,163303586,Telekia speciosa Baumg.,scientificName_replaced_by_backbone_name,5389173,Telekia speciosa (Schreb.) Baumg.
+166078,163303600,Aposeris foetida Less.,scientificName_replaced_by_backbone_name,3094355,Aposeris foetida (L.) Less.
+166169,163303611,Centaurea iberica Trevir. ex Spreng.,scientificName_replaced_by_backbone_name,3129000,Centaurea iberica Trevis. ex Spreng.
+166002,163303625,Abies nordmanniana Spach,scientificName_replaced_by_backbone_name,2685552,Abies nordmanniana (Steven) Spach
+166001,163303626,Abies concolor (Gordon & Glend.) Hildebr.,scientificName_replaced_by_backbone_name,2685580,Abies concolor (Gordon) Lindl. ex Hildebr.

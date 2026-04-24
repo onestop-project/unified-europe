@@ -1,8 +1,357 @@
-taxonID,taxonKey,scientificName,action,acceptedKey,accepted
-https://www.gbif.org/species/9738098,156872873,"Cipangopaludina chinensis (J.E.Gray, 1833)",scientificName_replaced_by_backbone_name,,
-https://www.gbif.org/species/9738098,156872873,"Cipangopaludina chinensis (J.E.Gray, 1833)",scientificName_replaced_by_backbone_name,,
-https://www.gbif.org/species/9738098,156872873,"Cipangopaludina chinensis (J.E.Gray, 1833)",scientificName_replaced_by_backbone_name,,
-https://www.gbif.org/species/10545407,182133921,"Pelomedusa subrufa (Bonnaterre, 1789)",scientificName_replaced_by_backbone_name,,
-https://www.gbif.org/species/10545407,182133921,"Pelomedusa subrufa (Bonnaterre, 1789)",scientificName_replaced_by_backbone_name,,
-https://www.gbif.org/species/9767566,213214212,"Agonoscena succincta (Heeger, 1856)",scientificName_replaced_by_backbone_name,,
-https://www.gbif.org/species/9767566,213214212,"Agonoscena succincta (Heeger, 1856)",scientificName_replaced_by_backbone_name,,
+taxonID,taxonKey,scientificName,action,acceptedKey,acceptedName
+https://www.gbif.org/species/2514972,152543185,Puccinia komarovii Tranzschel,merged_with_accepted,2514972,Puccinia komarovii Tranzschel
+https://www.gbif.org/species/5386028,152543611,Cyanus triumfettii (All.) Dostál ex Á.Löve & D.Löve,merged_with_accepted,7338495,Centaurea triumfettii subsp. triumfettii
+https://www.gbif.org/species/5386028,152543611,Cyanus triumfettii (All.) Dostál ex Á.Löve & D.Löve,merged_with_accepted,7338495,Centaurea triumfettii subsp. triumfettii
+https://www.gbif.org/species/7706146,152543850,Crepis nicaeensis Balb.,merged_with_accepted,7706146,Crepis nicaeensis Balb.
+https://www.gbif.org/species/7706146,152543850,Crepis nicaeensis Balb.,merged_with_accepted,7706146,Crepis nicaeensis Balb.
+https://www.gbif.org/species/7706146,152543850,Crepis nicaeensis Balb.,merged_with_accepted,7706146,Crepis nicaeensis Balb.
+https://www.gbif.org/species/4250826,152543957,Centaurea nemenyiana J.Wagner,merged_with_accepted,4250826,Centaurea nemenyiana J.Wagner
+https://www.gbif.org/species/4250826,152543957,Centaurea nemenyiana J.Wagner,merged_with_accepted,4250826,Centaurea nemenyiana J.Wagner
+https://www.gbif.org/species/4206362,152544378,Onopordum beckianum A.John,merged_with_accepted,4206362,Onopordum beckianum A.John
+https://www.gbif.org/species/4206362,152544378,Onopordum beckianum A.John,merged_with_accepted,4206362,Onopordum beckianum A.John
+https://www.gbif.org/species/4206362,152544378,Onopordum beckianum A.John,merged_with_accepted,4206362,Onopordum beckianum A.John
+https://www.gbif.org/species/3092125,152544419,"Acmella Rich., 1807",merged_with_accepted,3092125,"Acmella Rich., 1807"
+https://www.gbif.org/species/3092125,152544419,"Acmella Rich., 1807",merged_with_accepted,3092125,"Acmella Rich., 1807"
+https://www.gbif.org/species/5567657,152544677,Bergenia schmidtii (Regel) Silva Tar.,merged_with_accepted,8330218,Bergenia ciliata (Haw.) Sternb.
+https://www.gbif.org/species/5567657,152544677,Bergenia schmidtii (Regel) Silva Tar.,merged_with_accepted,8330218,Bergenia ciliata (Haw.) Sternb.
+https://www.gbif.org/species/3032646,152544699,Heuchera micrantha Lindl.,merged_with_accepted,3032646,Heuchera micrantha Lindl.
+https://www.gbif.org/species/3032646,152544699,Heuchera micrantha Lindl.,merged_with_accepted,3032646,Heuchera micrantha Lindl.
+https://www.gbif.org/species/3032646,152544699,Heuchera micrantha Lindl.,merged_with_accepted,3032646,Heuchera micrantha Lindl.
+https://www.gbif.org/species/3032646,152544699,Heuchera micrantha Lindl.,merged_with_accepted,3032646,Heuchera micrantha Lindl.
+https://www.gbif.org/species/3875113,152544759,Ceanothus ×delilianus Spach,merged_with_accepted,3875113,Ceanothus ×delilianus Spach
+https://www.gbif.org/species/3875113,152544759,Ceanothus ×delilianus Spach,merged_with_accepted,3875113,Ceanothus ×delilianus Spach
+https://www.gbif.org/species/7437751,152544767,Urtica membranacea Poir. ex Savigny,merged_with_accepted,7437751,Urtica membranacea Poir. ex Savigny
+https://www.gbif.org/species/7437751,152544767,Urtica membranacea Poir. ex Savigny,merged_with_accepted,7437751,Urtica membranacea Poir. ex Savigny
+https://www.gbif.org/species/7437751,152544767,Urtica membranacea Poir. ex Savigny,merged_with_accepted,7437751,Urtica membranacea Poir. ex Savigny
+https://www.gbif.org/species/7501634,152544875,Rosa multiflora Murray,merged_with_accepted,7501634,Rosa multiflora Murray
+https://www.gbif.org/species/7501634,152544875,Rosa multiflora Murray,merged_with_accepted,7501634,Rosa multiflora Murray
+https://www.gbif.org/species/7501634,152544875,Rosa multiflora Murray,merged_with_accepted,7501634,Rosa multiflora Murray
+https://www.gbif.org/species/2928779,152544964,Nicotiana forgetiana Hemsl.,merged_with_accepted,2928779,Nicotiana forgetiana Hemsl.
+https://www.gbif.org/species/2928779,152544964,Nicotiana forgetiana Hemsl.,merged_with_accepted,2928779,Nicotiana forgetiana Hemsl.
+https://www.gbif.org/species/2928779,152544964,Nicotiana forgetiana Hemsl.,merged_with_accepted,2928779,Nicotiana forgetiana Hemsl.
+https://www.gbif.org/species/7600608,152545051,Trifolium sylvaticum Gérard ex Loisel.,merged_with_accepted,7600608,Trifolium sylvaticum Gérard ex Loisel.
+https://www.gbif.org/species/7600608,152545051,Trifolium sylvaticum Gérard ex Loisel.,merged_with_accepted,7600608,Trifolium sylvaticum Gérard ex Loisel.
+https://www.gbif.org/species/5347854,152545091,Pisum sativum var. sativum,merged_with_accepted,10683509,Lathyrus oleraceus var. oleraceus
+https://www.gbif.org/species/5347854,152545091,Pisum sativum var. sativum,merged_with_accepted,10683509,Lathyrus oleraceus var. oleraceus
+https://www.gbif.org/species/5347854,152545091,Pisum sativum var. sativum,merged_with_accepted,10683509,Lathyrus oleraceus var. oleraceus
+https://www.gbif.org/species/5347854,152545091,Pisum sativum var. sativum,merged_with_accepted,10683509,Lathyrus oleraceus var. oleraceus
+https://www.gbif.org/species/5360508,152545124,Trigonella maritima Delile ex Poir.,merged_with_accepted,5360508,Trigonella maritima Delile ex Poir.
+https://www.gbif.org/species/5360508,152545124,Trigonella maritima Delile ex Poir.,merged_with_accepted,5360508,Trigonella maritima Delile ex Poir.
+https://www.gbif.org/species/5360415,152545127,Trigonella calliceras Fisch.,merged_with_accepted,5360415,Trigonella calliceras Fisch.
+https://www.gbif.org/species/5360415,152545127,Trigonella calliceras Fisch.,merged_with_accepted,5360415,Trigonella calliceras Fisch.
+https://www.gbif.org/species/8207952,152545319,Matthiola incana (L.) R.Br.,merged_with_accepted,8207952,Matthiola incana (L.) R.Br.
+https://www.gbif.org/species/8207952,152545319,Matthiola incana (L.) R.Br.,merged_with_accepted,8207952,Matthiola incana (L.) R.Br.
+https://www.gbif.org/species/7372514,152545325,Malcolmia maritima (L.) R.Br.,merged_with_accepted,7372514,Malcolmia maritima (L.) R.Br.
+https://www.gbif.org/species/7372514,152545325,Malcolmia maritima (L.) R.Br.,merged_with_accepted,7372514,Malcolmia maritima (L.) R.Br.
+https://www.gbif.org/species/7372514,152545325,Malcolmia maritima (L.) R.Br.,merged_with_accepted,7372514,Malcolmia maritima (L.) R.Br.
+https://www.gbif.org/species/7372514,152545325,Malcolmia maritima (L.) R.Br.,merged_with_accepted,7372514,Malcolmia maritima (L.) R.Br.
+https://www.gbif.org/species/8227753,152545492,Anchusa procera Besser,merged_with_accepted,8227753,Anchusa procera Besser
+https://www.gbif.org/species/8227753,152545492,Anchusa procera Besser,merged_with_accepted,8227753,Anchusa procera Besser
+https://www.gbif.org/species/8227753,152545492,Anchusa procera Besser,merged_with_accepted,8227753,Anchusa procera Besser
+https://www.gbif.org/species/8386733,152545534,Amsinckia lycopsoides Lehm. ex Fisch. & C.A.Mey.,merged_with_accepted,8386733,Amsinckia lycopsoides Lehm. ex Fisch. & C.A.Mey.
+https://www.gbif.org/species/8386733,152545534,Amsinckia lycopsoides Lehm. ex Fisch. & C.A.Mey.,merged_with_accepted,8386733,Amsinckia lycopsoides Lehm. ex Fisch. & C.A.Mey.
+https://www.gbif.org/species/8386733,152545534,Amsinckia lycopsoides Lehm. ex Fisch. & C.A.Mey.,merged_with_accepted,8386733,Amsinckia lycopsoides Lehm. ex Fisch. & C.A.Mey.
+https://www.gbif.org/species/8386733,152545534,Amsinckia lycopsoides Lehm. ex Fisch. & C.A.Mey.,merged_with_accepted,8386733,Amsinckia lycopsoides Lehm. ex Fisch. & C.A.Mey.
+https://www.gbif.org/species/8186932,152545616,Scrophularia scopolii Hoppe ex Pers.,merged_with_accepted,8186932,Scrophularia scopolii Hoppe ex Pers.
+https://www.gbif.org/species/8186932,152545616,Scrophularia scopolii Hoppe ex Pers.,merged_with_accepted,8186932,Scrophularia scopolii Hoppe ex Pers.
+https://www.gbif.org/species/7270761,152545803,Actinidia deliciosa (A.Chev.) C.F.Liang & A.R.Ferguson,merged_with_accepted,6550091,Actinidia chinensis var. deliciosa (A.Chev.) A.Chev.
+https://www.gbif.org/species/7270761,152545803,Actinidia deliciosa (A.Chev.) C.F.Liang & A.R.Ferguson,merged_with_accepted,6550091,Actinidia chinensis var. deliciosa (A.Chev.) A.Chev.
+https://www.gbif.org/species/7270761,152545803,Actinidia deliciosa (A.Chev.) C.F.Liang & A.R.Ferguson,merged_with_accepted,6550091,Actinidia chinensis var. deliciosa (A.Chev.) A.Chev.
+https://www.gbif.org/species/7270761,152545803,Actinidia deliciosa (A.Chev.) C.F.Liang & A.R.Ferguson,merged_with_accepted,6550091,Actinidia chinensis var. deliciosa (A.Chev.) A.Chev.
+https://www.gbif.org/species/5621983,152545883,Echinopsis silvestrii Speg.,merged_with_accepted,7282357,Echinopsis albispinosa K.Schum.
+https://www.gbif.org/species/5621983,152545883,Echinopsis silvestrii Speg.,merged_with_accepted,7282357,Echinopsis albispinosa K.Schum.
+https://www.gbif.org/species/7576335,152545933,Amaranthus ozanonii Piszter,merged_with_accepted,7576335,Amaranthus ozanonii Piszter
+https://www.gbif.org/species/7576335,152545933,Amaranthus ozanonii Piszter,merged_with_accepted,7576335,Amaranthus ozanonii Piszter
+https://www.gbif.org/species/7576335,152545933,Amaranthus ozanonii Piszter,merged_with_accepted,7576335,Amaranthus ozanonii Piszter
+https://www.gbif.org/species/3922770,152546322,Aconitum napellus var. giganteum (Dumort. ex Thielens) J.Duvign.,merged_with_accepted,7707872,Aconitum napellus subsp. lusitanicum Rouy
+https://www.gbif.org/species/3922770,152546322,Aconitum napellus var. giganteum (Dumort. ex Thielens) J.Duvign.,merged_with_accepted,7707872,Aconitum napellus subsp. lusitanicum Rouy
+https://www.gbif.org/species/3922770,152546322,Aconitum napellus var. giganteum (Dumort. ex Thielens) J.Duvign.,merged_with_accepted,7707872,Aconitum napellus subsp. lusitanicum Rouy
+https://www.gbif.org/species/3922770,152546322,Aconitum napellus var. giganteum (Dumort. ex Thielens) J.Duvign.,merged_with_accepted,7707872,Aconitum napellus subsp. lusitanicum Rouy
+https://www.gbif.org/species/3033434,152546336,Ranunculus parviflorus L.,merged_with_accepted,3033434,Ranunculus parviflorus L.
+https://www.gbif.org/species/3033434,152546336,Ranunculus parviflorus L.,merged_with_accepted,3033434,Ranunculus parviflorus L.
+https://www.gbif.org/species/3033434,152546336,Ranunculus parviflorus L.,merged_with_accepted,3033434,Ranunculus parviflorus L.
+https://www.gbif.org/species/7901652,152546417,Viola ×wittrockiana Gams ex Kappert,merged_with_accepted,7901652,Viola ×wittrockiana Gams ex Kappert
+https://www.gbif.org/species/7901652,152546417,Viola ×wittrockiana Gams ex Kappert,merged_with_accepted,7901652,Viola ×wittrockiana Gams ex Kappert
+https://www.gbif.org/species/7901652,152546417,Viola ×wittrockiana Gams ex Kappert,merged_with_accepted,7901652,Viola ×wittrockiana Gams ex Kappert
+https://www.gbif.org/species/8418777,152546616,Lilium ×hollandicum Woodcock & Stearn,merged_with_accepted,8418777,Lilium ×hollandicum Woodcock & Stearn
+https://www.gbif.org/species/8418777,152546616,Lilium ×hollandicum Woodcock & Stearn,merged_with_accepted,8418777,Lilium ×hollandicum Woodcock & Stearn
+https://www.gbif.org/species/2771094,152546618,Hosta,merged_with_accepted,2771094,Hosta
+https://www.gbif.org/species/2771094,152546618,Hosta,merged_with_accepted,2771094,Hosta
+https://www.gbif.org/species/3586046,152546680,Gladiolus ×hortulanus L.H.Bailey,merged_with_accepted,3586046,Gladiolus ×hortulanus L.H.Bailey
+https://www.gbif.org/species/3586046,152546680,Gladiolus ×hortulanus L.H.Bailey,merged_with_accepted,3586046,Gladiolus ×hortulanus L.H.Bailey
+https://www.gbif.org/species/3586046,152546680,Gladiolus ×hortulanus L.H.Bailey,merged_with_accepted,3586046,Gladiolus ×hortulanus L.H.Bailey
+https://www.gbif.org/species/2772174,152546707,Muscari armeniacum Leichtlin ex Baker,merged_with_accepted,2772174,Muscari armeniacum Leichtlin ex Baker
+https://www.gbif.org/species/2772174,152546707,Muscari armeniacum Leichtlin ex Baker,merged_with_accepted,2772174,Muscari armeniacum Leichtlin ex Baker
+https://www.gbif.org/species/2772174,152546707,Muscari armeniacum Leichtlin ex Baker,merged_with_accepted,2772174,Muscari armeniacum Leichtlin ex Baker
+https://www.gbif.org/species/2772174,152546707,Muscari armeniacum Leichtlin ex Baker,merged_with_accepted,2772174,Muscari armeniacum Leichtlin ex Baker
+https://www.gbif.org/species/7795128,152546761,Carex crus-corvi Shuttlew.,merged_with_accepted,7795128,Carex crus-corvi Shuttlew.
+https://www.gbif.org/species/7795128,152546761,Carex crus-corvi Shuttlew.,merged_with_accepted,7795128,Carex crus-corvi Shuttlew.
+https://www.gbif.org/species/7810452,152546782,Dasypyrum villosum (L.) P.Candargy,merged_with_accepted,7810452,Dasypyrum villosum (L.) P.Candargy
+https://www.gbif.org/species/7810452,152546782,Dasypyrum villosum (L.) P.Candargy,merged_with_accepted,7810452,Dasypyrum villosum (L.) P.Candargy
+https://www.gbif.org/species/7810452,152546782,Dasypyrum villosum (L.) P.Candargy,merged_with_accepted,7810452,Dasypyrum villosum (L.) P.Candargy
+https://www.gbif.org/species/8420312,152546821,Phalaris platensis Henrard ex Heukels,merged_with_accepted,8420312,Phalaris platensis Henrard ex Heukels
+https://www.gbif.org/species/8420312,152546821,Phalaris platensis Henrard ex Heukels,merged_with_accepted,8420312,Phalaris platensis Henrard ex Heukels
+https://www.gbif.org/species/2702798,152546996,Echinochloa esculenta (A.Braun) H.Scholz,merged_with_accepted,6313089,Echinochloa crus-galli subsp. utilis (Ohwi & Yabuno) T.Koyama
+https://www.gbif.org/species/2702798,152546996,Echinochloa esculenta (A.Braun) H.Scholz,merged_with_accepted,6313089,Echinochloa crus-galli subsp. utilis (Ohwi & Yabuno) T.Koyama
+https://www.gbif.org/species/2702798,152546996,Echinochloa esculenta (A.Braun) H.Scholz,merged_with_accepted,6313089,Echinochloa crus-galli subsp. utilis (Ohwi & Yabuno) T.Koyama
+https://www.gbif.org/species/2703231,152547007,Zizania latifolia (Griseb.) Stapf,merged_with_accepted,2703231,Zizania latifolia (Griseb.) Stapf
+https://www.gbif.org/species/2703231,152547007,Zizania latifolia (Griseb.) Stapf,merged_with_accepted,2703231,Zizania latifolia (Griseb.) Stapf
+https://www.gbif.org/species/2703231,152547007,Zizania latifolia (Griseb.) Stapf,merged_with_accepted,2703231,Zizania latifolia (Griseb.) Stapf
+https://www.gbif.org/species/2703231,152547007,Zizania latifolia (Griseb.) Stapf,merged_with_accepted,2703231,Zizania latifolia (Griseb.) Stapf
+https://www.gbif.org/species/8192063,152547052,Eragrostis lacunaria F.Muell. ex Benth.,merged_with_accepted,8192063,Eragrostis lacunaria F.Muell. ex Benth.
+https://www.gbif.org/species/8192063,152547052,Eragrostis lacunaria F.Muell. ex Benth.,merged_with_accepted,8192063,Eragrostis lacunaria F.Muell. ex Benth.
+https://www.gbif.org/species/2706209,152547108,Pseudosasa japonica (Siebold & Zucc. ex Steud.) Makino,merged_with_accepted,2706209,Pseudosasa japonica (Siebold & Zucc. ex Steud.) Makino
+https://www.gbif.org/species/2706209,152547108,Pseudosasa japonica (Siebold & Zucc. ex Steud.) Makino,merged_with_accepted,2706209,Pseudosasa japonica (Siebold & Zucc. ex Steud.) Makino
+https://www.gbif.org/species/2706209,152547108,Pseudosasa japonica (Siebold & Zucc. ex Steud.) Makino,merged_with_accepted,2706209,Pseudosasa japonica (Siebold & Zucc. ex Steud.) Makino
+https://www.gbif.org/species/2706209,152547108,Pseudosasa japonica (Siebold & Zucc. ex Steud.) Makino,merged_with_accepted,2706209,Pseudosasa japonica (Siebold & Zucc. ex Steud.) Makino
+https://www.gbif.org/species/2701986,152547165,Juncus canadensis J.Gay ex Laharpe,merged_with_accepted,2701986,Juncus canadensis J.Gay ex Laharpe
+https://www.gbif.org/species/2701986,152547165,Juncus canadensis J.Gay ex Laharpe,merged_with_accepted,2701986,Juncus canadensis J.Gay ex Laharpe
+https://www.gbif.org/species/9738098,156872873,"Cipangopaludina chinensis (J.E.Gray, 1833)",merged_with_accepted,2292567,"Cipangopaludina chinensis (Griffith & Pidgeon, 1865)"
+https://www.gbif.org/species/9738098,156872873,"Cipangopaludina chinensis (J.E.Gray, 1833)",merged_with_accepted,2292567,"Cipangopaludina chinensis (Griffith & Pidgeon, 1865)"
+https://www.gbif.org/species/7425750,159746880,"Stropholoma aurantiacum (Cooke) Ryman, 2008",merged_with_accepted,7732986,Stropharia aurantiaca (Cooke) P.D.Orton
+https://www.gbif.org/species/7425750,159746880,"Stropholoma aurantiacum (Cooke) Ryman, 2008",merged_with_accepted,7732986,Stropharia aurantiaca (Cooke) P.D.Orton
+https://www.gbif.org/species/2498283,159747040,Cairina moschata (Established Feral),merged_with_accepted,2498283,Cairina moschata (Established Feral)
+https://www.gbif.org/species/2498283,159747040,Cairina moschata (Established Feral),merged_with_accepted,2498283,Cairina moschata (Established Feral)
+https://www.gbif.org/species/2498283,159747040,Cairina moschata (Established Feral),merged_with_accepted,2498283,Cairina moschata (Established Feral)
+https://www.gbif.org/species/2498283,159747040,Cairina moschata (Established Feral),merged_with_accepted,2498283,Cairina moschata (Established Feral)
+https://www.gbif.org/species/2479550,159747414,"Agapornis roseicollis (Stanley, 1814)",merged_with_accepted,2479550,"Agapornis roseicollis (Stanley, 1814)"
+https://www.gbif.org/species/2479550,159747414,"Agapornis roseicollis (Stanley, 1814)",merged_with_accepted,2479550,"Agapornis roseicollis (Stanley, 1814)"
+https://www.gbif.org/species/2479550,159747414,"Agapornis roseicollis (Stanley, 1814)",merged_with_accepted,2479550,"Agapornis roseicollis (Stanley, 1814)"
+https://www.gbif.org/species/2479550,159747414,"Agapornis roseicollis (Stanley, 1814)",merged_with_accepted,2479550,"Agapornis roseicollis (Stanley, 1814)"
+https://www.gbif.org/species/8244019,159748110,Trachyspermum ammi (L.) Sprague ex Turrill,merged_with_accepted,8244019,Trachyspermum ammi (L.) Sprague ex Turrill
+https://www.gbif.org/species/8244019,159748110,Trachyspermum ammi (L.) Sprague ex Turrill,merged_with_accepted,8244019,Trachyspermum ammi (L.) Sprague ex Turrill
+https://www.gbif.org/species/8244019,159748110,Trachyspermum ammi (L.) Sprague ex Turrill,merged_with_accepted,8244019,Trachyspermum ammi (L.) Sprague ex Turrill
+https://www.gbif.org/species/3111758,159748815,Zinnia violacea Cav.,merged_with_accepted,3111754,Zinnia elegans Jacq.
+https://www.gbif.org/species/3111758,159748815,Zinnia violacea Cav.,merged_with_accepted,3111754,Zinnia elegans Jacq.
+https://www.gbif.org/species/6101215,182133220,"Leptoptilos crumenifer (Linnaeus, 1758)",merged_with_accepted,6101215,"Leptoptilos crumenifer (Linnaeus, 1758)"
+https://www.gbif.org/species/6101215,182133220,"Leptoptilos crumenifer (Linnaeus, 1758)",merged_with_accepted,6101215,"Leptoptilos crumenifer (Linnaeus, 1758)"
+https://www.gbif.org/species/6085036,182133392,Vulpia ciliata subsp. ciliata,merged_with_accepted,6085036,Vulpia ciliata subsp. ciliata
+https://www.gbif.org/species/6085036,182133392,Vulpia ciliata subsp. ciliata,merged_with_accepted,6085036,Vulpia ciliata subsp. ciliata
+https://www.gbif.org/species/6085036,182133392,Vulpia ciliata subsp. ciliata,merged_with_accepted,6085036,Vulpia ciliata subsp. ciliata
+https://www.gbif.org/species/10966302,182133502,Digitaria sanguinalis subsp. sanguinalis,merged_with_accepted,5289972,Digitaria sanguinalis (L.) Scop.
+https://www.gbif.org/species/10966302,182133502,Digitaria sanguinalis subsp. sanguinalis,merged_with_accepted,5289972,Digitaria sanguinalis (L.) Scop.
+https://www.gbif.org/species/10966302,182133502,Digitaria sanguinalis subsp. sanguinalis,merged_with_accepted,5289972,Digitaria sanguinalis (L.) Scop.
+https://www.gbif.org/species/10966302,182133502,Digitaria sanguinalis subsp. sanguinalis,merged_with_accepted,5289972,Digitaria sanguinalis (L.) Scop.
+https://www.gbif.org/species/3266899,182133994,"Lampropeltis Öpik, 1967",merged_with_accepted,3266899,"Lampropeltis Öpik, 1967"
+https://www.gbif.org/species/3266899,182133994,"Lampropeltis Öpik, 1967",merged_with_accepted,3266899,"Lampropeltis Öpik, 1967"
+https://www.gbif.org/species/3036157,182134023,Hedera hibernica (G.Kirchn.) Carrière,merged_with_accepted,3036157,Hedera hibernica (G.Kirchn.) Carrière
+https://www.gbif.org/species/3036157,182134023,Hedera hibernica (G.Kirchn.) Carrière,merged_with_accepted,3036157,Hedera hibernica (G.Kirchn.) Carrière
+https://www.gbif.org/species/3036157,182134023,Hedera hibernica (G.Kirchn.) Carrière,merged_with_accepted,3036157,Hedera hibernica (G.Kirchn.) Carrière
+https://www.gbif.org/species/3036157,182134023,Hedera hibernica (G.Kirchn.) Carrière,merged_with_accepted,3036157,Hedera hibernica (G.Kirchn.) Carrière
+https://www.gbif.org/species/2928759,182134151,Nicotiana langsdorffii Weinm.,merged_with_accepted,2928759,Nicotiana langsdorffii Weinm.
+https://www.gbif.org/species/2928759,182134151,Nicotiana langsdorffii Weinm.,merged_with_accepted,2928759,Nicotiana langsdorffii Weinm.
+https://www.gbif.org/species/2928759,182134151,Nicotiana langsdorffii Weinm.,merged_with_accepted,2928759,Nicotiana langsdorffii Weinm.
+https://www.gbif.org/species/4528099,182134272,"Tuta absoluta (Meyrick, 1917)",merged_with_accepted,4528100,"Phthorimaea absoluta Meyrick, 1917"
+https://www.gbif.org/species/4528099,182134272,"Tuta absoluta (Meyrick, 1917)",merged_with_accepted,4528100,"Phthorimaea absoluta Meyrick, 1917"
+https://www.gbif.org/species/4528099,182134272,"Tuta absoluta (Meyrick, 1917)",merged_with_accepted,4528100,"Phthorimaea absoluta Meyrick, 1917"
+https://www.gbif.org/species/4528099,182134272,"Tuta absoluta (Meyrick, 1917)",merged_with_accepted,4528100,"Phthorimaea absoluta Meyrick, 1917"
+https://www.gbif.org/species/8199647,182134906,Cichorium calvum Sch.Bip.,merged_with_accepted,8199647,Cichorium calvum Sch.Bip.
+https://www.gbif.org/species/8199647,182134906,Cichorium calvum Sch.Bip.,merged_with_accepted,8199647,Cichorium calvum Sch.Bip.
+https://www.gbif.org/species/3085196,182135058,Celosia cristata L.,merged_with_accepted,6429520,Celosia argentea f. cristata (L.) Schinz
+https://www.gbif.org/species/3085196,182135058,Celosia cristata L.,merged_with_accepted,6429520,Celosia argentea f. cristata (L.) Schinz
+https://www.gbif.org/species/3085196,182135058,Celosia cristata L.,merged_with_accepted,6429520,Celosia argentea f. cristata (L.) Schinz
+https://www.gbif.org/species/5224480,213212464,"Lampropeltis getula (Blainville, 1835)",merged_with_accepted,5224480,"Lampropeltis getula (Blainville, 1835)"
+https://www.gbif.org/species/5224480,213212464,"Lampropeltis getula (Blainville, 1835)",merged_with_accepted,5224480,"Lampropeltis getula (Blainville, 1835)"
+https://www.gbif.org/species/5224543,213212466,"Lampropeltis triangulum hondurensis Williams, 1978",merged_with_accepted,9366139,"Lampropeltis abnorma (Bocourt, 1886)"
+https://www.gbif.org/species/5224543,213212466,"Lampropeltis triangulum hondurensis Williams, 1978",merged_with_accepted,9366139,"Lampropeltis abnorma (Bocourt, 1886)"
+https://www.gbif.org/species/5224481,213212468,"Lampropeltis getula californiae (Blainville, 1835)",merged_with_accepted,8170369,"Lampropeltis californiae (Blainville, 1835)"
+https://www.gbif.org/species/5224481,213212468,"Lampropeltis getula californiae (Blainville, 1835)",merged_with_accepted,8170369,"Lampropeltis californiae (Blainville, 1835)"
+https://www.gbif.org/species/5224481,213212468,"Lampropeltis getula californiae (Blainville, 1835)",merged_with_accepted,8170369,"Lampropeltis californiae (Blainville, 1835)"
+https://www.gbif.org/species/7826520,213212670,"Canna indica Ruiz & Pav., 1798",merged_with_accepted,7826520,"Canna indica Ruiz & Pav., 1798"
+https://www.gbif.org/species/7826520,213212670,"Canna indica Ruiz & Pav., 1798",merged_with_accepted,7826520,"Canna indica Ruiz & Pav., 1798"
+https://www.gbif.org/species/4105744,213212701,Austrodanthonia racemosa (R.Br.) H.P.Linder,merged_with_accepted,4135762,Rytidosperma racemosum (R.Br.) Connor & Edgar
+https://www.gbif.org/species/4105744,213212701,Austrodanthonia racemosa (R.Br.) H.P.Linder,merged_with_accepted,4135762,Rytidosperma racemosum (R.Br.) Connor & Edgar
+https://www.gbif.org/species/4845821,213212759,"Aidemosyne modesta (Gould, 1837)",merged_with_accepted,2493740,"Neochmia modesta (Gould, 1837)"
+https://www.gbif.org/species/4845821,213212759,"Aidemosyne modesta (Gould, 1837)",merged_with_accepted,2493740,"Neochmia modesta (Gould, 1837)"
+https://www.gbif.org/species/10920460,213212760,"Bathilda ruficauda (Gould, 1837)",merged_with_accepted,2493739,"Neochmia ruficauda (Gould, 1837)"
+https://www.gbif.org/species/10920460,213212760,"Bathilda ruficauda (Gould, 1837)",merged_with_accepted,2493739,"Neochmia ruficauda (Gould, 1837)"
+https://www.gbif.org/species/2479694,213212904,"Trichoglossus moluccanus (Gmelin, 1788)",merged_with_accepted,6170530,"Trichoglossus haematodus moluccanus (Gmelin, 1788)"
+https://www.gbif.org/species/2479694,213212904,"Trichoglossus moluccanus (Gmelin, 1788)",merged_with_accepted,6170530,"Trichoglossus haematodus moluccanus (Gmelin, 1788)"
+https://www.gbif.org/species/7528816,213212952,Avena nuda Thuill.,merged_with_accepted,7528816,Avena nuda Thuill.
+https://www.gbif.org/species/7528816,213212952,Avena nuda Thuill.,merged_with_accepted,7528816,Avena nuda Thuill.
+https://www.gbif.org/species/5739284,213213014,"Porphyrio poliocephalus (Latham, 1801)",merged_with_accepted,6176735,"Porphyrio porphyrio poliocephalus (Latham, 1802)"
+https://www.gbif.org/species/5739284,213213014,"Porphyrio poliocephalus (Latham, 1801)",merged_with_accepted,6176735,"Porphyrio porphyrio poliocephalus (Latham, 1802)"
+https://www.gbif.org/species/9473367,213213020,"Antigone vipio (Pallas, 1811)",merged_with_accepted,2474942,"Grus vipio Pallas, 1811"
+https://www.gbif.org/species/9473367,213213020,"Antigone vipio (Pallas, 1811)",merged_with_accepted,2474942,"Grus vipio Pallas, 1811"
+https://www.gbif.org/species/4121360,213213062,Secale ×derzhavinii Tzvelev,merged_with_accepted,4121360,Secale ×derzhavinii Tzvelev
+https://www.gbif.org/species/4121360,213213062,Secale ×derzhavinii Tzvelev,merged_with_accepted,4121360,Secale ×derzhavinii Tzvelev
+https://www.gbif.org/species/6084799,213213067,Aira caryophyllea subsp. plesiantha (Jord. ex Boreau) K.Richt.,merged_with_accepted,7747216,Aira caryophyllea L.
+https://www.gbif.org/species/6084799,213213067,Aira caryophyllea subsp. plesiantha (Jord. ex Boreau) K.Richt.,merged_with_accepted,7747216,Aira caryophyllea L.
+https://www.gbif.org/species/2367913,213213114,"Misgurnus bipartitus (Sauvage & Dabry de Thiersant, 1874)",merged_with_accepted,2367911,"Misgurnus mohoity (Dybowski, 1869)"
+https://www.gbif.org/species/2367913,213213114,"Misgurnus bipartitus (Sauvage & Dabry de Thiersant, 1874)",merged_with_accepted,2367911,"Misgurnus mohoity (Dybowski, 1869)"
+https://www.gbif.org/species/8134874,213213124,Glyceria striata subsp. difformis Portal,merged_with_accepted,2705503,Glyceria striata (Lam.) Hitchc.
+https://www.gbif.org/species/8134874,213213124,Glyceria striata subsp. difformis Portal,merged_with_accepted,2705503,Glyceria striata (Lam.) Hitchc.
+https://www.gbif.org/species/2443339,213213129,"Mauremys Gray, 1869",merged_with_accepted,2443339,"Mauremys Gray, 1869"
+https://www.gbif.org/species/2443339,213213129,"Mauremys Gray, 1869",merged_with_accepted,2443339,"Mauremys Gray, 1869"
+https://www.gbif.org/species/7540482,213213188,"Cyperus longus A.Rich., 1850",merged_with_accepted,7540482,"Cyperus longus A.Rich., 1850"
+https://www.gbif.org/species/7540482,213213188,"Cyperus longus A.Rich., 1850",merged_with_accepted,7540482,"Cyperus longus A.Rich., 1850"
+https://www.gbif.org/species/7540482,213213188,"Cyperus longus A.Rich., 1850",merged_with_accepted,7540482,"Cyperus longus A.Rich., 1850"
+https://www.gbif.org/species/7540482,213213188,"Cyperus longus A.Rich., 1850",merged_with_accepted,7540482,"Cyperus longus A.Rich., 1850"
+https://www.gbif.org/species/2714166,213213191,Cyperus involucratus Rottb.,merged_with_accepted,2714158,Cyperus alternifolius subsp. flabelliformis Kük.
+https://www.gbif.org/species/2714166,213213191,Cyperus involucratus Rottb.,merged_with_accepted,2714158,Cyperus alternifolius subsp. flabelliformis Kük.
+https://www.gbif.org/species/2714166,213213191,Cyperus involucratus Rottb.,merged_with_accepted,2714158,Cyperus alternifolius subsp. flabelliformis Kük.
+https://www.gbif.org/species/6476579,213213344,"Dolichoplana signata Graff, 1899",merged_with_accepted,9085904,"Anisorhynchodemus signata (Graff, 1899)"
+https://www.gbif.org/species/6476579,213213344,"Dolichoplana signata Graff, 1899",merged_with_accepted,9085904,"Anisorhynchodemus signata (Graff, 1899)"
+https://www.gbif.org/species/2653389,213213353,Ephedra gerardiana Wall. ex Stapf,merged_with_accepted,2653389,Ephedra gerardiana Wall. ex Stapf
+https://www.gbif.org/species/2653389,213213353,Ephedra gerardiana Wall. ex Stapf,merged_with_accepted,2653389,Ephedra gerardiana Wall. ex Stapf
+https://www.gbif.org/species/3697259,213213379,Nymphaea ×marliacea Wildsmith,merged_with_accepted,3697259,Nymphaea ×marliacea Wildsmith
+https://www.gbif.org/species/3697259,213213379,Nymphaea ×marliacea Wildsmith,merged_with_accepted,3697259,Nymphaea ×marliacea Wildsmith
+https://www.gbif.org/species/3697259,213213379,Nymphaea ×marliacea Wildsmith,merged_with_accepted,3697259,Nymphaea ×marliacea Wildsmith
+https://www.gbif.org/species/3697259,213213379,Nymphaea ×marliacea Wildsmith,merged_with_accepted,3697259,Nymphaea ×marliacea Wildsmith
+https://www.gbif.org/species/7440977,213213443,Oenothera glazioviana var. azorica Rostaski,merged_with_accepted,3188894,Oenothera glazioviana Micheli
+https://www.gbif.org/species/7440977,213213443,Oenothera glazioviana var. azorica Rostaski,merged_with_accepted,3188894,Oenothera glazioviana Micheli
+https://www.gbif.org/species/8791507,213213511,Physalis philadelphica Lambert,merged_with_accepted,8791507,Physalis philadelphica Lambert
+https://www.gbif.org/species/8791507,213213511,Physalis philadelphica Lambert,merged_with_accepted,8791507,Physalis philadelphica Lambert
+https://www.gbif.org/species/8791507,213213511,Physalis philadelphica Lambert,merged_with_accepted,8791507,Physalis philadelphica Lambert
+https://www.gbif.org/species/6402873,213213515,Physalis ixocarpa Brot. ex Hornem.,merged_with_accepted,5581168,Physalis philadelphica subsp. ixocarpa (Brot. ex Hornem.) Sobr.-Vesp. & Sanz-Elorza
+https://www.gbif.org/species/6402873,213213515,Physalis ixocarpa Brot. ex Hornem.,merged_with_accepted,5581168,Physalis philadelphica subsp. ixocarpa (Brot. ex Hornem.) Sobr.-Vesp. & Sanz-Elorza
+https://www.gbif.org/species/6402873,213213515,Physalis ixocarpa Brot. ex Hornem.,merged_with_accepted,5581168,Physalis philadelphica subsp. ixocarpa (Brot. ex Hornem.) Sobr.-Vesp. & Sanz-Elorza
+https://www.gbif.org/species/8624880,213213533,"Cernuella virgata (Muller, 1774)",merged_with_accepted,8624880,"Cernuella virgata (Muller, 1774)"
+https://www.gbif.org/species/8624880,213213533,"Cernuella virgata (Muller, 1774)",merged_with_accepted,8624880,"Cernuella virgata (Muller, 1774)"
+https://www.gbif.org/species/8624880,213213533,"Cernuella virgata (Muller, 1774)",merged_with_accepted,8624880,"Cernuella virgata (Muller, 1774)"
+https://www.gbif.org/species/8624880,213213533,"Cernuella virgata (Muller, 1774)",merged_with_accepted,8624880,"Cernuella virgata (Muller, 1774)"
+https://www.gbif.org/species/7324507,213213574,Ipomoea lacunosa f. lacunosa,merged_with_accepted,2928584,Ipomoea lacunosa L.
+https://www.gbif.org/species/7324507,213213574,Ipomoea lacunosa f. lacunosa,merged_with_accepted,2928584,Ipomoea lacunosa L.
+https://www.gbif.org/species/3152839,213213627,"Cercidiphyllum japonicum, 1852",merged_with_accepted,3152839,"Cercidiphyllum japonicum, 1852"
+https://www.gbif.org/species/3152839,213213627,"Cercidiphyllum japonicum, 1852",merged_with_accepted,3152839,"Cercidiphyllum japonicum, 1852"
+https://www.gbif.org/species/3152839,213213627,"Cercidiphyllum japonicum, 1852",merged_with_accepted,3152839,"Cercidiphyllum japonicum, 1852"
+https://www.gbif.org/species/5688347,213213669,Sedum sediforme (Jacq.) Pau,merged_with_accepted,11206887,Petrosedum sediforme subsp. sediforme
+https://www.gbif.org/species/5688347,213213669,Sedum sediforme (Jacq.) Pau,merged_with_accepted,11206887,Petrosedum sediforme subsp. sediforme
+https://www.gbif.org/species/5688347,213213669,Sedum sediforme (Jacq.) Pau,merged_with_accepted,11206887,Petrosedum sediforme subsp. sediforme
+https://www.gbif.org/species/2971024,213213743,Melilotus officinalis (L.) Pallas,merged_with_accepted,2971024,Melilotus officinalis (L.) Pallas
+https://www.gbif.org/species/2971024,213213743,Melilotus officinalis (L.) Pallas,merged_with_accepted,2971024,Melilotus officinalis (L.) Pallas
+https://www.gbif.org/species/2971024,213213743,Melilotus officinalis (L.) Pallas,merged_with_accepted,2971024,Melilotus officinalis (L.) Pallas
+https://www.gbif.org/species/2971024,213213743,Melilotus officinalis (L.) Pallas,merged_with_accepted,2971024,Melilotus officinalis (L.) Pallas
+https://www.gbif.org/species/7225456,213213758,Vicia narbonensis var. narbonensis,merged_with_accepted,2975132,Vicia narbonensis L.
+https://www.gbif.org/species/7225456,213213758,Vicia narbonensis var. narbonensis,merged_with_accepted,2975132,Vicia narbonensis L.
+https://www.gbif.org/species/7225456,213213758,Vicia narbonensis var. narbonensis,merged_with_accepted,2975132,Vicia narbonensis L.
+https://www.gbif.org/species/7225456,213213758,Vicia narbonensis var. narbonensis,merged_with_accepted,2975132,Vicia narbonensis L.
+https://www.gbif.org/species/9603492,213213776,Vicia pannonica var. pannonica,merged_with_accepted,2974811,Vicia pannonica Crantz
+https://www.gbif.org/species/9603492,213213776,Vicia pannonica var. pannonica,merged_with_accepted,2974811,Vicia pannonica Crantz
+https://www.gbif.org/species/9603492,213213776,Vicia pannonica var. pannonica,merged_with_accepted,2974811,Vicia pannonica Crantz
+https://www.gbif.org/species/9603492,213213776,Vicia pannonica var. pannonica,merged_with_accepted,2974811,Vicia pannonica Crantz
+https://www.gbif.org/species/7753114,213213837,Lotus corniculatus var. sativus Hyl.,merged_with_accepted,7111792,Lotus corniculatus subsp. corniculatus
+https://www.gbif.org/species/7753114,213213837,Lotus corniculatus var. sativus Hyl.,merged_with_accepted,7111792,Lotus corniculatus subsp. corniculatus
+https://www.gbif.org/species/7753114,213213837,Lotus corniculatus var. sativus Hyl.,merged_with_accepted,7111792,Lotus corniculatus subsp. corniculatus
+https://www.gbif.org/species/5360221,213213843,Thermopsis montana Torr. & A.Gray,merged_with_accepted,5360221,Thermopsis montana Torr. & A.Gray
+https://www.gbif.org/species/5360221,213213843,Thermopsis montana Torr. & A.Gray,merged_with_accepted,5360221,Thermopsis montana Torr. & A.Gray
+https://www.gbif.org/species/8261015,213213853,Trigonella foenum-graecum (Habl.),merged_with_accepted,8261015,Trigonella foenum-graecum (Habl.)
+https://www.gbif.org/species/8261015,213213853,Trigonella foenum-graecum (Habl.),merged_with_accepted,8261015,Trigonella foenum-graecum (Habl.)
+https://www.gbif.org/species/1309635,213213886,"Aphelonyx cerricola (Giraud, 1859)",merged_with_accepted,1309635,"Aphelonyx cerricola (Giraud, 1859)"
+https://www.gbif.org/species/1309635,213213886,"Aphelonyx cerricola (Giraud, 1859)",merged_with_accepted,1309635,"Aphelonyx cerricola (Giraud, 1859)"
+https://www.gbif.org/species/7926816,213213995,Monsonia angustifolia E.Mey. ex A.Rich.,merged_with_accepted,7926816,Monsonia angustifolia E.Mey. ex A.Rich.
+https://www.gbif.org/species/7926816,213213995,Monsonia angustifolia E.Mey. ex A.Rich.,merged_with_accepted,7926816,Monsonia angustifolia E.Mey. ex A.Rich.
+https://www.gbif.org/species/8391331,213214001,Erodium moschatum (L.) Aiton,merged_with_accepted,8391331,Erodium moschatum (L.) Aiton
+https://www.gbif.org/species/8391331,213214001,Erodium moschatum (L.) Aiton,merged_with_accepted,8391331,Erodium moschatum (L.) Aiton
+https://www.gbif.org/species/2891621,213214009,"Erodium malacoides (L.) Willd., 1794",merged_with_accepted,2891621,"Erodium malacoides (L.) Willd., 1794"
+https://www.gbif.org/species/2891621,213214009,"Erodium malacoides (L.) Willd., 1794",merged_with_accepted,2891621,"Erodium malacoides (L.) Willd., 1794"
+https://www.gbif.org/species/7600329,213214104,Pulmonaria mollis Wulfen,merged_with_accepted,7600329,Pulmonaria mollis Wulfen
+https://www.gbif.org/species/7600329,213214104,Pulmonaria mollis Wulfen,merged_with_accepted,7600329,Pulmonaria mollis Wulfen
+https://www.gbif.org/species/10972541,213214143,"Cicada barbara (Stål, 1866)",merged_with_accepted,10972541,"Cicada barbara (Stål, 1866)"
+https://www.gbif.org/species/10972541,213214143,"Cicada barbara (Stål, 1866)",merged_with_accepted,10972541,"Cicada barbara (Stål, 1866)"
+https://www.gbif.org/species/11104870,213214144,"Cicada orni Linnaeus, 1758",merged_with_accepted,11104870,"Cicada orni Linnaeus, 1758"
+https://www.gbif.org/species/11104870,213214144,"Cicada orni Linnaeus, 1758",merged_with_accepted,11104870,"Cicada orni Linnaeus, 1758"
+https://www.gbif.org/species/11104870,213214144,"Cicada orni Linnaeus, 1758",merged_with_accepted,11104870,"Cicada orni Linnaeus, 1758"
+https://www.gbif.org/species/7318199,213214184,"Oxalis tetraphylla Link & Otto, 1828",merged_with_accepted,7318199,"Oxalis tetraphylla Link & Otto, 1828"
+https://www.gbif.org/species/7318199,213214184,"Oxalis tetraphylla Link & Otto, 1828",merged_with_accepted,7318199,"Oxalis tetraphylla Link & Otto, 1828"
+https://www.gbif.org/species/7318199,213214184,"Oxalis tetraphylla Link & Otto, 1828",merged_with_accepted,7318199,"Oxalis tetraphylla Link & Otto, 1828"
+https://www.gbif.org/species/7318199,213214184,"Oxalis tetraphylla Link & Otto, 1828",merged_with_accepted,7318199,"Oxalis tetraphylla Link & Otto, 1828"
+https://www.gbif.org/species/9767566,213214212,"Agonoscena succincta (Heeger, 1856)",merged_with_accepted,9767566,"Agonoscena succincta (Heeger, 1856)"
+https://www.gbif.org/species/9767566,213214212,"Agonoscena succincta (Heeger, 1856)",merged_with_accepted,9767566,"Agonoscena succincta (Heeger, 1856)"
+https://www.gbif.org/species/7300414,213214344,Epimedium pinnatum Fisch.,merged_with_accepted,7300414,Epimedium pinnatum Fisch.
+https://www.gbif.org/species/7300414,213214344,Epimedium pinnatum Fisch.,merged_with_accepted,7300414,Epimedium pinnatum Fisch.
+https://www.gbif.org/species/7300414,213214344,Epimedium pinnatum Fisch.,merged_with_accepted,7300414,Epimedium pinnatum Fisch.
+https://www.gbif.org/species/3033868,213214364,Berberis aquifolium Pursh,merged_with_accepted,3033865,Mahonia aquifolium (Pursh) Nutt.
+https://www.gbif.org/species/3033868,213214364,Berberis aquifolium Pursh,merged_with_accepted,3033865,Mahonia aquifolium (Pursh) Nutt.
+https://www.gbif.org/species/3033868,213214364,Berberis aquifolium Pursh,merged_with_accepted,3033865,Mahonia aquifolium (Pursh) Nutt.
+https://www.gbif.org/species/3033868,213214364,Berberis aquifolium Pursh,merged_with_accepted,3033865,Mahonia aquifolium (Pursh) Nutt.
+https://www.gbif.org/species/7277106,213214417,Helleborus lividus Aiton,merged_with_accepted,7277106,Helleborus lividus Aiton
+https://www.gbif.org/species/7277106,213214417,Helleborus lividus Aiton,merged_with_accepted,7277106,Helleborus lividus Aiton
+https://www.gbif.org/species/7277106,213214417,Helleborus lividus Aiton,merged_with_accepted,7277106,Helleborus lividus Aiton
+https://www.gbif.org/species/7277106,213214417,Helleborus lividus Aiton,merged_with_accepted,7277106,Helleborus lividus Aiton
+https://www.gbif.org/species/3707394,213214828,Delosperma cooperi L.Bol.Forma Cooperi,merged_with_accepted,3707394,Delosperma cooperi L.Bol.Forma Cooperi
+https://www.gbif.org/species/3707394,213214828,Delosperma cooperi L.Bol.Forma Cooperi,merged_with_accepted,3707394,Delosperma cooperi L.Bol.Forma Cooperi
+https://www.gbif.org/species/3707394,213214828,Delosperma cooperi L.Bol.Forma Cooperi,merged_with_accepted,3707394,Delosperma cooperi L.Bol.Forma Cooperi
+https://www.gbif.org/species/9554442,213214847,Tamarix gallica (Habl.),merged_with_accepted,9554442,Tamarix gallica (Habl.)
+https://www.gbif.org/species/9554442,213214847,Tamarix gallica (Habl.),merged_with_accepted,9554442,Tamarix gallica (Habl.)
+https://www.gbif.org/species/9554442,213214847,Tamarix gallica (Habl.),merged_with_accepted,9554442,Tamarix gallica (Habl.)
+https://www.gbif.org/species/3084748,213214852,Claytonia perfoliata Donn ex Willd.,merged_with_accepted,7095665,Claytonia perfoliata subsp. perfoliata
+https://www.gbif.org/species/3084748,213214852,Claytonia perfoliata Donn ex Willd.,merged_with_accepted,7095665,Claytonia perfoliata subsp. perfoliata
+https://www.gbif.org/species/3084748,213214852,Claytonia perfoliata Donn ex Willd.,merged_with_accepted,7095665,Claytonia perfoliata subsp. perfoliata
+https://www.gbif.org/species/3084748,213214852,Claytonia perfoliata Donn ex Willd.,merged_with_accepted,7095665,Claytonia perfoliata subsp. perfoliata
+https://www.gbif.org/species/4036350,213214873,Rumex salicifolius var. triangulivalvis (Danser) J.C.Hickman,merged_with_accepted,6391377,Rumex triangulivalvis (Danser) Rech.fil.
+https://www.gbif.org/species/4036350,213214873,Rumex salicifolius var. triangulivalvis (Danser) J.C.Hickman,merged_with_accepted,6391377,Rumex triangulivalvis (Danser) Rech.fil.
+https://www.gbif.org/species/4036350,213214873,Rumex salicifolius var. triangulivalvis (Danser) J.C.Hickman,merged_with_accepted,6391377,Rumex triangulivalvis (Danser) Rech.fil.
+https://www.gbif.org/species/4036350,213214873,Rumex salicifolius var. triangulivalvis (Danser) J.C.Hickman,merged_with_accepted,6391377,Rumex triangulivalvis (Danser) Rech.fil.
+https://www.gbif.org/species/2888955,213214880,Rumex pseudonatronatus Borbás,merged_with_accepted,2888955,Rumex pseudonatronatus Borbás
+https://www.gbif.org/species/2888955,213214880,Rumex pseudonatronatus Borbás,merged_with_accepted,2888955,Rumex pseudonatronatus Borbás
+https://www.gbif.org/species/8129694,213214925,Armeria arenaria (Pers.) Schult.,merged_with_accepted,7297998,Armeria arenaria subsp. arenaria
+https://www.gbif.org/species/8129694,213214925,Armeria arenaria (Pers.) Schult.,merged_with_accepted,7297998,Armeria arenaria subsp. arenaria
+https://www.gbif.org/species/3757660,213214935,Chenopodium ×pelgrimsianum Aellen,merged_with_accepted,3757660,Chenopodium ×pelgrimsianum Aellen
+https://www.gbif.org/species/3757660,213214935,Chenopodium ×pelgrimsianum Aellen,merged_with_accepted,3757660,Chenopodium ×pelgrimsianum Aellen
+https://www.gbif.org/species/9567226,213214961,Oxybasis glauca var. salina (Standl.) Verloove,merged_with_accepted,10714947,Oxybasis salina (Standl.) Uotila
+https://www.gbif.org/species/9567226,213214961,Oxybasis glauca var. salina (Standl.) Verloove,merged_with_accepted,10714947,Oxybasis salina (Standl.) Uotila
+https://www.gbif.org/species/9567226,213214961,Oxybasis glauca var. salina (Standl.) Verloove,merged_with_accepted,10714947,Oxybasis salina (Standl.) Uotila
+https://www.gbif.org/species/3107362,213215061,Senecio saracenicus W.D.J.Koch,merged_with_accepted,3107362,Senecio saracenicus W.D.J.Koch
+https://www.gbif.org/species/3107362,213215061,Senecio saracenicus W.D.J.Koch,merged_with_accepted,3107362,Senecio saracenicus W.D.J.Koch
+https://www.gbif.org/species/3107362,213215061,Senecio saracenicus W.D.J.Koch,merged_with_accepted,3107362,Senecio saracenicus W.D.J.Koch
+https://www.gbif.org/species/3121547,213215086,"Artemisia mongolica Fisch. ex Besser, 1834",merged_with_accepted,3121547,"Artemisia mongolica Fisch. ex Besser, 1834"
+https://www.gbif.org/species/3121547,213215086,"Artemisia mongolica Fisch. ex Besser, 1834",merged_with_accepted,3121547,"Artemisia mongolica Fisch. ex Besser, 1834"
+https://www.gbif.org/species/3132567,213215214,Galinsoga quadriradiata Cav.,merged_with_accepted,3132567,Galinsoga quadriradiata Cav.
+https://www.gbif.org/species/3132567,213215214,Galinsoga quadriradiata Cav.,merged_with_accepted,3132567,Galinsoga quadriradiata Cav.
+https://www.gbif.org/species/3132567,213215214,Galinsoga quadriradiata Cav.,merged_with_accepted,3132567,Galinsoga quadriradiata Cav.
+https://www.gbif.org/species/3132567,213215214,Galinsoga quadriradiata Cav.,merged_with_accepted,3132567,Galinsoga quadriradiata Cav.
+https://www.gbif.org/species/3110905,213215216,Scorzonera hispanica L.,merged_with_accepted,10769750,Pseudopodospermum hispanicum subsp. hispanicum
+https://www.gbif.org/species/3110905,213215216,Scorzonera hispanica L.,merged_with_accepted,10769750,Pseudopodospermum hispanicum subsp. hispanicum
+https://www.gbif.org/species/3110905,213215216,Scorzonera hispanica L.,merged_with_accepted,10769750,Pseudopodospermum hispanicum subsp. hispanicum
+https://www.gbif.org/species/3110905,213215216,Scorzonera hispanica L.,merged_with_accepted,10769750,Pseudopodospermum hispanicum subsp. hispanicum
+https://www.gbif.org/species/5371869,213215304,Bifora testiculata (L.) Spreng.,merged_with_accepted,7412216,Bifora testiculata (L.) Roth
+https://www.gbif.org/species/5371869,213215304,Bifora testiculata (L.) Spreng.,merged_with_accepted,7412216,Bifora testiculata (L.) Roth
+https://www.gbif.org/species/5371869,213215304,Bifora testiculata (L.) Spreng.,merged_with_accepted,7412216,Bifora testiculata (L.) Roth
+https://www.gbif.org/species/5371869,213215304,Bifora testiculata (L.) Spreng.,merged_with_accepted,7412216,Bifora testiculata (L.) Roth
+https://www.gbif.org/species/8212772,213215387,Symphoricarpos ×doorenbosii Krüssm.,merged_with_accepted,8212772,Symphoricarpos ×doorenbosii Krüssm.
+https://www.gbif.org/species/8212772,213215387,Symphoricarpos ×doorenbosii Krüssm.,merged_with_accepted,8212772,Symphoricarpos ×doorenbosii Krüssm.
+https://www.gbif.org/species/8212772,213215387,Symphoricarpos ×doorenbosii Krüssm.,merged_with_accepted,8212772,Symphoricarpos ×doorenbosii Krüssm.
+https://www.gbif.org/species/2888805,213215392,Scabiosa atropurpurea L.,merged_with_accepted,7301011,Sixalix atropurpurea subsp. atropurpurea
+https://www.gbif.org/species/2888805,213215392,Scabiosa atropurpurea L.,merged_with_accepted,7301011,Sixalix atropurpurea subsp. atropurpurea
+https://www.gbif.org/species/2888805,213215392,Scabiosa atropurpurea L.,merged_with_accepted,7301011,Sixalix atropurpurea subsp. atropurpurea
+https://www.gbif.org/species/5599249,213215398,Lonicera nitida E.H.Wilson,merged_with_accepted,7764700,Lonicera pileata var. yunnanensis (Franch.) Bernd Schulz
+https://www.gbif.org/species/5599249,213215398,Lonicera nitida E.H.Wilson,merged_with_accepted,7764700,Lonicera pileata var. yunnanensis (Franch.) Bernd Schulz
+https://www.gbif.org/species/5599249,213215398,Lonicera nitida E.H.Wilson,merged_with_accepted,7764700,Lonicera pileata var. yunnanensis (Franch.) Bernd Schulz
+https://www.gbif.org/species/5599249,213215398,Lonicera nitida E.H.Wilson,merged_with_accepted,7764700,Lonicera pileata var. yunnanensis (Franch.) Bernd Schulz
+https://www.gbif.org/species/2888796,213215410,Cephalaria syriaca (L.) Roem. & Schult.,merged_with_accepted,2888796,Cephalaria syriaca (L.) Roem. & Schult.
+https://www.gbif.org/species/2888796,213215410,Cephalaria syriaca (L.) Roem. & Schult.,merged_with_accepted,2888796,Cephalaria syriaca (L.) Roem. & Schult.
+https://www.gbif.org/species/2888796,213215410,Cephalaria syriaca (L.) Roem. & Schult.,merged_with_accepted,2888796,Cephalaria syriaca (L.) Roem. & Schult.
+https://www.gbif.org/species/5549698,213215422,Syringa josikaea J.Jacquin,merged_with_accepted,5549698,Syringa josikaea J.Jacquin
+https://www.gbif.org/species/5549698,213215422,Syringa josikaea J.Jacquin,merged_with_accepted,5549698,Syringa josikaea J.Jacquin
+https://www.gbif.org/species/7359335,213215433,Odontites luteus Steven,merged_with_accepted,7359335,Odontites luteus Steven
+https://www.gbif.org/species/7359335,213215433,Odontites luteus Steven,merged_with_accepted,7359335,Odontites luteus Steven
+https://www.gbif.org/species/3898065,213215469,Salvia lavandulifolia subsp. gallica W.Lippert,merged_with_accepted,6411218,"Salvia officinalis subsp. gallica (W.Lippert) Reales, D.Rivera & Obón"
+https://www.gbif.org/species/3898065,213215469,Salvia lavandulifolia subsp. gallica W.Lippert,merged_with_accepted,6411218,"Salvia officinalis subsp. gallica (W.Lippert) Reales, D.Rivera & Obón"
+https://www.gbif.org/species/2927029,213215471,Salvia splendens Sellow ex Schult.,merged_with_accepted,2927029,Salvia splendens Sellow ex Schult.
+https://www.gbif.org/species/2927029,213215471,Salvia splendens Sellow ex Schult.,merged_with_accepted,2927029,Salvia splendens Sellow ex Schult.
+https://www.gbif.org/species/2927029,213215471,Salvia splendens Sellow ex Schult.,merged_with_accepted,2927029,Salvia splendens Sellow ex Schult.
+https://www.gbif.org/species/7420038,213215480,Prunella grandiflora (L.) Scholler,merged_with_accepted,7420038,Prunella grandiflora (L.) Scholler
+https://www.gbif.org/species/7420038,213215480,Prunella grandiflora (L.) Scholler,merged_with_accepted,7420038,Prunella grandiflora (L.) Scholler
+https://www.gbif.org/species/8983123,213215537,Veronica teucrium var. teucrium,merged_with_accepted,3725062,Veronica teucrium L.
+https://www.gbif.org/species/8983123,213215537,Veronica teucrium var. teucrium,merged_with_accepted,3725062,Veronica teucrium L.
+https://www.gbif.org/species/8983123,213215537,Veronica teucrium var. teucrium,merged_with_accepted,3725062,Veronica teucrium L.
+https://www.gbif.org/species/5671095,213215647,"Urtica membranacea Barbieri ex Blume, 1856",merged_with_accepted,5671095,"Urtica membranacea Barbieri ex Blume, 1856"
+https://www.gbif.org/species/5671095,213215647,"Urtica membranacea Barbieri ex Blume, 1856",merged_with_accepted,5671095,"Urtica membranacea Barbieri ex Blume, 1856"
+https://www.gbif.org/species/5671095,213215647,"Urtica membranacea Barbieri ex Blume, 1856",merged_with_accepted,5671095,"Urtica membranacea Barbieri ex Blume, 1856"
+https://www.gbif.org/species/7882872,213215715,Prunus domestica A.Sav.,merged_with_accepted,7882872,Prunus domestica A.Sav.
+https://www.gbif.org/species/7882872,213215715,Prunus domestica A.Sav.,merged_with_accepted,7882872,Prunus domestica A.Sav.
+https://www.gbif.org/species/7882872,213215715,Prunus domestica A.Sav.,merged_with_accepted,7882872,Prunus domestica A.Sav.
+https://www.gbif.org/species/7882872,213215715,Prunus domestica A.Sav.,merged_with_accepted,7882872,Prunus domestica A.Sav.
+https://www.gbif.org/species/7499940,213215717,Prunus armeniaca Thunb.,merged_with_accepted,7499940,Prunus armeniaca Thunb.
+https://www.gbif.org/species/7499940,213215717,Prunus armeniaca Thunb.,merged_with_accepted,7499940,Prunus armeniaca Thunb.
+https://www.gbif.org/species/7499940,213215717,Prunus armeniaca Thunb.,merged_with_accepted,7499940,Prunus armeniaca Thunb.
+https://www.gbif.org/species/7499940,213215717,Prunus armeniaca Thunb.,merged_with_accepted,7499940,Prunus armeniaca Thunb.
+https://www.gbif.org/species/3012426,213215741,Sorbus latifolia K.Koch,merged_with_accepted,3012426,Sorbus latifolia K.Koch
+https://www.gbif.org/species/3012426,213215741,Sorbus latifolia K.Koch,merged_with_accepted,3012426,Sorbus latifolia K.Koch
+https://www.gbif.org/species/3012426,213215741,Sorbus latifolia K.Koch,merged_with_accepted,3012426,Sorbus latifolia K.Koch
+https://www.gbif.org/species/11403089,310015191,Gongolaria baccata (S.G.Gmelin) Molinari & Guiry,merged_with_accepted,11403089,Gongolaria baccata (S.G.Gmelin) Molinari & Guiry
+https://www.gbif.org/species/11403089,310015191,Gongolaria baccata (S.G.Gmelin) Molinari & Guiry,merged_with_accepted,11403089,Gongolaria baccata (S.G.Gmelin) Molinari & Guiry
+https://www.gbif.org/species/2292567,310016500,"Cipangopaludina chinensis (Griffith & Pidgeon, 1865)",merged_with_accepted,2292567,"Cipangopaludina chinensis (Griffith & Pidgeon, 1865)"
+https://www.gbif.org/species/2292567,310016500,"Cipangopaludina chinensis (Griffith & Pidgeon, 1865)",merged_with_accepted,2292567,"Cipangopaludina chinensis (Griffith & Pidgeon, 1865)"
+https://www.gbif.org/species/2292567,310016500,"Cipangopaludina chinensis (Griffith & Pidgeon, 1865)",merged_with_accepted,2292567,"Cipangopaludina chinensis (Griffith & Pidgeon, 1865)"
