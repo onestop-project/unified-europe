@@ -24,6 +24,41 @@ parent_dir <- here::here("data", "interim")
 ```{r}
 # List all folders (countries) in the parent directory
 country_folders <- list.dirs(parent_dir, recursive = FALSE)
+
+# Select specific countries if needed
+countries <- c(
+  "Austria",
+  "Belgium",
+  "Bulgaria",
+  "Croatia",
+  "Cyprus",
+  "Cyprus - Sovereign Base Areas",
+  "Czechia",
+  "Denmark",
+  "Estonia",
+  "Finland",
+  "France",
+  "Germany",
+  "Greece",
+  "Hungary",
+  "Ireland",
+  "Italy",
+  "Latvia",
+  "Lithuania",
+  "Luxembourg",
+  "Malta",
+  "Netherlands",
+  "Poland",
+  "Portugal",
+  "Romania",
+  "Slovakia",
+  "Slovenia",
+  "Spain",
+  "Sweden"
+)
+
+selected_paths <- country_folders[basename(country_folders) %in% countries]
+selected_paths
 ```
 
 ```{r}
@@ -60,7 +95,7 @@ process_folder <- function(folder, directory) {
 ```{r}
 # Use purrr::map to process all folders
 purrr::map(
-  country_folders, 
+  selected_paths, 
   ~ process_folder(.x, directory = here::here("data", "processed"))
   )
 ```

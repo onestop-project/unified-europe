@@ -30,7 +30,38 @@ checklists <- yaml::read_yaml(here::here("src", "checklists.yml"))
 ## Filter checklists if needed
 
 ```{r}
-# checklists <- purrr::keep(checklists, ~ .x$country %in% c("Belgium")) 
+to_keep <- c(
+  "Austria",
+  "Belgium",
+  "Bulgaria",
+  "Croatia",
+  "Cyprus", 
+  "Cyprus - Sovereign Base Areas",
+  "Czechia",
+  "Denmark",
+  "Estonia",
+  "Finland",
+  "France",
+  "Germany",
+  "Greece",
+  "Hungary",
+  "Ireland",
+  "Italy",
+  "Latvia",
+  "Lithuania",
+  "Luxembourg",
+  "Malta",
+  "Netherlands",
+  "Poland",
+  "Portugal",
+  "Romania",
+  "Slovakia",
+  "Slovenia",
+  "Spain",
+  "Sweden"
+)
+
+checklists <- purrr::keep(checklists, ~ .x$country %in% to_keep) 
 ```
 
 # Download taxa and distributions
