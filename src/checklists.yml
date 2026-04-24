@@ -82,6 +82,10 @@
   countryCode: PL
   doi: https://doi.org/10.15468/xxgzzh
   uuid: 250aa99d-b510-4f89-a68a-0a463ab7c530
+- country: Portugal
+  countryCode: PT
+  doi: https://doi.org/10.15468/5siv3h
+  uuid: 61b67ae8-c623-42a9-9172-3283f2f1473b
 - country: Portugal - Azores
   countryCode: PT
   doi: https://doi.org/10.15468/akypdb
@@ -90,22 +94,18 @@
   countryCode: PT
   doi: https://doi.org/10.15468/4yof3a
   uuid: 7c822f4a-3eb7-4956-af71-052a2c0167bc
-- country: Portugal
-  countryCode: PT
-  doi: https://doi.org/10.15468/5siv3h
-  uuid: 61b67ae8-c623-42a9-9172-3283f2f1473b
 - country: Romania
   countryCode: RO
   doi: https://doi.org/10.15468/fgqcsu
   uuid: d20e290d-4921-4244-a9a1-59ffa3bfa975
-- country: Slovenia
-  countryCode: SI
-  doi: https://doi.org/10.15468/awqzyu
-  uuid: 628b9441-36ba-41bc-a260-be5c655bd04b
 - country: Slovakia
   countryCode: SK
   doi: https://doi.org/10.15468/9aomvv
   uuid: 1353de13-65e6-4e97-ab77-8b1830498152
+- country: Slovenia
+  countryCode: SI
+  doi: https://doi.org/10.15468/awqzyu
+  uuid: 628b9441-36ba-41bc-a260-be5c655bd04b
 - country: Spain
   countryCode: ES
   doi: https://doi.org/10.15468/ylk7wp
