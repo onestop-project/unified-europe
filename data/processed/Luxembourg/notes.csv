@@ -14,10 +14,10 @@ taxonID,taxonKey,scientificName,action,acceptedKey,acceptedName
 161042,163299642,Fallopia japonica (Houtt.) Ronse Decraene,merged_with_accepted,2889173,Reynoutria japonica Houtt.
 161089,163299644,Reynoutria × bohemica Chrtek & Chrtková,scientificName_replaced_by_backbone_name,4038485,Reynoutria ×bohemica Chrtek & Chrtková
 161023,163299651,Claytonia perfoliata Donn ex Willd.,merged_with_accepted,7095665,Claytonia perfoliata subsp. perfoliata
-161062,163299661,Mimulus guttatus DC.,not_matched_with_backbone,,Mimulus guttatus DC.
+161062,163299661,Mimulus guttatus DC.,not_matched_with_backbone,,
 161032,163299665,"Dicranopalpus ramosus (E.Simon, 1909)",scientificName_replaced_by_backbone_name,4553430,"Dicranopalpus ramosus (Simon, 1909)"
 161011,163299679,Berberis aquifolium Pursh,merged_with_accepted,3033865,Mahonia aquifolium (Pursh) Nutt.
-161103,163299689,Spiraea alba Duroi,merged_with_accepted,7787813,Spiraea alba DuRoi
+161103,163299689,Spiraea alba Duroi,scientificName_replaced_by_backbone_name,7787813,Spiraea alba DuRoi
 161102,163299691,Spiraea × billiardii H‚rincq,scientificName_replaced_by_backbone_name,7732954,Spiraea ×billiardii H
 161035,163299696,Duchesnea indica (Andr.) Focke,merged_with_accepted,5365717,Potentilla indica (Andrews) Th.Wolf
 161061,163299697,"Meconema meridionale Costa & A., 1860",scientificName_replaced_by_backbone_name,1690429,"Meconema meridionale Costa, 1860"

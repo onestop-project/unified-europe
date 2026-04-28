@@ -15,9 +15,9 @@ taxonID,taxonKey,scientificName,action,acceptedKey,acceptedName
 122582,196392361,"Balanus improvisus Darwin, 1854",merged_with_accepted,6467647,"Amphibalanus improvisus (Darwin, 1854)"
 122680,196392362,Digitaria pectiniformis (Henrard) Tzvelev,merged_with_accepted,5289972,Digitaria sanguinalis (L.) Scop.
 122542,196392373,Anisantha sterilis (L.) Nevski,merged_with_accepted,2703647,Bromus sterilis L.
-122662,196392384,Craspedacusta sowerbyi Lancaster,not_matched_with_backbone,,Craspedacusta sowerbyi Lancaster
+122662,196392384,Craspedacusta sowerbyi Lancaster,not_matched_with_backbone,,
 122618,196392388,Ceratochloa carinata (Hook. & Arn.) Tutin,merged_with_accepted,2703712,Bromus carinatus Hook. & Arn.
-123085,196392389,Zizania latifolia Turcz. ex Stapf,merged_with_accepted,2703231,Zizania latifolia (Griseb.) Stapf
+123085,196392389,Zizania latifolia Turcz. ex Stapf,scientificName_replaced_by_backbone_name,2703231,Zizania latifolia (Griseb.) Stapf
 122619,196392395,Ceratochloa cathartica (Vahl) Herter,merged_with_accepted,2703723,Bromus catharticus Vahl
 122541,196392399,Anisantha diandra (Roth) Tutin ex Tzvelev,merged_with_accepted,2703760,Bromus diandrus Roth
 122518,196392408,Agropyron pectinatum (M.Bieb.) P.Beauv.,merged_with_accepted,2705196,Agropyron cristatum (L.) Gaertn.
@@ -85,17 +85,16 @@ taxonID,taxonKey,scientificName,action,acceptedKey,acceptedName
 123049,196392695,Telekia speciosa Baumg.,scientificName_replaced_by_backbone_name,5389173,Telekia speciosa (Schreb.) Baumg.
 123055,196392696,Tragopogon dubius subsp. major (Jacq.) Vollmann,merged_with_accepted,7262098,Tragopogon dubius subsp. dubius
 122780,196392705,Iva xanthifolia Nutt.,merged_with_accepted,3141890,Cyclachaena xanthiifolia (Nutt.) Fresen.
-122562,196392707,Artemisia dubia L. ex B.D.Jacks.,merged_with_accepted,3121526,"Artemisia dubia L. ex B.D.Jacks., 1912"
+122562,196392707,Artemisia dubia L. ex B.D.Jacks.,scientificName_replaced_by_backbone_name,3121526,"Artemisia dubia L. ex B.D.Jacks., 1912"
 122647,196392709,Conyza canadensis (L.) Cronq.,merged_with_accepted,3146791,Erigeron canadensis L.
 122837,196392711,Matricaria matricarioides (Less.) Porter,merged_with_accepted,3103791,Matricaria discoidea DC.
-123029,196392717,Solidago serotinoides A. & D.LÃ¶ve,not_matched_with_backbone,,Solidago serotinoides A. & D.LÃ¶ve
+123029,196392717,Solidago serotinoides A. & D.LÃ¶ve,not_matched_with_backbone,,
 122575,196392718,Aster versicolor hort. ex Steud.,scientificName_replaced_by_backbone_name,7615857,"Aster versicolor hort. ex Steud., 1840"
 123045,196392723,Tagetes patula L.,merged_with_accepted,3088488,Tagetes erecta L.
 123082,196392725,Xanthium albinum (Widder) Scholz & Sukopp,merged_with_accepted,4225554,Xanthium orientale var. albinum (Widder) Adema & M.T.Jansen
 122733,196392727,Glebionis coronaria (L.) Cass. ex Spach,merged_with_accepted,7627205,Glebionis coronaria (L.) Tzvelev
 122640,196392728,Chrysanthemum coronarium L.,merged_with_accepted,7627205,Glebionis coronaria (L.) Tzvelev
 122568,196392729,Artemisia selengensis Turcz. ex Bess.,scientificName_replaced_by_backbone_name,3120791,Artemisia selengensis Turcz. ex Besser
-122726,196392730,Galinsoga quadriradiata Cav.,merged_with_accepted,3132567,Galinsoga quadriradiata Cav.
 122851,196392740,Myrrhis odorata Scop.,scientificName_replaced_by_backbone_name,3034681,Myrrhis odorata (L.) Scop.
 123009,196392745,Seseli tortuosum Sibth. & Sm.,merged_with_accepted,8166287,Johrenia distans (Griseb.) Halácsy
 122536,196392751,Ammi visnaga (L.) Lam.,merged_with_accepted,5371753,Visnaga daucoides Gaertn.
@@ -105,7 +104,7 @@ taxonID,taxonKey,scientificName,action,acceptedKey,acceptedName
 122511,196392763,Aconogonon coriarium (Grig.) Sojak,merged_with_accepted,8976401,Koenigia coriaria (Grig.) T.M.Schust. & Reveal
 122979,196392765,Rumex triangulivalvis (Danser) Rech.f.,scientificName_replaced_by_backbone_name,6391377,Rumex triangulivalvis (Danser) Rech.fil.
 122512,196392767,Aconogonon weyrichii (F.Schmidt) Hara,merged_with_accepted,8811572,Koenigia weyrichii (F.Schmidt) T.M.Schust. & Reveal
-122886,196392774,Oxybaphus nyctagineus (Michx.) Sw.,not_matched_with_backbone,,Oxybaphus nyctagineus (Michx.) Sw.
+122886,196392774,Oxybaphus nyctagineus (Michx.) Sw.,not_matched_with_backbone,,
 122631,196392777,Chenopodium bonus-henricus L.,merged_with_accepted,8044896,Blitum bonus-henricus (L.) Rchb.
 122632,196392783,Chenopodium botrys L.,merged_with_accepted,5568428,Dysphania botrys (L.) Mosyakin & Clemants
 122654,196392790,Corispermum leptopterum (Ascherson) Iljin,merged_with_accepted,3083975,Corispermum pallasii Steven
@@ -116,7 +115,7 @@ taxonID,taxonKey,scientificName,action,acceptedKey,acceptedName
 122634,196392804,Chenopodium murale L.,merged_with_accepted,8149099,"Chenopodiastrum murale (L.) S.Fuentes, Uotila & Borsch"
 122633,196392807,Chenopodium foliosum (Moench) Ascherson,merged_with_accepted,8336376,Blitum virgatum subsp. virgatum
 122635,196392811,Chenopodium schraderianum Roem. ex Schult.,merged_with_accepted,5568322,Dysphania schraderiana (Schult.) Mosyakin & Clemants
-122931,196392816,Portulaca oleracea subsp. granatus L.,not_matched_with_backbone,,Portulaca oleracea subsp. granatus L.
+122931,196392816,Portulaca oleracea subsp. granatus L.,not_matched_with_backbone,,
 123066,196392818,Vaccaria hispanica (Miller) Rauschert,merged_with_accepted,8091998,Gypsophila vaccaria (L.) Sm.
 122824,196392824,Lychnis coronaria (L.) Desr.,merged_with_accepted,5384741,Silene coronaria (L.) Clairv.
 122823,196392833,Lychnis chalcedonica L.,merged_with_accepted,5584611,Silene chalcedonica (L.) E.H.L.Krause
@@ -130,7 +129,6 @@ taxonID,taxonKey,scientificName,action,acceptedKey,acceptedName
 122808,196392880,Linaria repens Mill.,scientificName_replaced_by_backbone_name,5415019,Linaria repens (L.) Mill.
 122844,196392885,Mimulus guttatus Fisch. ex DC.,merged_with_accepted,7346102,Erythranthe guttata (DC.) G.L.Nesom
 122909,196392898,Phlomis tuberosa L.,merged_with_accepted,3884879,Phlomoides tuberosa (L.) Moench
-122986,196392900,Salvia dumetorum Andrz.,merged_with_accepted,3903454,Salvia dumetorum Andrz.
 122698,196392903,Elsholtzia ciliata (Thunb.) Hylander,scientificName_replaced_by_backbone_name,2927075,Elsholtzia ciliata (Thunb.) Hyl.
 122841,196392904,Mentha gentilis L.,merged_with_accepted,2927192,Mentha arvensis L.
 123079,196392920,Viola wittrockiana Gams,scientificName_replaced_by_backbone_name,5331389,Viola ×wittrockiana Gams
@@ -147,7 +145,6 @@ taxonID,taxonKey,scientificName,action,acceptedKey,acceptedName
 122614,196392951,Cerasus avium (L.) Moench,merged_with_accepted,3020791,Prunus avium (L.) L.
 122670,196392952,Dasiphora fruticosa Rydb.,scientificName_replaced_by_backbone_name,5370380,Dasiphora fruticosa (L.) Rydb.
 122534,196392954,Amelanchier spicata K.Koch,merged_with_accepted,3023903,Amelanchier humilis Wiegand
-122940,196392957,Potentilla thuringiaca Bernh.,merged_with_accepted,5367126,Potentilla thuringiaca Bernh.
 122720,196392960,Fragaria moschata Weston,merged_with_accepted,8350369,Fragaria moschata Duchesne
 122998,196392965,Schistophyllidium bifurcum (L.),merged_with_accepted,3000723,Sibbaldianthe bifurca (L.) Kurtto & T.Erikss.
 122897,196392969,Persica vulgaris Mill.,merged_with_accepted,8149923,Prunus persica (L.) Stokes
@@ -156,11 +153,11 @@ taxonID,taxonKey,scientificName,action,acceptedKey,acceptedName
 122615,196392977,Cerasus mahaleb (L.) Miller,merged_with_accepted,3022789,Prunus mahaleb L.
 122616,196392979,Cerasus tomentosa (Thunb.) Wall. ex T.T.Yu & C.L.Li,merged_with_accepted,7380100,Prunus tomentosa Thunb. ex A.Murray
 123035,196392983,Spiraea bumalda Burv.,scientificName_replaced_by_backbone_name,3027068,Spiraea ×bumalda Burv.
-123033,196392984,Spiraea Ã—billardii HÃ©rincq,not_matched_with_backbone,,Spiraea Ã—billardii HÃ©rincq
+123033,196392984,Spiraea Ã—billardii HÃ©rincq,not_matched_with_backbone,,
 122829,196392986,Malus toringo Sieb.,merged_with_accepted,7848132,Malus toringo (Siebold) de Vriese
 122554,196392988,Armeniaca vulgaris Lam.,merged_with_accepted,7818643,Prunus armeniaca L.
 122828,196392992,Malus domestica Borkh.,scientificName_replaced_by_backbone_name,3001244,Malus domestica (Suckow) Borkh.
-122884,196393004,Oxalis repens L.,not_matched_with_backbone,,Oxalis repens L.
+122884,196393004,Oxalis repens L.,not_matched_with_backbone,,
 122646,196393014,Consolida orientalis (J.Gay) R.SchrÃ¶dinger,merged_with_accepted,3033833,Delphinium ajacis L.
 122677,196393020,Dicentra formosa Walp.,scientificName_replaced_by_backbone_name,2888553,Dicentra formosa (Andrews) Walp.
 122656,196393022,Corydalis capnoides Pers.,scientificName_replaced_by_backbone_name,5334213,Corydalis capnoides (L.) Pers.

@@ -28,7 +28,7 @@ taxonID,taxonKey,scientificName,action,acceptedKey,acceptedName
 42904,148789428,Xanthium saccharatum Wallr.,merged_with_accepted,11794300,Xanthium orientale var. saccharatum (Wallr.) M.Hassl.
 42902,148789430,Xanthium albinum subsp. riparium (Celak.) Widd. & Wagenitz,merged_with_accepted,6306076,Xanthium orientale var. riparium (Celak.) Adema & M.T.Jansen
 42903,148789433,Xanthium orientale subsp. italicum (Moretti) Greuter,merged_with_accepted,11519882,Xanthium orientale var. italicum (Moretti) M.Hassl.
-42906,148789435,Xanthium strumarium Lour.,merged_with_accepted,9052721,"Xanthium strumarium Lour., 1790"
+42906,148789435,Xanthium strumarium Lour.,scientificName_replaced_by_backbone_name,9052721,"Xanthium strumarium Lour., 1790"
 42819,148789438,"Micropterus salmoides (LacepÃ¨de, 1802)",scientificName_replaced_by_backbone_name,2394563,"Micropterus salmoides (Lacepède, 1802)"
 42857,148789448,"Ponticola kessleri (GÃ¼nther, 1861)",scientificName_replaced_by_backbone_name,4285968,"Ponticola kessleri (Günther, 1861)"
 42780,148789449,Erechtites hieracifolia (L.) Raf.,merged_with_accepted,3132457,Erechtites hieraciifolius (L.) Raf. ex DC.

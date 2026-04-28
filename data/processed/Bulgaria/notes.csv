@@ -1,5 +1,5 @@
 taxonID,taxonKey,scientificName,action,acceptedKey,acceptedName
-176770,163315502,Woronichinia fremyi,not_matched_with_backbone,,Woronichinia fremyi
+176770,163315502,Woronichinia fremyi,not_matched_with_backbone,,
 176560,163315506,Planktolyngbya undulata KomÃ¡rek & H.J.Kling,scientificName_replaced_by_backbone_name,3217906,Planktolyngbya undulata Komárek & H.J.Kling
 176559,163315508,Planktolyngbya circumcreta (G.S.West) Anagn. & KomÃ¡rek,scientificName_replaced_by_backbone_name,7951474,Planktolyngbya circumcreta (G.S.West) Anagn. & Komárek
 176609,163315515,"Raphidiopsis curvata F.E.Fritsch & M.F.Rich, 1929",scientificName_replaced_by_backbone_name,3219381,Raphidiopsis curvata F.E.Fritsch & Rich
@@ -7,14 +7,12 @@ taxonID,taxonKey,scientificName,action,acceptedKey,acceptedName
 176336,163315520,"Garveia franciscana (Torrey, 1902)",merged_with_accepted,2266546,"Calyptospadix cerulea Clarke, 1882"
 176117,163315523,Bougainvillia megas,merged_with_accepted,2266546,"Calyptospadix cerulea Clarke, 1882"
 176107,163315535,"Beroe ovata Bruguiere, 1789",scientificName_replaced_by_backbone_name,5233152,"Beroe ovata Bruguière, 1789"
-176305,163315542,"Eutintinnus lusus-undae (Entz, 1885)",not_matched_with_backbone,,"Eutintinnus lusus-undae (Entz, 1885)"
-176649,163315551,Scaphodinium mirabile Margalef,not_matched_with_backbone,,Scaphodinium mirabile Margalef
-176518,163315565,Oxyphysis oxytoxoides Kof.,merged_with_accepted,8216761,Oxyphysis oxytoxoides Kof.
-176653,163315571,"Scrippsiella operosa (Deflandre, 1947) Montresor, 2003",not_matched_with_backbone,,"Scrippsiella operosa (Deflandre, 1947) Montresor, 2003"
+176305,163315542,"Eutintinnus lusus-undae (Entz, 1885)",not_matched_with_backbone,,
+176649,163315551,Scaphodinium mirabile Margalef,not_matched_with_backbone,,
+176653,163315571,"Scrippsiella operosa (Deflandre, 1947) Montresor, 2003",not_matched_with_backbone,,
 176535,163315574,Peridiniopsis polonica (WoÅ‚osz.) Bourr.,scientificName_replaced_by_backbone_name,7981847,Peridiniopsis polonica (Wołosz.) Bourr.
-176536,163315576,"Peridinium quinquecorne AbÃ©, 1927",not_matched_with_backbone,,"Peridinium quinquecorne AbÃ©, 1927"
+176536,163315576,"Peridinium quinquecorne AbÃ©, 1927",not_matched_with_backbone,,
 176586,163315596,"Potamopyrgus antipodarum (Gray, 1843)",scientificName_replaced_by_backbone_name,5192470,"Potamopyrgus antipodarum (J.E.Gray, 1843)"
-176022,163315613,"Alexandrium monilatum (Howell) F.J.R.Taylor, 1979",merged_with_accepted,3205100,"Alexandrium monilatum (Howell) F.J.R.Taylor, 1979"
 176312,163315621,"Ferrissia fragilis (Tryon, 1863)",merged_with_accepted,9520065,"Ferrissia californica (Rowell, 1863)"
 176255,163315633,"Distephanus speculum (Ehrenberg) Haeckel, 1887",merged_with_accepted,10478115,"Octactis speculum (Ehrenberg) F.H.Chang, J.M.Grieve & J.E.Sutherland, 2017"
 176599,163315650,"Pseudosolenia calcar-avis (Schultze) B.G.SundstrÃ¶m, 1986",scientificName_replaced_by_backbone_name,3194102,"Pseudosolenia calcar-avis (Schultze) B.G.Sundström, 1986"
@@ -27,19 +25,19 @@ taxonID,taxonKey,scientificName,action,acceptedKey,acceptedName
 176583,163315694,"Poropila dubia Schiller, 1925",scientificName_replaced_by_backbone_name,6452163,"Poropila dubia J.Schiller, 1925"
 176601,163315702,"Pterosperma joergenseni (Schiller, 1925)",scientificName_replaced_by_backbone_name,6452299,"Pterosperma joergensenii J.Schiller, 1925"
 176494,163315706,"Neovison vison (Schreber, 1777)",merged_with_accepted,5218823,"Mustela vison Schreber, 1777"
-176204,163315709,"Cladophora hutchinsiae (Dillwyn) KÃ¼tzing, 1845",not_matched_with_backbone,,"Cladophora hutchinsiae (Dillwyn) KÃ¼tzing, 1845"
+176204,163315709,"Cladophora hutchinsiae (Dillwyn) KÃ¼tzing, 1845",not_matched_with_backbone,,
 176292,163315718,Erythrocladia irregularis Rosenvinge,scientificName_replaced_by_backbone_name,2653902,Erythrocladia irregularis Rosenv.
 176579,163315725,Polysiphonia fucoides (Hudson) Greville,merged_with_accepted,12194263,Vertebrata spec (Hudson) Kuntze
 176373,163315731,"Hildenbrandia crouaniorum J.Agardh, 1852",scientificName_replaced_by_backbone_name,2665384,Hildenbrandia crouaniorum J.Agardh
 176011,163315736,Acrochaetium rosulatum (Rosenvinge) Papenfuss,merged_with_accepted,2664198,Kylinia rosulata Rosenvinge
-176010,163315738,Acrochaetium leptonema (Rosenvinge) BÃ¸rgesen,not_matched_with_backbone,,Acrochaetium leptonema (Rosenvinge) BÃ¸rgesen
+176010,163315738,Acrochaetium leptonema (Rosenvinge) BÃ¸rgesen,not_matched_with_backbone,,
 176479,163315760,"Mugil soiuy Basilewsky, 1855",merged_with_accepted,9377860,"Planiliza haematocheila (Temminck & Schlegel, 1845)"
 176101,163315763,Azolla mexicana Presl,merged_with_accepted,4196474,Azolla cristata Kaulf.
 176443,163315765,"Liza haematocheilus (Temminck & Schlegel, 1845)",merged_with_accepted,9377860,"Planiliza haematocheila (Temminck & Schlegel, 1845)"
 176275,163315776,Elodea nuttallii St.John,scientificName_replaced_by_backbone_name,5329212,Elodea nuttallii (Planch.) H.St.John
-176024,163315800,Allium atropurpureum Waldst. & Kit.,establishmentMeans_missing,2856009,Allium atropurpureum Waldst. & Kit.
-176026,163315801,Allium scorodoprasum L.,establishmentMeans_missing,9177060,Allium scorodoprasum L.
-176025,163315803,Allium nigrum L.,establishmentMeans_missing,2855823,Allium nigrum L.
+176024,163315800,Allium atropurpureum Waldst. & Kit.,filtered_on_establishmentMeans,2856009,Allium atropurpureum Waldst. & Kit.
+176026,163315801,Allium scorodoprasum L.,filtered_on_establishmentMeans,9177060,Allium scorodoprasum L.
+176025,163315803,Allium nigrum L.,filtered_on_establishmentMeans,2855823,Allium nigrum L.
 176264,163315821,Echinochloa oryzicola Vasinger,merged_with_accepted,2702820,Echinochloa oryzoides (Ard.) Fritsch
 176164,163315824,Cenchrus incertus M.A.Curtis,merged_with_accepted,5289726,Cenchrus spinifex Cav.
 176651,163315826,Sclerochloa dura P.Beauv.,scientificName_replaced_by_backbone_name,2704841,Sclerochloa dura (L.) P.Beauv.
@@ -56,13 +54,12 @@ taxonID,taxonKey,scientificName,action,acceptedKey,acceptedName
 176104,163315889,Beckmannia eruciformis Host,scientificName_replaced_by_backbone_name,5290063,Beckmannia eruciformis (L.) Host
 176529,163315915,Parthenocissus inserta (A.Kerner) Fritsch,scientificName_replaced_by_backbone_name,3039203,Parthenocissus inserta (A.Kern.) Fritsch
 176046,163315918,"Amphibalanus improvisus Darwin, 1854",scientificName_replaced_by_backbone_name,6467647,"Amphibalanus improvisus (Darwin, 1854)"
-176027,163315938,"Alpheus dentipes GuÃ©rin, 1832",not_matched_with_backbone,,"Alpheus dentipes GuÃ©rin, 1832"
-176289,163315952,Erodium cicutarium L'HÃ©r. ex Ait.,not_matched_with_backbone,,Erodium cicutarium L'HÃ©r. ex Ait.
-176288,163315969,Erodium ciconium (L.) L'HÃ©r.,not_matched_with_backbone,,Erodium ciconium (L.) L'HÃ©r.
+176027,163315938,"Alpheus dentipes GuÃ©rin, 1832",not_matched_with_backbone,,
+176289,163315952,Erodium cicutarium L'HÃ©r. ex Ait.,not_matched_with_backbone,,
+176288,163315969,Erodium ciconium (L.) L'HÃ©r.,not_matched_with_backbone,,
 176434,163315975,"Leptopsylla segnis (Schonherr, 1811)",scientificName_replaced_by_backbone_name,1417654,"Leptopsylla segnis (Schönherr, 1811)"
 176739,163315978,Valerianella dentata Pollich,scientificName_replaced_by_backbone_name,2888789,Valerianella dentata (L.) Pollich
 176741,163315981,Valerianella rimosa Bast.,scientificName_replaced_by_backbone_name,4095539,Valerianella rimosa Bastard
-176170,163315987,Cephalaria syriaca (L.) Roem. & Schult.,merged_with_accepted,2888796,Cephalaria syriaca (L.) Roem. & Schult.
 176171,163315992,Cephalaria transsylvanica (L.) Roem. & Schult.,scientificName_replaced_by_backbone_name,4934466,Cephalaria transsylvanica (L.) Schrad. ex Roem. & Schult.
 176700,163316005,"Stenocrotaphus gigas (Taschenberg, 1879)",merged_with_accepted,5815252,"Goniodes gigas (Taschenberg, 1879)"
 176681,163316006,Solanum cornutum Lam.,merged_with_accepted,2929800,Solanum angustifolium Houst. ex Mill.
@@ -100,7 +97,7 @@ taxonID,taxonKey,scientificName,action,acceptedKey,acceptedName
 176179,163316150,"Chaetosiphon fragaefolii (Cockerell & T.D.A., 1901)",scientificName_replaced_by_backbone_name,2076486,"Chaetosiphon fragaefolii (Cockerell, 1901)"
 176013,163316157,"Acyrthosiphon caraganae (Cholodkovsky, 1907)",scientificName_replaced_by_backbone_name,2077518,"Acyrthosiphon caraganae (Cholodkovsky, 1908)"
 176612,163316167,Rapistrum rugosum All.,scientificName_replaced_by_backbone_name,5373368,Rapistrum rugosum (L.) All.
-176678,163316172,"Sitophilus oryzae Schoenherr, 1838",not_matched_with_backbone,,"Sitophilus oryzae Schoenherr, 1838"
+176678,163316172,"Sitophilus oryzae Schoenherr, 1838",not_matched_with_backbone,,
 176679,163316174,"Sitophilus zeamais Motschulsky, 1855",scientificName_replaced_by_backbone_name,4291553,"Sitophilus zeamais Motschulsky & V.de, 1855"
 176602,163316180,"Ptinus ocellus Brown, 1929",merged_with_accepted,1095783,"Ptinus tectus Boieldieu, 1856"
 176493,163316187,"Necrobia rufipes (De Geer, 1775)",scientificName_replaced_by_backbone_name,1161902,"Necrobia rufipes (Fabricius, 1781)"
@@ -111,9 +108,9 @@ taxonID,taxonKey,scientificName,action,acceptedKey,acceptedName
 176093,163316217,"Attagenus unicolor (Brahm, 1791)",scientificName_replaced_by_backbone_name,1095958,"Attagenus unicolor (Brahm, 1790)"
 176059,163316219,"Anthrenus flavipes LeConte, 1854",scientificName_replaced_by_backbone_name,1095905,"Anthrenus flavipes Leconte, 1856"
 176413,163316230,"Latheticus oryzae Waterhouse, 1880",scientificName_replaced_by_backbone_name,1045833,"Latheticus oryzae C.O.Waterhouse, 1880"
-176029,163316233,"Alphitophagus bifasciatus (Say, 1824)",establishmentMeans_missing,4455268,"Alphitophagus bifasciatus (Say, 1824)"
-176028,163316235,"Alphitobius diaperinus (Panzer, 1797)",establishmentMeans_missing,1045875,"Alphitobius diaperinus (Panzer, 1797)"
-176245,163316241,"Diabrotica virgifera J.L.LeConte, 1868",merged_with_accepted,1048497,"Diabrotica virgifera LeConte, 1868"
+176029,163316233,"Alphitophagus bifasciatus (Say, 1824)",filtered_on_establishmentMeans,4455268,"Alphitophagus bifasciatus (Say, 1824)"
+176028,163316235,"Alphitobius diaperinus (Panzer, 1797)",filtered_on_establishmentMeans,1045875,"Alphitobius diaperinus (Panzer, 1797)"
+176245,163316241,"Diabrotica virgifera J.L.LeConte, 1868",scientificName_replaced_by_backbone_name,1048497,"Diabrotica virgifera LeConte, 1868"
 176278,163316243,"Epitrix hirtipennis (F.E.Melsheimer, 1847)",scientificName_replaced_by_backbone_name,1048253,"Epitrix hirtipennis (Melsheimer, 1847)"
 176133,163316251,"Bruchus pisorum (Linnaeus, 1758)",scientificName_replaced_by_backbone_name,5752155,"Bruchus pisorum Linnaeus, 1758"
 176438,163316269,Lindernia dubia Pennell,scientificName_replaced_by_backbone_name,3171888,Lindernia dubia (L.) Pennell
@@ -130,8 +127,8 @@ taxonID,taxonKey,scientificName,action,acceptedKey,acceptedName
 176627,163316337,Rochelia disperma (L.fil.) Wettst.,merged_with_accepted,7621706,Rochelia disperma (L.fil.) C.Koch
 176049,163316339,Anchusa arvensis (L.) M.Bieb.,merged_with_accepted,9309359,Lycopsis arvensis subsp. arvensis
 176485,163316341,Myosotis arvensis Hill,scientificName_replaced_by_backbone_name,5341170,Myosotis arvensis (L.) Hill
-176407,163316343,Lappula barbata GÃ¼rke,not_matched_with_backbone,,Lappula barbata GÃ¼rke
-176408,163316344,Lappula marginata GÃ¼rke,not_matched_with_backbone,,Lappula marginata GÃ¼rke
+176407,163316343,Lappula barbata GÃ¼rke,not_matched_with_backbone,,
+176408,163316344,Lappula marginata GÃ¼rke,not_matched_with_backbone,,
 176409,163316345,Lappula squarrosa Dumort.,scientificName_replaced_by_backbone_name,2925756,Lappula squarrosa (Retz.) Dumort.
 176727,163316355,Trigonella monspeliaca L.,merged_with_accepted,2965434,Medicago monspeliaca (L.) Trautv.
 176756,163316362,Vicia ervilia Willd.,scientificName_replaced_by_backbone_name,2974887,Vicia ervilia (L.) Willd.
@@ -141,7 +138,7 @@ taxonID,taxonKey,scientificName,action,acceptedKey,acceptedName
 176558,163316378,Pisum sativum L.,merged_with_accepted,5347846,Lathyrus oleraceus Lam.
 176462,163316384,Medicago minima (L.) L.,merged_with_accepted,8073758,Medicago minima (L.) Bartal.
 176467,163316387,Melilotus dentatus Pers.,merged_with_accepted,8349589,Melilotus dentatus (Waldst. & Kit.) Desf.
-176469,163316389,Melilotus officinalis Pall.,merged_with_accepted,2971024,Melilotus officinalis (L.) Pallas
+176469,163316389,Melilotus officinalis Pall.,scientificName_replaced_by_backbone_name,2971024,Melilotus officinalis (L.) Pallas
 176227,163316399,Coronilla scorpioides Koch,scientificName_replaced_by_backbone_name,5348644,Coronilla scorpioides (L.) W.D.J.Koch
 176423,163316412,Legousia speculum-veneris (L.) Durande ex Vill.,merged_with_accepted,8022456,Legousia speculum-veneris (L.) Chaix
 176422,163316413,Legousia pentagonia Thell.,scientificName_replaced_by_backbone_name,3158779,Legousia pentagonia (L.) Thell.
@@ -162,10 +159,9 @@ taxonID,taxonKey,scientificName,action,acceptedKey,acceptedName
 176055,163316452,Anthemis austriaca Jacq.,merged_with_accepted,5390636,Cota austriaca (Jacq.) Sch.Bip.
 176053,163316454,Anthemis altissima L.,merged_with_accepted,5390611,Cota altissima (L.) J.Gay
 176617,163316460,Rhagadiolus stellatus Gaertn.,scientificName_replaced_by_backbone_name,5399550,Rhagadiolus stellatus (L.) Gaertn.
-176058,163316481,Anthemis tinctoria Forssk.,not_matched_with_backbone,,Anthemis tinctoria Forssk.
+176058,163316481,Anthemis tinctoria Forssk.,not_matched_with_backbone,,
 176085,163316491,Aster squamatus Hieron.,merged_with_accepted,3151764,Symphyotrichum squamatum (Spreng.) G.L.Nesom
 176283,163316509,Erigeron annuus Pers.,scientificName_replaced_by_backbone_name,3117449,Erigeron annuus (L.) Pers.
-176332,163316515,Galinsoga quadriradiata Cav.,merged_with_accepted,3132567,Galinsoga quadriradiata Cav.
 176660,163316519,Seseli tortuosum Sibth. & Sm.,merged_with_accepted,8166287,Johrenia distans (Griseb.) Halácsy
 176242,163316526,Daucus broteri Ten.,merged_with_accepted,7704950,Daucus broteroi Ten.
 176061,163316532,Anthriscus cerefolium Hoffm.,scientificName_replaced_by_backbone_name,5371746,Anthriscus cerefolium (L.) Hoffm.
@@ -178,7 +174,7 @@ taxonID,taxonKey,scientificName,action,acceptedKey,acceptedName
 176307,163316560,Fallopia bohemica (Chrtek & ChrtkovÃ¡) J.P.Bailey,merged_with_accepted,4038485,Reynoutria ×bohemica Chrtek & Chrtková
 176311,163316562,Fallopia sachalinensis (Friedrich Schmidt Petrop.) Ronse Decraene,merged_with_accepted,2889088,Reynoutria sachalinensis (F.Schmidt) Nakai
 176635,163316565,Rumex pseudoalpinus Hoefft,merged_with_accepted,2888948,Rumex alpinus L.
-176308,163316577,Fallopia convolvulus (L.) Ã .LÃ¶ve,not_matched_with_backbone,,Fallopia convolvulus (L.) Ã .LÃ¶ve
+176308,163316577,Fallopia convolvulus (L.) Ã .LÃ¶ve,not_matched_with_backbone,,
 176398,163316583,Kochia scoparia (L.) Schrad.,merged_with_accepted,5383936,Bassia scoparia (L.) A.J.Scott
 176187,163316585,Chenopodium multifidum L.,merged_with_accepted,5568361,Dysphania multifida (L.) Mosyakin & Clemants
 176188,163316587,Chenopodium murale L.,merged_with_accepted,8149099,"Chenopodiastrum murale (L.) S.Fuentes, Uotila & Borsch"
@@ -196,7 +192,7 @@ taxonID,taxonKey,scientificName,action,acceptedKey,acceptedName
 176567,163316639,Polycarpon tetraphyllum L.,scientificName_replaced_by_backbone_name,3085381,Polycarpon tetraphyllum (L.) L.
 176542,163316640,Petrorhagia saxifraga Link,scientificName_replaced_by_backbone_name,3085623,Petrorhagia saxifraga (L.) Link
 176172,163316643,Cerastium brachypetalum Pers.,scientificName_replaced_by_backbone_name,3085439,Cerastium brachypetalum Desp. ex Pers.
-176173,163316644,Cerastium dubium (Bast.) GuÃ©pin,not_matched_with_backbone,,Cerastium dubium (Bast.) GuÃ©pin
+176173,163316644,Cerastium dubium (Bast.) GuÃ©pin,not_matched_with_backbone,,
 176326,163316649,Fumaria schrammii (Asch.) Pugsley,merged_with_accepted,8348596,Fumaria vaillantii var. schrammii (Asch.) Hausskn.
 176525,163316651,Papaver hybridum L.,merged_with_accepted,9587676,Roemeria hispida Stace
 176214,163316667,Consolida regalis S.F.Gray,merged_with_accepted,10763835,Delphinium consolida subsp. consolida

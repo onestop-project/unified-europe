@@ -8,7 +8,6 @@ taxonKey,taxonID,scientificName,kingdom,taxonRank
 148692930,20794,"Meloidogyne arenaria (Neal, 1889) Chitwood, 1949",Animalia,SPECIES
 148692935,20795,"Meloidogyne hapla Chitwood, 1949",Animalia,SPECIES
 148692937,20694,"Globodera rostochiensis (Wollenweber, 1923) Skarbilovich, 1959",Animalia,SPECIES
-5188665,20693,"Globodera pallida Stone, 1973",Animalia,SPECIES
 148692941,20647,"Ditylenchus destructor Thorne, 1945",Animalia,SPECIES
 148692948,20915,"Pseudolachlanella slitella Langer, 1992",Chromista,SPECIES
 148692951,20742,"Laodicea fijiana Agassiz & Mayer, 1899",Animalia,SPECIES
@@ -165,7 +164,6 @@ taxonKey,taxonID,scientificName,kingdom,taxonRank
 148693285,20820,Nicotiana glauca Graham,Plantae,SPECIES
 148693287,20821,Nicotiana tabacum L.,Plantae,SPECIES
 148693289,20774,Lycium ferocissimum Miers,Plantae,SPECIES
-5215888,20710,"Himantura uarnak (Forskål, 1775)",Animalia,SPECIES
 148693294,20640,Datura innoxia Mill.,Plantae,SPECIES
 148693296,20641,Datura stramonium L.,Plantae,SPECIES
 148693299,20707,"Herdmania momus (Savigny, 1816)",Animalia,SPECIES
@@ -396,7 +394,6 @@ taxonKey,taxonID,scientificName,kingdom,taxonRank
 148693714,20770,"Liriomyza huidobrensis (Blanchard, 1926)",Animalia,SPECIES
 10793401,20962,"Pseudopodospermum brevicaule (Vahl) Zaika, Sukhor. & N.Kilian",Plantae,SPECIES
 148693716,20771,"Liriomyza trifolii (Burgess, 1880)",Animalia,SPECIES
-7993840,20963,"Scorzonera laciniata Jacq., 1776",Plantae,SPECIES
 148693719,20743,Lapsana communis L.,Plantae,SPECIES
 148693720,20649,"Dohrniphora cornuta (Bigot, 1857)",Animalia,SPECIES
 148693721,20702,Helianthus tuberosus L.,Plantae,SPECIES

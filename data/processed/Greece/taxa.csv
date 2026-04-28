@@ -7,7 +7,6 @@ taxonKey,taxonID,scientificName,kingdom,taxonRank
 2656854,49705,Anotrichium furcellatum (J.Agardh) Baldock,Plantae,SPECIES
 2657657,49711,Antithamnionella boergesenii (Cormaci & G.Furnari) Athanas.,Plantae,SPECIES
 12194263,50328,Vertebrata spec (Hudson) Kuntze,Plantae,SPECIES
-6109529,50168,Phoenix canariensis hort. ex Chabaud,Plantae,SPECIES
 5329463,50079,Najas chinensis N.Z.Wang,Plantae,SPECIES
 2714158,49866,Cyperus alternifolius subsp. flabelliformis Kük.,Plantae,SUBSPECIES
 4374764,50178,"Pinctada radiata (Leach, 1814)",Animalia,SPECIES
@@ -23,7 +22,6 @@ taxonKey,taxonID,scientificName,kingdom,taxonRank
 10906181,49958,"Lamprohaminoea ovalis (Pease, 1868)",Animalia,SPECIES
 10513850,49734,"Weinkauffia macandrewii (E.A.Smith, 1872)",Animalia,SPECIES
 2768686,49727,Asparagus setaceus (Kunth) Jessop,Plantae,SPECIES
-2891602,50152,Pelargonium L'Hér. ex Aiton,Plantae,GENUS
 2223511,50309,"Trachysalambria curvirostris (Stimpson, 1860)",Animalia,SPECIES
 5974552,49814,"Gonioinfradens paucidentatus (A.Milne-Edwards, 1861)",Animalia,SPECIES
 2929800,50268,Solanum angustifolium Houst. ex Mill.,Plantae,SPECIES
@@ -38,7 +36,6 @@ taxonKey,taxonID,scientificName,kingdom,taxonRank
 6550056,49873,Daucus carota var. sativus Hoffm.,Plantae,VARIETY
 8350395,49855,Cyclospermum leptophyllum (Pers.) Sprague,Plantae,SPECIES
 9377860,50028,"Planiliza haematocheila (Temminck & Schlegel, 1845)",Animalia,SPECIES
-3176197,49919,Eucalyptus camaldulensis Dehn.,Plantae,SPECIES
 7322393,50099,Oenothera indecora Cambess.,Plantae,SPECIES
 3188894,50096,Oenothera glazioviana Micheli,Plantae,SPECIES
 3089178,50336,Xanthium occidentale Bertol.,Plantae,SPECIES
@@ -53,7 +50,6 @@ taxonKey,taxonID,scientificName,kingdom,taxonRank
 5334351,49931,Fallopia baldschuanica (Regel) Holub,Plantae,SPECIES
 8185812,49716,Mesembryanthemum cordifolium L.fil.,Plantae,SPECIES
 3083504,49740,Basella alba L.,Plantae,SPECIES
-7576335,49669,Amaranthus ozanonii Piszter,Plantae,SPECIES
 7346102,50066,Erythranthe guttata (DC.) G.L.Nesom,Plantae,SPECIES
 3172549,49772,Campsis radicans (L.) Bureau,Plantae,SPECIES
 8252253,49709,Antirrhinum tortuosum Bosc ex Vent.,Plantae,SPECIES

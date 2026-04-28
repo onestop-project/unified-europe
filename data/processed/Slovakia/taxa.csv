@@ -8,7 +8,6 @@ taxonKey,taxonID,scientificName,kingdom,taxonRank
 7935070,155208,Ajuga chamaepitys subsp. chia (Schreb.) Arcang.,Plantae,SUBSPECIES
 6411098,155391,Lamium galeobdolon subsp. argentatum (Smejkal) J.Duvign.,Plantae,SUBSPECIES
 2926615,155541,Origanum majorana L.,Plantae,SPECIES
-7443035,155569,"Mentha suaveolens Steph. ex Ledeb., 1849",Plantae,SPECIES
 7346090,155579,Erythranthe moschata (Douglas ex Lindl.) G.L.Nesom,Plantae,SPECIES
 7346102,155578,Erythranthe guttata (DC.) G.L.Nesom,Plantae,SPECIES
 8741260,155688,"Macrosaccus robiniella (Clemens, 1859)",Animalia,SPECIES
@@ -37,7 +36,6 @@ taxonKey,taxonID,scientificName,kingdom,taxonRank
 2888513,155273,Pseudofumaria lutea (L.) Borkh.,Plantae,SPECIES
 9823072,155646,Oxalis stricta L.,Plantae,SPECIES
 2891739,155648,Oxalis corniculata var. atropurpurea Planch.,Plantae,VARIETY
-5393084,155092,Arctium ×nothum (Ruhmer) J.Weiss,Plantae,SPECIES
 3117449,155862,Erigeron annuus (L.) Pers.,Plantae,SPECIES
 3127691,155244,Centaurea benedicta (L.) L.,Plantae,SPECIES
 10676000,155749,Leuzea repens (L.) D.J.N.Hind,Plantae,SPECIES
@@ -57,21 +55,17 @@ taxonKey,taxonID,scientificName,kingdom,taxonRank
 7223475,155419,Helianthus pauciflorus subsp. pauciflorus,Plantae,SUBSPECIES
 3054302,155191,Carya alba (L.) Nutt.,Plantae,SPECIES
 8175012,155032,Alnus alnobetula subsp. alnobetula,Plantae,SUBSPECIES
-8089775,155715,Populus trichocarpa Torrey & A.Gray,Plantae,SPECIES
-8176318,155942,Viola wittrockiana Gams ex Nauenb. & Buttler,Plantae,SPECIES
 5665284,155937,Viola ×basilensis W.Becker,Plantae,SPECIES
 2890212,155403,Geranium pusillum L.,Plantae,SPECIES
 3188924,155622,Oenothera biennis L.,Plantae,SPECIES
 6427623,155613,Oenothera villosa subsp. villosa,Plantae,SUBSPECIES
 3666407,155209,Chamaenerion fleischeri (Hochst.) Fritsch,Plantae,SPECIES
 7915783,155620,Oenothera ×fallax Renner,Plantae,SPECIES
-7849756,155611,Oenothera albisubcurva Renner,Plantae,SPECIES
 3151558,155110,Symphyotrichum novi-belgii (L.) G.L.Nesom,Plantae,SPECIES
 9537212,155689,Alkekengi officinarum var. franchetii (Mast.) R.J.Wang,Plantae,VARIETY
 2930137,155536,Solanum lycopersicum L.,Plantae,SPECIES
 5376961,155180,Lepidium draba L.,Plantae,SPECIES
 3048840,155159,Cakile maritima subsp. euxina (Pobed.) Nyár.,Plantae,SUBSPECIES
-5376740,155500,Lepidium campestre (L.) R.Br.,Plantae,SPECIES
 5376627,155269,Lepidium coronopus (L.) Al-Shehbaz,Plantae,SPECIES
 10944522,155873,Mummenhoffia alliacea (L.) Esmailbegi & Al-Shehbaz,Plantae,SPECIES
 5375920,155351,Eruca vesicaria (L.) Cav.,Plantae,SPECIES
@@ -102,9 +96,7 @@ taxonKey,taxonID,scientificName,kingdom,taxonRank
 5568446,155212,Dysphania ambrosioides (L.) Mosyakin & Clemants,Plantae,SPECIES
 7418706,155231,"Oxybasis urbica (L.) S.Fuentes, Uotila & Borsch",Plantae,SPECIES
 8149099,155221,"Chenopodiastrum murale (L.) S.Fuentes, Uotila & Borsch",Plantae,SPECIES
-8079858,155036,Amaranthus ×ozanonii Thell.,Plantae,SPECIES
 8044896,155213,Blitum bonus-henricus (L.) Rchb.,Plantae,SPECIES
-8357729,155222,Chenopodium opulifolium Schrad.,Plantae,SPECIES
 5568322,155227,Dysphania schraderiana (Schult.) Mosyakin & Clemants,Plantae,SPECIES
 5568428,155214,Dysphania botrys (L.) Mosyakin & Clemants,Plantae,SPECIES
 3083838,155229,Chenopodium album L.,Plantae,SPECIES
@@ -129,30 +121,23 @@ taxonKey,taxonID,scientificName,kingdom,taxonRank
 2963569,155846,Styphnolobium japonicum (L.) Schott,Plantae,SPECIES
 2974921,155925,Vicia villosa subsp. varia (Host) Corb.,Plantae,SUBSPECIES
 3973001,155498,Vicia lens (L.) Coss. & Germ.,Plantae,SPECIES
-2971024,155563,Melilotus officinalis (L.) Pallas,Plantae,SPECIES
 6359254,155593,Acer negundo subsp. negundo,Plantae,SUBSPECIES
 6285889,155546,Malva sylvestris var. mauritiana (L.) Boiss.,Plantae,VARIETY
 3940326,155495,Malva trimestris (L.) Salisb.,Plantae,SPECIES
 5602713,155174,Cannabis sativa var. ruderalis (Janisch.) S.Z.Liou,Plantae,VARIETY
 5602713,155173,Cannabis sativa var. ruderalis (Janisch.) S.Z.Liou,Plantae,VARIETY
 3020980,155726,Prunus amygdalus Batsch,Plantae,SPECIES
-7992298,155728,Prunus insititia Desv.,Plantae,SPECIES
 5370380,155718,Dasiphora fruticosa (L.) Rydb.,Plantae,SPECIES
 8149923,155731,Prunus persica (L.) Stokes,Plantae,SPECIES
 2765942,155333,Pontederia crassipes Mart.,Plantae,SPECIES
-2765129,155880,Tradescantia ×andersoniana W.Ludw. & Rohweder,Plantae,SPECIES
-2772174,155585,Muscari armeniacum Leichtlin ex Baker,Plantae,SPECIES
 8080743,155641,Scilla siberica Andrews,Plantae,SPECIES
 5298069,155464,Iris ×germanica L.,Plantae,SPECIES
 2856037,155028,Allium ampeloprasum L.,Plantae,SPECIES
-7758351,155187,Carex scoparia Schkuhr,Plantae,SPECIES
 5289756,155679,Phalaris arundinacea L.,Plantae,SPECIES
 2705400,155342,Eragrostis pilosa (L.) P.Beauv.,Plantae,SPECIES
 2705090,155657,Panicum miliaceum L.,Plantae,SPECIES
 2705090,155656,Panicum miliaceum L.,Plantae,SPECIES
 2705369,155343,Eragrostis cilianensis (All.) Vignolo ex Janch.,Plantae,SPECIES
 5289686,155806,Setaria verticillata (L.) P.Beauv.,Plantae,SPECIES
-7810452,155299,Dasypyrum villosum (L.) P.Candargy,Plantae,SPECIES
-7626470,155802,"Setaria faberi F.Herm., 1910",Plantae,SPECIES
 5329263,155332,Elodea densa (Planch.) Casp.,Plantae,SPECIES
 5300296,155387,Gagea villosa (M.Bieb.) Sweet,Plantae,SPECIES
