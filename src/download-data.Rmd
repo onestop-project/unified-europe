@@ -39,7 +39,7 @@ to_keep <- c(
   "Belgium",
   "Bulgaria",
   "Croatia",
-  "Cyprus", 
+  "Cyprus",
   "Cyprus - Sovereign Base Areas",
   "Czechia",
   "Denmark",
@@ -58,6 +58,8 @@ to_keep <- c(
   "Netherlands",
   "Poland",
   "Portugal",
+  "Portugal - Azores",
+  "Portugal - Madeira"
   "Romania",
   "Slovakia",
   "Slovenia",
