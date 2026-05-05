@@ -23,11 +23,15 @@ library(purrr)
 
 ## Read yaml
 
+In the `checklists.yml` file, we have a list of checklists with their corresponding `datasetKey` and country name. We read this file into R using the `yaml::read_yaml()` function, which returns a list of checklists that we can then use to download the taxa and distributions for each country.
+
 ```{r}
 checklists <- yaml::read_yaml(here::here("src", "checklists.yml"))
 ```
 
 ## Filter checklists if needed
+
+Choose here which checklists you want to download. Be aware that donwloading all checklists takes a long time.
 
 ```{r}
 to_keep <- c(
@@ -66,6 +70,8 @@ checklists <- purrr::keep(checklists, ~ .x$country %in% to_keep)
 
 # Download taxa and distributions
 
+This function downloads the taxa and distributions for a given `datasetKey` and saves them as CSV files in the specified directory (see next code block). The directory is named after the country, and the files are named `taxa.csv` and `distributions.csv`. The function also prints informative messages about the progress of the download and file writing process.
+
 ```{r}
 save_taxa_and_distributions <- function(datasetKey, directory) {
   country <- basename(directory)
@@ -87,6 +93,9 @@ save_taxa_and_distributions <- function(datasetKey, directory) {
   readr::write_csv(distributions, distributions_path, na = "")
 }
 ```
+
+As a next step, we loop through the list of countries (`checklists`) and call the `save_taxa_and_distributions()` function for each country, passing the corresponding `datasetKey` and directory path.
+The directory is `data/interim/{country}` where `{country}` is the name of the country as specified in the `checklists.yml` file.
 
 ```{r}
 purrr::walk(
