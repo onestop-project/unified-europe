@@ -9,7 +9,7 @@ output: html_document
 
 ## Install elodea
 ```{r}
-# devtools::install_github("onestop-project/elodea@create-functions")
+# remotes::install_github("onestop-project/elodea")
 ```
 
 ## Load libraries
@@ -59,7 +59,7 @@ to_keep <- c(
   "Poland",
   "Portugal",
   "Portugal - Azores",
-  "Portugal - Madeira"
+  "Portugal - Madeira",
   "Romania",
   "Slovakia",
   "Slovenia",
