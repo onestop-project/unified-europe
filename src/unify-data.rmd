@@ -41,7 +41,7 @@ taxon <-
     references = paste0("https://www.gbif.org/species/", .data$nubKey),
     institutionCode = "",
     datasetID = NA_character_, # doi of dataset
-    datasetName = "Global Register of Introduced and Invasive Species - Europe",
+    datasetName = "The OneSTOP list of Introduced and Invasive Species of the European Union",
     .keep = "none"
     ) |>
   dplyr::distinct() |>
