@@ -29,7 +29,6 @@ taxon <-
   do.call(rbind, purrr::map(taxa_files, read.csv)) |>
   dplyr::arrange(as.numeric(.data$nubKey)) |>
   dplyr::mutate(
-    id = paste0("https://www.gbif.org/species/", .data$nubKey),
     taxonID = paste0("https://www.gbif.org/species/", .data$nubKey),
     scientificName = .data$scientificName,
     kingdom = .data$kingdom,
@@ -47,7 +46,7 @@ taxon <-
     ) |>
   dplyr::distinct() |>
   dplyr::select(
-    "id", "taxonID", "scientificName", "kingdom", "taxonRank", "taxonRemarks",
+    "taxonID", "scientificName", "kingdom", "taxonRank", "taxonRemarks",
     "language", "license", "rightsHolder", "bibliographicCitation",
     "references", "institutionCode", "datasetID", "datasetName"
   )
