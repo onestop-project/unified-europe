@@ -1,21 +1,21 @@
-taxonKey,taxonID,scientificName,taxonomicStatus,acceptedKey,acceptedName,acceptedTaxonRank,acceptedKingdom
-163732873,120115,"Rhopilema nomadica Galil, 1990",ACCEPTED,2264597,"Rhopilema nomadica Galil, Spanier & Ferguson, 1990",SPECIES,Animalia
-163732878,120114,"Pterois miles (Bennett, 1828)",ACCEPTED,2334433,"Pterois miles (Bennett, 1828)",SPECIES,Animalia
-163732881,120112,"Torquigener flavimaculosus Hardy & Randall, 1983",ACCEPTED,2407271,"Torquigener flavimaculosus Hardy & Randall, 1983",SPECIES,Animalia
-163732882,120117,"Torquigener flavimaculosus Hardy & Randall, 1983",ACCEPTED,2407271,"Torquigener flavimaculosus Hardy & Randall, 1983",SPECIES,Animalia
-163732885,120108,"Sargocentron rubrum (ForsskÃ¥l, 1775)",ACCEPTED,2356802,"Sargocentron rubrum (Forsskål, 1775)",SPECIES,Animalia
-163732886,120116,"Sargocentron rubrum (ForsskÃ¥l, 1775)",ACCEPTED,2356802,"Sargocentron rubrum (Forsskål, 1775)",SPECIES,Animalia
-163732889,120106,"Gambusia holbrooki Girard, 1859",ACCEPTED,2350570,"Gambusia holbrooki Girard, 1859",SPECIES,Animalia
-163732892,120109,"Siganus luridus (RÃ¼ppell, 1829)",ACCEPTED,2390262,"Siganus luridus (Rüppell, 1829)",SPECIES,Animalia
-163732893,120110,"Siganus rivulatus ForsskÃ¥l, 1775",ACCEPTED,2390185,"Siganus rivulatus Forsskål & Niebuhr, 1775",SPECIES,Animalia
-163732895,120107,"Parupeneus forsskali (Fourmanoir & GuÃ©zÃ©, 1976)",ACCEPTED,2396749,"Parupeneus forsskali (Fourmanoir & Guézé, 1976)",SPECIES,Animalia
-163732898,120113,"Fistularia commersonii RÃ¼ppell, 1838",,,"Fistularia commersonii RÃ¼ppell, 1838",,
-163732899,120105,"Fistularia commersonii RÃ¼ppell, 1838",,,"Fistularia commersonii RÃ¼ppell, 1838",,
-163732903,120119,"Testudo marginata Schoepff, 1792",ACCEPTED,2441502,"Testudo marginata Schoepff, 1792",SPECIES,Animalia
-163732904,120118,"Testudo graeca Linnaeus, 1758",ACCEPTED,2441461,"Testudo graeca Linnaeus, 1758",SPECIES,Animalia
-163732911,120111,Symphyotrichum squamatum (Spreng.) G.L.Nesom,ACCEPTED,3151764,Symphyotrichum squamatum (Spreng.) G.L.Nesom,SPECIES,Plantae
-163732914,120103,Eucalyptus camaldulensis Dehnh.,DOUBTFUL,3176197,Eucalyptus camaldulensis Dehn.,SPECIES,Plantae
-163732915,120104,Eucalyptus gomphocephala DC.,ACCEPTED,3176772,Eucalyptus gomphocephala A.Cunn. ex DC.,SPECIES,Plantae
-163732918,120102,Dodonaea viscosa Jacq.,ACCEPTED,5421144,Dodonaea viscosa (L.) Jacq.,SPECIES,Plantae
-163732921,120101,Casuarina cunninghamiana Miq.,ACCEPTED,2891932,Casuarina cunninghamiana Miq.,SPECIES,Plantae
-163732924,120100,Acacia saligna (Labill.) H.L.Wendl.,ACCEPTED,2978552,Acacia saligna (Labill.) H.L.Wendl.,SPECIES,Plantae
+taxonKey,nubKey,taxonID,scientificName,taxonomicStatus,acceptedKey,acceptedName,acceptedTaxonRank,acceptedKingdom
+163732873,2264597,120115,"Rhopilema nomadica Galil, 1990",ACCEPTED,2264597,"Rhopilema nomadica Galil, Spanier & Ferguson, 1990",SPECIES,Animalia
+163732878,2334433,120114,"Pterois miles (Bennett, 1828)",ACCEPTED,2334433,"Pterois miles (Bennett, 1828)",SPECIES,Animalia
+163732881,2407271,120112,"Torquigener flavimaculosus Hardy & Randall, 1983",ACCEPTED,2407271,"Torquigener flavimaculosus Hardy & Randall, 1983",SPECIES,Animalia
+163732882,2407271,120117,"Torquigener flavimaculosus Hardy & Randall, 1983",ACCEPTED,2407271,"Torquigener flavimaculosus Hardy & Randall, 1983",SPECIES,Animalia
+163732885,2356802,120108,"Sargocentron rubrum (ForsskÃ¥l, 1775)",ACCEPTED,2356802,"Sargocentron rubrum (Forsskål, 1775)",SPECIES,Animalia
+163732886,2356802,120116,"Sargocentron rubrum (ForsskÃ¥l, 1775)",ACCEPTED,2356802,"Sargocentron rubrum (Forsskål, 1775)",SPECIES,Animalia
+163732889,2350570,120106,"Gambusia holbrooki Girard, 1859",ACCEPTED,2350570,"Gambusia holbrooki Girard, 1859",SPECIES,Animalia
+163732892,2390262,120109,"Siganus luridus (RÃ¼ppell, 1829)",ACCEPTED,2390262,"Siganus luridus (Rüppell, 1829)",SPECIES,Animalia
+163732893,2390185,120110,"Siganus rivulatus ForsskÃ¥l, 1775",ACCEPTED,2390185,"Siganus rivulatus Forsskål & Niebuhr, 1775",SPECIES,Animalia
+163732895,2396749,120107,"Parupeneus forsskali (Fourmanoir & GuÃ©zÃ©, 1976)",ACCEPTED,2396749,"Parupeneus forsskali (Fourmanoir & Guézé, 1976)",SPECIES,Animalia
+163732898,,120113,"Fistularia commersonii RÃ¼ppell, 1838",,,"Fistularia commersonii RÃ¼ppell, 1838",,
+163732899,,120105,"Fistularia commersonii RÃ¼ppell, 1838",,,"Fistularia commersonii RÃ¼ppell, 1838",,
+163732903,2441502,120119,"Testudo marginata Schoepff, 1792",ACCEPTED,2441502,"Testudo marginata Schoepff, 1792",SPECIES,Animalia
+163732904,2441461,120118,"Testudo graeca Linnaeus, 1758",ACCEPTED,2441461,"Testudo graeca Linnaeus, 1758",SPECIES,Animalia
+163732911,3151764,120111,Symphyotrichum squamatum (Spreng.) G.L.Nesom,ACCEPTED,3151764,Symphyotrichum squamatum (Spreng.) G.L.Nesom,SPECIES,Plantae
+163732914,3176197,120103,Eucalyptus camaldulensis Dehnh.,DOUBTFUL,3176197,Eucalyptus camaldulensis Dehn.,SPECIES,Plantae
+163732915,3176772,120104,Eucalyptus gomphocephala DC.,ACCEPTED,3176772,Eucalyptus gomphocephala A.Cunn. ex DC.,SPECIES,Plantae
+163732918,5421144,120102,Dodonaea viscosa Jacq.,ACCEPTED,5421144,Dodonaea viscosa (L.) Jacq.,SPECIES,Plantae
+163732921,2891932,120101,Casuarina cunninghamiana Miq.,ACCEPTED,2891932,Casuarina cunninghamiana Miq.,SPECIES,Plantae
+163732924,2978552,120100,Acacia saligna (Labill.) H.L.Wendl.,ACCEPTED,2978552,Acacia saligna (Labill.) H.L.Wendl.,SPECIES,Plantae
