@@ -72,7 +72,7 @@ process_folder <- function(folder, directory) {
   taxa <- readr::read_csv(taxa_file, show_col_types = FALSE)
   distributions <- readr::read_csv(distributions_file, show_col_types = FALSE)
   
-  result <- elodea::filter_data(taxa, distributions)
+  result <- elodea::filter_data(taxa, distributions, establishment_means = "introduced")
   
   dir <- file.path(directory, country)
   taxa_path <- file.path(dir, "taxa.csv")
