@@ -31,7 +31,7 @@ checklists <- yaml::read_yaml(here::here("src", "checklists.yml"))
 
 ## Filter checklists if needed
 
-Choose here which checklists you want to download. Be aware that donwloading all checklists takes a long time.
+Choose here which checklists you want to download. Be aware that downloading all checklists takes a long time.
 
 ```{r}
 to_keep <- c(
