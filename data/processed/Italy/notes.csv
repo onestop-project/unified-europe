@@ -42,7 +42,7 @@ taxonID,taxonKey,scientificName,action,acceptedKey,acceptedName
 26552,148717821,Spermothamnion cymosum Harv.,not_matched_with_backbone,,
 25765,148717823,Griffithsia corallinoides (Linnaeus) Trevisan,scientificName_replaced_by_backbone_name,2657564,Griffithsia corallinoides (L.) Trevis.
 25809,148717826,Heterosiphonia japonica,merged_with_accepted,7682935,Dasysiphonia japonica (Yendo) H.-S.Kim
-26351,148717827,"Prionospio pygmaeus Hartman, 1961",merged_with_accepted,2320617,"Apoprionospio pygmaea (Hartman, 1961)"
+26351,148717827,"Prionospio pygmaeus Hartman, 1961",filtered_on_establishmentMeans,2320617,"Apoprionospio pygmaea (Hartman, 1961)"
 26330,148717829,"Polydora colonia Moore, 1907",filtered_on_establishmentMeans,5197715,"Polydora colonia Moore, 1907"
 26723,148717834,"Womersleyella setacea (Hollenberg) R.E.Norris, 1992",scientificName_replaced_by_backbone_name,5277463,Womersleyella setacea (Hollenberg) R.E.Norris
 26588,148717837,"Symphyocladia marchantioides (Harvey) Falkenberg, 1897",scientificName_replaced_by_backbone_name,2661325,Symphyocladia marchantioides (Harv.) Falkenb.
@@ -83,7 +83,7 @@ taxonID,taxonKey,scientificName,action,acceptedKey,acceptedName
 25528,148717913,Cyrtomium falcatum C.Presl,scientificName_replaced_by_backbone_name,2650829,Cyrtomium falcatum (L.fil.) C.Presl
 26127,148717915,"Ophryotrocha japonica Paxton & Ã…kesson, 2010",scientificName_replaced_by_backbone_name,2321945,"Ophryotrocha japonica Paxton & Åkesson, 2010"
 25962,148717919,"Lumbrinerides neogesae Miura, 1981",filtered_on_establishmentMeans,2322820,"Lumbrinerides neogesae Miura, 1981"
-25630,148717922,"Epidiopatra hupferiana monroi Day, 1957",merged_with_accepted,7386657,"Diopatra hupferiana monroi (Day, 1957)"
+25630,148717922,"Epidiopatra hupferiana monroi Day, 1957",filtered_on_establishmentMeans,7386657,"Diopatra hupferiana monroi (Day, 1957)"
 25499,148717924,Cyclosorus dentatus Schumach.,not_matched_with_backbone,,
 25629,148717925,Epidiopatra hupferiana hupferiana,merged_with_accepted,7805873,Diopatra hupferiana hupferiana
 25952,148717928,"Longibrachium atlanticum (Day, 1973)",filtered_on_establishmentMeans,2323495,"Longibrachium atlanticum (Day, 1973)"
@@ -92,7 +92,7 @@ taxonID,taxonKey,scientificName,action,acceptedKey,acceptedName
 26667,148717938,Tulipa agenensis RedoutÃ©,scientificName_replaced_by_backbone_name,7792557,Tulipa agenensis Redouté
 26668,148717940,Tulipa clusiana RedoutÃ©,scientificName_replaced_by_backbone_name,7923165,Tulipa clusiana Redouté
 26089,148717943,"Novafabricia infratorquata (Fitzhugh, 1973)",filtered_on_establishmentMeans,2328734,"Novafabricia infratorquata (Fitzhugh, 1973)"
-25702,148717947,"Fabriciola ghardaqa Banse, 1959",merged_with_accepted,11088660,"Rubifabriciola ghardaqa (Banse, 1959)"
+25702,148717947,"Fabriciola ghardaqa Banse, 1959",filtered_on_establishmentMeans,11088660,"Rubifabriciola ghardaqa (Banse, 1959)"
 26025,148717951,Monochoria korsakowii Regel & Maack,merged_with_accepted,11070196,Pontederia korsakowii (Regel & Maack) M.Pell. & C.N.Horn
 26289,148717953,"Pileolaria berkeleyana (Rioja, 1942)",filtered_on_establishmentMeans,5199488,"Pileolaria berkeleyana (Rioja, 1942)"
 25808,148717954,Heteranthera rotundifolia Griseb.,scientificName_replaced_by_backbone_name,2766169,Heteranthera rotundifolia (Kunth) Griseb.
@@ -184,7 +184,7 @@ taxonID,taxonKey,scientificName,action,acceptedKey,acceptedName
 25364,148718302,Ceratochloa carinata (Hook. & Arn.) Tutin,merged_with_accepted,2703712,Bromus carinatus Hook. & Arn.
 25626,148718306,Elymus obtusiflorus (DC.) Conert,merged_with_accepted,10986555,Thinopyrum obtusiflorum (DC.) Banfi
 25406,148718310,"Chromodoris quadricolor (RÃ¼ppell & Leuckart, 1830)",scientificName_replaced_by_backbone_name,4360023,"Chromodoris quadricolor (Rüppell & Leuckart, 1830)"
-25039,148718315,"Aeolidiella indica Bergh, 1888",merged_with_accepted,2291957,"Anteaeolidiella indica (Bergh, 1888)"
+25039,148718315,"Aeolidiella indica Bergh, 1888",filtered_on_establishmentMeans,2291957,"Anteaeolidiella indica (Bergh, 1888)"
 26355,148718322,"Proteus anguinus Laurenti, 1768",filtered_on_establishmentMeans,2432042,"Proteus anguinus Laurenti, 1768"
 26663,148718323,Triticum durum Desf.,merged_with_accepted,6313051,Triticum turgidum subsp. durum (Desf.) Husn.
 26662,148718327,"Triticum cylindricum (Host) Ces., Pass. & Gibelli",merged_with_accepted,5289783,Aegilops cylindrica Host
@@ -300,7 +300,7 @@ taxonID,taxonKey,scientificName,action,acceptedKey,acceptedName
 25024,148718803,"Acipenser transmontanus Richardson, 1836",filtered_on_establishmentMeans,2402122,"Acipenser transmontanus Richardson, 1836"
 25372,148718805,Cestrum parqui L'HÃ©r.,not_matched_with_backbone,,
 25598,148718818,Echinocystis lobata Torr. & A.Gray,scientificName_replaced_by_backbone_name,5331404,Echinocystis lobata (Michx.) Torr. & A.Gray
-25215,148718820,"Aspius aspius (Linnaeus, 1758)",merged_with_accepted,5851603,"Leuciscus aspius (Linnaeus, 1758)"
+25215,148718820,"Aspius aspius (Linnaeus, 1758)",filtered_on_establishmentMeans,5851603,"Leuciscus aspius (Linnaeus, 1758)"
 25489,148718821,Cucurbita maxima (Duchesne) Duchesne ex Poir.,merged_with_accepted,2874515,Cucurbita maxima Duchesne
 25496,148718822,Cyclanthera pedata Schrad.,scientificName_replaced_by_backbone_name,2874529,Cyclanthera pedata (L.) Schrad.
 25242,148718826,"Barbus graellsii Steindachner, 1866",merged_with_accepted,2363097,"Luciobarbus graellsii (Steindachner, 1866)"
@@ -339,7 +339,7 @@ taxonID,taxonKey,scientificName,action,acceptedKey,acceptedName
 25827,148718987,Hydrocotyle bonariensis Lam.,scientificName_replaced_by_backbone_name,3034611,Hydrocotyle bonariensis Comm. ex Lam.
 25141,148718988,"Amphibalanus improvisus Darwin, 1854",scientificName_replaced_by_backbone_name,6467647,"Amphibalanus improvisus (Darwin, 1854)"
 25140,148718989,"Amphibalanus eburneus Gould, 1841",scientificName_replaced_by_backbone_name,5862470,"Amphibalanus eburneus (Gould, 1841)"
-26352,148718994,"Proasellus banyulensis (Racovitza, 1919)",merged_with_accepted,6283818,"Proasellus coxalis banyulensis (Racovitza, 1919)"
+26352,148718994,"Proasellus banyulensis (Racovitza, 1919)",filtered_on_establishmentMeans,6283818,"Proasellus coxalis banyulensis (Racovitza, 1919)"
 25163,148719002,Anthriscus cerefolium Hoffm.,scientificName_replaced_by_backbone_name,5371746,Anthriscus cerefolium (L.) Hoffm.
 26718,148719009,Wigandia kunthii Choisy,merged_with_accepted,2928366,Wigandia urens (Ruiz & Pav.) Kunth
 26717,148719011,Wigandia caracasana Kunth,merged_with_accepted,2928366,Wigandia urens (Ruiz & Pav.) Kunth
@@ -365,7 +365,7 @@ taxonID,taxonKey,scientificName,action,acceptedKey,acceptedName
 25385,148719114,"Charybdis japonica Milne-Edwards, 1861",scientificName_replaced_by_backbone_name,2225629,"Charybdis japonica (A.Milne-Edwards, 1861)"
 25216,148719121,"Astacus leptodactylus Eschscholtz, 1823",merged_with_accepted,8946295,"Pontastacus leptodactylus (Eschscholtz, 1823)"
 26047,148719124,Myoporum tetrandrum Domin,scientificName_replaced_by_backbone_name,3746005,Myoporum tetrandrum (Labill.) Domin
-25229,148719125,Austropotamobius italicus,merged_with_accepted,8863604,Austropotamobius fulcisianus fulcisianus
+25229,148719125,Austropotamobius italicus,filtered_on_establishmentMeans,8863604,Austropotamobius fulcisianus fulcisianus
 25029,148719131,"Actumnus globulus Heller, 1861",scientificName_replaced_by_backbone_name,4377664,"Actumnus globulus Heller, 1860"
 26312,148719133,Plectranthus scutellarioides (L.) R.Br.,merged_with_accepted,5341492,Coleus scutellarioides (L.) Benth.
 26282,148719138,Physostegia virginiana Benth.,scientificName_replaced_by_backbone_name,2926572,Physostegia virginiana (L.) Benth.
@@ -374,7 +374,7 @@ taxonID,taxonKey,scientificName,action,acceptedKey,acceptedName
 26234,148719150,Perilla frutescens Britton.,scientificName_replaced_by_backbone_name,5341394,Perilla frutescens (L.) Britton
 25625,148719167,Elsholtzia ciliata (Thunb.) Hylander,scientificName_replaced_by_backbone_name,2927075,Elsholtzia ciliata (Thunb.) Hyl.
 25236,148719170,Ballota pseudodictamnus Benth.,merged_with_accepted,10830727,Pseudodictamnus mediterraneus Salmaki & Siadati
-26073,148719171,"Nesticus eremita Simon, 1879",merged_with_accepted,9597437,"Kryptonesticus eremita (Simon, 1880)"
+26073,148719171,"Nesticus eremita Simon, 1879",filtered_on_establishmentMeans,9597437,"Kryptonesticus eremita (Simon, 1880)"
 25932,148719181,Limnophila ludoviciana Thieret,scientificName_replaced_by_backbone_name,5415002,Limnophila ×ludoviciana Thieret
 25192,148719183,"Argiope trifasciata (ForsskÃ¥l, 1775)",scientificName_replaced_by_backbone_name,5170973,"Argiope trifasciata (Forsskål, 1775)"
 25430,148719184,Collinsia heterophylla Graham,scientificName_replaced_by_backbone_name,5414959,Collinsia heterophylla Buist ex Graham
@@ -401,7 +401,7 @@ taxonID,taxonKey,scientificName,action,acceptedKey,acceptedName
 25129,148719284,Amelanchier lamarckii F.G.Schroed.,scientificName_replaced_by_backbone_name,3024109,Amelanchier ×lamarckii F.G.Schroed.
 26373,148719286,"Psyllipsocus ramburii Selys-Longchamps, 1872",filtered_on_establishmentMeans,1031737,"Psyllipsocus ramburii Selys-Longchamps, 1872"
 25374,148719288,Chaenomeles speciosa Nakai,scientificName_replaced_by_backbone_name,3000679,Chaenomeles speciosa (Sweet) Nakai
-26066,148719291,"Neocolpocephalum turbinatum (Denny, 1842)",merged_with_accepted,1032764,"Colpocephalum turbinatum Denny, 1842"
+26066,148719291,"Neocolpocephalum turbinatum (Denny, 1842)",filtered_on_establishmentMeans,1032764,"Colpocephalum turbinatum Denny, 1842"
 25938,148719294,"Liposcelis paetula Broadhead, 1950",filtered_on_establishmentMeans,4401019,"Liposcelis paetula Broadhead, 1950"
 25937,148719297,"Liposcelis corrodens (Heymons, 1909)",filtered_on_establishmentMeans,1031528,"Liposcelis corrodens (Heymons, 1909)"
 25773,148719299,"Haemodipsus lyriocephalus (Burmeister, 1839)",filtered_on_establishmentMeans,1032645,"Haemodipsus lyriocephalus (Burmeister, 1839)"
@@ -422,7 +422,7 @@ taxonID,taxonKey,scientificName,action,acceptedKey,acceptedName
 26361,148719360,Prunus persica Stokes,scientificName_replaced_by_backbone_name,8149923,Prunus persica (L.) Stokes
 26349,148719368,Poteridium annuum Spach,scientificName_replaced_by_backbone_name,3029559,Poteridium annuum (Nutt. ex Hook.) Spach
 26346,148719369,Potentilla indica (Andrews) T.Wolf,scientificName_replaced_by_backbone_name,5365717,Potentilla indica (Andrews) Th.Wolf
-26029,148719370,"Moritziella corticalis (Kaltenbach, 1867)",merged_with_accepted,5156017,"Phylloxera corticalis Kaltenbach, 1867"
+26029,148719370,"Moritziella corticalis (Kaltenbach, 1867)",filtered_on_establishmentMeans,5156017,"Phylloxera corticalis Kaltenbach, 1867"
 25924,148719373,"Lethocerus patruelis (Stl, 1854)",filtered_on_establishmentMeans,4485518,"Lethocerus patruelis (Stål, 1854)"
 26151,148719375,"Orientus ishidae Matsumura, 1902",scientificName_replaced_by_backbone_name,2037925,"Orientus ishidae (Matsumura, 1902)"
 25579,148719385,"Dreyfusia nordmannianae (Eckstein, 1890)",merged_with_accepted,2049747,"Adelges nordmannianae (Eckstein, 1890)"
@@ -481,7 +481,7 @@ taxonID,taxonKey,scientificName,action,acceptedKey,acceptedName
 26724,148719584,Xanthium italicum Moretti,merged_with_accepted,11519882,Xanthium orientale var. italicum (Moretti) M.Hassl.
 25298,148719586,"Callidiellum rufipenne N.Ohbayashi, Kimura & SatÃ´, 1994",merged_with_accepted,1152186,"Callidiellum rufipennis (Motschulsky, 1861)"
 26158,148719592,Osteospermum barberiae (Harv.) Norl.,merged_with_accepted,5402361,Dimorphotheca barberae Harv.
-26023,148719593,Molorchus minor minor,merged_with_accepted,8571136,"Molorchus minor (Linnaeus, 1758)"
+26023,148719593,Molorchus minor minor,filtered_on_establishmentMeans,8571136,"Molorchus minor (Linnaeus, 1758)"
 26497,148719595,Senecio leucanthemifolius subsp. vernalis (Waldst. & Kit.) Greuter,merged_with_accepted,6063730,Senecio vernalis Waldst. & Kit.
 26493,148719610,Senecio angulatus L.f.,scientificName_replaced_by_backbone_name,4933568,Senecio angulatus L.fil.
 26494,148719612,Senecio crassiflorus DC.,scientificName_replaced_by_backbone_name,6064623,Senecio crassiflorus (Poir.) DC.
@@ -530,7 +530,7 @@ taxonID,taxonKey,scientificName,action,acceptedKey,acceptedName
 25193,148719747,Argyranthemum frutescens Sch.Bip.,scientificName_replaced_by_backbone_name,3104491,Argyranthemum frutescens (L.) Sch.Bip.
 26521,148719748,"Sirex areolatus (Cresson, 1868)",scientificName_replaced_by_backbone_name,4492195,"Sirex areolatus (Cresson, 1867)"
 26654,148719754,"Trichogramma evanescens Westwood, 1833",filtered_on_establishmentMeans,1398771,"Trichogramma evanescens Westwood, 1833"
-25973,148719768,"Lygaeonematus saxesenii (Hartig, 1837)",merged_with_accepted,5868121,"Pristiphora saxesenii (Hartig, 1837)"
+25973,148719768,"Lygaeonematus saxesenii (Hartig, 1837)",filtered_on_establishmentMeans,5868121,"Pristiphora saxesenii (Hartig, 1837)"
 25719,148719777,"Formica lugubris Zetterstedt, 1838",filtered_on_establishmentMeans,1314847,"Formica lugubris Zetterstedt, 1838"
 25253,148719778,Bidens formosa Kuntze,scientificName_replaced_by_backbone_name,7590117,"Bidens formosa Kuntze, 1898"
 25250,148719782,Bidens aurea Sherff,scientificName_replaced_by_backbone_name,5391802,Bidens aurea (Aiton) Sherff

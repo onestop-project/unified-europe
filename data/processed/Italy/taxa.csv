@@ -71,7 +71,6 @@ taxonKey,nubKey,taxonID,scientificName,kingdom,taxonRank
 148717815,2307447,25240,"Barbronia weberi (Blanchard, 1897)",Animalia,SPECIES
 148717823,2657564,25765,Griffithsia corallinoides (L.) Trevis.,Plantae,SPECIES
 7682935,2659055,25809,Dasysiphonia japonica (Yendo) H.-S.Kim,Plantae,SPECIES
-2320617,2320618,26351,"Apoprionospio pygmaea (Hartman, 1961)",Animalia,SPECIES
 148717828,7682935,25537,Dasysiphonia japonica (Yendo) H.-S.Kim,Plantae,SPECIES
 148717833,2320028,26052,"Naineris setosa (Verrill, 1900)",Animalia,SPECIES
 148717834,5277463,26723,Womersleyella setacea (Hollenberg) R.E.Norris,Plantae,SPECIES
@@ -108,7 +107,6 @@ taxonKey,nubKey,taxonID,scientificName,kingdom,taxonRank
 148717915,2321945,26127,"Ophryotrocha japonica Paxton & Åkesson, 2010",Animalia,SPECIES
 148717916,5656424,25585,Dryopteris atrata (Wall) Ching,Plantae,SPECIES
 148717918,2322975,25963,"Lumbrineris acutiformis Gallardo, 1968",Animalia,SPECIES
-7386657,6153999,25630,"Diopatra hupferiana monroi (Day, 1957)",Animalia,SUBSPECIES
 7805873,7189925,25629,Diopatra hupferiana hupferiana,Animalia,SUBSPECIES
 148717929,2650107,25232,Azolla filiculoides Lam.,Plantae,SPECIES
 7792557,5299431,26670,Tulipa agenensis Redouté,Plantae,SPECIES
@@ -116,7 +114,6 @@ taxonKey,nubKey,taxonID,scientificName,kingdom,taxonRank
 148717940,7923165,26668,Tulipa clusiana Redouté,Plantae,SPECIES
 148717942,5299458,26671,Tulipa saxatilis Sieber ex Spreng.,Plantae,SPECIES
 148717944,5299675,26669,Tulipa gesneriana L.,Plantae,SPECIES
-11088660,2328721,25702,"Rubifabriciola ghardaqa (Banse, 1959)",Animalia,SPECIES
 148717948,2766030,26338,Pontederia cordata L.,Plantae,SPECIES
 148717950,5199417,26558,"Spirorbis marioni Caullery & Mesnil, 1897",Animalia,SPECIES
 11070196,2766009,26025,Pontederia korsakowii (Regel & Maack) M.Pell. & C.N.Horn,Plantae,SPECIES
@@ -329,7 +326,6 @@ taxonKey,nubKey,taxonID,scientificName,kingdom,taxonRank
 148718307,2292317,25494,"Cuthona perca (Er.Marcus, 1958)",Animalia,SPECIES
 148718310,4360023,25406,"Chromodoris quadricolor (Rüppell & Leuckart, 1830)",Animalia,SPECIES
 148718311,2702678,25556,Dichanthelium acuminatum (Sw.) Gould & C.A.Clark,Plantae,SPECIES
-2291957,2291947,25039,"Anteaeolidiella indica (Bergh, 1888)",Animalia,SPECIES
 148718318,2702543,25557,Dichanthelium clandestinum (L.) Gould,Plantae,SPECIES
 6313051,2706389,26663,Triticum turgidum subsp. durum (Desf.) Husn.,Plantae,SUBSPECIES
 5289783,2703511,26662,Aegilops cylindrica Host,Plantae,SPECIES
@@ -628,7 +624,6 @@ taxonKey,nubKey,taxonID,scientificName,kingdom,taxonRank
 148718815,2874612,26487,Sechium edule (Jacq.) Sw.,Plantae,SPECIES
 148718818,5331404,25598,Echinocystis lobata (Michx.) Torr. & A.Gray,Plantae,SPECIES
 148718819,2874508,25490,Cucurbita pepo L.,Plantae,SPECIES
-5851603,2360181,25215,"Leuciscus aspius (Linnaeus, 1758)",Animalia,SPECIES
 2874515,7655426,25489,Cucurbita maxima Duchesne,Plantae,SPECIES
 148718822,2874529,25496,Cyclanthera pedata (L.) Schrad.,Plantae,SPECIES
 148718825,7344696,25245,Begonia grandis subsp. grandis,Plantae,SUBSPECIES
@@ -735,7 +730,6 @@ taxonKey,nubKey,taxonID,scientificName,kingdom,taxonRank
 148718988,6467647,25141,"Amphibalanus improvisus (Darwin, 1854)",Animalia,SPECIES
 148718989,5862470,25140,"Amphibalanus eburneus (Gould, 1841)",Animalia,SPECIES
 148718991,3034825,25799,Heracleum mantegazzianum Sommier & Levier,Plantae,SPECIES
-6283818,4303999,26352,"Proasellus coxalis banyulensis (Racovitza, 1919)",Animalia,SUBSPECIES
 148718995,8350395,25500,Cyclospermum leptophyllum (Pers.) Sprague,Plantae,SPECIES
 148718997,3034871,25446,Coriandrum sativum L.,Plantae,SPECIES
 148718998,3034653,25375,Chaerophyllum bulbosum L.,Plantae,SPECIES
@@ -817,7 +811,6 @@ taxonKey,nubKey,taxonID,scientificName,kingdom,taxonRank
 148719122,3172657,26046,Myoporum laetum G.Forst.,Plantae,SPECIES
 148719123,2226990,26180,"Pacifastacus leniusculus (Dana, 1852)",Animalia,SPECIES
 148719124,3746005,26047,Myoporum tetrandrum (Labill.) Domin,Plantae,SPECIES
-8863604,9011886,25229,Austropotamobius fulcisianus fulcisianus,Animalia,SUBSPECIES
 148719127,3173338,25288,Buddleja davidii Franch.,Plantae,SPECIES
 148719129,5972481,25744,"Glabropilumnus laevis (Dana, 1852)",Animalia,SPECIES
 148719130,7308818,26747,Ziziphora capitata L.,Plantae,SPECIES
@@ -848,7 +841,6 @@ taxonKey,nubKey,taxonID,scientificName,kingdom,taxonRank
 148719168,2925351,25420,Clerodendrum bungei Steud.,Plantae,SPECIES
 148719169,2925366,25421,Clerodendrum trichotomum Thunb.,Plantae,SPECIES
 10830727,3882698,25236,Pseudodictamnus mediterraneus Salmaki & Siadati,Plantae,SPECIES
-9597437,2152890,26073,"Kryptonesticus eremita (Simon, 1880)",Animalia,SPECIES
 148719174,2134305,26157,"Ostearius melanopygius (O.Pickard-Cambridge, 1880)",Animalia,SPECIES
 148719175,3172100,26692,Veronica filiformis Sm.,Plantae,SPECIES
 148719176,3172077,26694,Veronica persica Poir.,Plantae,SPECIES
@@ -921,7 +913,6 @@ taxonKey,nubKey,taxonID,scientificName,kingdom,taxonRank
 148719284,3024109,25129,Amelanchier ×lamarckii F.G.Schroed.,Plantae,SPECIES
 148719288,3000679,25374,Chaenomeles speciosa (Sweet) Nakai,Plantae,SPECIES
 148719290,3000610,25373,Chaenomeles japonica (Thunb.) Lindl. ex Spach,Plantae,SPECIES
-1032764,4422697,26066,"Colpocephalum turbinatum Denny, 1842",Animalia,SPECIES
 148719293,3015560,25475,Crataegus submollis Sarg.,Plantae,SPECIES
 148719295,3013404,25473,Crataegus crus-galli L.,Plantae,SPECIES
 148719296,3015457,25474,Crataegus persimilis Sarg.,Plantae,SPECIES
@@ -974,7 +965,6 @@ taxonKey,nubKey,taxonID,scientificName,kingdom,taxonRank
 148719366,5365305,26348,Potentilla norvegica L.,Plantae,SPECIES
 148719368,3029559,26349,Poteridium annuum (Nutt. ex Hook.) Spach,Plantae,SPECIES
 148719369,5365717,26346,Potentilla indica (Andrews) Th.Wolf,Plantae,SPECIES
-5156017,5156016,26029,"Phylloxera corticalis Kaltenbach, 1867",Animalia,SPECIES
 148719371,5365705,26347,Potentilla intermedia L.,Plantae,SPECIES
 148719375,2037925,26151,"Orientus ishidae (Matsumura, 1902)",Animalia,SPECIES
 148719376,3026906,26553,Spiraea cantoniensis Lour.,Plantae,SPECIES
@@ -1105,7 +1095,6 @@ taxonKey,nubKey,taxonID,scientificName,kingdom,taxonRank
 148719588,4211590,25888,Lactuca macrophylla subsp. uralensis (Rouy) N.Kilian & Greuter,Plantae,SUBSPECIES
 148719589,1159172,26735,"Xylotrechus stebbingi Gahan, 1906",Animalia,SPECIES
 5402361,3140815,26158,Dimorphotheca barberae Harv.,Plantae,SPECIES
-8571136,7201685,26023,"Molorchus minor (Linnaeus, 1758)",Animalia,SPECIES
 6063730,4228701,26497,Senecio vernalis Waldst. & Kit.,Plantae,SPECIES
 148719596,4293134,26065,"Neoclytus acuminatus (Fabricius, 1775)",Animalia,SPECIES
 148719597,7987143,25157,"Anoplophora chinensis (Forster, 1771)",Animalia,SPECIES
@@ -1237,7 +1226,6 @@ taxonKey,nubKey,taxonID,scientificName,kingdom,taxonRank
 148719763,1370976,25995,"Megastigmus pinsapinis Hoffmeyer, 1931",Animalia,SPECIES
 148719765,3129663,25233,Baccharis halimifolia L.,Plantae,SPECIES
 148719767,5391882,25258,Bidens subalternans DC.,Plantae,SPECIES
-5868121,9258280,25973,"Pristiphora saxesenii (Hartig, 1837)",Animalia,SPECIES
 148719769,5392145,25257,Bidens radiata Thuill.,Plantae,SPECIES
 148719771,5041466,26477,"Sceliphron caementarium (Drury, 1773)",Animalia,SPECIES
 148719772,5391810,25259,Bidens vulgata Greene,Plantae,SPECIES

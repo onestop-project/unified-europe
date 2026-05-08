@@ -11,11 +11,11 @@ taxonID,taxonKey,scientificName,action,acceptedKey,acceptedName
 50287,149687672,"Stypopodium schimperi (Kützing) M.Verlaque & Boudouresque, 1991",filtered_on_establishmentMeans,3200580,Stypopodium schimperi (Kützing) Verlaque & Boudouresque
 50126,149687673,"Padina boryana Thivy, 1966",filtered_on_establishmentMeans,3200174,"Padina boryana Thivy, 1966"
 49854,149687680,Cutleria multifida (Turner) Grev.,filtered_on_establishmentMeans,5422862,Cutleria multifida (Turner) Grev.
-50250,149687681,"Sertularia marginata (Kirchenpauer, 1864)",merged_with_accepted,4282894,"Tridentata marginata (Kirchenpauer, 1864)"
+50250,149687681,"Sertularia marginata (Kirchenpauer, 1864)",filtered_on_establishmentMeans,4282894,"Tridentata marginata (Kirchenpauer, 1864)"
 50244,149687684,Scytosiphon dotyi Wynne,filtered_on_establishmentMeans,5422829,"Scytosiphon dotyi M.J.Wynne, 1969"
 49832,149687687,Colpomenia peregrina Sauv.,filtered_on_establishmentMeans,3197970,Colpomenia peregrina Sauv.
 50094,149687689,"Oculina patagonica de Angelis, 1908",filtered_on_establishmentMeans,5184825,"Oculina patagonica de Angelis D'Ossat, 1908"
-50151,149687697,"Pelagia benovici Piraino, Aglieri, Scorrano & Boero, 2014",merged_with_accepted,9237565,"Mawia benovici (Piraino, Aglieri, Scorrano & Boero, 2014)"
+50151,149687697,"Pelagia benovici Piraino, Aglieri, Scorrano & Boero, 2014",filtered_on_establishmentMeans,9237565,"Mawia benovici (Piraino, Aglieri, Scorrano & Boero, 2014)"
 50279,149687701,"Spiroloculina antillarum d'Orbigny, 1839",filtered_on_establishmentMeans,8294562,"Spiroloculina antillarum d'Orbigny, 1839"
 50226,149687702,"Rhopilema nomadica Galil, 1990",filtered_on_establishmentMeans,2264597,"Rhopilema nomadica Galil, Spanier & Ferguson, 1990"
 50065,149687704,"Miliolinella fichteliana (d'Orbigny, 1839)",filtered_on_establishmentMeans,7399878,"Miliolinella fichteliana (d'Orbigny, 1839)"
@@ -35,13 +35,13 @@ taxonID,taxonKey,scientificName,action,acceptedKey,acceptedName
 49645,149687742,"Acervulina inhaerens Schulze, 1854",filtered_on_establishmentMeans,8102774,"Acervulina inhaerens Schultze, 1854"
 50084,149687747,"Neopseudocapitella brasiliensis Rullier & Amoureux, 1979",filtered_on_establishmentMeans,2318164,"Neopseudocapitella brasiliensis Rullier & Amoureux, 1979"
 50092,149687751,"Notomastus aberans Day, 1957",filtered_on_establishmentMeans,2318080,"Notomastus aberans Day, 1957"
-50322,149687753,Ulva fasciata Delile,merged_with_accepted,5273309,Ulva lactuca L.
+50322,149687753,Ulva fasciata Delile,filtered_on_establishmentMeans,5273309,Ulva lactuca L.
 50063,149687754,"Metasychis gotoi (Izuka, 1902)",filtered_on_establishmentMeans,2319527,"Metasychis gotoi (Izuka, 1902)"
 49828,149687759,Codium fragile (Suringar) Hariot,filtered_on_establishmentMeans,5272096,Codium fragile (Suringar) Har.
 50208,149687760,"Pseudonereis anomala Gravier, 1899",filtered_on_establishmentMeans,2315466,"Pseudonereis anomala Gravier, 1899"
 50083,149687762,"Neanthes agulhana (Day, 1963)",filtered_on_establishmentMeans,5196692,"Neanthes agulhana (Day, 1963)"
 50019,149687764,"Leonnates persicus Wesenberg-Lund, 1949",filtered_on_establishmentMeans,2316240,"Leonnates persicus Wesenberg-Lund, 1949"
-49786,149687765,"Caulerpa racemosa f. requienii (Mont.) Weber van Bosse, 1913",merged_with_accepted,2643093,Caulerpa racemosa (Forssk.) J.Agardh
+49786,149687765,"Caulerpa racemosa f. requienii (Mont.) Weber van Bosse, 1913",filtered_on_establishmentMeans,2643093,Caulerpa racemosa (Forssk.) J.Agardh
 49787,149687766,Caulerpa taxifolia (M.Vahl) C.Agardh,filtered_on_establishmentMeans,2643172,Caulerpa taxifolia (M.Vahl) C.Agardh
 49785,149687769,"Caulerpa cylindracea Sonder, 1845",filtered_on_establishmentMeans,2643131,"Caulerpa cylindracea Sonder, 1845"
 50021,149687770,"Lepidonotus tenuisetosus (Gravier, 1902)",filtered_on_establishmentMeans,2314184,"Lepidonotus tenuisetosus (Gravier, 1902)"
@@ -58,7 +58,7 @@ taxonID,taxonKey,scientificName,action,acceptedKey,acceptedName
 49984,149687793,Hypnea valentiae,filtered_on_establishmentMeans,2668329,Hypnea valentiae
 50042,149687798,"Lysidice collaris Grube, 1870",filtered_on_establishmentMeans,5198157,"Lysidice collaris Grube, 1868"
 49944,149687799,Ganonema farinosum (J.V.Lamour.) K.C.Fan & Y.C.Wang,filtered_on_establishmentMeans,5278659,Ganonema farinosum (J.V.Lamour.) K.C.Fan & Yung C.Wang
-50049,149687800,"Marphysa adenensis Gravier, 1900",merged_with_accepted,10344972,"Paucibranchia adenensis (Gravier, 1900)"
+50049,149687800,"Marphysa adenensis Gravier, 1900",filtered_on_establishmentMeans,10344972,"Paucibranchia adenensis (Gravier, 1900)"
 50034,149687804,"Lumbrinerides neogesae Miura, 1981",filtered_on_establishmentMeans,2322820,"Lumbrinerides neogesae Miura, 1981"
 49751,149687805,"Botryocladia madagascariensis G.Feldmann, 1945",filtered_on_establishmentMeans,2663181,"Botryocladia madagascariensis G.Feldmann, 1945"
 50202,149687807,"Protodorvillea biarticulata Day, 1963",filtered_on_establishmentMeans,2322087,"Protodorvillea biarticulata Day, 1963"
@@ -74,9 +74,9 @@ taxonID,taxonKey,scientificName,action,acceptedKey,acceptedName
 49885,149687824,"Dispio magna (Day, 1955)",filtered_on_establishmentMeans,2321098,"Dispio magna (Day, 1955)"
 49884,149687826,"Dipolydora blakei (Maciolek, 1984)",filtered_on_establishmentMeans,6785175,"Dipolydora blakei (Maciolek, 1984)"
 49842,149687828,"Cossura coasta Kitamori, 1960",filtered_on_establishmentMeans,2318655,"Cossura coasta Kitamori, 1960"
-49705,149687829,"Anotrichium okamurae Baldock, 1976",merged_with_accepted,2656854,Anotrichium furcellatum (J.Agardh) Baldock
+49705,149687829,"Anotrichium okamurae Baldock, 1976",filtered_on_establishmentMeans,2656854,Anotrichium furcellatum (J.Agardh) Baldock
 50280,149687834,"Spirorbis marioni Caullery & Mesnil, 1897",filtered_on_establishmentMeans,5199417,"Spirorbis marioni Caullery & Mesnil, 1897"
-49711,149687835,Antithamnionella elegans (Berthold) J.H.Price & D.M.John,merged_with_accepted,2657657,Antithamnionella boergesenii (Cormaci & G.Furnari) Athanas.
+49711,149687835,Antithamnionella elegans (Berthold) J.H.Price & D.M.John,filtered_on_establishmentMeans,2657657,Antithamnionella boergesenii (Cormaci & G.Furnari) Athanas.
 50278,149687836,"Spirobranchus tetraceros (Schmarda, 1861)",filtered_on_establishmentMeans,5199674,"Spirobranchus tetraceros (Schmarda, 1861)"
 49799,149687837,Ceramium bisporum D.L.Ballant.,filtered_on_establishmentMeans,5276850,"Ceramium bisporum D.L.Ballant., 1990"
 49979,149687838,"Hydroides dirampha MÃ¶rch, 1863",not_matched_with_backbone,,
@@ -84,7 +84,7 @@ taxonID,taxonKey,scientificName,action,acceptedKey,acceptedName
 49978,149687840,"Hydroides brachyacantha Rioja, 1941",filtered_on_establishmentMeans,2328320,"Hydroides brachyacantha Rioja, 1941"
 49980,149687842,"Hydroides elegans (Haswell, 1883)",filtered_on_establishmentMeans,2328302,"Hydroides elegans (Haswell, 1883)"
 49936,149687844,"Ficopomatus enigmaticus (Fauvel, 1923)",filtered_on_establishmentMeans,2327735,"Ficopomatus enigmaticus (Fauvel, 1923)"
-50328,149687845,Vertebrata fucoides (Huds.) Kuntze,merged_with_accepted,12194263,Vertebrata spec (Hudson) Kuntze
+50328,149687845,Vertebrata fucoides (Huds.) Kuntze,filtered_on_establishmentMeans,12194263,Vertebrata spec (Hudson) Kuntze
 50333,149687848,"Womersleyella setacea (Hollenberg) R.E.Norris, 1992",filtered_on_establishmentMeans,5277463,Womersleyella setacea (Hollenberg) R.E.Norris
 49875,149687849,"Desdemona ornata Banse, 1957",filtered_on_establishmentMeans,5200151,"Desdemona ornata Banse, 1957"
 49754,149687851,"Branchiomma bairdi (McIntosh, 1885)",filtered_on_establishmentMeans,5854272,"Branchiomma bairdi (McIntosh, 1885)"
@@ -106,7 +106,7 @@ taxonID,taxonKey,scientificName,action,acceptedKey,acceptedName
 50168,149687881,Phoenix canariensis hort. ex Chabaud,filtered_on_establishmentMeans,6109529,Phoenix canariensis hort. ex Chabaud
 50169,149687882,Phoenix dactylifera L.,filtered_on_establishmentMeans,6109699,Phoenix dactylifera L.
 50243,149687884,"Scrupocellaria scruposa (Linnaeus, 1758)",filtered_on_establishmentMeans,1007932,"Scrupocellaria scruposa (Linnaeus, 1758)"
-50079,149687888,Najas orientalis L.Triest & Uotila,merged_with_accepted,5329463,Najas chinensis N.Z.Wang
+50079,149687888,Najas orientalis L.Triest & Uotila,filtered_on_establishmentMeans,5329463,Najas chinensis N.Z.Wang
 50078,149687889,Najas graminea Delile,filtered_on_establishmentMeans,5329404,Najas graminea Delile
 49972,149687890,"Hippopodina Levinsen, 1909",filtered_on_establishmentMeans,1005469,"Hippopodina Levinsen, 1909"
 50077,149687891,Najas gracillima A.Braun ex Magnus,filtered_on_establishmentMeans,5329454,Najas gracillima (A.Braun ex Engelm.) Magnus
@@ -133,7 +133,7 @@ taxonID,taxonKey,scientificName,action,acceptedKey,acceptedName
 50257,149687932,"Sinanodonta woodiana (I.Lea, 1834)",filtered_on_establishmentMeans,4559541,"Sinanodonta woodiana (I.Lea, 1834)"
 50000,149687936,Juncus tenuis Willd.,filtered_on_establishmentMeans,2702084,Juncus tenuis Willd.
 49940,149687937,"Fulvia fragilis (ForsskÃ¥l, 1775)",filtered_on_establishmentMeans,5729175,"Fulvia fragilis (Forsskål, 1775)"
-49866,149687940,Cyperus involucratus Rottb.,merged_with_accepted,2714158,Cyperus alternifolius subsp. flabelliformis Kük.
+49866,149687940,Cyperus involucratus Rottb.,filtered_on_establishmentMeans,2714158,Cyperus alternifolius subsp. flabelliformis Kük.
 49865,149687941,Cyperus eragrostis Lam.,filtered_on_establishmentMeans,2715482,Cyperus eragrostis Lam.
 49864,149687944,Cyperus alopecuroides Rottb.,filtered_on_establishmentMeans,2715045,Cyperus alopecuroides Rottb.
 50074,149687945,"Mya arenaria Linnaeus, 1758",filtered_on_establishmentMeans,7791733,"Mya arenaria Linnaeus, 1758"
@@ -144,18 +144,18 @@ taxonID,taxonKey,scientificName,action,acceptedKey,acceptedName
 50046,149687954,"Malleus regula (ForsskÃ¥l, 1775)",filtered_on_establishmentMeans,4374719,"Malleus regula (Forsskål, 1775)"
 50318,149687955,Triticum turgidum subsp. durum (Desf.) Husn.,filtered_on_establishmentMeans,6313051,Triticum turgidum subsp. durum (Desf.) Husn.
 50319,149687957,Triticum turgidum subsp. turgidum,filtered_on_establishmentMeans,7262106,Triticum turgidum subsp. turgidum
-50178,149687958,"Pinctada imbricata radiata (Leach, 1814)",merged_with_accepted,4374764,"Pinctada radiata (Leach, 1814)"
+50178,149687958,"Pinctada imbricata radiata (Leach, 1814)",filtered_on_establishmentMeans,4374764,"Pinctada radiata (Leach, 1814)"
 49996,149687959,"Isognomon legumen (Gmelin, 1791)",filtered_on_establishmentMeans,4374562,"Isognomon legumen (Gmelin, 1791)"
 49874,149687961,"Dendostrea folium (Linnaeus, 1758)",filtered_on_establishmentMeans,4595289,"Dendostrea folium (Linnaeus, 1758)"
 49844,149687963,"Crassostrea Sacco, 1897",filtered_on_establishmentMeans,2286068,"Crassostrea Sacco, 1897"
-50183,149687964,Pleuraphis jamesii Torr.,merged_with_accepted,2702843,Hilaria jamesii (Torr.) Benth.
-50128,149687968,Panicum capillare subsp. capillare,merged_with_accepted,2705162,Panicum capillare L.
+50183,149687964,Pleuraphis jamesii Torr.,filtered_on_establishmentMeans,2702843,Hilaria jamesii (Torr.) Benth.
+50128,149687968,Panicum capillare subsp. capillare,filtered_on_establishmentMeans,2705162,Panicum capillare L.
 50161,149687969,"Petricolaria pholadiformis (Lamarck, 1818)",filtered_on_establishmentMeans,2287615,"Petricolaria pholadiformis (Lamarck, 1818)"
 49827,149687971,"Clementia papyracea (Gmelin, 1791)",filtered_on_establishmentMeans,4372695,"Clementia papyracea (Gmelin, 1791)"
-49895,149687972,Echinochloa crus-galli subsp. spiralis (Vasinger) Tzvelev,merged_with_accepted,7226834,Echinochloa crus-galli subsp. crus-galli
+49895,149687972,Echinochloa crus-galli subsp. spiralis (Vasinger) Tzvelev,filtered_on_establishmentMeans,7226834,Echinochloa crus-galli subsp. crus-galli
 49808,149687974,"Chama pacifica Broderip, 1835",filtered_on_establishmentMeans,4372070,"Chama pacifica Broderip, 1835"
 49807,149687976,"Chama asperella Lamarck, 1819",filtered_on_establishmentMeans,4372055,"Chama asperella Lamarck, 1819"
-49658,149687979,Agrostis lachnantha Nees,merged_with_accepted,4135892,Lachnagrostis lachnantha (Nees) Rúgolo & A.M.Molina
+49658,149687979,Agrostis lachnantha Nees,filtered_on_establishmentMeans,4135892,Lachnagrostis lachnantha (Nees) Rúgolo & A.M.Molina
 50249,149687980,"Septifer cumingii RÃ©cluz, 1848",not_matched_with_backbone,,
 49753,149687981,"Brachidontes pharaonis (P.Fischer, 1870)",filtered_on_establishmentMeans,4374596,"Brachidontes pharaonis (P.Fischer, 1870)"
 50245,149687982,Secale cereale L.,filtered_on_establishmentMeans,2705966,Secale cereale L.
@@ -188,14 +188,14 @@ taxonID,taxonKey,scientificName,action,acceptedKey,acceptedName
 50072,149688020,"Murchisonella mediterranea PeÃ±as & RolÃ¡n, 2013",not_matched_with_backbone,,
 49881,149688021,Diplachne fusca (L.) Roem. & Schult.,filtered_on_establishmentMeans,8010581,Diplachne fusca (L.) P.Beauv. ex Roem. & Schult.
 49897,149688024,Echinochloa oryzoides (Ard.) Fritsch,filtered_on_establishmentMeans,2702820,Echinochloa oryzoides (Ard.) Fritsch
-49894,149688025,Echinochloa crus-galli subsp. hispidula (Retz.) Honda,merged_with_accepted,2702820,Echinochloa oryzoides (Ard.) Fritsch
+49894,149688025,Echinochloa crus-galli subsp. hispidula (Retz.) Honda,filtered_on_establishmentMeans,2702820,Echinochloa oryzoides (Ard.) Fritsch
 50218,149688026,"Rapana venosa (Valenciennes, 1846)",filtered_on_establishmentMeans,4363583,"Rapana venosa (Valenciennes, 1846)"
 49908,149688027,"Ergalatax junionae Houart, 2008",filtered_on_establishmentMeans,4363957,"Ergalatax junionae Houart, 2008"
 49896,149688028,Echinochloa frumentacea Link,filtered_on_establishmentMeans,2702822,Echinochloa frumentacea Link
 49893,149688029,Echinochloa colona (L.) Link,filtered_on_establishmentMeans,6431411,Echinochloa colonum (L.) Link
 49902,149688030,Eleusine indica (L.) Gaertn.,filtered_on_establishmentMeans,2705953,Eleusine indica (L.) Gaertn.
 49863,149688032,Cynodon transvaalensis Burtt Daty,filtered_on_establishmentMeans,5289803,Cynodon transvaalensis Burtt Davy
-49935,149688034,"Ferrissia wautieri (Mirolli, 1960)",merged_with_accepted,9520065,"Ferrissia californica (Rowell, 1863)"
+49935,149688034,"Ferrissia wautieri (Mirolli, 1960)",filtered_on_establishmentMeans,9520065,"Ferrissia californica (Rowell, 1863)"
 49869,149688035,Dactyloctenium aegyptium (L.) Willd.,filtered_on_establishmentMeans,2706188,Dactyloctenium aegyptium (L.) Willd.
 49878,149688036,Digitaria ciliaris (Retz.) Koeler,filtered_on_establishmentMeans,5289998,Digitaria ciliaris (Retz.) Koeler
 49963,149688037,"Helisoma anceps (Menke, 1830)",filtered_on_establishmentMeans,5189722,"Helisoma anceps (Menke, 1830)"
@@ -229,12 +229,12 @@ taxonID,taxonKey,scientificName,action,acceptedKey,acceptedName
 50271,149688076,Sorghum drummondii (Nees ex Steud.) Millsp. & Chase,filtered_on_establishmentMeans,2705184,Sorghum ×drummondii (Nees ex Steud.) Millsp. & Chase
 50196,149688079,"Potamopyrgus antipodarum (Gray, 1843)",filtered_on_establishmentMeans,5192470,"Potamopyrgus antipodarum (J.E.Gray, 1843)"
 49846,149688082,"Crepidula fornicata (Linnaeus, 1758)",filtered_on_establishmentMeans,5192789,"Crepidula fornicata (Linnaeus, 1758)"
-49946,149688083,Gladiolus tristis subsp. spiralis (Pers.) Maire & Weiller,merged_with_accepted,2750383,Gladiolus tristis L.
+49946,149688083,Gladiolus tristis subsp. spiralis (Pers.) Maire & Weiller,filtered_on_establishmentMeans,2750383,Gladiolus tristis L.
 49834,149688085,"Conomurex persicus (Swainson, 1821)",filtered_on_establishmentMeans,6489949,"Conomurex persicus (Swainson, 1821)"
 50261,149688086,Sisyrinchium laxum Otto ex Sims,filtered_on_establishmentMeans,5296365,Sisyrinchium laxum Otto ex Sims
 49802,149688088,"Cerithiopsis pulvis (Issel, 1869)",filtered_on_establishmentMeans,4363108,"Cerithiopsis pulvis (Issel, 1869)"
 49803,149688089,"Cerithiopsis tenthrenois (Melvill, 1896)",filtered_on_establishmentMeans,4363120,"Cerithiopsis tenthrenois (Melvill, 1896)"
-49994,149688090,Iris albicans Lange,merged_with_accepted,5298079,Iris florentina L.
+49994,149688090,Iris albicans Lange,filtered_on_establishmentMeans,5298079,Iris florentina L.
 50224,149688092,"Rhinoclavis kochi (Philippi, 1848)",filtered_on_establishmentMeans,4362907,"Rhinoclavis kochi (R.A.Philippi, 1848)"
 49801,149688093,"Cerithidium perparvulum (R.B.Watson, 1886)",filtered_on_establishmentMeans,4362829,"Cerithidium perparvulum (R.B.Watson, 1886)"
 49804,149688094,"Cerithium scabridum Philippi, 1848",filtered_on_establishmentMeans,4362895,"Cerithium scabridum R.A.Philippi, 1848"
@@ -249,11 +249,11 @@ taxonID,taxonKey,scientificName,action,acceptedKey,acceptedName
 50217,149688107,"Pyrunculus fourierii (Audouin, 1826)",filtered_on_establishmentMeans,4359506,"Pyrunculus fourierii (Audouin, 1826)"
 50069,149688110,"Mnestia girardi (Audouin, 1826)",filtered_on_establishmentMeans,9299496,"Mnestia girardi (Audouin, 1826)"
 49764,149688113,"Bulla arabica Malaquias & Reid, 2008",filtered_on_establishmentMeans,6520353,"Bulla arabica Malaquias & D.Reid, 2008"
-50316,149688114,Tristagma uniflorum (Lindl.) Traub,merged_with_accepted,2859597,Ipheion uniflorum (Graham) Raf.
+50316,149688114,Tristagma uniflorum (Lindl.) Traub,filtered_on_establishmentMeans,2859597,Ipheion uniflorum (Graham) Raf.
 50080,149688116,Narcissus pseudonarcissus L.,filtered_on_establishmentMeans,2858244,Narcissus pseudonarcissus L.
-49958,149688117,"Haminoea cyanomarginata Heller & Thompson, 1983",merged_with_accepted,10906181,"Lamprohaminoea ovalis (Pease, 1868)"
+49958,149688117,"Haminoea cyanomarginata Heller & Thompson, 1983",filtered_on_establishmentMeans,10906181,"Lamprohaminoea ovalis (Pease, 1868)"
 50081,149688118,Narcissus tazetta subsp. aureus (Jord. & Fourr.) Baker,filtered_on_establishmentMeans,2858972,Narcissus tazetta subsp. aureus (Jord. & Fourr.) Baker
-49734,149688119,"Atys macandrewii E.A.Smith, 1872",merged_with_accepted,10513850,"Weinkauffia macandrewii (E.A.Smith, 1872)"
+49734,149688119,"Atys macandrewii E.A.Smith, 1872",filtered_on_establishmentMeans,10513850,"Weinkauffia macandrewii (E.A.Smith, 1872)"
 50091,149688121,Nothoscordum gracile (Aiton) Stearn,filtered_on_establishmentMeans,2855519,Nothoscordum gracile (Aiton) Stearn
 49652,149688122,"Acteocina mucronata (Philippi, 1849)",filtered_on_establishmentMeans,4359672,"Acteocina mucronata (R.A.Philippi, 1849)"
 49687,149688125,Amaryllis belladonna L.,filtered_on_establishmentMeans,5325855,Amaryllis belladonna L.
@@ -265,7 +265,7 @@ taxonID,taxonKey,scientificName,action,acceptedKey,acceptedName
 49964,149688135,Hemerocallis fulva L.,filtered_on_establishmentMeans,2781074,Hemerocallis fulva (L.) L.
 49666,149688136,Aloe vera (L.) Burm.f.,filtered_on_establishmentMeans,2777724,Aloe vera (L.) Burm.f.
 49696,149688138,"Amphibalanus amphitrite Darwin, 1854",filtered_on_establishmentMeans,4805564,"Amphibalanus amphitrite (Darwin, 1854)"
-49727,149688141,Asparagus plumosus Baker,merged_with_accepted,2768686,Asparagus setaceus (Kunth) Jessop
+49727,149688141,Asparagus plumosus Baker,filtered_on_establishmentMeans,2768686,Asparagus setaceus (Kunth) Jessop
 49975,149688144,Hyacinthoides hispanica (Mill.) Rothm.,filtered_on_establishmentMeans,5304257,Hyacinthoides hispanica (Mill.) Rothm.
 49653,149688145,"Aedes albopictus Skuse, 1894",filtered_on_establishmentMeans,1651430,"Aedes albopictus (Skuse, 1894)"
 49976,149688147,Hyacinthus orientalis L.,filtered_on_establishmentMeans,2772666,Hyacinthus orientalis L.
@@ -298,7 +298,7 @@ taxonID,taxonKey,scientificName,action,acceptedKey,acceptedName
 50051,149688203,"Matuta victor (Fabricius, 1781)",filtered_on_establishmentMeans,5799065,"Matuta victor (Fabricius, 1781)"
 49917,149688204,Eschscholzia californica Cham.,filtered_on_establishmentMeans,2888380,Eschscholzia californica Cham.
 49990,149688209,Impatiens balfourii Hook.f.,filtered_on_establishmentMeans,2891783,Impatiens balfourii Hook.fil.
-50309,149688211,"Trachysalambria palaestinensis (Steinitz, 1932)",merged_with_accepted,2223511,"Trachysalambria curvirostris (Stimpson, 1860)"
+50309,149688211,"Trachysalambria palaestinensis (Steinitz, 1932)",filtered_on_establishmentMeans,2223511,"Trachysalambria curvirostris (Stimpson, 1860)"
 49880,149688212,Diospyros lotus L.,filtered_on_establishmentMeans,3032980,Diospyros lotus L.
 50154,149688214,"Penaeus aztecus Ives, 1891",filtered_on_establishmentMeans,2223840,"Penaeus aztecus Ives, 1891"
 50156,149688218,"Penaeus pulchricaudatus Stebbing, 1914",filtered_on_establishmentMeans,4645934,"Penaeus pulchricaudatus Stebbing, 1914"
@@ -317,7 +317,7 @@ taxonID,taxonKey,scientificName,action,acceptedKey,acceptedName
 50030,149688234,Lonicera japonica Thunb.,filtered_on_establishmentMeans,5334240,Lonicera japonica Thunb.
 49830,149688235,"Coleusia signata (Paul'son, 1875)",filtered_on_establishmentMeans,4382675,"Coleusia signata (Paulson, 1875)"
 49797,149688236,Centranthus macrosiphon Boiss.,filtered_on_establishmentMeans,7298966,Centranthus macrosiphon Boiss.
-49814,149688240,"Charybdis paucidentata (A.Milne Edwards, 1861)",merged_with_accepted,5974552,"Gonioinfradens paucidentatus (A.Milne-Edwards, 1861)"
+49814,149688240,"Charybdis paucidentata (A.Milne Edwards, 1861)",filtered_on_establishmentMeans,5974552,"Gonioinfradens paucidentatus (A.Milne-Edwards, 1861)"
 49767,149688244,"Calappa pelii Herklots, 1851",filtered_on_establishmentMeans,5730505,"Calappa pelii Herklots, 1851"
 49852,149688245,Cuscuta campestris Yunck.,filtered_on_establishmentMeans,3610757,Cuscuta campestris Yunck.
 49993,149688247,Ipomoea purpurea (L.) Roth,filtered_on_establishmentMeans,2928576,Ipomoea purpurea (L.) Roth
@@ -334,10 +334,10 @@ taxonID,taxonKey,scientificName,action,acceptedKey,acceptedName
 49769,149688258,"Callinectes sapidus Rathbun, 1896",filtered_on_establishmentMeans,2225646,"Callinectes sapidus Rathbun, 1896"
 50263,149688262,Solanum chenopodioides Lam.,filtered_on_establishmentMeans,2929710,Solanum chenopodioides Lam.
 49668,149688263,"Alpheus rapacida De Man, 1908",filtered_on_establishmentMeans,2226174,"Alpheus rapacida De Man, 1908"
-50268,149688266,Solanum rostratum Dun.,merged_with_accepted,2929800,Solanum angustifolium Houst. ex Mill.
+50268,149688266,Solanum rostratum Dun.,filtered_on_establishmentMeans,2929800,Solanum angustifolium Houst. ex Mill.
 50334,149688267,"Xanthias lamarckii (H.Milne Edwards, 1834)",filtered_on_establishmentMeans,2227723,"Xanthias lamarckii (H.Milne Edwards, 1834)"
 49729,149688269,"Atergatis roseus (RÃ¼ppell, 1830)",filtered_on_establishmentMeans,2227756,"Atergatis roseus (Rüppell, 1830)"
-50041,149688270,Lycopersicon esculentum Miller,merged_with_accepted,2930137,Solanum lycopersicum L.
+50041,149688270,Lycopersicon esculentum Miller,filtered_on_establishmentMeans,2930137,Solanum lycopersicum L.
 50269,149688271,Solanum tuberosum L.,filtered_on_establishmentMeans,2930262,Solanum tuberosum L.
 49651,149688272,"Actaeodes tomentosus Milne-Edwards, 1834",filtered_on_establishmentMeans,5730578,"Actaeodes tomentosus (H.Milne Edwards, 1834)"
 50266,149688273,Solanum physalifolium Rusby,filtered_on_establishmentMeans,2932144,Solanum physalifolium Rusby
@@ -345,7 +345,7 @@ taxonID,taxonKey,scientificName,action,acceptedKey,acceptedName
 50264,149688277,Solanum elaeagnifolium Cav.,filtered_on_establishmentMeans,2929892,Solanum elaeagnifolium Cav.
 50265,149688278,Solanum linnaeanum Hepper & P.-M.L.Jaeger,filtered_on_establishmentMeans,2929062,Solanum linnaeanum Hepper & P.-M.L.Jaeger
 50174,149688279,Physalis philadelphica Lam.,filtered_on_establishmentMeans,8969026,Physalis philadelphica Lam.
-50173,149688281,Physalis ixocarpa Brot. ex Hornem.,merged_with_accepted,5581168,Physalis philadelphica subsp. ixocarpa (Brot. ex Hornem.) Sobr.-Vesp. & Sanz-Elorza
+50173,149688281,Physalis ixocarpa Brot. ex Hornem.,filtered_on_establishmentMeans,5581168,Physalis philadelphica subsp. ixocarpa (Brot. ex Hornem.) Sobr.-Vesp. & Sanz-Elorza
 50146,149688282,"Parvocalanus crassirostris (Dahl F., 1894)",filtered_on_establishmentMeans,2114232,"Parvocalanus crassirostris (Dahl F., 1894)"
 50172,149688283,Physalis angulata L.,filtered_on_establishmentMeans,5341792,Physalis angulata L.
 50087,149688285,Nicandra physalodes (L.) Gaertn.,filtered_on_establishmentMeans,5341754,Nicandra physalodes (L.) Gaertn.
@@ -365,17 +365,17 @@ taxonID,taxonKey,scientificName,action,acceptedKey,acceptedName
 49643,149688303,"Acartia tonsa Dana, 1849",filtered_on_establishmentMeans,2114446,"Acartia tonsa Dana, 1849"
 50273,149688309,"Sousa plumbea (G.Cuvier, 1829)",filtered_on_establishmentMeans,2440506,"Sousa plumbea (G.Cuvier, 1829)"
 49900,149688310,Elaeagnus angustifolia L.,filtered_on_establishmentMeans,3039269,Elaeagnus angustifolia L.
-50085,149688315,"Neovison vison (Schreber, 1777)",merged_with_accepted,5218823,"Mustela vison Schreber, 1777"
+50085,149688315,"Neovison vison (Schreber, 1777)",filtered_on_establishmentMeans,5218823,"Mustela vison Schreber, 1777"
 50204,149688316,Prunus cerasus L.,filtered_on_establishmentMeans,3021922,Prunus cerasus L.
 50113,149688319,"Oryctolagus cuniculus (Linnaeus, 1758)",filtered_on_establishmentMeans,2436940,"Oryctolagus cuniculus (Linnaeus, 1758)"
 50047,149688323,Malus domestica Borkh.,filtered_on_establishmentMeans,3001244,Malus domestica (Suckow) Borkh.
 50075,149688324,"Myocastor coypus (Molina, 1782)",filtered_on_establishmentMeans,4264680,"Myocastor coypus (Molina, 1782)"
-50206,149688325,Prunus persica (L.) Batsch,merged_with_accepted,8149923,Prunus persica (L.) Stokes
-50205,149688326,Prunus dulcis (Mill.) D.A.Webb,merged_with_accepted,3020980,Prunus amygdalus Batsch
+50206,149688325,Prunus persica (L.) Batsch,filtered_on_establishmentMeans,8149923,Prunus persica (L.) Stokes
+50205,149688326,Prunus dulcis (Mill.) D.A.Webb,filtered_on_establishmentMeans,3020980,Prunus amygdalus Batsch
 50203,149688328,Prunus armeniaca L.,filtered_on_establishmentMeans,7818643,Prunus armeniaca L.
 50060,149688329,Mespilus germanica L.,filtered_on_establishmentMeans,3031774,Mespilus germanica L.
 50108,149688330,"Ondatra zibethicus (Linnaeus, 1766)",filtered_on_establishmentMeans,5219858,"Ondatra zibethicus (Linnaeus, 1766)"
-49913,149688331,Eriobotrya japonica (Thunb.) Lindl.,merged_with_accepted,10786206,Rhaphiolepis bibas (Lour.) Galasso & Banfi
+49913,149688331,Eriobotrya japonica (Thunb.) Lindl.,filtered_on_establishmentMeans,10786206,Rhaphiolepis bibas (Lour.) Galasso & Banfi
 50221,149688333,"Rattus rattus (Linnaeus, 1758)",filtered_on_establishmentMeans,2439270,"Rattus rattus (Linnaeus, 1758)"
 49856,149688334,Cydonia oblonga Mill.,filtered_on_establishmentMeans,5362215,Cydonia oblonga Mill.
 50220,149688335,"Rattus norvegicus (Berkenhout, 1769)",filtered_on_establishmentMeans,2439261,"Rattus norvegicus (Berkenhout, 1769)"
@@ -396,7 +396,7 @@ taxonID,taxonKey,scientificName,action,acceptedKey,acceptedName
 50020,149688364,Lepidium virginicum L.,filtered_on_establishmentMeans,5376648,Lepidium virginicum L.
 49916,149688366,Erysimum cheiri Crantz,filtered_on_establishmentMeans,3048203,Erysimum cheiri (L.) Crantz
 49883,149688368,Diplotaxis erucoides DC.,filtered_on_establishmentMeans,5376309,Diplotaxis erucoides (L.) DC.
-50012,149688369,"Laudakia stellio Manthey & Schuster, 1999",merged_with_accepted,7504253,"Stellagama stellio (Linnaeus, 1758)"
+50012,149688369,"Laudakia stellio Manthey & Schuster, 1999",filtered_on_establishmentMeans,7504253,"Stellagama stellio (Linnaeus, 1758)"
 49819,149688371,Chorispora tenella DC.,filtered_on_establishmentMeans,3044349,Chorispora tenella (Pall.) DC.
 50011,149688372,"Laticauda colubrina (Schneider, 1799)",filtered_on_establishmentMeans,8374394,"Laticauda colubrina (Schneider, 1799)"
 49778,149688374,Cardamine occulta Hornem.,filtered_on_establishmentMeans,3690997,Cardamine occulta Hornem.
@@ -436,13 +436,13 @@ taxonID,taxonKey,scientificName,action,acceptedKey,acceptedName
 49857,149688436,"Cygnus olor (Gmelin, 1789)",filtered_on_establishmentMeans,2498343,"Cygnus olor (J.F.Gmelin, 1789)"
 49962,149688437,Heliotropium curassavicum L.,filtered_on_establishmentMeans,2925786,Heliotropium curassavicum L.
 49662,149688442,"Alectoris chukar (J.E.Gray, 1830)",filtered_on_establishmentMeans,2474029,"Alectoris chukar (J.E.Gray, 1830)"
-49701,149688444,Amsinckia micrantha Suksdorf,merged_with_accepted,2925870,Amsinckia menziesii (Lehm.) A.Nelson & J.F.Macbr.
+49701,149688444,Amsinckia micrantha Suksdorf,filtered_on_establishmentMeans,2925870,Amsinckia menziesii (Lehm.) A.Nelson & J.F.Macbr.
 50238,149688447,"Sargocentron rubrum (ForsskÃ¥l, 1775)",filtered_on_establishmentMeans,2356802,"Sargocentron rubrum (Forsskål, 1775)"
 49700,149688449,Amsinckia lycopsoides Lehm.,filtered_on_establishmentMeans,2925874,Amsinckia lycopsoides Lehm.
 50214,149688453,"Pterois miles (Bennett, 1828)",filtered_on_establishmentMeans,2334433,"Pterois miles (Bennett, 1828)"
-49873,149688456,Daucus carota subsp. sativus (Hoffm.) Arcangeli,merged_with_accepted,6550056,Daucus carota var. sativus Hoffm.
+49873,149688456,Daucus carota subsp. sativus (Hoffm.) Arcangeli,filtered_on_establishmentMeans,6550056,Daucus carota var. sativus Hoffm.
 50284,149688459,"Stephanolepis diaspros Fraser-Brunner, 1940",filtered_on_establishmentMeans,5213449,"Stephanolepis diaspros Fraser-Brunner, 1940"
-49855,149688460,Cyclospermum leptophyllum (Pers.) Sprague ex Britton & P.Wilson,merged_with_accepted,8350395,Cyclospermum leptophyllum (Pers.) Sprague
+49855,149688460,Cyclospermum leptophyllum (Pers.) Sprague ex Britton & P.Wilson,filtered_on_establishmentMeans,8350395,Cyclospermum leptophyllum (Pers.) Sprague
 50321,149688462,"Tylerius spinosissimus (Regan, 1908)",filtered_on_establishmentMeans,2407916,"Tylerius spinosissimus (Regan, 1908)"
 50163,149688463,Petroselinum crispum (Foliosum Gp),filtered_on_establishmentMeans,7828157,Petroselinum crispum (Mill.) Fuss
 50307,149688464,"Torquigener flavimaculosus Hardy & Randall, 1983",filtered_on_establishmentMeans,2407271,"Torquigener flavimaculosus Hardy & Randall, 1983"
@@ -452,7 +452,7 @@ taxonID,taxonKey,scientificName,action,acceptedKey,acceptedName
 50177,149688469,Pimpinella anisum L.,filtered_on_establishmentMeans,8080300,Pimpinella anisum L.
 49837,149688471,Coriandrum sativum L.,filtered_on_establishmentMeans,3034871,Coriandrum sativum L.
 49703,149688472,Anethum graveolens L.,filtered_on_establishmentMeans,3034646,Anethum graveolens L.
-50028,149688476,"Liza haematocheilus (Temminck & Schlegel, 1845)",merged_with_accepted,9377860,"Planiliza haematocheila (Temminck & Schlegel, 1845)"
+50028,149688476,"Liza haematocheilus (Temminck & Schlegel, 1845)",filtered_on_establishmentMeans,9377860,"Planiliza haematocheila (Temminck & Schlegel, 1845)"
 49919,149688477,Eucalyptus camaldulensis Dehnh.,filtered_on_establishmentMeans,3176197,Eucalyptus camaldulensis Dehn.
 50027,149688478,"Liza carinata (Valenciennes, 1836)",filtered_on_establishmentMeans,2400787,"Liza carinata (Valenciennes, 1836)"
 50141,149688482,"Parexocoetus mento (Valenciennes, 1847)",filtered_on_establishmentMeans,2368598,"Parexocoetus mento (Valenciennes, 1847)"
@@ -466,9 +466,9 @@ taxonID,taxonKey,scientificName,action,acceptedKey,acceptedName
 50186,149688495,"Poecilia latipinna (Lesueur, 1821)",filtered_on_establishmentMeans,5203752,"Poecilia latipinna (Lesueur, 1821)"
 49943,149688496,"Gambusia holbrooki Girard, 1859",filtered_on_establishmentMeans,2350570,"Gambusia holbrooki Girard, 1859"
 50100,149688497,Oenothera laciniata Hill,filtered_on_establishmentMeans,3188867,Oenothera laciniata Hill
-50099,149688499,Oenothera indecora subsp. indecora,merged_with_accepted,7322393,Oenothera indecora Cambess.
+50099,149688499,Oenothera indecora subsp. indecora,filtered_on_establishmentMeans,7322393,Oenothera indecora Cambess.
 50098,149688500,Oenothera glazioviana Micheli,filtered_on_establishmentMeans,3188894,Oenothera glazioviana Micheli
-50096,149688502,Oenothera erythrosepala (BorbÃ¡s) BorbÃ¡s,merged_with_accepted,3188894,Oenothera glazioviana Micheli
+50096,149688502,Oenothera erythrosepala (BorbÃ¡s) BorbÃ¡s,filtered_on_establishmentMeans,3188894,Oenothera glazioviana Micheli
 50097,149688503,Oenothera fallax Renner,filtered_on_establishmentMeans,7915783,Oenothera ×fallax Renner
 49937,149688504,"Fistularia commersonii RÃ¼ppell, 1838",not_matched_with_backbone,,
 50095,149688505,Oenothera biennis L.,filtered_on_establishmentMeans,3188924,Oenothera biennis L.
@@ -508,8 +508,8 @@ taxonID,taxonKey,scientificName,action,acceptedKey,acceptedName
 49757,149688553,"Bregmaceros nectabanus Whitley, 1941",filtered_on_establishmentMeans,2417299,"Bregmaceros nectabanus Whitley, 1941"
 50337,149688557,Xanthium spinosum L.,filtered_on_establishmentMeans,3089150,Xanthium spinosum L.
 49730,149688558,"Atherinomorus forskalii (Rüppell, 1838)",filtered_on_establishmentMeans,7999925,"Atherinomorus forskalii (Rüppell, 1838)"
-50336,149688560,Xanthium pungens Wallr,merged_with_accepted,3089178,Xanthium occidentale Bertol.
-50335,149688562,Xanthium orientale subsp. italicum (Moretti) Greuter,merged_with_accepted,11519882,Xanthium orientale var. italicum (Moretti) M.Hassl.
+50336,149688560,Xanthium pungens Wallr,filtered_on_establishmentMeans,3089178,Xanthium occidentale Bertol.
+50335,149688562,Xanthium orientale subsp. italicum (Moretti) Greuter,filtered_on_establishmentMeans,11519882,Xanthium orientale var. italicum (Moretti) M.Hassl.
 49704,149688563,"Anguilla japonica Temminck & Schlegel, 1846",filtered_on_establishmentMeans,5213022,"Anguilla japonica Temminck & Schlegel, 1846"
 50191,149688566,"Polyodon spathula (Walbaum, 1792)",filtered_on_establishmentMeans,5212833,"Polyodon spathula (Walbaum, 1792)"
 50298,149688568,Tanacetum balsamita L.,filtered_on_establishmentMeans,3118254,Tanacetum balsamita L.
@@ -522,9 +522,9 @@ taxonID,taxonKey,scientificName,action,acceptedKey,acceptedName
 50289,149688578,Symphyotrichum squamatum (Spreng.) G.L.Nesom,filtered_on_establishmentMeans,3151764,Symphyotrichum squamatum (Spreng.) G.L.Nesom
 50301,149688579,"Terapon theraps Cuvier, 1829",filtered_on_establishmentMeans,2374535,"Terapon theraps Cuvier, 1829"
 50242,149688582,"Scomberomorus commerson (LacepÃ¨de, 1800)",filtered_on_establishmentMeans,2374255,"Scomberomorus commerson (Lacepède, 1800)"
-50296,149688583,Tagetes patula L.,merged_with_accepted,3088488,Tagetes erecta L.
+50296,149688583,Tagetes patula L.,filtered_on_establishmentMeans,3088488,Tagetes erecta L.
 50239,149688585,"Scarus ghobban ForsskÃ¥l, 1775",filtered_on_establishmentMeans,2393577,"Scarus ghobban Forsskål, 1775"
-50116,149688588,Osteospermum barberiae (Harv.) Norl.,merged_with_accepted,5402361,Dimorphotheca barberae Harv.
+50116,149688588,Osteospermum barberiae (Harv.) Norl.,filtered_on_establishmentMeans,5402361,Dimorphotheca barberae Harv.
 50213,149688589,"Pteragogus trispilus Randall, 2013",filtered_on_establishmentMeans,8363171,"Pteragogus trispilus Randall, 2013"
 50276,149688592,"Sphyraena flavicauda RÃ¼ppell, 1838",not_matched_with_backbone,,
 49899,149688593,Eclipta prostrata (L.) L.,filtered_on_establishmentMeans,5384950,Eclipta prostrata (L.) L.
@@ -545,7 +545,7 @@ taxonID,taxonKey,scientificName,action,acceptedKey,acceptedName
 50050,149688614,Matricaria discoidea DC.,filtered_on_establishmentMeans,3103791,Matricaria discoidea DC.
 50153,149688615,"Pempheris rhomboidea Kossmann & RÃ¤uber, 1877",filtered_on_establishmentMeans,2374391,"Pempheris rhomboidea Kossmann & Räuber, 1877"
 50003,149688617,Lactuca sativa L.,filtered_on_establishmentMeans,7403263,Lactuca sativa L.
-50111,149688619,Oreochromis niloticus niloticus,merged_with_accepted,4285694,"Oreochromis niloticus (Linnaeus, 1758)"
+50111,149688619,Oreochromis niloticus niloticus,filtered_on_establishmentMeans,4285694,"Oreochromis niloticus (Linnaeus, 1758)"
 49998,149688620,Jacobaea maritima subsp. maritima,filtered_on_establishmentMeans,11153937,Jacobaea maritima subsp. maritima
 49959,149688621,Helianthus annuus L.,filtered_on_establishmentMeans,9206251,Helianthus annuus L.
 49961,149688622,Helianthus tuberosus L.,filtered_on_establishmentMeans,3119175,Helianthus tuberosus L.
@@ -557,7 +557,7 @@ taxonID,taxonKey,scientificName,action,acceptedKey,acceptedName
 49911,149688631,Erigeron canadensis L.,filtered_on_establishmentMeans,3146791,Erigeron canadensis L.
 49910,149688632,Erigeron bonariensis L.,filtered_on_establishmentMeans,3146717,Erigeron bonariensis L.
 49904,149688633,"Equulites klunzingeri (Steindachner, 1898)",filtered_on_establishmentMeans,2396338,"Equulites klunzingeri (Steindachner, 1898)"
-49909,149688634,Erigeron annuus (L.) Desf.,merged_with_accepted,3117449,Erigeron annuus (L.) Pers.
+49909,149688634,Erigeron annuus (L.) Desf.,filtered_on_establishmentMeans,3117449,Erigeron annuus (L.) Pers.
 49941,149688636,Galinsoga parviflora Cav.,filtered_on_establishmentMeans,3132570,Galinsoga parviflora Cav.
 49942,149688637,Galinsoga quadriradiata Ruiz & Pav.,filtered_on_establishmentMeans,8298495,Galinsoga quadriradiata Ruiz & Pav.
 49811,149688638,"Champsodon nudivittis (Ogilby, 1895)",filtered_on_establishmentMeans,2387143,"Champsodon nudivittis (Ogilby, 1895)"
@@ -582,7 +582,7 @@ taxonID,taxonKey,scientificName,action,acceptedKey,acceptedName
 49690,149688662,Ambrosia psilostachya DC.,filtered_on_establishmentMeans,3110686,Ambrosia psilostachya DC.
 49689,149688663,Ambrosia artemisiifolia L.,filtered_on_establishmentMeans,8002952,Ambrosia artemisiifolia L.
 49657,149688664,Ageratina adenophora (Spreng.) R.M.King & H.Rob.,filtered_on_establishmentMeans,5400613,Ageratina adenophora (Spreng.) R.M.King & H.Rob.
-50227,149688668,Ribes odoratum H.L.Wendl.,merged_with_accepted,4194303,Ribes aureum var. villosum DC.
+50227,149688668,Ribes odoratum H.L.Wendl.,filtered_on_establishmentMeans,4194303,Ribes aureum var. villosum DC.
 50246,149688670,Sedum sexangulare L.,filtered_on_establishmentMeans,5361991,Sedum sexangulare L.
 49655,149688671,Aeonium arboreum Webb & Berthel.,filtered_on_establishmentMeans,2985682,Aeonium arboreum (L.) Webb & Berthel.
 50297,149688674,Tamarix arborea (Sieber ex Ehrenb.) Bunge,filtered_on_establishmentMeans,3613108,Tamarix arborea (Sieber ex Ehrenb.) Bunge
@@ -593,20 +593,20 @@ taxonID,taxonKey,scientificName,action,acceptedKey,acceptedName
 50110,149688683,Opuntia humifusa (Raf.) Raf.,filtered_on_establishmentMeans,5384047,Opuntia humifusa (Raf.) Raf.
 50109,149688684,Opuntia ficus-indica Mill.,filtered_on_establishmentMeans,5384064,Opuntia ficus-indica (L.) Mill.
 50067,149688686,Mirabilis jalapa L.,filtered_on_establishmentMeans,3086240,Mirabilis jalapa L.
-49934,149688689,Fallopia sachalinensis (Friedrich Schmidt Petrop.) Ronse Decraene,merged_with_accepted,2889088,Reynoutria sachalinensis (F.Schmidt) Nakai
-49933,149688691,Fallopia japonica (Houtt.) Ronse Decraene,merged_with_accepted,2889173,Reynoutria japonica Houtt.
+49934,149688689,Fallopia sachalinensis (Friedrich Schmidt Petrop.) Ronse Decraene,filtered_on_establishmentMeans,2889088,Reynoutria sachalinensis (F.Schmidt) Nakai
+49933,149688691,Fallopia japonica (Houtt.) Ronse Decraene,filtered_on_establishmentMeans,2889173,Reynoutria japonica Houtt.
 50231,149688692,Rumex vesicarius L.,filtered_on_establishmentMeans,2888986,Rumex vesicarius L.
 50160,149688693,Persicaria senegalensis (Meisn.) SojÃ¡k,filtered_on_establishmentMeans,7291212,Persicaria senegalensis (Meisn.) Soják
 50159,149688694,Persicaria orientalis (L.) Spach,filtered_on_establishmentMeans,2889229,Persicaria orientalis (L.) Spach
 50158,149688695,Persicaria capitata (Buch.-Ham. ex D.Don) H.Gross,filtered_on_establishmentMeans,2889304,Persicaria capitata (Buch.-Ham. ex D.Don) H.Gross
 49930,149688696,Fagopyrum esculentum Moench,filtered_on_establishmentMeans,2889373,Fagopyrum esculentum Moench
 49932,149688697,Fallopia baldschuanica (Regel) Holub,filtered_on_establishmentMeans,5334351,Fallopia baldschuanica (Regel) Holub
-49931,149688698,Fallopia aubertii (Louis Henry) J.Holub,merged_with_accepted,5334351,Fallopia baldschuanica (Regel) Holub
+49931,149688698,Fallopia aubertii (Louis Henry) J.Holub,filtered_on_establishmentMeans,5334351,Fallopia baldschuanica (Regel) Holub
 50302,149688700,Tetragonia tetragonioides (Pall.) Kuntze,filtered_on_establishmentMeans,5384307,Tetragonia tetragonioides (Pallas) Kuntze
-49716,149688702,Aptenia cordifolia (L.fil.) Schwant.,merged_with_accepted,8185812,Mesembryanthemum cordifolium L.fil.
+49716,149688702,Aptenia cordifolia (L.fil.) Schwant.,filtered_on_establishmentMeans,8185812,Mesembryanthemum cordifolium L.fil.
 50045,149688703,Malephora purpureocrocea Schwantes,filtered_on_establishmentMeans,4935877,Malephora purpureocrocea (Haw.) Schwantes
 49780,149688704,Carpobrotus edulis N.E.Br.,filtered_on_establishmentMeans,3084842,Carpobrotus edulis (L.) N.E.Br.
-49740,149688707,Basella rubra L.,merged_with_accepted,3083504,Basella alba L.
+49740,149688707,Basella rubra L.,filtered_on_establishmentMeans,3083504,Basella alba L.
 49706,149688708,Anredera cordifolia (Ten.) Steenis,filtered_on_establishmentMeans,3083508,Anredera cordifolia (Ten.) Steenis
 50277,149688710,Spinacia oleracea L.,filtered_on_establishmentMeans,3083647,Spinacia oleracea L.
 49955,149688711,Hablitzia tamnoides M.Bieb.,filtered_on_establishmentMeans,3756175,Hablitzia tamnoides M.Bieb.
@@ -647,7 +647,7 @@ taxonID,taxonKey,scientificName,action,acceptedKey,acceptedName
 49779,149688751,Cardiospermum halicacabum L.,filtered_on_establishmentMeans,3189939,Cardiospermum halicacabum L.
 49644,149688752,Acer negundo L.,filtered_on_establishmentMeans,3189866,Acer negundo L.
 50251,149688755,Sesamum indicum L.,filtered_on_establishmentMeans,3172622,Sesamum indicum L.
-50066,149688758,Mimulus guttatus Fisch. ex DC.,merged_with_accepted,7346102,Erythranthe guttata (DC.) G.L.Nesom
+50066,149688758,Mimulus guttatus Fisch. ex DC.,filtered_on_establishmentMeans,7346102,Erythranthe guttata (DC.) G.L.Nesom
 49999,149688760,Jasminum officinale L.,filtered_on_establishmentMeans,3172261,Jasminum officinale L.
 50306,149688762,Thymus odoratissimus Mill.,filtered_on_establishmentMeans,5606081,Thymus odoratissimus Mill.
 50303,149688763,Teucrium fruticans L.,filtered_on_establishmentMeans,2926902,Teucrium fruticans L.
@@ -658,11 +658,11 @@ taxonID,taxonKey,scientificName,action,acceptedKey,acceptedName
 50023,149688769,Lindernia dubia Pennell,filtered_on_establishmentMeans,3171888,Lindernia dubia (L.) Pennell
 50198,149688771,Proboscidea louisianica subsp. louisianica,filtered_on_establishmentMeans,7226243,Proboscidea louisianica subsp. louisianica
 49988,149688772,Ibicella lutea (Lindl.) Van Eselt.,filtered_on_establishmentMeans,3172647,Ibicella lutea (Lindl.) Van Eselt.
-49772,149688774,Campsis radicans (L.) Seem.,merged_with_accepted,3172549,Campsis radicans (L.) Bureau
+49772,149688774,Campsis radicans (L.) Seem.,filtered_on_establishmentMeans,3172549,Campsis radicans (L.) Bureau
 49762,149688776,Buddleja madagascariensis Lam.,filtered_on_establishmentMeans,3173340,Buddleja madagascariensis Lam.
 50327,149688778,Veronica persica Poir.,filtered_on_establishmentMeans,3172077,Veronica persica Poir.
 50326,149688779,Veronica peregrina subsp. peregrina,filtered_on_establishmentMeans,6438823,Veronica peregrina subsp. peregrina
-49709,149688781,Antirrhinum majus subsp. tortuosum (Bosc ex Vent.) Rouy,merged_with_accepted,8252253,Antirrhinum tortuosum Bosc ex Vent.
+49709,149688781,Antirrhinum majus subsp. tortuosum (Bosc ex Vent.) Rouy,filtered_on_establishmentMeans,8252253,Antirrhinum tortuosum Bosc ex Vent.
 49859,149688782,Cymbalaria muralis subsp. muralis,filtered_on_establishmentMeans,7331861,Cymbalaria muralis subsp. muralis
 49858,149688783,"Cymbalaria muralis G.Gaertn., B.Mey. & Schreb.",filtered_on_establishmentMeans,8200663,"Cymbalaria muralis G.Gaertn., B.Mey. & Scherb."
 49738,149688784,Bacopa rotundifolia Wettst.,filtered_on_establishmentMeans,3171174,Bacopa rotundifolia (Michx.) Wettst.
@@ -670,35 +670,35 @@ taxonID,taxonKey,scientificName,action,acceptedKey,acceptedName
 49708,149688786,Antirrhinum majus subsp. majus,filtered_on_establishmentMeans,7333149,Antirrhinum majus subsp. majus
 49710,149688787,Antirrhinum siculum Mill.,filtered_on_establishmentMeans,7740323,Antirrhinum siculum Mill.
 50325,149688790,Verbena aristigera S.Moore,filtered_on_establishmentMeans,4083707,Verbena aristigera S.Moore
-50170,149688792,Phyla canescens (Kunth) Greene,merged_with_accepted,7455425,Phyla nodiflora var. minor (Gillies & Hook.) N.O'Leary & Múlgura
+50170,149688792,Phyla canescens (Kunth) Greene,filtered_on_establishmentMeans,7455425,Phyla nodiflora var. minor (Gillies & Hook.) N.O'Leary & Múlgura
 50008,149688793,Lantana camara L.,filtered_on_establishmentMeans,2925303,Lantana camara L.
 49667,149688794,Aloysia citrodora Palau,filtered_on_establishmentMeans,5667503,Aloysia citrodora Paláu
 50001,149688796,Justicia adhatoda L.,filtered_on_establishmentMeans,3173105,Justicia adhatoda L.
 49642,149688797,Acanthus mollis L.,filtered_on_establishmentMeans,5415455,Acanthus mollis L.
 50330,149688800,Vicia faba L.,filtered_on_establishmentMeans,2974832,Vicia faba L.
-50332,149688801,Wisteria sinensis Sweet,merged_with_accepted,8149049,Wisteria sinensis (Sims) DC.
+50332,149688801,Wisteria sinensis Sweet,filtered_on_establishmentMeans,8149049,Wisteria sinensis (Sims) DC.
 50329,149688802,Vicia ervilia Willd.,filtered_on_establishmentMeans,2974887,Vicia ervilia (L.) Willd.
 50313,149688803,Trifolium alexandrinum L.,filtered_on_establishmentMeans,5358907,Trifolium alexandrinum L.
 50314,149688804,Trigonella caerulea Ser.,filtered_on_establishmentMeans,5360498,Trigonella caerulea (L.) Ser.
 50315,149688805,Trigonella foenum-graecum L.,filtered_on_establishmentMeans,5360475,Trigonella foenum-graecum L.
-49636,149688807,Acacia karroo Hayne,merged_with_accepted,3974754,Vachellia karroo (Hayne) Banfi & Galasso
-49635,149688809,Acacia farnesiana (L.) Willd.,merged_with_accepted,2979265,Vachellia farnesiana (L.) Wight & Arn.
+49636,149688807,Acacia karroo Hayne,filtered_on_establishmentMeans,3974754,Vachellia karroo (Hayne) Banfi & Galasso
+49635,149688809,Acacia farnesiana (L.) Willd.,filtered_on_establishmentMeans,2979265,Vachellia farnesiana (L.) Wight & Arn.
 50229,149688810,Robinia pseudoacacia L.,filtered_on_establishmentMeans,5352251,Robinia pseudoacacia L.
 50223,149688811,Retama raetam subsp. raetam,filtered_on_establishmentMeans,7224673,Retama raetam subsp. raetam
 50222,149688812,Retama monosperma (L.) Boiss.,filtered_on_establishmentMeans,2965085,Retama monosperma (L.) Boiss.
-50179,149688813,Pisum sativum subsp. sativum,merged_with_accepted,10683509,Lathyrus oleraceus var. oleraceus
+50179,149688813,Pisum sativum subsp. sativum,filtered_on_establishmentMeans,10683509,Lathyrus oleraceus var. oleraceus
 50142,149688814,Parkinsonia aculeata L.,filtered_on_establishmentMeans,5357217,Parkinsonia aculeata L.
 50037,149688815,Lupinus luteus L.,filtered_on_establishmentMeans,2963817,Lupinus luteus L.
 50036,149688816,Lupinus gredensis Gand.,filtered_on_establishmentMeans,3972080,Lupinus gredensis Gand.
 50052,149688817,Medicago blancheana Boiss.,filtered_on_establishmentMeans,2965473,Medicago ×blancheana Boiss.
-50053,149688818,Medicago sativa subsp. microcarpa Urb.,merged_with_accepted,7068169,Medicago sativa subsp. sativa
+50053,149688818,Medicago sativa subsp. microcarpa Urb.,filtered_on_establishmentMeans,7068169,Medicago sativa subsp. sativa
 50010,149688819,Lathyrus sativus L.,filtered_on_establishmentMeans,5356488,Lathyrus sativus L.
 50009,149688820,Lathyrus odoratus L.,filtered_on_establishmentMeans,5356514,Lathyrus odoratus L.
-50018,149688821,Lens culinaris Medik.,merged_with_accepted,3973001,Vicia lens (L.) Coss. & Germ.
+50018,149688821,Lens culinaris Medik.,filtered_on_establishmentMeans,3973001,Vicia lens (L.) Coss. & Germ.
 49947,149688822,Gleditsia triacanthos L.,filtered_on_establishmentMeans,2959443,Gleditsia triacanthos L.
 49868,149688823,Cytisus striatus (Hill) Rothm.,filtered_on_establishmentMeans,5354707,Cytisus striatus (Hill) Rothm.
 49820,149688824,Cicer arietinum L.,filtered_on_establishmentMeans,2947311,Cicer arietinum L.
-49766,149688825,Caesalpinia gilliesii (Hook.) D.Dietr.,merged_with_accepted,8130309,Erythrostemon gilliesii (Hook.) Klotzsch
+49766,149688825,Caesalpinia gilliesii (Hook.) D.Dietr.,filtered_on_establishmentMeans,8130309,Erythrostemon gilliesii (Hook.) Klotzsch
 49695,149688826,Amorpha fruticosa L.,filtered_on_establishmentMeans,5357407,Amorpha fruticosa L.
 49660,149688827,Albizia julibrissin Durazz.,filtered_on_establishmentMeans,2972983,Albizia julibrissin Durazz.
 49637,149688828,Acacia longifolia (Andrews) Willd.,filtered_on_establishmentMeans,2978730,Acacia longifolia (Andrews) Willd.

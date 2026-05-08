@@ -34,7 +34,6 @@ taxonKey,nubKey,taxonID,scientificName,kingdom,taxonRank
 148693019,5854272,20543,"Branchiomma bairdi (McIntosh, 1885)",Animalia,SPECIES
 148693025,2315466,20916,"Pseudonereis anomala Gravier, 1899",Animalia,SPECIES
 148693027,2315832,20583,"Ceratonereis mirabilis Kinberg, 1865",Animalia,SPECIES
-4375399,2643115,20578,Caulerpa turbinata (J.Ag.) Eubank,Plantae,SPECIES
 148693029,2643103,20577,Caulerpa racemosa var. lamourouxii (Turner) Weber Bosse,Plantae,VARIETY
 148693031,2643093,20576,Caulerpa racemosa (Forssk.) J.Agardh,Plantae,SPECIES
 148693032,2643131,20575,"Caulerpa cylindracea Sonder, 1845",Plantae,SPECIES
@@ -50,7 +49,6 @@ taxonKey,nubKey,taxonID,scientificName,kingdom,taxonRank
 148693070,5277464,20898,Polysiphonia setacea,Plantae,SPECIES
 148693072,5277463,21058,Womersleyella setacea (Hollenberg) R.E.Norris,Plantae,SPECIES
 12194263,5277736,20896,Vertebrata spec (Hudson) Kuntze,Plantae,SPECIES
-10433923,5277413,20817,"Melanothamnus sphaerocarpus (Børgesen) Díaz-Tapia & Maggs, 2017",Plantae,SPECIES
 148693079,2659723,20773,"Lophocladia lallemandii (Mont.) F.Schmitz, 1893",Plantae,SPECIES
 148693090,5729648,20998,"Spondylus spinosus Schreibers, 1793",Animalia,SPECIES
 148693092,2684184,21023,Tetraclinis articulata (Vahl) Mast.,Plantae,SPECIES
@@ -135,7 +133,6 @@ taxonKey,nubKey,taxonID,scientificName,kingdom,taxonRank
 148693239,4362384,21004,"Sticteulima lentiginosa (A.Adams, 1861)",Animalia,SPECIES
 148693241,4361747,20946,"Rissoina bertholleti Issel, 1869",Animalia,SPECIES
 148693244,4360952,20929,"Purpuradusta gracilis notata (Gill, 1858)",Animalia,SUBSPECIES
-7841467,10956545,20904,Primula vulgaris subsp. rubra (Sm.) Arcang.,Plantae,SUBSPECIES
 148693247,6489949,20612,"Conomurex persicus (Swainson, 1821)",Animalia,SPECIES
 148693248,7127347,20630,Cyclamen creticum (Dörfl.) Hildebr.,Plantae,SPECIES
 148693250,4363108,20586,"Cerithiopsis pulvis (Issel, 1869)",Animalia,SPECIES
@@ -209,7 +206,6 @@ taxonKey,nubKey,taxonID,scientificName,kingdom,taxonRank
 148693381,2356802,20957,"Sargocentron rubrum (Forsskål, 1775)",Animalia,SPECIES
 148693383,3033558,20608,Clematis vitalba L.,Plantae,SPECIES
 148693385,8456531,20958,"Saurida lessepsianus Russell, Golani & Tikochinski, 2015",Animalia,SPECIES
-3033833,3033830,20613,Delphinium ajacis L.,Plantae,SPECIES
 148693388,2401167,20959,"Saurida undosquamis (Richardson, 1848)",Animalia,SPECIES
 148693392,3054368,20731,Juglans regia L.,Plantae,SPECIES
 148693395,2334433,20921,"Pterois miles (Bennett, 1828)",Animalia,SPECIES
@@ -293,7 +289,6 @@ taxonKey,nubKey,taxonID,scientificName,kingdom,taxonRank
 148693535,3169652,20571,Cascabela thevetia (L.) Lippold,Plantae,SPECIES
 148693537,3170241,20522,Asclepias curassavica L.,Plantae,SPECIES
 148693538,4285694,20838,"Oreochromis niloticus (Linnaeus, 1758)",Animalia,SPECIES
-9621888,3619922,20516,"Poacynum venetum (L.) Mavrodiev, Laktionov & Yu.E.Alexeev",Plantae,SPECIES
 148693540,2372367,20837,"Oreochromis aureus (Steindachner, 1864)",Animalia,SPECIES
 148693545,2396768,21046,"Upeneus moluccensis (Bleeker, 1855)",Animalia,SPECIES
 148693546,3034871,20620,Coriandrum sativum L.,Plantae,SPECIES
@@ -334,7 +329,6 @@ taxonKey,nubKey,taxonID,scientificName,kingdom,taxonRank
 148693613,3083838,20599,Chenopodium album L.,Plantae,SPECIES
 7673566,7695859,20600,"Chenopodium ambrosioides Bert. ex Steud., 1840",Plantae,SPECIES
 2223719,2223717,20682,"Penaeus indicus H.Milne Edwards, 1837",Animalia,SPECIES
-3083838,3083941,20601,Chenopodium album L.,Plantae,SPECIES
 7219488,7219488,20534,Bassia scoparia subsp. scoparia,Plantae,SUBSPECIES
 148693619,5568213,20533,Bassia indica (Wight) A.J.Scott,Plantae,SPECIES
 148693620,4307290,21024,"Thalamita poissonii (Audouin, 1826)",Animalia,SPECIES
@@ -389,10 +383,7 @@ taxonKey,nubKey,taxonID,scientificName,kingdom,taxonRank
 148693707,3118254,21016,Tanacetum balsamita L.,Plantae,SPECIES
 148693709,3088481,21015,Tagetes minuta L.,Plantae,SPECIES
 148693710,1589999,21032,"Trachyopella straminea Roháček & Marshall, 1985",Animalia,SPECIES
-10676000,3142208,20937,Leuzea repens (L.) D.J.N.Hind,Plantae,SPECIES
-10676000,3142214,20472,Leuzea repens (L.) D.J.N.Hind,Plantae,SPECIES
 148693714,1553410,20770,"Liriomyza huidobrensis (Blanchard, 1926)",Animalia,SPECIES
-10793401,6084524,20962,"Pseudopodospermum brevicaule (Vahl) Zaika, Sukhor. & N.Kilian",Plantae,SPECIES
 148693716,1553384,20771,"Liriomyza trifolii (Burgess, 1880)",Animalia,SPECIES
 148693719,3134857,20743,Lapsana communis L.,Plantae,SPECIES
 148693720,1548900,20649,"Dohrniphora cornuta (Bigot, 1857)",Animalia,SPECIES
@@ -497,7 +488,6 @@ taxonKey,nubKey,taxonID,scientificName,kingdom,taxonRank
 148693866,1364719,20514,"Aphytis mytilaspidis (Le Baron, 1870)",Animalia,SPECIES
 148693867,1364706,20513,"Aphytis melinus DeBach, 1959",Animalia,SPECIES
 148693871,1269194,20503,"Aphidius smithi Sharma & Subba Rao, 1959",Animalia,SPECIES
-3933415,3934600,20784,"Malva multiflora (Cav.) Soldano, Banfi & Galasso",Plantae,SPECIES
 4528100,4528099,21044,"Phthorimaea absoluta Meyrick, 1917",Animalia,SPECIES
 148693876,3152268,20785,Malvastrum coromandelianum (L.) Garcke,Plantae,SPECIES
 148693878,3152084,20618,Corchorus olitorius L.,Plantae,SPECIES
@@ -537,7 +527,6 @@ taxonKey,nubKey,taxonID,scientificName,kingdom,taxonRank
 148891506,7734111,47777,"Gambierdiscus Adachi & Fukuyo, 1979",Chromista,GENUS
 148891580,5721108,47775,"Diadema setosum (Leske, 1778)",Animalia,SPECIES
 148891623,6525332,47776,"Gafrarium savignyi (Jonas, 1846)",Animalia,SPECIES
-12194263,8074783,47787,Vertebrata spec (Hudson) Kuntze,Plantae,SPECIES
 148891668,9680062,47771,"Bursatella leachii Blainville, 1817",Animalia,SPECIES
 148891694,2330558,47783,"Phallusia nigra Savigny, 1816",Animalia,SPECIES
 148891697,2332243,47785,"Symplegma brakenhielmi (Michaelsen, 1904)",Animalia,SPECIES

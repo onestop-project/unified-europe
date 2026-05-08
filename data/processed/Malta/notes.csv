@@ -28,7 +28,7 @@ taxonID,taxonKey,scientificName,action,acceptedKey,acceptedName
 60128,160844709,Eichhornia crassipes Solms,merged_with_accepted,2765942,Pontederia crassipes Mart.
 60092,160844710,"Cerithium scabridum Philippi, 1848",scientificName_replaced_by_backbone_name,4362895,"Cerithium scabridum R.A.Philippi, 1848"
 60096,160844718,"Chelidonura fulvipunctata Baba, 1938",merged_with_accepted,9746127,"Biuve fulvipunctata (Baba, 1938)"
-60058,160844723,"Atys macandrewii E.A.Smith, 1872",merged_with_accepted,10513850,"Weinkauffia macandrewii (E.A.Smith, 1872)"
+60058,160844723,"Atys macandrewii E.A.Smith, 1872",filtered_on_establishmentMeans,10513850,"Weinkauffia macandrewii (E.A.Smith, 1872)"
 60155,160844725,"Haminoea cyanomarginata Heller & Thompson, 1983",merged_with_accepted,10906181,"Lamprohaminoea ovalis (Pease, 1868)"
 60218,160844728,Pennisetum setaceum (Forssk.) Chiov.,merged_with_accepted,5828232,Cenchrus setaceus (Forssk.) Morrone
 60264,160844733,Sorghum halepense Pers.,scientificName_replaced_by_backbone_name,2705185,Sorghum halepense (L.) Pers.

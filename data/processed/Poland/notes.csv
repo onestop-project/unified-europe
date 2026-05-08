@@ -2,7 +2,7 @@ taxonID,taxonKey,scientificName,action,acceptedKey,acceptedName
 86233,160884527,Uromyces silphii Arthur,scientificName_replaced_by_backbone_name,2515758,Uromyces silphii (Syd. & P.Syd.) Arthur
 85935,160884534,Ranunculus friesianus Jordan,merged_with_accepted,8007875,Ranunculus acris subsp. friesianus (Jord.) Syme
 86301,160884542,"Xylosandrus germanus Blandford, 1894",merged_with_accepted,5020078,"Xyleborus germanus Blandford, 1894"
-86285,160884547,Virga pilosa (L.) Hill,merged_with_accepted,4102733,Dipsacus pilosus L.
+86285,160884547,Virga pilosa (L.) Hill,filtered_on_establishmentMeans,4102733,Dipsacus pilosus L.
 85155,160884550,Erysimum cheiranthoides L.,filtered_on_establishmentMeans,3048266,Erysimum cheiranthoides L.
 85154,160884552,"Erwinia stewartii (Smith, 1898) Dye, 1963",merged_with_accepted,3221841,"Pantoea stewartii (Smith, 1898) Mergaert et al., 1993"
 84914,160884561,"Chlamydophila psittaci (Lillie, 1930) Everett & al., 1999",scientificName_replaced_by_backbone_name,3228247,"Chlamydophila psittaci (Lillie, 1930) Everett et al., 1999"
@@ -284,7 +284,7 @@ taxonID,taxonKey,scientificName,action,acceptedKey,acceptedName
 85049,160885954,Dermatophagoides evansi,scientificName_replaced_by_backbone_name,8818917,"Dermatophagoides evansi Fain, Hughes & Johnston, 1967"
 84610,160885957,Anagallis foemina Miller,merged_with_accepted,8368021,Lysimachia foemina (Mill.) U.Manns & Anderb.
 85483,160885959,Lythrum junceum Banks & Solander,scientificName_replaced_by_backbone_name,3988701,Lythrum junceum Banks & Sol.
-84839,160885962,"Caspihalacarus hyrcanus Viets, 1928",merged_with_accepted,8260577,"Halacarellus hyrcanus (Viets, 1928)"
+84839,160885962,"Caspihalacarus hyrcanus Viets, 1928",filtered_on_establishmentMeans,8260577,"Halacarellus hyrcanus (Viets, 1928)"
 84955,160885968,Comptonia peregrina Coulter,scientificName_replaced_by_backbone_name,5414197,Comptonia peregrina (L.) J.M.Coult.
 84661,160885971,"Aponomma sphenodonti Santos Dias, 1993",merged_with_accepted,2184263,"Amblyomma sphenodonti Dumbleton, 1943"
 85334,160885975,"Hyalopterus amygdali (Blanchard & E., 1840)",scientificName_replaced_by_backbone_name,2072847,"Hyalopterus amygdali (Blanchard, 1840)"
@@ -442,7 +442,7 @@ taxonID,taxonKey,scientificName,action,acceptedKey,acceptedName
 85393,160886578,Lappula heteracantha GÃ¼rke,not_matched_with_backbone,,
 85915,160886581,"Puccinia komarovii Tranzschel ex P.Syd. & Syd., 1903",scientificName_replaced_by_backbone_name,8072499,Puccinia komarovii Tranzschel ex P.Syd. & Syd.
 85606,160886582,"Nosema pontogammari M.Ðž.Ovcharenko & Kurandina, 1987",scientificName_replaced_by_backbone_name,7441718,"Nosema pontogammari Ovcharenko & Kurandina, 1987"
-85459,160886583,"Liza ramada (Risso, 1827)",merged_with_accepted,9234296,"Chelon ramada (Risso, 1827)"
+85459,160886583,"Liza ramada (Risso, 1827)",filtered_on_establishmentMeans,9234296,"Chelon ramada (Risso, 1827)"
 86118,160886586,"Stephanitis rhododendri Horvath, 1905",scientificName_replaced_by_backbone_name,2020688,"Stephanitis rhododendri Horváth, 1905"
 84623,160886587,Anchusa arvensis (L.) M.Bieb.,merged_with_accepted,9309359,Lycopsis arvensis subsp. arvensis
 85398,160886590,"Lasius neglectus van Loon, Boomsma & AndrÃ¡sfalvy, 1990",scientificName_replaced_by_backbone_name,7358948,"Lasius neglectus Van Loon, Boomsma & Andrasfalvy, 1990"
@@ -509,7 +509,7 @@ taxonID,taxonKey,scientificName,action,acceptedKey,acceptedName
 84698,160886787,Aster tradescantii L.,merged_with_accepted,3151474,Symphyotrichum tradescantii (L.) G.L.Nesom
 84522,160886788,"Acrotrichis henrici (Matthews, 1872)",scientificName_replaced_by_backbone_name,4435758,"Acrotrichis henrici (A.Matthews, 1872)"
 86094,160886793,Sorghum halepense Pers.,scientificName_replaced_by_backbone_name,2705185,Sorghum halepense (L.) Pers.
-86092,160886797,Sorbus intermedia (Ehrh.) Pers.,merged_with_accepted,10071055,Scandosorbus ×intermedia (Ehrh.) Sennikov
+86092,160886797,Sorbus intermedia (Ehrh.) Pers.,filtered_on_establishmentMeans,10071055,Scandosorbus ×intermedia (Ehrh.) Sennikov
 85059,160886798,"Diabrotica virgifera J.L.LeConte, 1868",scientificName_replaced_by_backbone_name,1048497,"Diabrotica virgifera LeConte, 1868"
 84786,160886800,"Bruchus pisorum (Linnaeus, 1758)",scientificName_replaced_by_backbone_name,5752155,"Bruchus pisorum Linnaeus, 1758"
 85666,160886809,"Opeas pumilum (L.Pfeiffer, 1840)",merged_with_accepted,7362921,"Opeas hannense (Rang, 1831)"

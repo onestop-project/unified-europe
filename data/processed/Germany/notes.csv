@@ -354,4 +354,4 @@ taxonID,taxonKey,scientificName,action,acceptedKey,acceptedName
 119007,160944668,"Acipenser ruthenus Linnaeus, 1758",filtered_on_establishmentMeans,2402168,"Acipenser ruthenus Linnaeus, 1758"
 119006,160944669,"Acipenser gueldenstaedtii Brandt & Ratzeburg, 1831",filtered_on_establishmentMeans,2402129,"Acipenser gueldenstaedtii Brandt & Ratzeburg, 1833"
 119127,160944681,"Ballerus sapa (Pallas, 1814)",filtered_on_establishmentMeans,2367024,"Ballerus sapa (Pallas, 1814)"
-119000,160944682,"Abramis sapa (Pallas, 1814)",merged_with_accepted,2367024,"Ballerus sapa (Pallas, 1814)"
+119000,160944682,"Abramis sapa (Pallas, 1814)",filtered_on_establishmentMeans,2367024,"Ballerus sapa (Pallas, 1814)"

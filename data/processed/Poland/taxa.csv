@@ -3,7 +3,6 @@ taxonKey,nubKey,taxonID,scientificName,kingdom,taxonRank
 8007875,7277834,85935,Ranunculus acris subsp. friesianus (Jord.) Syme,Plantae,SUBSPECIES
 160884537,4987919,86193,"Trichopsocus dalii (McLachlan, 1867)",Animalia,SPECIES
 5020078,9134964,86301,"Xyleborus germanus Blandford, 1894",Animalia,SPECIES
-4102733,8375159,86285,Dipsacus pilosus L.,Plantae,SPECIES
 3221841,3221844,85154,"Pantoea stewartii (Smith, 1898) Mergaert et al., 1993",Bacteria,SPECIES
 160884558,3027159,86104,Spiraea douglasii Hook.,Plantae,SPECIES
 160884561,3228247,84914,"Chlamydophila psittaci (Lillie, 1930) Everett et al., 1999",Bacteria,SPECIES
@@ -804,7 +803,6 @@ taxonKey,nubKey,taxonID,scientificName,kingdom,taxonRank
 8368021,4005597,84610,Lysimachia foemina (Mill.) U.Manns & Anderb.,Plantae,SPECIES
 160885959,3988701,85483,Lythrum junceum Banks & Sol.,Plantae,SPECIES
 160885961,3169315,85019,Cyclamen purpurascens Mill.,Plantae,SPECIES
-8260577,4336978,84839,"Halacarellus hyrcanus (Viets, 1928)",Animalia,SPECIES
 160885963,3169325,84627,Androsace elongata L.,Plantae,SPECIES
 160885968,5414197,84955,Comptonia peregrina (L.) J.M.Coult.,Plantae,SPECIES
 2184263,5174542,84661,"Amblyomma sphenodonti Dumbleton, 1943",Animalia,SPECIES
@@ -1240,7 +1238,6 @@ taxonKey,nubKey,taxonID,scientificName,kingdom,taxonRank
 160886579,2515050,85916,Puccinia lagenophorae Cooke,Fungi,SPECIES
 160886581,8072499,85915,Puccinia komarovii Tranzschel ex P.Syd. & Syd.,Fungi,SPECIES
 7441718,7441718,85606,"Nosema pontogammari Ovcharenko & Kurandina, 1987",Protozoa,SPECIES
-9234296,2400718,85459,"Chelon ramada (Risso, 1827)",Animalia,SPECIES
 160886586,2020688,86118,"Stephanitis rhododendri Horváth, 1905",Animalia,SPECIES
 9309359,7982157,84623,Lycopsis arvensis subsp. arvensis,Plantae,SUBSPECIES
 160886588,7278276,85601,Nigella arvensis L.,Plantae,SPECIES
@@ -1394,7 +1391,6 @@ taxonKey,nubKey,taxonID,scientificName,kingdom,taxonRank
 160886794,2964355,85478,Lupinus polyphyllus Lindl.,Plantae,SPECIES
 160886795,3012089,86091,Sorbaria sorbifolia (L.) A.Braun,Plantae,SPECIES
 160886796,5156102,85427,"Leptoglossus occidentalis Heidemann, 1910",Animalia,SPECIES
-10071055,3012254,86092,Scandosorbus ×intermedia (Ehrh.) Sennikov,Plantae,SPECIES
 1048497,1048497,85059,"Diabrotica virgifera LeConte, 1868",Animalia,SPECIES
 160886799,8228544,86090,Sonchus oleraceus L.,Plantae,SPECIES
 160886800,5752155,84786,"Bruchus pisorum Linnaeus, 1758",Animalia,SPECIES

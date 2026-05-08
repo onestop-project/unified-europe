@@ -15,7 +15,7 @@ taxonID,taxonKey,scientificName,action,acceptedKey,acceptedName
 20645,148693007,"Dicranoweisia cirrata Lindberg, 1869",merged_with_accepted,7708376,Dicranoweisia cirrata (Hedw.) Lindb. ex Milde
 20717,148693013,"Hydroides dianthus (Verrill, 1873)",filtered_on_establishmentMeans,2328293,"Hydroides dianthus (Verrill, 1873)"
 20607,148693020,"Cladophora patentiramea (Mont.) KÃ¼tz., 1849",not_matched_with_backbone,,
-20578,148693028,"Caulerpa racemosa var. turbinata (J.Agardh) Eubank, 1946",merged_with_accepted,4375399,Caulerpa turbinata (J.Ag.) Eubank
+20578,148693028,"Caulerpa racemosa var. turbinata (J.Agardh) Eubank, 1946",filtered_on_establishmentMeans,4375399,Caulerpa turbinata (J.Ag.) Eubank
 20908,148693036,"Prosphaerosyllis longipapillata (Hartmann-SchrÃ¶der, 1979)",scientificName_replaced_by_backbone_name,2310982,"Prosphaerosyllis longipapillata (Hartmann-Schröder, 1979)"
 20721,148693043,Hypnea spinella (C.Agardh) KÃ¼tz.,not_matched_with_backbone,,
 20690,148693049,Ganonema farinosum (J.V.Lamour.) K.C.Fan & Y.C.Wang,filtered_on_establishmentMeans,5278659,Ganonema farinosum (J.V.Lamour.) K.C.Fan & Yung C.Wang
@@ -26,7 +26,7 @@ taxonID,taxonKey,scientificName,action,acceptedKey,acceptedName
 21058,148693072,"Womersleyella setacea (Hollenberg) R.E.Norris, 1992",scientificName_replaced_by_backbone_name,5277463,Womersleyella setacea (Hollenberg) R.E.Norris
 20895,148693074,Polysiphonia atlantica Kapraun & J.N.Norris,filtered_on_establishmentMeans,5277654,Polysiphonia atlantica Kapraun & J.N.Norris
 20896,148693076,Polysiphonia fucoides (Hudson) Greville,merged_with_accepted,12194263,Vertebrata spec (Hudson) Kuntze
-20817,148693078,Neosiphonia sphaerocarpa (BÃ¸rgesen) M.S.Kim & I.K.Lee,merged_with_accepted,10433923,"Melanothamnus sphaerocarpus (Børgesen) Díaz-Tapia & Maggs, 2017"
+20817,148693078,Neosiphonia sphaerocarpa (BÃ¸rgesen) M.S.Kim & I.K.Lee,filtered_on_establishmentMeans,10433923,"Melanothamnus sphaerocarpus (Børgesen) Díaz-Tapia & Maggs, 2017"
 20602,148693080,Chondria coerulescens (J.Agardh) Falkenb.,filtered_on_establishmentMeans,5279755,Chondria coerulescens (J.Agardh) Falkenb.
 20465,148693082,"Acanthophora nayadiformis (Delile) Papenf., 1968",filtered_on_establishmentMeans,5277294,"Acanthophora nayadiformis (Delile) Papenf., 1968"
 20968,148693084,Sepioteuthis lessoniana FÃ©russac,not_matched_with_backbone,,
@@ -52,7 +52,7 @@ taxonID,taxonKey,scientificName,action,acceptedKey,acceptedName
 20589,148693229,"Cerithium scabridum Philippi, 1848",scientificName_replaced_by_backbone_name,4362895,"Cerithium scabridum R.A.Philippi, 1848"
 20515,148693234,"Aplysia dactylomela Rang, 1828",filtered_on_establishmentMeans,5191262,"Aplysia dactylomela Rang, 1828"
 20905,148693243,Primula vulgaris Hudson,filtered_on_establishmentMeans,5414335,Primula vulgaris Huds.
-20904,148693245,Primula acaulis subsp. rubra (Sm.) Greuter & Burdet,merged_with_accepted,7841467,Primula vulgaris subsp. rubra (Sm.) Arcang.
+20904,148693245,Primula acaulis subsp. rubra (Sm.) Greuter & Burdet,filtered_on_establishmentMeans,7841467,Primula vulgaris subsp. rubra (Sm.) Arcang.
 20630,148693248,Cyclamen creticum Hildebr.,scientificName_replaced_by_backbone_name,7127347,Cyclamen creticum (Dörfl.) Hildebr.
 20483,148693254,"Alvania dorbignyi (Audouin, 1826)",filtered_on_establishmentMeans,5725191,"Alvania dorbignyi (Audouin, 1826)"
 20936,148693266,"Retusa girardi (Audouin, 1826)",merged_with_accepted,9299496,"Mnestia girardi (Audouin, 1826)"
@@ -73,7 +73,7 @@ taxonID,taxonKey,scientificName,action,acceptedKey,acceptedName
 20894,148693366,Poinsettia heterophylla (L.) Klotzsch & Garcke,merged_with_accepted,3064495,Euphorbia heterophylla L.
 20956,148693379,"Sargocentron praslin (LacepÃ¨de, 1802)",scientificName_replaced_by_backbone_name,2356718,"Sargocentron praslin (Lacepède, 1802)"
 20957,148693381,"Sargocentron rubrum (ForsskÃ¥l, 1775)",scientificName_replaced_by_backbone_name,2356802,"Sargocentron rubrum (Forsskål, 1775)"
-20613,148693386,Consolida ajacis (L.) Schur,merged_with_accepted,3033833,Delphinium ajacis L.
+20613,148693386,Consolida ajacis (L.) Schur,filtered_on_establishmentMeans,3033833,Delphinium ajacis L.
 20621,148693396,Corylus avellana L.,filtered_on_establishmentMeans,2875979,Corylus avellana L.
 20574,148693406,Casuarina verticillata Lam.,merged_with_accepted,2891902,Allocasuarina verticillata (Lam.) L.A.S.Johnson
 20582,148693422,Centranthus ruber (All.) Lam. & DC.,scientificName_replaced_by_backbone_name,2888740,Centranthus ruber (L.) DC.
@@ -103,7 +103,7 @@ taxonID,taxonKey,scientificName,action,acceptedKey,acceptedName
 20892,148693529,"Poacynum venetum (L.) Mavrodiev, Laktionov & Yu.E.Alexeev",filtered_on_establishmentMeans,9621888,"Poacynum venetum (L.) Mavrodiev, Laktionov & Yu.E.Alexeev"
 20861,148693530,"Pempheris rhomboidea Kossmann & RÃ¤uber, 1877",scientificName_replaced_by_backbone_name,2374391,"Pempheris rhomboidea Kossmann & Räuber, 1877"
 20696,148693531,Gomphocarpus fruticosus (L.) Ait.,scientificName_replaced_by_backbone_name,7150619,Gomphocarpus fruticosus (L.) W.T.Aiton
-20516,148693539,Apocynum venetum L.,merged_with_accepted,9621888,"Poacynum venetum (L.) Mavrodiev, Laktionov & Yu.E.Alexeev"
+20516,148693539,Apocynum venetum L.,filtered_on_establishmentMeans,9621888,"Poacynum venetum (L.) Mavrodiev, Laktionov & Yu.E.Alexeev"
 20681,148693544,Falcaria vulgaris Bernh.,filtered_on_establishmentMeans,5371782,Falcaria vulgaris Bernh.
 20855,148693548,"Parupeneus forsskali (Fourmanoir & GuÃ©zÃ©, 1976)",scientificName_replaced_by_backbone_name,2396749,"Parupeneus forsskali (Fourmanoir & Guézé, 1976)"
 20806,148693551,"Micropterus salmoides (LacepÃ¨de, 1802)",scientificName_replaced_by_backbone_name,2394563,"Micropterus salmoides (Lacepède, 1802)"
@@ -121,7 +121,7 @@ taxonID,taxonKey,scientificName,action,acceptedKey,acceptedName
 20786,148693612,"Marsupenaeus japonicus (Bate, 1888)",merged_with_accepted,2223429,"Penaeus japonicus Spence Bate, 1888"
 20600,148693614,Chenopodium ambrosioides Bert.,merged_with_accepted,7673566,"Chenopodium ambrosioides Bert. ex Steud., 1840"
 20682,148693615,"Fenneropenaeus indicus (H.Milne Edwards, 1837)",merged_with_accepted,2223719,"Penaeus indicus H.Milne Edwards, 1837"
-20601,148693616,Chenopodium strictum Roth,merged_with_accepted,3083838,Chenopodium album L.
+20601,148693616,Chenopodium strictum Roth,filtered_on_establishmentMeans,3083838,Chenopodium album L.
 20901,148693621,"Portunus pelagicus Linnaeus, 1758",scientificName_replaced_by_backbone_name,5178585,"Portunus pelagicus (Linnaeus, 1758)"
 20735,148693622,Kochia indica Wight,merged_with_accepted,5568213,Bassia indica (Wight) A.J.Scott
 20902,148693624,"Portunus segnis (ForskÃ¥l, 1775)",scientificName_replaced_by_backbone_name,5863622,"Portunus segnis (Forskål, 1775)"
@@ -146,10 +146,10 @@ taxonID,taxonKey,scientificName,action,acceptedKey,acceptedName
 21019,148693703,Tanacetum parthenium Sch.Bip.,scientificName_replaced_by_backbone_name,3118430,Tanacetum parthenium (L.) Sch.Bip.
 21018,148693705,Tanacetum cinerariifolium Sch.Bip.,scientificName_replaced_by_backbone_name,3118284,Tanacetum cinerariifolium (Trevis.) Sch.Bip.
 21032,148693710,"Trachyopella straminea Rohacek & Marshall, 1985",scientificName_replaced_by_backbone_name,1589999,"Trachyopella straminea Roháček & Marshall, 1985"
-20937,148693711,Rhaponticum repens (L.) Hidalgo,merged_with_accepted,10676000,Leuzea repens (L.) D.J.N.Hind
-20472,148693712,Acroptilon repens (L.) DC.,merged_with_accepted,10676000,Leuzea repens (L.) D.J.N.Hind
+20937,148693711,Rhaponticum repens (L.) Hidalgo,filtered_on_establishmentMeans,10676000,Leuzea repens (L.) D.J.N.Hind
+20472,148693712,Acroptilon repens (L.) DC.,filtered_on_establishmentMeans,10676000,Leuzea repens (L.) D.J.N.Hind
 20770,148693714,"Liriomyza huidobrensis Blanchard, 1926",scientificName_replaced_by_backbone_name,1553410,"Liriomyza huidobrensis (Blanchard, 1926)"
-20962,148693715,Scorzonera hispanica subsp. coronopifolia (Desf.) Rouy,merged_with_accepted,10793401,"Pseudopodospermum brevicaule (Vahl) Zaika, Sukhor. & N.Kilian"
+20962,148693715,Scorzonera hispanica subsp. coronopifolia (Desf.) Rouy,filtered_on_establishmentMeans,10793401,"Pseudopodospermum brevicaule (Vahl) Zaika, Sukhor. & N.Kilian"
 20771,148693716,"Liriomyza trifolii Burgess, 1880",scientificName_replaced_by_backbone_name,1553384,"Liriomyza trifolii (Burgess, 1880)"
 20963,148693717,Scorzonera laciniata Jacq.,filtered_on_establishmentMeans,7993840,"Scorzonera laciniata Jacq., 1776"
 20527,148693725,Aster squamatus Hieron.,merged_with_accepted,3151764,Symphyotrichum squamatum (Spreng.) G.L.Nesom
@@ -182,7 +182,7 @@ taxonID,taxonKey,scientificName,action,acceptedKey,acceptedName
 20745,148693833,Lathyrus ochrus DC.,scientificName_replaced_by_backbone_name,5356441,Lathyrus ochrus (L.) DC.
 20611,148693839,"Comperiella bifasciata Howard, 1906",filtered_on_establishmentMeans,1377352,"Comperiella bifasciata Howard, 1906"
 20556,148693850,Caesalpinia gilliesii (Hook.) D.Dietr.,merged_with_accepted,8130309,Erythrostemon gilliesii (Hook.) Klotzsch
-20784,148693874,Malva cretica (L.) Pau,merged_with_accepted,3933415,"Malva multiflora (Cav.) Soldano, Banfi & Galasso"
+20784,148693874,Malva cretica (L.) Pau,filtered_on_establishmentMeans,3933415,"Malva multiflora (Cav.) Soldano, Banfi & Galasso"
 21044,148693875,"Tuta absoluta (Meyrick, 1917)",merged_with_accepted,4528100,"Phthorimaea absoluta Meyrick, 1917"
 20709,148693889,"Herpetogramma licarsisalis (Walker, 1859)",filtered_on_establishmentMeans,1882965,"Herpetogramma licarsisalis (Walker, 1859)"
 20661,148693891,"Ephestia elutella (Hubner, 1796)",filtered_on_establishmentMeans,1878470,"Ephestia elutella (Hübner, 1796)"
@@ -203,7 +203,7 @@ taxonID,taxonKey,scientificName,action,acceptedKey,acceptedName
 20466,148693949,"Acanthoscelides obtectus (Say, 1831)",filtered_on_establishmentMeans,1047525,"Acanthoscelides obtectus (Say, 1831)"
 47773,148891596,Caulerpa taxifolia var. distichophylla,not_matched_with_backbone,,
 47772,148891598,Caulerpa chemnitzia (Esper) J.V.Lamour.,filtered_on_establishmentMeans,2643120,Caulerpa chemnitzia (Esper) J.V.Lamour.
-47787,148891634,Vertebrata fucoides (Huds.) Kuntze,merged_with_accepted,12194263,Vertebrata spec (Hudson) Kuntze
+47787,148891634,Vertebrata fucoides (Huds.) Kuntze,filtered_on_establishmentMeans,12194263,Vertebrata spec (Hudson) Kuntze
 47778,148891681,"Liloa mongii (Audouin, 1826)",filtered_on_establishmentMeans,8067701,"Liloa mongii (Audouin, 1826)"
 47784,148891773,"Sphyraena flavicauda RÃ¼ppell, 1838",not_matched_with_backbone,,
 47774,148891792,"Cheilodipterus novemstriatus (RÃ¼ppell, 1838)",scientificName_replaced_by_backbone_name,2397527,"Cheilodipterus novemstriatus (Rüppell, 1838)"
