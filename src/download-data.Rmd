@@ -24,7 +24,7 @@ library(purrr)
 
 ## Read yaml
 
-In the `checklists.yml` file, we have a list of checklists with their corresponding `datasetKey` and country name. We read this file into R using the `yaml::read_yaml()` function, which returns a list of checklists that we can then use to download the taxa and distributions for each country.
+In the `checklists.yml` file, we have a list of national checklists with their corresponding `datasetKey` and country name. We read this file into R using the `yaml::read_yaml()` function. This returns a list of national checklists that we can then use to download the taxa and distributions for each country.
 
 ```{r}
 checklists <- yaml::read_yaml(here::here("src", "checklists.yml"))
