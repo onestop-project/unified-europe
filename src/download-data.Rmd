@@ -8,8 +8,9 @@ output: html_document
 # Setup
 
 ## Install elodea
+
 ```{r}
-# remotes::install_github("onestop-project/elodea")
+pak::pak("onestop-project/elodea")
 ```
 
 ## Load libraries
