@@ -1,0 +1,123 @@
+---
+title: "Filter local data"
+author: "Sanne Govaert"
+date: "`r Sys.Date()`"
+output: html_document
+---
+
+## Introduction
+
+This script 
+- reads the downloaded taxa and distributions files for each country from `data/interim`
+- clean the data by filtering
+- writes the filtered data and notes to `data/processed`
+
+See [elodea::filter_data()](https://onestop-project.github.io/elodea/reference/filter_data.html) for details on filtering and notes.
+
+## Load libraries
+
+```{r}
+library(elodea)
+library(here)
+library(readr)
+```
+
+## Set directory
+
+Set the directory to `data/interim`, which needs to contain the downloaded taxa and distributions files for each country.
+
+```{r}
+parent_dir <- here::here("data", "interim")
+```
+
+### Select specific countries if needed
+
+```{r}
+# List all folders (countries) in the parent directory
+country_folders <- list.dirs(parent_dir, recursive = FALSE)
+
+# Select specific countries if needed
+countries <- c(
+  "Austria",
+  "Belgium",
+  "Bulgaria",
+  "Croatia",
+  "Cyprus",
+  "Cyprus - Sovereign Base Areas",
+  "Czechia",
+  "Denmark",
+  "Estonia",
+  "Finland",
+  "France",
+  "Germany",
+  "Greece",
+  "Hungary",
+  "Ireland",
+  "Italy",
+  "Latvia",
+  "Lithuania",
+  "Luxembourg",
+  "Malta",
+  "Netherlands",
+  "Poland",
+  "Portugal",
+  "Romania",
+  "Slovakia",
+  "Slovenia",
+  "Spain",
+  "Sweden"
+)
+
+selected_paths <- country_folders[basename(country_folders) %in% countries]
+selected_paths
+```
+
+## Filter data
+
+### Define a function to process one folder
+
+This function takes a folder path and a directory path as input. It reads the `taxa.csv` and `distributions.csv` files from the folder, filters the data to keep only the introduced species using the `elodea::filter_data()` function, and writes the filtered data and notes to the specified directory under a subfolder named after the country.
+
+```{r}
+# Define a function to process one folder
+process_folder <- function(folder, directory) {
+  country <- basename(folder)
+  
+  taxa_file <- file.path(folder, "taxa.csv")
+  distributions_file <- file.path(folder, "distributions.csv")
+  
+  taxa <- readr::read_csv(taxa_file, show_col_types = FALSE)
+  distributions <- readr::read_csv(distributions_file, show_col_types = FALSE)
+  
+  result <- elodea::filter_data(taxa, distributions, establishment_means = "introduced")
+  
+  dir <- file.path(directory, country)
+  taxa_path <- file.path(dir, "taxa.csv")
+  distributions_path <- file.path(dir, "distributions.csv")
+  notes_path <- file.path(dir, "notes.csv")
+  if (!dir.exists(dir)) {
+    dir.create(dir, recursive = TRUE)
+  }
+  cli::cli_h2("Writing files for {country}")
+  readr::write_csv(result$taxa, taxa_path, na = "")
+  cli::cli_ul("{.file {taxa_path}}")
+  readr::write_csv(result$distributions, distributions_path, na = "")
+  cli::cli_ul("{.file {distributions_path}}")
+  readr::write_csv(result$notes, notes_path, na = "")
+  cli::cli_ul("{.file {notes_path}}")
+}
+```
+
+### Process all folders
+
+Loop through the selected folders and call the `process_folder()` function for each folder, passing the corresponding directory path. The processed files will be written to `data/processed/{country}` where `{country}` is the name of the country.
+
+```{r}
+# Use purrr::map to process all folders
+purrr::map(
+  selected_paths, 
+  ~ process_folder(.x, directory = here::here("data", "processed"))
+  )
+```
+
+

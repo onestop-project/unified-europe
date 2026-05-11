@@ -1,0 +1,77 @@
+---
+title: "Create one unified checklist for Europe"
+author: "Sanne Govaert"
+date: "`r Sys.Date()`"
+output: html_document
+---
+
+## Load libraries
+
+```{r}
+library(elodea)
+library(here)
+library(readr)
+```
+
+## Set directory
+
+```{r}
+processed_dir <- here::here("data", "processed")
+```
+
+### Combine taxa and distributions files
+
+```{r}
+taxa_files <- list.files(processed_dir, pattern = "taxa.csv$", recursive = TRUE, full.names = TRUE)
+distributions_files <- list.files(processed_dir, pattern = "distributions.csv$", recursive = TRUE, full.names = TRUE)
+
+taxon <-
+  do.call(rbind, purrr::map(taxa_files, read.csv)) |>
+  dplyr::arrange(as.numeric(.data$nubKey)) |>
+  dplyr::mutate(
+    taxonID = paste0("https://www.gbif.org/species/", .data$nubKey),
+    scientificName = .data$scientificName,
+    kingdom = .data$kingdom,
+    taxonRank = .data$taxonRank,
+    taxonRemarks = "", # e.g. Sources considered for this taxon: https://doi.org/10.14284/347
+    language = "en",
+    license = "http://creativecommons.org/licenses/by/4.0/legalcode",
+    rightsHolder = "",
+    bibliographicCitation = paste0("https://www.gbif.org/species/", .data$nubKey, ": ", .data$scientificName, " in GBIF Secretariat. GBIF Backbone Taxonomy. Checklist dataset https://doi.org/10.15468/39omei"),
+    references = paste0("https://www.gbif.org/species/", .data$nubKey),
+    institutionCode = "",
+    datasetID = NA_character_, # doi of dataset
+    datasetName = "The OneSTOP list of Introduced and Invasive Species of the European Union",
+    .keep = "none"
+    ) |>
+  dplyr::distinct() |>
+  dplyr::select(
+    "taxonID", "scientificName", "kingdom", "taxonRank", "taxonRemarks",
+    "language", "license", "rightsHolder", "bibliographicCitation",
+    "references", "institutionCode", "datasetID", "datasetName"
+  )
+
+distributions <-
+  do.call(rbind, purrr::map(distributions_files, read.csv)) |>
+  dplyr::arrange(as.numeric(.data$nubKey)) |>
+  dplyr::mutate(
+    taxonID = paste0("https://www.gbif.org/species/", .data$nubKey)
+  ) |>
+  dplyr::distinct() |>
+  dplyr::select(
+    "taxonID", "countryCode", "occurrenceStatus", "establishmentMeans",
+    "degreeOfEstablishment", "pathway", "eventDate", "source"
+    )
+```
+
+```{r}
+directory <- here::here("data", "Europe")
+taxon_path <- file.path(directory, "taxon.csv")
+distributions_path <- file.path(directory, "distributions.csv")
+ if (!dir.exists(directory)) {
+    dir.create(directory, recursive = TRUE)
+  }
+readr::write_csv(taxon, taxon_path, na = "")
+readr::write_csv(distributions, distributions_path, na = "")
+```
+

@@ -1,0 +1,111 @@
+---
+title: "Download taxa and distributions"
+author: "Sanne Govaert"
+date: "`r Sys.Date()`"
+output: html_document
+---
+
+# Setup
+
+## Install elodea
+
+```{r}
+pak::pak("onestop-project/elodea")
+```
+
+## Load libraries
+
+```{r}
+library(elodea)
+library(yaml)
+library(here)
+library(purrr)
+```
+
+## Read yaml
+
+In the `checklists.yml` file, we have a list of national checklists with their corresponding `datasetKey` and country name. We read this file into R using the `yaml::read_yaml()` function. This returns a list of national checklists that we can then use to download the taxa and distributions for each country.
+
+```{r}
+checklists <- yaml::read_yaml(here::here("src", "checklists.yml"))
+```
+
+## Filter checklists if needed
+
+Choose here which checklists you want to download. Be aware that downloading all checklists takes a long time.
+
+```{r}
+to_keep <- c(
+  "Austria",
+  "Belgium",
+  "Bulgaria",
+  "Croatia",
+  "Cyprus",
+  "Cyprus - Sovereign Base Areas",
+  "Czechia",
+  "Denmark",
+  "Estonia",
+  "Finland",
+  "France",
+  "Germany",
+  "Greece",
+  "Hungary",
+  "Ireland",
+  "Italy",
+  "Latvia",
+  "Lithuania",
+  "Luxembourg",
+  "Malta",
+  "Netherlands",
+  "Poland",
+  "Portugal",
+  "Portugal - Azores",
+  "Portugal - Madeira",
+  "Romania",
+  "Slovakia",
+  "Slovenia",
+  "Spain",
+  "Sweden"
+)
+
+checklists <- purrr::keep(checklists, ~ .x$country %in% to_keep) 
+```
+
+# Download taxa and distributions
+
+This function downloads the taxa and distributions for a given `datasetKey` and saves them as CSV files in the specified directory (see next code block). The directory is named after the country, and the files are named `taxa.csv` and `distributions.csv`. The function also prints informative messages about the progress of the download and file writing process.
+
+```{r}
+save_taxa_and_distributions <- function(datasetKey, directory) {
+  country <- basename(directory)
+  cli::cli_h1(country)
+  cli::cli_h2("Downloading files")
+  cli::cli_ul("Downloading taxa")
+  taxa <- elodea::get_taxa(datasetKey)
+  cli::cli_ul("Downloading distributions")
+  distributions <- elodea::get_distributions(datasetKey, taxa)
+  taxa_path <- file.path(directory, "taxa.csv")
+  distributions_path <- file.path(directory, "distributions.csv")
+  cli::cli_h2("Writing files")
+  cli::cli_ul("{.file {taxa_path}}")
+  cli::cli_ul("{.file {distributions_path}}")
+  if (!dir.exists(directory)) {
+    dir.create(directory, recursive = TRUE)
+  }
+  readr::write_csv(taxa, taxa_path, na = "")
+  readr::write_csv(distributions, distributions_path, na = "")
+}
+```
+
+As a next step, we loop through the list of countries (`checklists`) and call the `save_taxa_and_distributions()` function for each country, passing the corresponding `datasetKey` and directory path.
+The directory is `data/interim/{country}` where `{country}` is the name of the country as specified in the `checklists.yml` file.
+
+```{r}
+purrr::walk(
+  checklists,
+  ~ save_taxa_and_distributions(
+    datasetKey = purrr::pluck(.x, "uuid"),
+    directory = here::here("data", "interim", purrr::pluck(.x, "country"))
+  )
+)
+```
