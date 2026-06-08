@@ -7,9 +7,9 @@
   doi: 10.15468/cvwsdk
   uuid: 016c16c3-d907-4c88-97dd-97ad62c8130e
 - country: Armenia
-  countryCode: 72e7aab4-aa85-4fcf-b95e-3d835d3e408a
+  countryCode: AM
   doi: 10.15468/w96h3j
-  uuid: AM
+  uuid: 72e7aab4-aa85-4fcf-b95e-3d835d3e408a
 - country: Austria
   countryCode: AT
   doi: 10.15468/ygo6zy
@@ -48,7 +48,7 @@
   uuid: 497fa25f-6a32-4a2a-8f42-d01d8a0b7c22
 - country: Cyprus - oneSTOP list
   countryCode: CY
-  doi: https://doi.org/10.15468/mucze2
+  doi: 10.15468/mucze2
   uuid: 40344688-4ac9-41c0-abdc-ad4556a76dc0
 - country: Czechia
   countryCode: CZ
