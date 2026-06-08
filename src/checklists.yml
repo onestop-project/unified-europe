@@ -1,11 +1,35 @@
+- country: Albania
+  countryCode: AL
+  doi: 10.15468/km1q9p
+  uuid: 506e844e-5d60-4be5-a5a0-59e822a5f477
+- country: Andorra
+  countryCode: AD
+  doi: 10.15468/cvwsdk
+  uuid: 016c16c3-d907-4c88-97dd-97ad62c8130e
+- country: Armenia
+  countryCode: 72e7aab4-aa85-4fcf-b95e-3d835d3e408a
+  doi: 10.15468/w96h3j
+  uuid: AM
 - country: Austria
   countryCode: AT
   doi: 10.15468/ygo6zy
   uuid: 1100c043-55c0-433d-b2f3-60747ab9de11
+- country: Azerbaijan
+  countryCode: AZ
+  doi: 10.15468/eh5rx3
+  uuid: f9c8f84c-a4ff-4c1d-86ae-6a1a472f2aa3
+- country: Belarus
+  countryCode: BY
+  doi: 10.15468/r1l7zb
+  uuid: ad95a6e9-a462-4bce-838f-bb4cd3296665
 - country: Belgium
   countryCode: BE
   doi: 10.15468/xoidmd
   uuid: 6d9e952f-948c-4483-9807-575348147c7e
+- country: Bosnia and Herzegovina
+  countryCode: BA
+  doi: 10.15468/uuzhvt
+  uuid: e8508e67-3e63-4a77-94b1-47c3fb1d07b7
 - country: Bulgaria
   countryCode: BG
   doi: 10.15468/afan6i
@@ -22,6 +46,10 @@
   countryCode: CY
   doi: 10.15468/twb956
   uuid: 497fa25f-6a32-4a2a-8f42-d01d8a0b7c22
+- country: Cyprus
+  countryCode: CY
+  doi: https://doi.org/10.15468/mucze2
+  uuid: 40344688-4ac9-41c0-abdc-ad4556a76dc0
 - country: Czechia
   countryCode: CZ
   doi: 10.15468/9tcwfe
@@ -54,6 +82,14 @@
   countryCode: HU
   doi: 10.15468/52jed5
   uuid: 9560647c-14bf-46af-b1f3-0525c2f8a53d
+- country: Iceland
+  countryCode: IS
+  doi: 10.15468/b7u941
+  uuid: 82fe28e9-0b8d-485f-a54e-ae5f4051314f
+- country: Ireland
+  countryCode: IE
+  doi: 10.15468/br8rgw
+  uuid: 278c9199-be97-4fd0-9c6c-6c46c4e2369e
 - country: Italy
   countryCode: IT
   doi: 10.15468/n4iafs
@@ -62,6 +98,10 @@
   countryCode: LV
   doi: 10.15468/hb3hza
   uuid: c7056977-c11e-45d7-a348-11ff192a3cae
+- country: Liechtenstein
+  countryCode: LI
+  doi: 10.15468/u1s0kr
+  uuid: 5f6eb04e-24a8-4616-9214-0202c6167ad9
 - country: Lithuania
   countryCode: LT
   doi: 10.15468/ewm0v1
@@ -74,10 +114,30 @@
   countryCode: MT
   doi: 10.15468/yvxl1l
   uuid: dfaf6b4a-43d6-4649-82c7-60f34ddf13ba
+- country: Moldova
+  countryCode: 
+  doi: 10.15468/ifdxj7
+  uuid: 1aac3463-39ee-4a81-81f0-0a5718b218f3
+- country: Monaco
+  countryCode: 
+  doi: 10.15468/v9cbrr
+  uuid: fbba79dc-ca5b-47ab-9a88-9bdf15a1d11f
+- country: Montenegro
+  countryCode: ME
+  doi: 10.15468/6zl86f
+  uuid: b4f2aa67-c64a-4ba4-a665-ce8c4bff5beb
 - country: Netherlands
   countryCode: NL
   doi: https://doi.org/10.15468/wvocwo
   uuid: 6e74aa5e-d156-4fd9-9299-049307da6fe8
+- country: North Macedonia
+  countryCode: MK
+  doi: 10.15468/xdl73t
+  uuid: 69449228-b89e-4302-9ba6-c840997bfebc
+- country: Norway
+  countryCode: 
+  doi: 10.15468/9oaedf
+  uuid: 38de3b7a-5af3-4b6f-a1c5-4c0aa6abf010
 - country: Poland
   countryCode: PL
   doi: https://doi.org/10.15468/xxgzzh
@@ -98,6 +158,14 @@
   countryCode: RO
   doi: https://doi.org/10.15468/fgqcsu
   uuid: d20e290d-4921-4244-a9a1-59ffa3bfa975
+- country: San Marino
+  countryCode: SM
+  doi: 10.15468/o3gz73
+  uuid: c5051b17-4662-4e0c-9087-beb15a4fca5b
+- country: Serbia
+  countryCode: RS
+  doi: 10.15468/ppo7vg
+  uuid: 7d22d94b-61e5-4d34-9156-eeddd2cd5f59
 - country: Slovakia
   countryCode: SK
   doi: https://doi.org/10.15468/9aomvv
@@ -114,4 +182,19 @@
   countryCode: SE
   doi: https://doi.org/10.15468/i57bff
   uuid: c1a61294-6195-4055-9b22-a2e48e5e16d7
-
+- country: Switzerland
+  countryCode: CH
+  doi:  10.15468/vnkabc
+  uuid: 5f4edb1f-5624-4066-8e83-5f3b09de87eb
+- country: Turkiye
+  countryCode: TR
+  doi: 10.15468/r88y8n
+  uuid: acaa145f-7944-4bc8-a4cc-4e3410c41e99
+- country: Ukraine
+  countryCode: UA
+  doi: 10.15468/4nyn7n
+  uuid: d006d8bb-cf1e-46ff-a054-c6768e23d86d
+- country: United Kingdom
+  countryCode: GB
+  doi: 10.15468/8rzqvw
+  uuid: 1288ee7d-d67c-4e23-8d95-409973067383
