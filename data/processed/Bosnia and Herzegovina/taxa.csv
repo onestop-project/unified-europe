@@ -1,0 +1,309 @@
+taxonKey,nubKey,taxonID,scientificName,kingdom,taxonRank
+159881459,4410669,50672,"Lumbricus rubellus Hoffmeister, 1843",Animalia,SPECIES
+159881464,5858758,50580,"Cornu aspersum (O.F.Müller, 1774)",Animalia,SPECIES
+159881469,2436940,50702,"Oryctolagus cuniculus (Linnaeus, 1758)",Animalia,SPECIES
+159881472,2441110,50703,"Ovis aries Linnaeus, 1758",Animalia,SPECIES
+159881475,5219858,50699,"Ondatra zibethicus (Linnaeus, 1766)",Animalia,SPECIES
+159881477,2439270,50748,"Rattus rattus (Linnaeus, 1758)",Animalia,SPECIES
+159881478,2439261,50747,"Rattus norvegicus (Berkenhout, 1769)",Animalia,SPECIES
+159881479,7429082,50691,"Mus musculus Linnaeus, 1758",Animalia,SPECIES
+159881482,2434552,50695,"Nyctereutes procyonoides (Gray, 1834)",Animalia,SPECIES
+159881484,2434271,50634,"Herpestes javanicus (É.Geoffroy Saint-Hilaire, 1818)",Animalia,SPECIES
+159881488,2350570,50623,"Gambusia holbrooki Girard, 1859",Animalia,SPECIES
+159881491,4284021,50759,"Salvelinus alpinus (Linnaeus, 1758)",Animalia,SPECIES
+159881492,2351271,50760,"Salvelinus fontinalis (Mitchill, 1814)",Animalia,SPECIES
+159881493,8215487,50758,"Salmo trutta Linnaeus, 1758",Animalia,SPECIES
+159881494,5204019,50698,"Oncorhynchus mykiss (Walbaum, 1792)",Animalia,SPECIES
+159881495,2351136,50578,"Coregonus peled (Gmelin, 1789)",Animalia,SPECIES
+159881498,2362868,50741,"Pseudorasbora parva (Temminck & Schlegel, 1846)",Animalia,SPECIES
+159881499,2362473,50642,"Hypophthalmichthys molitrix (Valenciennes, 1844)",Animalia,SPECIES
+159881500,2362486,50643,"Hypophthalmichthys nobilis (Richardson, 1845)",Animalia,SPECIES
+159881501,4286975,50592,"Cyprinus carpio Linnaeus, 1758",Animalia,SPECIES
+159881502,2362030,50584,"Ctenopharyngodon idella (Valenciennes, 1844)",Animalia,SPECIES
+159881503,4837765,50562,"Carassius langsdorfii Temminck & Schlegel, 1846",Animalia,SPECIES
+159881504,2366634,50561,"Carassius gibelio (Bloch, 1782)",Animalia,SPECIES
+159881507,2394563,50684,"Micropterus salmoides (Lacepède, 1802)",Animalia,SPECIES
+159881508,2394486,50665,"Lepomis gibbosus (Linnaeus, 1758)",Animalia,SPECIES
+159881510,2379245,50738,"Proterorhinus semilunaris (Heckel, 1837)",Animalia,SPECIES
+159881511,4285968,50734,"Ponticola kessleri (Günther, 1861)",Animalia,SPECIES
+159881512,2379105,50693,"Neogobius fluviatilis (Pallas, 1814)",Animalia,SPECIES
+159881513,5788062,50542,"Babka gymnotrachelus (Kessler, 1857)",Animalia,SPECIES
+159881516,2340989,50528,"Ameiurus nebulosus (Lesueur, 1819)",Animalia,SPECIES
+159881517,2340977,50527,"Ameiurus melas (Rafinesque, 1820)",Animalia,SPECIES
+159881521,9752149,50726,"Phasianus colchicus Linnaeus, 1758",Animalia,SPECIES
+159881524,2498344,50591,"Cygnus atratus (Latham, 1790)",Animalia,SPECIES
+159881525,2498388,50511,"Aix galericulata (Linnaeus, 1758)",Animalia,SPECIES
+159881530,4989904,50629,"Harmonia axyridis (Pallas, 1773)",Animalia,SPECIES
+159881533,1749449,50558,"Cameraria ohridella Deschka & Dimić, 1986",Animalia,SPECIES
+159881536,1651430,50507,"Aedes albopictus (Skuse, 1894)",Animalia,SPECIES
+159881542,5254231,50700,Ophiostoma novo-ulmi Brasier,Fungi,SPECIES
+159881545,2566393,50583,Cryphonectria parasitica (Murrill) M.E.Barr,Fungi,SPECIES
+159881551,2685796,50742,Pseudotsuga menziesii (Mirb.) Franco,Plantae,SPECIES
+159881553,2684855,50733,Platycladus orientalis (L.) Franco,Plantae,SPECIES
+159881554,2684030,50588,Cupressus sempervirens L.,Plantae,SPECIES
+159881558,2865526,50798,Vallisneria spiralis L.,Plantae,SPECIES
+159881559,2865448,50600,Elodea canadensis Michx.,Plantae,SPECIES
+159881562,2765156,50792,Tradescantia fluminensis Vell.,Plantae,SPECIES
+159881563,2765272,50793,Tradescantia virginiana L.,Plantae,SPECIES
+159881564,2763939,50576,Commelina Plum. ex L.,Plantae,GENUS
+159881565,2764179,50575,Commelina communis L.,Plantae,SPECIES
+159881568,2720269,50761,Scirpus georgianus R.M.Harper,Plantae,SPECIES
+159881570,2702084,50655,Juncus tenuis Willd.,Plantae,SPECIES
+159881571,2701831,50654,Juncus dudleyi Wiegand,Plantae,SPECIES
+8332019,8429468,50638,Hordeum distichon L.,Plantae,SPECIES
+159881575,7795888,50796,Triticum aestivum L.,Plantae,SPECIES
+159881576,5290052,50810,Zea mays L.,Plantae,SPECIES
+2703723,2703727,50568,Bromus catharticus Vahl,Plantae,SPECIES
+159881579,2705966,50762,Secale cereale L.,Plantae,SPECIES
+159881580,5289666,50767,Setaria faberi R.A.W.Herrm.,Plantae,SPECIES
+159881581,5289698,50768,Setaria italica (L.) P.Beauv.,Plantae,SPECIES
+159881582,2705181,50777,Sorghum bicolor (L.) Moench,Plantae,SPECIES
+159881583,2704768,50779,Sporobolus vaginiflorus (Torr. ex A.Gray) Alph.Wood,Plantae,SPECIES
+159881584,2705185,50778,Sorghum halepense (L.) Pers.,Plantae,SPECIES
+159881585,2705090,50710,Panicum miliaceum L.,Plantae,SPECIES
+159881586,2705565,50716,Paspalum dilatatum Poir.,Plantae,SPECIES
+159881587,2705622,50717,Paspalum distichum L.,Plantae,SPECIES
+159881588,5289744,50724,Phalaris canariensis L.,Plantae,SPECIES
+159881589,2705162,50708,Panicum capillare L.,Plantae,SPECIES
+2705162,4126473,50711,Panicum capillare L.,Plantae,SPECIES
+159881591,2705144,50709,Panicum dichotomiflorum Michx.,Plantae,SPECIES
+159881592,2706026,50687,Miscanthus sinensis Andersson,Plantae,SPECIES
+159881593,2706242,50669,Lolium temulentum L.,Plantae,SPECIES
+159881594,2705503,50627,Glyceria striata (Lam.) Hitchc.,Plantae,SPECIES
+159881595,2706056,50637,Hordeum vulgare L.,Plantae,SPECIES
+159881596,2705953,50599,Eleusine indica (L.) Gaertn.,Plantae,SPECIES
+159881597,2703705,50552,Bromus arvensis L.,Plantae,SPECIES
+159881598,2703717,50553,Bromus secalinus L.,Plantae,SPECIES
+159881599,2703041,50537,Arundo donax L.,Plantae,SPECIES
+159881600,2705297,50540,Avena fatua L.,Plantae,SPECIES
+159881601,2705290,50541,Avena sativa L.,Plantae,SPECIES
+159881604,5296178,50772,Sisyrinchium montanum Greene,Plantae,SPECIES
+159881605,5298069,50651,Iris ×germanica L.,Plantae,SPECIES
+159881607,2781074,50632,Hemerocallis fulva (L.) L.,Plantae,SPECIES
+159881609,2775619,50809,Yucca gloriosa L.,Plantae,SPECIES
+159881610,2772666,50639,Hyacinthus orientalis L.,Plantae,SPECIES
+159881612,2858244,50692,Narcissus pseudonarcissus L.,Plantae,SPECIES
+159881613,2855398,50620,Galanthus elwesii Hook.f.,Plantae,SPECIES
+159881614,2857697,50516,Allium cepa L.,Plantae,SPECIES
+159881617,2873769,50503,Acorus calamus L.,Plantae,SPECIES
+11162940,5362018,50765,Phedimus spurius subsp. spurius,Plantae,SUBSPECIES
+159881623,7334489,50763,Sedum palmeri S.Watson,Plantae,SPECIES
+159881624,5362004,50764,Sedum sarmentosum Bunge,Plantae,SPECIES
+159881627,3039194,50714,Parthenocissus quinquefolia (L.) Planch.,Plantae,SPECIES
+159881628,3039209,50715,Parthenocissus tricuspidata (Siebold & Zucc.) Planch.,Plantae,SPECIES
+159881631,2928226,50723,Phacelia tanacetifolia Benth.,Plantae,SPECIES
+7400250,3152815,50731,Platanus ×hispanica Mill. ex Münchh.,Plantae,SPECIES
+159881636,3152816,50732,Platanus orientalis L.,Plantae,SPECIES
+9823072,8156718,50707,Oxalis stricta L.,Plantae,SPECIES
+159881641,2891664,50704,Oxalis articulata Savigny,Plantae,SPECIES
+159881642,8427624,50705,Oxalis corniculata L.,Plantae,SPECIES
+159881643,2891677,50706,Oxalis dillenii Jacq.,Plantae,SPECIES
+159881646,3054368,50653,Juglans regia L.,Plantae,SPECIES
+7764700,5599249,50671,Lonicera pileata var. yunnanensis (Franch.) Bernd Schulz,Plantae,VARIETY
+159881652,5334240,50670,Lonicera japonica Thunb.,Plantae,SPECIES
+159881655,3034015,50662,Laurus nobilis L.,Plantae,SPECIES
+159881658,5331238,50805,Viola sororia Willd.,Plantae,SPECIES
+159881660,5372639,50757,Salix babylonica L.,Plantae,SPECIES
+159881662,2873861,50666,Linum usitatissimum L.,Plantae,SPECIES
+159881664,3189530,50641,Hypericum majus (A.Gray) Britton,Plantae,SPECIES
+159881666,5380041,50751,Ricinus communis L.,Plantae,SPECIES
+159881667,3067891,50613,Euphorbia prostrata Aiton,Plantae,SPECIES
+159881668,3067119,50610,Euphorbia maculata L.,Plantae,SPECIES
+159881669,3064943,50611,Euphorbia marginata Pursh,Plantae,SPECIES
+159881670,3070346,50612,Euphorbia nutans Lag.,Plantae,SPECIES
+159881673,2985986,50640,Hydrangea arborescens L.,Plantae,SPECIES
+159881674,2985965,50595,Deutzia scabra Thunb.,Plantae,SPECIES
+2928859,2928860,50722,Petunia ×atkinsiana D.Don ex Loudon,Plantae,SPECIES
+159881679,2929892,50773,Solanum elaeagnifolium Cav.,Plantae,SPECIES
+159881680,2930262,50774,Solanum tuberosum L.,Plantae,SPECIES
+159881681,5341784,50727,Physalis peruviana L.,Plantae,SPECIES
+159881682,2928775,50694,Nicotiana rustica L.,Plantae,SPECIES
+159881683,2928835,50674,Lycium barbarum L.,Plantae,SPECIES
+159881685,2928751,50594,Datura stramonium L.,Plantae,SPECIES
+159881686,2928755,50593,Datura innoxia Mill.,Plantae,SPECIES
+159881689,3610757,50589,Cuscuta campestris Yunck.,Plantae,SPECIES
+159881690,2928576,50650,Ipomoea purpurea (L.) Roth,Plantae,SPECIES
+159881691,2928534,50649,Ipomoea nil (L.) Roth,Plantae,SPECIES
+159881692,2928598,50648,Ipomoea indica (Burm.) Merr.,Plantae,SPECIES
+159881695,2874655,50769,Sicyos angulatus L.,Plantae,SPECIES
+159881696,5331404,50598,Echinocystis lobata (Michx.) Torr. & A.Gray,Plantae,SPECIES
+159881697,2874570,50585,Cucumis melo L.,Plantae,SPECIES
+159881698,2874569,50586,Cucumis sativus L.,Plantae,SPECIES
+159881699,2874508,50587,Cucurbita pepo L.,Plantae,SPECIES
+159881700,2874621,50573,Citrullus lanatus (Thunb.) Matsum. & Nakai,Plantae,SPECIES
+8149923,3022511,50740,Prunus persica (L.) Stokes,Plantae,SPECIES
+159881705,5365717,50737,Potentilla indica (Andrews) Th.Wolf,Plantae,SPECIES
+3020980,3022502,50739,Prunus amygdalus Batsch,Plantae,SPECIES
+159881707,2988354,50728,Physocarpus opulifolius (L.) Maxim.,Plantae,SPECIES
+159881708,5371450,50656,Kerria japonica (L.) DC.,Plantae,SPECIES
+159881709,3029912,50618,Fragaria ×ananassa (Weston) Rozier,Plantae,SPECIES
+159881710,3025617,50582,Cotoneaster horizontalis Decne.,Plantae,SPECIES
+159881711,3000679,50570,Chaenomeles speciosa (Sweet) Nakai,Plantae,SPECIES
+159881713,5361880,50560,Cannabis sativa L.,Plantae,SPECIES
+159881715,2984580,50676,Maclura pomifera (Raf. ex Sarg.) C.K.Schneid.,Plantae,SPECIES
+159881716,5361889,50689,Morus alba L.,Plantae,SPECIES
+159881717,5361888,50690,Morus nigra L.,Plantae,SPECIES
+159881718,5361944,50554,Broussonetia papyrifera (L.) L'Hér. ex Vent.,Plantae,SPECIES
+159881721,3169708,50804,Vinca major L.,Plantae,SPECIES
+159881722,3170247,50538,Asclepias syriaca L.,Plantae,SPECIES
+159881725,2889934,50797,Tropaeolum majus L.,Plantae,SPECIES
+12187916,8860549,50574,Tarenaya houtteana (Schltdl.) Soares Neto & Roalson,Plantae,SPECIES
+159881729,3047598,50771,Sinapis arvensis L.,Plantae,SPECIES
+159881730,7678610,50746,Raphanus sativus L.,Plantae,SPECIES
+159881731,5373358,50668,Lobularia maritima (L.) Desv.,Plantae,SPECIES
+159881732,5376648,50664,Lepidium virginicum L.,Plantae,SPECIES
+159881733,3042291,50635,Hesperis matronalis L.,Plantae,SPECIES
+159881734,5375920,50606,Eruca vesicaria (L.) Cav.,Plantae,SPECIES
+159881735,3048203,50607,Erysimum cheiri (L.) Crantz,Plantae,SPECIES
+159881736,3049314,50609,Euclidium syriacum (L.) W.T.Aiton,Plantae,SPECIES
+159881737,3042845,50550,Brassica oleracea L.,Plantae,SPECIES
+159881738,7225636,50551,Brassica rapa subsp. rapa,Plantae,SUBSPECIES
+159881739,3042636,50548,Brassica napus L.,Plantae,SPECIES
+159881740,3042658,50549,Brassica nigra (L.) W.D.J.Koch,Plantae,SPECIES
+159881741,3041022,50534,"Armoracia rusticana P.Gaertn., B.Mey. & Scherb.",Plantae,SPECIES
+5371753,3034183,50530,Visnaga daucoides Gaertn.,Plantae,SPECIES
+7224069,8193935,50721,Petroselinum crispum subsp. crispum,Plantae,SUBSPECIES
+159881747,3034825,50633,Heracleum mantegazzianum Sommier & Levier,Plantae,SPECIES
+159881750,3170823,50718,Paulownia tomentosa (Thunb.) Steud.,Plantae,SPECIES
+159881752,5341394,50719,Perilla frutescens (L.) Britton,Plantae,SPECIES
+159881753,5341407,50688,Monarda didyma L.,Plantae,SPECIES
+159881755,6008574,50685,Mimulus L.,Plantae,GENUS
+159881757,5415039,50786,Syringa vulgaris L.,Plantae,SPECIES
+159881758,5415054,50616,Forsythia ×intermedia Zabel,Plantae,SPECIES
+159881759,5415053,50617,Forsythia viridissima Lindl.,Plantae,SPECIES
+159881761,3173338,50555,Buddleja davidii Franch.,Plantae,SPECIES
+159881763,3172615,50565,Catalpa bignonioides Walter,Plantae,SPECIES
+3172549,7613490,50559,Campsis radicans (L.) Bureau,Plantae,SPECIES
+159881766,3172104,50799,Veronica peregrina L.,Plantae,SPECIES
+159881767,3172077,50800,Veronica persica Poir.,Plantae,SPECIES
+159881768,3170817,50657,Kickxia spuria (L.) Dumort.,Plantae,SPECIES
+159881769,5414995,50596,Digitalis purpurea L.,Plantae,SPECIES
+159881770,3172001,50533,Antirrhinum majus L.,Plantae,SPECIES
+159881773,3188894,50697,Oenothera glazioviana Micheli,Plantae,SPECIES
+159881774,3188924,50696,Oenothera biennis L.,Plantae,SPECIES
+3188716,8106293,50529,Ammannia baccifera L.,Plantae,SPECIES
+159881778,5420901,50744,Punica granatum L.,Plantae,SPECIES
+159881781,5408087,50667,Lobelia erinus L.,Plantae,SPECIES
+159881784,3151764,50785,Symphyotrichum squamatum (Spreng.) G.L.Nesom,Plantae,SPECIES
+3141890,5402620,50652,Cyclachaena xanthiifolia (Nutt.) Fresen.,Plantae,SPECIES
+3132457,8047676,50601,Erechtites hieraciifolius (L.) Raf. ex DC.,Plantae,SPECIES
+159881789,8002952,50526,Ambrosia artemisiifolia L.,Plantae,SPECIES
+159881790,3120790,50536,Artemisia verlotiorum Lamotte,Plantae,SPECIES
+159881791,8373355,50535,Artemisia annua L.,Plantae,SPECIES
+159881792,5392174,50545,Bidens frondosa L.,Plantae,SPECIES
+159881793,5391882,50546,Bidens subalternans DC.,Plantae,SPECIES
+159881794,5391480,50556,Calendula officinalis L.,Plantae,SPECIES
+159881795,3092946,50557,Callistephus chinensis (L.) Nees,Plantae,SPECIES
+159881796,5392243,50572,Cichorium endivia L.,Plantae,SPECIES
+159881797,3138327,50564,Carthamus tinctorius L.,Plantae,SPECIES
+159881798,3127691,50567,Centaurea benedicta (L.) L.,Plantae,SPECIES
+159881799,3133950,50579,Coreopsis tinctoria Nutt.,Plantae,SPECIES
+159881800,3098912,50581,Cosmos bipinnatus Cav.,Plantae,SPECIES
+159881801,3146683,50605,Erigeron sumatrensis Retz.,Plantae,SPECIES
+159881802,3146791,50604,Erigeron canadensis L.,Plantae,SPECIES
+159881803,3146717,50603,Erigeron bonariensis L.,Plantae,SPECIES
+159881804,3117449,50602,Erigeron annuus (L.) Pers.,Plantae,SPECIES
+159881805,7627205,50624,Glebionis coronaria (L.) Tzvelev,Plantae,SPECIES
+159881806,3132570,50621,Galinsoga parviflora Cav.,Plantae,SPECIES
+159881807,8298495,50622,Galinsoga quadriradiata Ruiz & Pav.,Plantae,SPECIES
+159881808,5387821,50619,Gaillardia pulchella Foug.,Plantae,SPECIES
+159881809,8584304,50628,Guizotia abyssinica (L.fil.) Cass.,Plantae,SPECIES
+159881810,3141101,50625,Glebionis segetum (L.) Fourr.,Plantae,SPECIES
+159881811,9206251,50630,Helianthus annuus L.,Plantae,SPECIES
+159881812,3119175,50631,Helianthus tuberosus L.,Plantae,SPECIES
+159881813,7403263,50659,Lactuca sativa L.,Plantae,SPECIES
+159881814,3103791,50680,Matricaria discoidea DC.,Plantae,SPECIES
+159881815,3114225,50753,Rudbeckia hirta L.,Plantae,SPECIES
+159881816,3114229,50754,Rudbeckia laciniata L.,Plantae,SPECIES
+159881817,3114238,50755,Rudbeckia triloba L.,Plantae,SPECIES
+159881818,3088488,50787,Tagetes erecta L.,Plantae,SPECIES
+3088488,3088492,50789,Tagetes erecta L.,Plantae,SPECIES
+159881820,3151558,50784,Symphyotrichum novi-belgii (L.) G.L.Nesom,Plantae,SPECIES
+159881821,9202318,50782,Symphyotrichum lanceolatum (Willd.) G.L.Nesom,Plantae,SPECIES
+159881822,3151618,50783,Symphyotrichum novae-angliae (L.) G.L.Nesom,Plantae,SPECIES
+159881823,5389017,50776,Solidago gigantea Aiton,Plantae,SPECIES
+159881824,5389029,50775,Solidago canadensis L.,Plantae,SPECIES
+159881826,3109086,50766,Senecio inaequidens DC.,Plantae,SPECIES
+3089561,5386012,50590,Centaurea cyanus L.,Plantae,SPECIES
+159881829,3111754,50811,Zinnia elegans Jacq.,Plantae,SPECIES
+11519882,4225550,50807,Xanthium orientale var. italicum (Moretti) M.Hassl.,Plantae,VARIETY
+159881831,3089150,50808,Xanthium spinosum L.,Plantae,SPECIES
+159881832,3088481,50788,Tagetes minuta L.,Plantae,SPECIES
+159881833,3118430,50791,Tanacetum parthenium (L.) Sch.Bip.,Plantae,SPECIES
+159881834,3118254,50790,Tanacetum balsamita L.,Plantae,SPECIES
+159881837,5360498,50794,Trigonella caerulea (L.) Ser.,Plantae,SPECIES
+159881838,5360475,50795,Trigonella foenum-graecum L.,Plantae,SPECIES
+159881839,2974887,50801,Vicia ervilia (L.) Willd.,Plantae,SPECIES
+159881840,2974832,50802,Vicia faba L.,Plantae,SPECIES
+159881841,7068379,50803,Vicia sativa subsp. sativa,Plantae,SUBSPECIES
+8149049,2977331,50806,Wisteria sinensis (Sims) DC.,Plantae,SPECIES
+159881843,2963569,50780,Styphnolobium japonicum (L.) Schott,Plantae,SPECIES
+159881844,2977647,50743,Pueraria montana var. lobata (Willd.) Maesen & S.M.Almeida ex Sanjappa & Predeep,Plantae,VARIETY
+159881845,5352251,50752,Robinia pseudoacacia L.,Plantae,SPECIES
+159881846,5350452,50725,Phaseolus vulgaris L.,Plantae,SPECIES
+5347846,5347845,50730,Lathyrus oleraceus Lam.,Plantae,SPECIES
+159881848,2964355,50673,Lupinus polyphyllus Lindl.,Plantae,SPECIES
+159881849,2965527,50681,Medicago arabica (L.) Huds.,Plantae,SPECIES
+159881850,9151957,50682,Medicago sativa L.,Plantae,SPECIES
+3973001,5350010,50663,Vicia lens (L.) Coss. & Germ.,Plantae,SPECIES
+159881852,5356488,50661,Lathyrus sativus L.,Plantae,SPECIES
+159881853,2959443,50626,Gleditsia triacanthos L.,Plantae,SPECIES
+159881854,5353590,50569,Cercis siliquastrum L.,Plantae,SPECIES
+159881855,2947311,50571,Cicer arietinum L.,Plantae,SPECIES
+159881856,5357407,50531,Amorpha fruticosa L.,Plantae,SPECIES
+159881857,2972983,50512,Albizia julibrissin Durazz.,Plantae,SPECIES
+159881860,3084700,50735,Portulaca grandiflora Hook.,Plantae,SPECIES
+159881861,3084719,50736,Portulaca oleracea L.,Plantae,SPECIES
+159881863,3084015,50729,Phytolacca americana L.,Plantae,SPECIES
+159881865,5384047,50701,Opuntia humifusa (Raf.) Raf.,Plantae,SPECIES
+159881867,3086240,50686,Mirabilis jalapa L.,Plantae,SPECIES
+159881869,2889173,50749,Reynoutria japonica Houtt.,Plantae,SPECIES
+159881870,2889229,50720,Persicaria orientalis (L.) Spach,Plantae,SPECIES
+159881871,5334351,50615,Fallopia baldschuanica (Regel) Holub,Plantae,SPECIES
+159881872,2889373,50614,Fagopyrum esculentum Moench,Plantae,SPECIES
+159881874,3703606,50563,Carpobrotus acinaciformis (L.) L.Bolus,Plantae,SPECIES
+159881876,5568446,50597,Dysphania ambrosioides (L.) Mosyakin & Clemants,Plantae,SPECIES
+159881877,3085191,50566,Celosia argentea L.,Plantae,SPECIES
+159881878,5383971,50547,Blitum capitatum L.,Plantae,SPECIES
+159881879,7068845,50544,Beta vulgaris subsp. vulgaris,Plantae,SUBSPECIES
+159881880,5383936,50543,Bassia scoparia (L.) A.J.Scott,Plantae,SPECIES
+159881881,3083761,50539,Atriplex hortensis L.,Plantae,SPECIES
+159881882,5384396,50522,Amaranthus deflexus L.,Plantae,SPECIES
+159881883,5384373,50523,Amaranthus graecizans L.,Plantae,SPECIES
+159881884,5384341,50520,Amaranthus crispus (Lesp. & Thévenau) N.Terracc.,Plantae,SPECIES
+159881885,5384390,50521,Amaranthus cruentus L.,Plantae,SPECIES
+159881886,5384364,50524,Amaranthus hybridus L.,Plantae,SPECIES
+159881887,6109534,50525,Amaranthus retroflexus L.,Plantae,SPECIES
+159881888,5384395,50518,Amaranthus blitoides S.Watson,Plantae,SPECIES
+159881889,6109611,50519,Amaranthus caudatus L.,Plantae,SPECIES
+159881890,7905507,50517,Amaranthus albus L.,Plantae,SPECIES
+159881892,3085368,50509,Agrostemma githago L.,Plantae,SPECIES
+159881895,2891783,50644,Impatiens balfourii Hook.fil.,Plantae,SPECIES
+159881896,2891773,50645,Impatiens balsamina L.,Plantae,SPECIES
+159881897,2891770,50646,Impatiens glandulifera Royle,Plantae,SPECIES
+159881898,2891782,50647,Impatiens parviflora DC.,Plantae,SPECIES
+159881902,3189694,50504,Actinidia chinensis Planch.,Plantae,SPECIES
+159881906,3033865,50677,Mahonia aquifolium (Pursh) Nutt.,Plantae,SPECIES
+159881909,2888564,50660,Lamprocapnos spectabilis (L.) Fukuhara,Plantae,SPECIES
+159881910,2888443,50712,Papaver rhoeas L.,Plantae,SPECIES
+159881911,2888439,50713,Papaver somniferum L.,Plantae,SPECIES
+159881912,2888380,50608,Eschscholzia californica Cham.,Plantae,SPECIES
+10763835,8176367,50577,Delphinium consolida subsp. consolida,Plantae,SUBSPECIES
+159881916,3033348,50745,Ranunculus arvensis L.,Plantae,SPECIES
+159881917,5371707,50505,Adonis aestivalis L.,Plantae,SPECIES
+159881918,8246651,50506,Adonis flammea Jacq.,Plantae,SPECIES
+159881921,3190538,50750,Rhus typhina L.,Plantae,SPECIES
+159881923,3190381,50756,Ruta chalepensis L.,Plantae,SPECIES
+159881925,5914287,50683,Melia azedarach L.,Plantae,SPECIES
+159881927,3190653,50510,Ailanthus altissima (Mill.) Swingle,Plantae,SPECIES
+159881929,5421180,50658,Koelreuteria paniculata Laxm.,Plantae,SPECIES
+159881930,3189815,50508,Aesculus hippocastanum L.,Plantae,SPECIES
+159881931,3189837,50502,Acer saccharinum L.,Plantae,SPECIES
+159881932,3189866,50501,Acer negundo L.,Plantae,SPECIES
+159881935,3152377,50679,Malva verticillata L.,Plantae,SPECIES
+159881936,3940326,50678,Malva trimestris (L.) Salisb.,Plantae,SPECIES
+159881937,3152560,50636,Hibiscus trionum L.,Plantae,SPECIES
+159881938,5617456,50515,Alcea setosa (Boiss.) Alef.,Plantae,SPECIES
+159881939,5406789,50514,Alcea rosea L.,Plantae,SPECIES
+159881940,5617600,50513,Alcea biennis Winterl,Plantae,SPECIES
+159881941,3152614,50500,Abutilon theophrasti Medik.,Plantae,SPECIES

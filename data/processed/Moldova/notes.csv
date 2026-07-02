@@ -1,0 +1,92 @@
+taxonID,taxonKey,scientificName,action,acceptedKey,acceptedName
+158737,162643504,Setaria pycnocoma (Steud.) Henrard ex Nakai,merged_with_accepted,5289684,Setaria viridis (L.) P.Beauv.
+158561,162643508,Cenchrus incertus M.A.Curtis,merged_with_accepted,5289726,Cenchrus spinifex Cav.
+158736,162643509,Setaria italica P.Beauv.,scientificName_replaced_by_backbone_name,5289698,Setaria italica (L.) P.Beauv.
+158753,162643513,Sorghum halepense Pers.,scientificName_replaced_by_backbone_name,2705185,Sorghum halepense (L.) Pers.
+158611,162643525,Eriochloa succincta Kunth,scientificName_replaced_by_backbone_name,4129041,Eriochloa succincta (Trin.) Kunth
+158534,162643536,Avena sterilis subsp. ludoviciana (Durieu) M.Gillet & Magne,merged_with_accepted,2705287,Avena sterilis subsp. ludoviciana (Durieu) Nyman
+158752,162643548,Sorghum halepense Pers.,scientificName_replaced_by_backbone_name,2705185,Sorghum halepense (L.) Pers.
+158703,162643574,"Paramysis lacustris (Czerniavsky,1882)",filtered_on_establishmentMeans,2220142,"Paramysis lacustris (Czerniavsky, 1882)"
+158662,162643577,"Limnomysis benedeni Czerniavsky, 1882",filtered_on_establishmentMeans,2220347,"Limnomysis benedeni Czerniavsky, 1882"
+158650,162643581,"Katamysis warpachowskyi G.O. Sars, 1893",filtered_on_establishmentMeans,2221273,"Katamysis warpachowskyi G.O.Sars, 1893"
+158673,162643593,"Macrobrachium nipponense (De Haan, 1849",scientificName_replaced_by_backbone_name,2224515,"Macrobrachium nipponense (De Haan, 1849)"
+158678,162643598,Medicago varia Martyn,scientificName_replaced_by_backbone_name,2965331,Medicago ×varia Martyn
+158718,162643603,"Pontogammarus robustoides G.O. Sars, 1894",filtered_on_establishmentMeans,4315140,"Pontogammarus robustoides (Sars, 1894)"
+158760,162643604,Trigonella caerulea Ser.,scientificName_replaced_by_backbone_name,5360498,Trigonella caerulea (L.) Ser.
+158716,162643605,Pisum sativum subsp. sativum,merged_with_accepted,10683509,Lathyrus oleraceus var. oleraceus
+158715,162643607,Pisum sativum L.,merged_with_accepted,5347846,Lathyrus oleraceus Lam.
+158594,162643608,"Dikerogammarus haemobaphes (Eichwald, 1841)",filtered_on_establishmentMeans,4315703,"Dikerogammarus haemobaphes (Eichwald, 1841)"
+158595,162643610,"Dikerogammarus villosus (Sowinsky, 1894)",filtered_on_establishmentMeans,4315705,"Dikerogammarus villosus (Sowinsky, 1894)"
+158568,162643615,"Chelicorophium maeoticum (Sowinsky, 1898)",filtered_on_establishmentMeans,6460941,"Chelicorophium maeoticum (Sowinsky, 1898)"
+158560,162643622,"Caspiocuma campylaspoides (G.O. Sars, 1897)",filtered_on_establishmentMeans,2214312,"Caspiocuma campylaspoides (Sars, 1897)"
+158602,162643624,Ecballium elaterium A.Rich.,scientificName_replaced_by_backbone_name,2874680,Ecballium elaterium (L.) A.Rich.
+158604,162643626,Echinocystis lobata Torr. & A.Gray,scientificName_replaced_by_backbone_name,5331404,Echinocystis lobata (Michx.) Torr. & A.Gray
+158763,162643635,Veronica opaca Fries,scientificName_replaced_by_backbone_name,3172071,Veronica opaca Fr.
+158679,162643641,Mentha piperita L.,scientificName_replaced_by_backbone_name,8707933,Mentha ×piperita L.
+158653,162643645,Lallemantia iberica Fisch. & C.A.Mey.,scientificName_replaced_by_backbone_name,5608183,Lallemantia iberica (M.Bieb.) Fisch. & C.A.Mey.
+158607,162643647,Elsholtzia ciliata (Thunb.) Hylander,scientificName_replaced_by_backbone_name,2927075,Elsholtzia ciliata (Thunb.) Hyl.
+158588,162643658,Cuscuta gronovii Willd. ex Roem. & Schult.,scientificName_replaced_by_backbone_name,2927492,Cuscuta gronovii Willd. ex Schult.
+158711,162643669,Physalis ixocarpa Brot. ex Hornem.,merged_with_accepted,5581168,Physalis philadelphica subsp. ixocarpa (Brot. ex Hornem.) Sobr.-Vesp. & Sanz-Elorza
+158710,162643673,Physalis alkekengi L.,merged_with_accepted,3797084,Alkekengi officinarum Moench
+158749,162643676,Solanum rostratum Dun.,merged_with_accepted,2929800,Solanum angustifolium Houst. ex Mill.
+158748,162643678,Solanum cornutum Lam.,merged_with_accepted,2929800,Solanum angustifolium Houst. ex Mill.
+158629,162643681,"Gossyparia spuria Cockerell, 1899",merged_with_accepted,5160887,"Eriococcus spurius (Modeer, 1778)"
+158747,162643682,Solanum alatum Moench,not_matched_with_backbone,,
+158585,162643686,"Criocauter buxi (Boyer de Fonscolombe, 1834)",not_matched_with_backbone,,
+158671,162643697,"Lymantria dispar (Linnaeus, 1758)",scientificName_replaced_by_backbone_name,1820406,"Lymantria dispar Linnaeus, 1758"
+158567,162643698,Chamaesyce humifusa (Willd.) Prokh.,merged_with_accepted,3067054,Euphorbia humifusa Willd.
+158551,162643713,"Cameraria ohridella Deschka & Dimic, 1986",scientificName_replaced_by_backbone_name,1749449,"Cameraria ohridella Deschka & Dimić, 1986"
+158554,162643729,Cannabis sativa var. spontanea Vav.,merged_with_accepted,5602713,Cannabis sativa var. ruderalis (Janisch.) S.Z.Liou
+158600,162643732,"Dreissena rostriformis bugensis Andrusov, 1897",merged_with_accepted,2287073,"Dreissena bugensis (Andrusov, 1897)"
+158579,162643738,"Corbicula fluminalis (Müller, 1774)",scientificName_replaced_by_backbone_name,5189032,"Corbicula fluminalis (O.F.Müller, 1774)"
+158580,162643740,"Corbicula fluminea (O.F.MÃ¼ller, 1774)",scientificName_replaced_by_backbone_name,8190231,"Corbicula fluminea (O.F.Müller, 1774)"
+158613,162643746,Eruca sativa Mill.,merged_with_accepted,5375920,Eruca vesicaria (L.) Cav.
+158756,162643749,"Theodoxus euxinus (Clessin, 1886)",merged_with_accepted,2291444,"Theodoxus fluviatilis (Linnaeus, 1758)"
+158558,162643750,Cardaria draba (L.) Desv.,merged_with_accepted,5376961,Lepidium draba L.
+158757,162643751,"Theodoxus pallasi Lindholm, 1924",merged_with_accepted,10705526,"Theodoxus major Issel, 1865"
+158550,162643754,Camelina sativa subsp. pilosa (DC.) N.W.Zinger,merged_with_accepted,3042416,Camelina microcarpa Andrz. ex DC.
+158548,162643756,Camelina microcarpa subsp. sylvestris (Wallr.) Hiitonen,merged_with_accepted,3042416,Camelina microcarpa Andrz. ex DC.
+158720,162643757,"Potamopyrgus antipodarum (Gray, 1843)",scientificName_replaced_by_backbone_name,5192470,"Potamopyrgus antipodarum (J.E.Gray, 1843)"
+158721,162643759,"Potamopyrgus jenkinsi (E.A.Smith, 1889)",merged_with_accepted,5192470,"Potamopyrgus antipodarum (J.E.Gray, 1843)"
+158621,162643765,"Ferrissia fragilis (Tryon, 1863)",merged_with_accepted,9520065,"Ferrissia californica (Rowell, 1863)"
+158596,162643767,Diplotaxis viminea DC.,scientificName_replaced_by_backbone_name,5376357,Diplotaxis viminea (L.) DC.
+158549,162643771,Camelina sativa Crantz,scientificName_replaced_by_backbone_name,9073641,Camelina sativa (L.) Crantz
+158772,162643772,"Xeropicta derbentina (Krynicki, 1836)",filtered_on_establishmentMeans,4564893,"Xeropicta derbentina (Krynicki, 1836)"
+158543,162643773,Brassica rapa subsp. oleifera (DC.) Metzg.,merged_with_accepted,7903057,Brassica rapa L.
+158773,162643774,"Xeropicta krynickii (Krynicki, 1833)",filtered_on_establishmentMeans,4564882,"Xeropicta krynickii (Krynicki, 1833)"
+158771,162643776,"Xerolenta obvia (Menke, 1828)",filtered_on_establishmentMeans,4565020,"Xerolenta obvia (Menke, 1828)"
+158755,162643781,"Tandonia kusceri (H.Wagner, 1931)",filtered_on_establishmentMeans,9155057,"Tandonia kusceri (H.Wagner, 1931)"
+158680,162643785,"Monacha cartusiana (O.F.MÃ¼ller, 1774)",filtered_on_establishmentMeans,5780449,"Monacha cartusiana (O.F.Müller, 1774)"
+158661,162643789,"Limax maximus Linnaeus, 1758",filtered_on_establishmentMeans,2295438,"Limax maximus Linnaeus, 1758"
+158768,162643792,Xanthium strumarium subsp. italicum (Moretti) D.LÃ¶ve,not_matched_with_backbone,,
+158582,162643793,"Cornu aspersum (O.F.MÃ¼ller, 1774)",scientificName_replaced_by_backbone_name,5858758,"Cornu aspersum (O.F.Müller, 1774)"
+158648,162643795,Iva xanthifolia Nutt.,merged_with_accepted,3141890,Cyclachaena xanthiifolia (Nutt.) Fresen.
+158544,162643797,"Brephulopsis cylindrica (Menke, 1828)",filtered_on_establishmentMeans,4566273,"Brephulopsis cylindrica (Menke, 1828)"
+158765,162643798,Xanthium albinum subsp. riparium (Celak.) Widd. & Wagenitz,merged_with_accepted,6306076,Xanthium orientale var. riparium (Celak.) Adema & M.T.Jansen
+158524,162643805,Artemisia argyi H.LÃ©v. & Vaniot,not_matched_with_backbone,,
+158526,162643811,Artemisia siversiana Ehrh. ex Willd.,merged_with_accepted,3121562,Artemisia sieversiana Ehrh. ex Willd.
+158563,162643821,Centaurea iberica Trevir. ex Spreng.,scientificName_replaced_by_backbone_name,3129000,Centaurea iberica Trevis. ex Spreng.
+158535,162643825,"Beroe ovata Bruguiere, 1789",scientificName_replaced_by_backbone_name,5233152,"Beroe ovata Bruguière, 1789"
+158566,162643826,Chamaemelum nobile All.,scientificName_replaced_by_backbone_name,5391599,Chamaemelum nobile (L.) All.
+158609,162643828,Erigeron annuus Pers.,scientificName_replaced_by_backbone_name,3117449,Erigeron annuus (L.) Pers.
+158574,162643845,Chrysanthemum segetum L.,merged_with_accepted,3141101,Glebionis segetum (L.) Fourr.
+158578,162643847,Conyza canadensis (L.) Cronq.,merged_with_accepted,3146791,Erigeron canadensis L.
+158573,162643849,Chrysanthemum carinatum Schousboe,merged_with_accepted,3091999,Glebionis carinata (Schousb.) Tzvelev
+158537,162643853,Brachyactis ciliata (Ledeb.) Ledeb.,merged_with_accepted,3151692,Symphyotrichum ciliatum (Ledeb.) G.L.Nesom
+158770,162643855,Xanthium strumarium var. canadense (Mill.) Torr. & A.Gray,merged_with_accepted,3089146,Xanthium orientale L.
+158769,162643856,Xanthium strumarium subsp. strumarium,merged_with_accepted,3089154,Xanthium strumarium L.
+158764,162643857,Xanthium albinum (Widder) Scholz & Sukopp,merged_with_accepted,4225554,Xanthium orientale var. albinum (Widder) Adema & M.T.Jansen
+158519,162643870,Anchusa arvensis subsp. orientalis (L.) Nordh.,merged_with_accepted,9405645,Lycopsis arvensis subsp. orientalis (L.) Kusn.
+158699,162643884,Oxybaphus nyctagineus (Michx.) Sw.,not_matched_with_backbone,,
+158717,162643889,Polygonum rurivagum Jord. ex Boreau,merged_with_accepted,5652131,Polygonum aviculare subsp. rurivagum (Boreau) Berher
+158620,162643891,Fagopyrum tataricum Gaertn.,scientificName_replaced_by_backbone_name,2889378,Fagopyrum tataricum (L.) Gaertn.
+158651,162643895,Kochia scoparia (L.) Schrad.,merged_with_accepted,5383936,Bassia scoparia (L.) A.J.Scott
+158531,162643897,Atriplex prostrata subsp. calotheca (Rafn) M.Gust.,merged_with_accepted,3756027,Atriplex calotheca (Rafn) Fr.
+158571,162643899,Chenopodium schraderianum Roem. ex Schult.,merged_with_accepted,5568322,Dysphania schraderiana (Schult.) Mosyakin & Clemants
+158570,162643901,Chenopodium foliosum (Moench) Ascherson,merged_with_accepted,8336376,Blitum virgatum subsp. virgatum
+158569,162643904,Chenopodium ambrosioides L.,merged_with_accepted,5568446,Dysphania ambrosioides (L.) Mosyakin & Clemants
+158509,162643908,Amaranthus crispus (Lesp. & ThÃ©v.) N.Terracc.,scientificName_replaced_by_backbone_name,5384341,Amaranthus crispus (Lesp. & Thévenau) N.Terracc.
+158741,162643920,Silene armeria L.,merged_with_accepted,7268098,Atocion armeria (L.) Raf.
+158669,162643922,Lychnis chalcedonica L.,merged_with_accepted,5584611,Silene chalcedonica (L.) E.H.L.Krause
+158742,162643923,Silene sibirica Pers.,scientificName_replaced_by_backbone_name,5384842,Silene sibirica (L.) Pers.
+158504,162643932,Ailanthus altissima Swingle,scientificName_replaced_by_backbone_name,3190653,Ailanthus altissima (Mill.) Swingle

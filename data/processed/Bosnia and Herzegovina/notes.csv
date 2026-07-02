@@ -1,0 +1,69 @@
+taxonID,taxonKey,scientificName,action,acceptedKey,acceptedName
+50580,159881464,"Cornu aspersum (O.F.MÃ¼ller, 1774)",scientificName_replaced_by_backbone_name,5858758,"Cornu aspersum (O.F.Müller, 1774)"
+50634,159881484,"Herpestes javanicus (Ã‰.Geoffroy Saint-Hilaire, 1818)",scientificName_replaced_by_backbone_name,2434271,"Herpestes javanicus (É.Geoffroy Saint-Hilaire, 1818)"
+50684,159881507,"Micropterus salmoides (LacepÃ¨de, 1802)",scientificName_replaced_by_backbone_name,2394563,"Micropterus salmoides (Lacepède, 1802)"
+50734,159881511,"Ponticola kessleri (GÃ¼nther, 1861)",scientificName_replaced_by_backbone_name,4285968,"Ponticola kessleri (Günther, 1861)"
+50558,159881533,"Cameraria ohridella Deschka & Dimic, 1986",scientificName_replaced_by_backbone_name,1749449,"Cameraria ohridella Deschka & Dimić, 1986"
+50507,159881536,"Aedes albopictus Skuse, 1894",scientificName_replaced_by_backbone_name,1651430,"Aedes albopictus (Skuse, 1894)"
+50576,159881564,Commelina L.,scientificName_replaced_by_backbone_name,2763939,Commelina Plum. ex L.
+50638,159881574,"Hordeum vulgare subsp. distichon (L.) Brand, 1907",merged_with_accepted,8332019,Hordeum distichon L.
+50568,159881578,Ceratochloa cathartica (Vahl) Herter,merged_with_accepted,2703723,Bromus catharticus Vahl
+50768,159881581,Setaria italica P.Beauv.,scientificName_replaced_by_backbone_name,5289698,Setaria italica (L.) P.Beauv.
+50778,159881584,Sorghum halepense Pers.,scientificName_replaced_by_backbone_name,2705185,Sorghum halepense (L.) Pers.
+50711,159881590,Panicum riparium H.Scholz,merged_with_accepted,2705162,Panicum capillare L.
+50651,159881605,Iris germanica L.,scientificName_replaced_by_backbone_name,5298069,Iris ×germanica L.
+50632,159881607,Hemerocallis fulva L.,scientificName_replaced_by_backbone_name,2781074,Hemerocallis fulva (L.) L.
+50765,159881622,Sedum spurium Bieb.,merged_with_accepted,11162940,Phedimus spurius subsp. spurius
+50715,159881628,Parthenocissus tricuspidata Planch.,scientificName_replaced_by_backbone_name,3039209,Parthenocissus tricuspidata (Siebold & Zucc.) Planch.
+50731,159881635,Platanus acerifolia (Ait.) Willd.,merged_with_accepted,7400250,Platanus ×hispanica Mill. ex Münchh.
+50707,159881640,Oxalis fontana Bunge,merged_with_accepted,9823072,Oxalis stricta L.
+50704,159881641,Oxalis articulata Savign.,scientificName_replaced_by_backbone_name,2891664,Oxalis articulata Savigny
+50671,159881650,Lonicera nitida E.H.Wilson,merged_with_accepted,7764700,Lonicera pileata var. yunnanensis (Franch.) Bernd Schulz
+50781,159881651,Symphoricarpos albus (L.) C.Koch,not_matched_with_backbone,,
+50641,159881664,Hypericum majus Britton,scientificName_replaced_by_backbone_name,3189530,Hypericum majus (A.Gray) Britton
+50613,159881667,Euphorbia prostrata Ait.,scientificName_replaced_by_backbone_name,3067891,Euphorbia prostrata Aiton
+50722,159881678,Petunia hybrida (Hook.fil.) Vilmorin,merged_with_accepted,2928859,Petunia ×atkinsiana D.Don ex Loudon
+50675,159881684,Lycopersicon esculentum (L.) Karst. ex Farw.,not_matched_with_backbone,,
+50598,159881696,Echinocystis lobata Torr. & A.Gray,scientificName_replaced_by_backbone_name,5331404,Echinocystis lobata (Michx.) Torr. & A.Gray
+50573,159881700,Citrullus lanatus (Thunb.) Matsumura & Nakai,scientificName_replaced_by_backbone_name,2874621,Citrullus lanatus (Thunb.) Matsum. & Nakai
+50740,159881704,Prunus persica (L.) Batsch,merged_with_accepted,8149923,Prunus persica (L.) Stokes
+50737,159881705,Potentilla indica (Andrews) T.Wolf,scientificName_replaced_by_backbone_name,5365717,Potentilla indica (Andrews) Th.Wolf
+50739,159881706,Prunus dulcis (Mill.) D.A.Webb,merged_with_accepted,3020980,Prunus amygdalus Batsch
+50618,159881709,Fragaria ananassa (Weston) Duchesne ex Rozier,scientificName_replaced_by_backbone_name,3029912,Fragaria ×ananassa (Weston) Rozier
+50570,159881711,Chaenomeles speciosa Nakai,scientificName_replaced_by_backbone_name,3000679,Chaenomeles speciosa (Sweet) Nakai
+50676,159881715,Maclura pomifera (Raf.) C.K.Schneid.,scientificName_replaced_by_backbone_name,2984580,Maclura pomifera (Raf. ex Sarg.) C.K.Schneid.
+50554,159881718,Broussonetia papyrifera Vent.,scientificName_replaced_by_backbone_name,5361944,Broussonetia papyrifera (L.) L'Hér. ex Vent.
+50574,159881727,Cleome spinosa L.,merged_with_accepted,12187916,Tarenaya houtteana (Schltdl.) Soares Neto & Roalson
+50607,159881735,Erysimum cheiri Crantz,scientificName_replaced_by_backbone_name,3048203,Erysimum cheiri (L.) Crantz
+50530,159881745,Ammi visnaga (L.) Lam.,merged_with_accepted,5371753,Visnaga daucoides Gaertn.
+50721,159881746,Petroselinum crispum (Mill.) A.W.Hill,merged_with_accepted,7224069,Petroselinum crispum subsp. crispum
+50719,159881752,Perilla frutescens Britton.,scientificName_replaced_by_backbone_name,5341394,Perilla frutescens (L.) Britton
+50616,159881758,Forsythia intermedia Zabel,scientificName_replaced_by_backbone_name,5415054,Forsythia ×intermedia Zabel
+50559,159881764,Campsis radicans (L.) Seem.,merged_with_accepted,3172549,Campsis radicans (L.) Bureau
+50657,159881768,Kickxia spuria Dumort.,scientificName_replaced_by_backbone_name,3170817,Kickxia spuria (L.) Dumort.
+50529,159881777,Ammannia verticillata (Ard.) Lam.,merged_with_accepted,3188716,Ammannia baccifera L.
+50652,159881786,Iva xanthifolia Nutt.,merged_with_accepted,3141890,Cyclachaena xanthiifolia (Nutt.) Fresen.
+50601,159881788,Erechtites hieraciifolius Walp.,merged_with_accepted,3132457,Erechtites hieraciifolius (L.) Raf. ex DC.
+50557,159881795,Callistephus chinensis Nees,scientificName_replaced_by_backbone_name,3092946,Callistephus chinensis (L.) Nees
+50605,159881801,Erigeron sumatrensis Retz,scientificName_replaced_by_backbone_name,3146683,Erigeron sumatrensis Retz.
+50602,159881804,Erigeron annuus Pers.,scientificName_replaced_by_backbone_name,3117449,Erigeron annuus (L.) Pers.
+50628,159881809,Guizotia abyssinica Cass.,scientificName_replaced_by_backbone_name,8584304,Guizotia abyssinica (L.fil.) Cass.
+50625,159881810,Glebionis segetum Fourr.,scientificName_replaced_by_backbone_name,3141101,Glebionis segetum (L.) Fourr.
+50789,159881819,Tagetes patula L.,merged_with_accepted,3088488,Tagetes erecta L.
+50770,159881825,Siegesbeckia orientalis Turcz.,not_matched_with_backbone,,
+50590,159881828,Cyanus segetum Hill,merged_with_accepted,3089561,Centaurea cyanus L.
+50807,159881830,Xanthium orientale subsp. italicum (Moretti) Greuter,merged_with_accepted,11519882,Xanthium orientale var. italicum (Moretti) M.Hassl.
+50791,159881833,Tanacetum parthenium Sch.Bip.,scientificName_replaced_by_backbone_name,3118430,Tanacetum parthenium (L.) Sch.Bip.
+50794,159881837,Trigonella caerulea Ser.,scientificName_replaced_by_backbone_name,5360498,Trigonella caerulea (L.) Ser.
+50801,159881839,Vicia ervilia Willd.,scientificName_replaced_by_backbone_name,2974887,Vicia ervilia (L.) Willd.
+50806,159881842,Wisteria sinensis Sweet,merged_with_accepted,8149049,Wisteria sinensis (Sims) DC.
+50730,159881847,Pisum sativum L.,merged_with_accepted,5347846,Lathyrus oleraceus Lam.
+50663,159881851,Lens culinaris Medik.,merged_with_accepted,3973001,Vicia lens (L.) Coss. & Germ.
+50520,159881884,Amaranthus crispus (Lesp. & ThÃ©v.) N.Terracc.,scientificName_replaced_by_backbone_name,5384341,Amaranthus crispus (Lesp. & Thévenau) N.Terracc.
+50644,159881895,Impatiens balfourii Hook.f.,scientificName_replaced_by_backbone_name,2891783,Impatiens balfourii Hook.fil.
+50532,159881900,"Anagalis arvensis L., 1753",not_matched_with_backbone,,
+50660,159881909,Lamprocapnos spectabilis (L.) T.Fukuhara,scientificName_replaced_by_backbone_name,2888564,Lamprocapnos spectabilis (L.) Fukuhara
+50577,159881915,Consolida regalis S.F.Gray,merged_with_accepted,10763835,Delphinium consolida subsp. consolida
+50510,159881927,Ailanthus altissima Swingle,scientificName_replaced_by_backbone_name,3190653,Ailanthus altissima (Mill.) Swingle
+50678,159881936,Malva trimestris Salisb.,scientificName_replaced_by_backbone_name,3940326,Malva trimestris (L.) Salisb.
+50515,159881938,Alcea setosa Alef.,scientificName_replaced_by_backbone_name,5617456,Alcea setosa (Boiss.) Alef.

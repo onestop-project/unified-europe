@@ -1,0 +1,4 @@
+taxonID,taxonKey,scientificName,action,acceptedKey,acceptedName
+74013,196397261,"Acanthoscelides pallidipennis (Motschulsky, 1874)",merged_with_accepted,6275970,"Dactylispa pallidipennis (Motschulsky, 1861)"
+74018,196397263,"Xylosandrus compactus Eichhoff, 1875",merged_with_accepted,5019579,"Xyleborus compactus Eichhoff, 1875"
+74010,196397267,"Aedes albopictus Skuse, 1894",scientificName_replaced_by_backbone_name,1651430,"Aedes albopictus (Skuse, 1894)"
