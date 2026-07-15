@@ -1,0 +1,17 @@
+taxonID,taxonKey,scientificName,action,acceptedKey,acceptedName
+181778,196382544,Imperata cylindrica (L.) P.Beauv.,merged_with_accepted,8424006,Imperata cylindrica (L.) Raeusch.
+181802,196382572,Solanum rostratum Dun.,merged_with_accepted,2929800,Solanum angustifolium Houst. ex Mill.
+181789,196382573,"Nereis diversicolor O.F.Müller, 1776",merged_with_accepted,2316416,"Hediste diversicolor (O.F.Müller, 1776)"
+181780,196382580,Lotus corniculatus L.,filtered_on_establishmentMeans,5357013,Lotus corniculatus L.
+181793,196382583,"Oxyura jamaicensis (Gmelin, 1789)",scientificName_replaced_by_backbone_name,2498305,"Oxyura jamaicensis (J.F.Gmelin, 1789)"
+181805,196382586,Xanthium strumarium Lour.,scientificName_replaced_by_backbone_name,9052721,"Xanthium strumarium Lour., 1790"
+181803,196382601,West Nile virus (WNV),not_matched_with_backbone,,
+181790,196382605,Newcastle disease virus (NDV),not_matched_with_backbone,,
+181755,196382636,"Amphibalanus improvisus Darwin, 1854",scientificName_replaced_by_backbone_name,6467647,"Amphibalanus improvisus (Darwin, 1854)"
+181779,196382645,"Ips typographus (Linnaeus & C., 1758)",scientificName_replaced_by_backbone_name,5018723,"Ips typographus (C.Linnaeus, 1758)"
+181799,196382648,"Pyrrhalta luteola (MÃ¼ller, 1766)",merged_with_accepted,1047449,"Xanthogaleruca luteola (O.F.Müller, 1766)"
+181753,196382651,"Aedes albopictus Skuse, 1894",scientificName_replaced_by_backbone_name,1651430,"Aedes albopictus (Skuse, 1894)"
+181796,196382657,"Potamopyrgus antipodarum (Gray, 1843)",scientificName_replaced_by_backbone_name,5192470,"Potamopyrgus antipodarum (J.E.Gray, 1843)"
+181764,196382664,"Corbicula fluminalis (O.F.Müller, 1774)",filtered_on_establishmentMeans,5189032,"Corbicula fluminalis (O.F.Müller, 1774)"
+181768,196382671,"Dreissena grimmi Andrusov, 1897",scientificName_replaced_by_backbone_name,6525757,"Dreissena grimmi Andrusov, 1890"
+181750,196382678,"Abra ovata (Philippi, 1836)",merged_with_accepted,5729096,"Abra segmentum (Récluz, 1843)"
