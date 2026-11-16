@@ -1,0 +1,64 @@
+taxonKey,nubKey,taxonID,scientificName,taxonomicStatus,acceptedKey,acceptedName,acceptedTaxonRank,acceptedKingdom
+148790085,5189729,42960,"Planorbella Haldeman, 1843",ACCEPTED,5189729,"Planorbella Haldeman, 1843",GENUS,Animalia
+148790089,2291118,42959,"Physa acuta Draparnaud, 1805",HOMOTYPIC_SYNONYM,5189806,"Physella acuta (Draparnaud, 1805)",SPECIES,Animalia
+148790094,4410669,42949,"Lumbricus rubellus Hoffmeister, 1843",ACCEPTED,4410669,"Lumbricus rubellus Hoffmeister, 1843",SPECIES,Animalia
+148790099,5156102,42946,"Leptoglossus occidentalis Heidemann, 1910",ACCEPTED,5156102,"Leptoglossus occidentalis Heidemann, 1910",SPECIES,Animalia
+148790102,4989904,42939,"Harmonia axyridis (Pallas, 1773)",ACCEPTED,4989904,"Harmonia axyridis (Pallas, 1773)",SPECIES,Animalia
+148790105,8351995,42934,"Frankliniella occidentalis (Pergande, 1895)",ACCEPTED,8351995,"Frankliniella occidentalis (Pergande, 1895)",SPECIES,Animalia
+148790110,2434552,42954,"Nyctereutes procyonoides (Gray, 1834)",ACCEPTED,2434552,"Nyctereutes procyonoides (Gray, 1834)",SPECIES,Animalia
+148790113,5219858,42955,"Ondatra zibethicus (Linnaeus, 1766)",ACCEPTED,5219858,"Ondatra zibethicus (Linnaeus, 1766)",SPECIES,Animalia
+148790115,4264680,42953,"Myocastor coypus (Molina, 1782)",ACCEPTED,4264680,"Myocastor coypus (Molina, 1782)",SPECIES,Animalia
+148790117,2439270,42962,"Rattus rattus (Linnaeus, 1758)",ACCEPTED,2439270,"Rattus rattus (Linnaeus, 1758)",SPECIES,Animalia
+148790118,2439261,42961,"Rattus norvegicus (Berkenhout, 1769)",ACCEPTED,2439261,"Rattus norvegicus (Berkenhout, 1769)",SPECIES,Animalia
+148790119,7429082,42952,"Mus musculus Linnaeus, 1758",ACCEPTED,7429082,"Mus musculus Linnaeus, 1758",SPECIES,Animalia
+148790122,2441110,42956,"Ovis aries Linnaeus, 1758",ACCEPTED,2441110,"Ovis aries Linnaeus, 1758",SPECIES,Animalia
+148790124,5220136,42927,"Dama dama (Linnaeus, 1758)",ACCEPTED,5220136,"Dama dama (Linnaeus, 1758)",SPECIES,Animalia
+148790128,2394486,42945,"Lepomis gibbosus (Linnaeus, 1758)",ACCEPTED,2394486,"Lepomis gibbosus (Linnaeus, 1758)",SPECIES,Animalia
+148790131,2362473,42941,"Hypophthalmichthys molitrix (Valenciennes, 1844)",ACCEPTED,2362473,"Hypophthalmichthys molitrix (Valenciennes, 1844)",SPECIES,Animalia
+148790132,4286975,42926,"Cyprinus carpio Linnaeus, 1758",ACCEPTED,4286975,"Cyprinus carpio Linnaeus, 1758",SPECIES,Animalia
+148790138,3202936,42915,Aphanomyces astaci Schikora,ACCEPTED,3202936,Aphanomyces astaci Schikora,SPECIES,Chromista
+148790144,2566393,42925,Cryphonectria parasitica (Murrill) M.E.Barr,ACCEPTED,2566393,Cryphonectria parasitica (Murrill) M.E.Barr,SPECIES,Fungi
+148790150,5296015,42964,Sisyrinchium angustifolium Mill.,ACCEPTED,5296015,Sisyrinchium angustifolium Mill.,SPECIES,Plantae
+148790153,2865526,42969,Vallisneria spiralis L.,ACCEPTED,2865526,Vallisneria spiralis L.,SPECIES,Plantae
+148790154,2865448,42930,Elodea canadensis Michx.,ACCEPTED,2865448,Elodea canadensis Michx.,SPECIES,Plantae
+148790157,2766129,42940,Heteranthera limosa Willd.,ACCEPTED,2766129,Heteranthera limosa (Sw.) Willd.,SPECIES,Plantae
+148790159,2764179,42921,Commelina communis L.,ACCEPTED,2764179,Commelina communis L.,SPECIES,Plantae
+148790162,2702084,42942,Juncus tenuis Willd.,ACCEPTED,2702084,Juncus tenuis Willd.,SPECIES,Plantae
+148790164,2704757,42967,Sporobolus indicus (L.) R.Br.,ACCEPTED,2704757,Sporobolus indicus (L.) R.Br.,SPECIES,Plantae
+148790165,5289744,42958,Phalaris canariensis L.,ACCEPTED,5289744,Phalaris canariensis L.,SPECIES,Plantae
+148790166,2705622,42957,Paspalum distichum L.,ACCEPTED,2705622,Paspalum distichum L.,SPECIES,Plantae
+148790167,2705953,42929,Eleusine indica (L.) Gaertn.,ACCEPTED,2705953,Eleusine indica (L.) Gaertn.,SPECIES,Plantae
+148790168,2703041,42916,Arundo donax L.,ACCEPTED,2703041,Arundo donax L.,SPECIES,Plantae
+148790172,2929892,42965,Solanum elaeagnifolium Cav.,ACCEPTED,2929892,Solanum elaeagnifolium Cav.,SPECIES,Plantae
+148790175,8139063,42950,Malcolmia africana (L.) R.Br.,ACCEPTED,8139063,Malcolmia africana (L.) R.Br.,SPECIES,Plantae
+148790176,5373358,42948,Lobularia maritima (L.) Desv.,ACCEPTED,5373358,Lobularia maritima (L.) Desv.,SPECIES,Plantae
+148790179,3152102,42943,Kleinhovia hospita L.,ACCEPTED,3152102,Kleinhovia hospita L.,SPECIES,Plantae
+148790182,5362055,42924,Crassula tillaea Lest.-Garl.,ACCEPTED,5362055,Crassula tillaea Lest.-Garl.,SPECIES,Plantae
+148790186,3067128,42919,Chamaesyce maculata (L.) Small,HOMOTYPIC_SYNONYM,3067119,Euphorbia maculata L.,SPECIES,Plantae
+148790189,3171888,42947,Lindernia dubia Pennell,ACCEPTED,3171888,Lindernia dubia (L.) Pennell,SPECIES,Plantae
+148790191,3173338,42918,Buddleja davidii Franch.,ACCEPTED,3173338,Buddleja davidii Franch.,SPECIES,Plantae
+148790194,5361944,42917,Broussonetia papyrifera Vent.,ACCEPTED,5361944,Broussonetia papyrifera (L.) L'Hér. ex Vent.,SPECIES,Plantae
+148790197,3188716,42913,Ammannia baccifera L.,ACCEPTED,3188716,Ammannia baccifera L.,SPECIES,Plantae
+148790200,5352251,42963,Robinia pseudoacacia L.,ACCEPTED,5352251,Robinia pseudoacacia L.,SPECIES,Plantae
+148790201,2959443,42937,Gleditsia triacanthos L.,ACCEPTED,2959443,Gleditsia triacanthos L.,SPECIES,Plantae
+148790202,5357407,42914,Amorpha fruticosa L.,ACCEPTED,5357407,Amorpha fruticosa L.,SPECIES,Plantae
+148790205,5389029,42966,Solidago canadensis L.,ACCEPTED,5389029,Solidago canadensis L.,SPECIES,Plantae
+148790207,5404795,42922,Conyza bonariensis (L.) Cronq.,SYNONYM,3146717,Erigeron bonariensis L.,SPECIES,Plantae
+148790209,5404801,42923,Conyza canadensis (L.) Cronq.,SYNONYM,3146791,Erigeron canadensis L.,SPECIES,Plantae
+148790211,4219549,42931,Erigeron annuus subsp. septentrionalis (Fern. & Wieg.) Wagenitz,HETEROTYPIC_SYNONYM,3117449,Erigeron annuus (L.) Pers.,SPECIES,Plantae
+148790213,6298108,42932,Erigeron annuus var. annuus,SYNONYM,3117449,Erigeron annuus (L.) Pers.,SPECIES,Plantae
+148790214,3088481,42968,Tagetes minuta L.,ACCEPTED,3088481,Tagetes minuta L.,SPECIES,Plantae
+148790215,3089150,42970,Xanthium spinosum L.,ACCEPTED,3089150,Xanthium spinosum L.,SPECIES,Plantae
+148790216,3103791,42951,Matricaria discoidea DC.,ACCEPTED,3103791,Matricaria discoidea DC.,SPECIES,Plantae
+148790217,3132570,42935,Galinsoga parviflora Cav.,ACCEPTED,3132570,Galinsoga parviflora Cav.,SPECIES,Plantae
+148790218,3132567,42936,Galinsoga quadriradiata Cav.,DOUBTFUL,3132567,Galinsoga quadriradiata Cav.,SPECIES,Plantae
+148790219,8002952,42912,Ambrosia artemisiifolia L.,ACCEPTED,8002952,Ambrosia artemisiifolia L.,SPECIES,Plantae
+148790222,3084616,42938,Glinus lotoides L.,ACCEPTED,3084616,Glinus lotoides L.,SPECIES,Plantae
+148790225,5334357,42933,Fallopia japonica (Houtt.) Ronse Decraene,SYNONYM,2889173,Reynoutria japonica Houtt.,SPECIES,Plantae
+148790227,5568446,42928,Dysphania ambrosioides (L.) Mosyakin & Clemants,ACCEPTED,5568446,Dysphania ambrosioides (L.) Mosyakin & Clemants,SPECIES,Plantae
+148790228,3083823,42920,Chenopodium L.,ACCEPTED,3083823,Chenopodium L.,GENUS,Plantae
+148790229,5384401,42911,Amaranthus spinosus L.,ACCEPTED,5384401,Amaranthus spinosus L.,SPECIES,Plantae
+148790230,5384396,42910,Amaranthus deflexus L.,ACCEPTED,5384396,Amaranthus deflexus L.,SPECIES,Plantae
+148790233,3190653,42909,Ailanthus altissima Swingle,ACCEPTED,3190653,Ailanthus altissima (Mill.) Swingle,SPECIES,Plantae
+148790235,5421180,42944,Koelreuteria paniculata Laxm.,ACCEPTED,5421180,Koelreuteria paniculata Laxm.,SPECIES,Plantae
+148790236,3189866,42908,Acer negundo L.,ACCEPTED,3189866,Acer negundo L.,SPECIES,Plantae

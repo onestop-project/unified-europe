@@ -1,0 +1,57 @@
+taxonKey,nubKey,taxonID,scientificName,taxonomicStatus,acceptedKey,acceptedName,acceptedTaxonRank,acceptedKingdom
+196382534,5254231,181792,Ophiostoma novo-ulmi Brasier,ACCEPTED,5254231,Ophiostoma novo-ulmi Brasier,SPECIES,Fungi
+196382544,8120010,181778,Imperata cylindrica (L.) P.Beauv.,SYNONYM,8424006,Imperata cylindrica (L.) Raeusch.,SPECIES,Plantae
+196382545,2501248,181783,"Mnemiopsis leidyi A.Agassiz, 1865",ACCEPTED,2501248,"Mnemiopsis leidyi A.Agassiz, 1865",SPECIES,Animalia
+196382546,5289808,181782,Microstegium vimineum (Trin.) A.Camus,ACCEPTED,5289808,Microstegium vimineum (Trin.) A.Camus,SPECIES,Plantae
+196382548,2705953,181770,Eleusine indica (L.) Gaertn.,ACCEPTED,2705953,Eleusine indica (L.) Gaertn.,SPECIES,Plantae
+196382550,6109637,181766,Cynodon dactylon (L.) Pers.,ACCEPTED,6109637,Cynodon dactylon (L.) Pers.,SPECIES,Plantae
+196382556,4410669,181781,"Lumbricus rubellus Hoffmeister, 1843",ACCEPTED,4410669,"Lumbricus rubellus Hoffmeister, 1843",SPECIES,Animalia
+196382557,5285604,181795,Pinus halepensis Mill.,ACCEPTED,5285604,Pinus halepensis Mill.,SPECIES,Plantae
+196382564,3034128,181759,Centella asiatica (L.) Urb.,ACCEPTED,3034128,Centella asiatica (L.) Urb.,SPECIES,Plantae
+196382565,2327735,181772,"Ficopomatus enigmaticus (Fauvel, 1923)",ACCEPTED,2327735,"Ficopomatus enigmaticus (Fauvel, 1923)",SPECIES,Animalia
+196382572,2930922,181802,Solanum rostratum Dun.,SYNONYM,2929800,Solanum angustifolium Houst. ex Mill.,SPECIES,Plantae
+196382573,11394559,181789,"Nereis diversicolor O.F.Müller, 1776",SYNONYM,2316416,"Hediste diversicolor (O.F.Müller, 1776)",SPECIES,Animalia
+196382574,2929892,181801,Solanum elaeagnifolium Cav.,ACCEPTED,2929892,Solanum elaeagnifolium Cav.,SPECIES,Plantae
+196382580,5357013,181780,Lotus corniculatus L.,ACCEPTED,5357013,Lotus corniculatus L.,SPECIES,Plantae
+196382583,2498305,181793,"Oxyura jamaicensis (Gmelin, 1789)",ACCEPTED,2498305,"Oxyura jamaicensis (J.F.Gmelin, 1789)",SPECIES,Animalia
+196382586,9052721,181805,Xanthium strumarium Lour.,DOUBTFUL,9052721,"Xanthium strumarium Lour., 1790",SPECIES,Plantae
+196382588,3089150,181804,Xanthium spinosum L.,ACCEPTED,3089150,Xanthium spinosum L.,SPECIES,Plantae
+196382590,3132570,181773,Galinsoga parviflora Cav.,ACCEPTED,3132570,Galinsoga parviflora Cav.,SPECIES,Plantae
+196382591,4264680,181786,"Myocastor coypus (Molina, 1782)",ACCEPTED,4264680,"Myocastor coypus (Molina, 1782)",SPECIES,Animalia
+196382592,5402943,181771,Eupatorium cannabinum L.,ACCEPTED,5402943,Eupatorium cannabinum L.,SPECIES,Plantae
+196382594,8002952,181754,Ambrosia artemisiifolia L.,ACCEPTED,8002952,Ambrosia artemisiifolia L.,SPECIES,Plantae
+196382597,2434552,181791,"Nyctereutes procyonoides (Gray, 1834)",ACCEPTED,2434552,"Nyctereutes procyonoides (Gray, 1834)",SPECIES,Animalia
+196382600,5218786,181797,"Procyon lotor (Linnaeus, 1758)",ACCEPTED,5218786,"Procyon lotor (Linnaeus, 1758)",SPECIES,Animalia
+196382601,,181803,West Nile virus (WNV),,,West Nile virus (WNV),,
+196382605,,181790,Newcastle disease virus (NDV),,,Newcastle disease virus (NDV),,
+196382606,2440954,181761,"Cervus nippon Temminck, 1838",ACCEPTED,2440954,"Cervus nippon Temminck, 1838",SPECIES,Animalia
+196382610,2350580,181774,"Gambusia affinis (Baird & Girard, 1853)",ACCEPTED,2350580,"Gambusia affinis (Baird & Girard, 1853)",SPECIES,Animalia
+196382613,9420882,181763,"Chelon saliens (Risso, 1810)",ACCEPTED,9420882,"Chelon saliens (Risso, 1810)",SPECIES,Animalia
+196382614,9466310,181762,"Chelon auratus (Risso, 1810)",ACCEPTED,9466310,"Chelon auratus (Risso, 1810)",SPECIES,Animalia
+196382615,8189568,181785,"Mugil cephalus Linnaeus, 1758",ACCEPTED,8189568,"Mugil cephalus Linnaeus, 1758",SPECIES,Animalia
+196382618,2362030,181765,"Ctenopharyngodon idella (Valenciennes, 1844)",ACCEPTED,2362030,"Ctenopharyngodon idella (Valenciennes, 1844)",SPECIES,Animalia
+196382619,2366634,181758,"Carassius gibelio (Bloch, 1782)",ACCEPTED,2366634,"Carassius gibelio (Bloch, 1782)",SPECIES,Animalia
+196382620,2366645,181757,"Carassius carassius (Linnaeus, 1758)",ACCEPTED,2366645,"Carassius carassius (Linnaeus, 1758)",SPECIES,Animalia
+196382621,2367280,181776,"Hemiculter leucisculus (Basilewsky, 1855)",ACCEPTED,2367280,"Hemiculter leucisculus (Basilewsky, 1855)",SPECIES,Animalia
+196382622,2362868,181798,"Pseudorasbora parva (Temminck & Schlegel, 1846)",ACCEPTED,2362868,"Pseudorasbora parva (Temminck & Schlegel, 1846)",SPECIES,Animalia
+196382625,5212973,181756,"Anguilla anguilla (Linnaeus, 1758)",ACCEPTED,5212973,"Anguilla anguilla (Linnaeus, 1758)",SPECIES,Animalia
+196382630,2224979,181794,"Palaemon elegans Rathke, 1837",ACCEPTED,2224979,"Palaemon elegans Rathke, 1837",SPECIES,Animalia
+196382632,2227663,181800,"Rhithropanopeus harrisii (Gould, 1841)",ACCEPTED,2227663,"Rhithropanopeus harrisii (Gould, 1841)",SPECIES,Animalia
+196382636,6467647,181755,"Amphibalanus improvisus Darwin, 1854",ACCEPTED,6467647,"Amphibalanus improvisus (Darwin, 1854)",SPECIES,Animalia
+196382640,5127656,181775,"Glyphodes pyloalis Walker, 1859",ACCEPTED,5127656,"Glyphodes pyloalis Walker, 1859",SPECIES,Animalia
+196382642,1817797,181777,"Hyphantria cunea (Drury, 1773)",ACCEPTED,1817797,"Hyphantria cunea (Drury, 1773)",SPECIES,Animalia
+196382645,5018723,181779,"Ips typographus (Linnaeus & C., 1758)",ACCEPTED,5018723,"Ips typographus (C.Linnaeus, 1758)",SPECIES,Animalia
+196382648,1047450,181799,"Pyrrhalta luteola (MÃ¼ller, 1766)",SYNONYM,1047449,"Xanthogaleruca luteola (O.F.Müller, 1766)",SPECIES,Animalia
+196382651,1651430,181753,"Aedes albopictus Skuse, 1894",ACCEPTED,1651430,"Aedes albopictus (Skuse, 1894)",SPECIES,Animalia
+196382652,1651891,181752,"Aedes aegypti (Linnaeus, 1762)",ACCEPTED,1651891,"Aedes aegypti (Linnaeus, 1762)",SPECIES,Animalia
+196382657,5192470,181796,"Potamopyrgus antipodarum (Gray, 1843)",ACCEPTED,5192470,"Potamopyrgus antipodarum (J.E.Gray, 1843)",SPECIES,Animalia
+196382661,4374608,181787,"Mytilaster lineatus (Gmelin, 1791)",ACCEPTED,4374608,"Mytilaster lineatus (Gmelin, 1791)",SPECIES,Animalia
+196382664,5189032,181764,"Corbicula fluminalis (O.F.Müller, 1774)",ACCEPTED,5189032,"Corbicula fluminalis (O.F.Müller, 1774)",SPECIES,Animalia
+196382667,2287072,181769,"Dreissena polymorpha (Pallas, 1771)",ACCEPTED,2287072,"Dreissena polymorpha (Pallas, 1771)",SPECIES,Animalia
+196382668,2287073,181767,"Dreissena bugensis (Andrusov, 1897)",ACCEPTED,2287073,"Dreissena bugensis (Andrusov, 1897)",SPECIES,Animalia
+196382669,2287076,181788,"Mytilopsis leucophaeata (Conrad, 1831)",ACCEPTED,2287076,"Mytilopsis leucophaeata (Conrad, 1831)",SPECIES,Animalia
+196382671,6525757,181768,"Dreissena grimmi Andrusov, 1897",ACCEPTED,6525757,"Dreissena grimmi Andrusov, 1890",SPECIES,Animalia
+196382674,2286585,181760,"Cerastoderma glaucum (Bruguière, 1789)",ACCEPTED,2286585,"Cerastoderma glaucum (Bruguière, 1789)",SPECIES,Animalia
+196382675,4372509,181784,"Monodacna colorata (Eichwald, 1829)",ACCEPTED,4372509,"Monodacna colorata (Eichwald, 1829)",SPECIES,Animalia
+196382677,5729096,181751,"Abra segmentum (Récluz, 1843)",ACCEPTED,5729096,"Abra segmentum (Récluz, 1843)",SPECIES,Animalia
+196382678,5729098,181750,"Abra ovata (Philippi, 1836)",SYNONYM,5729096,"Abra segmentum (Récluz, 1843)",SPECIES,Animalia

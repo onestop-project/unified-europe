@@ -1,0 +1,31 @@
+taxonID,taxonKey,scientificName,action,acceptedKey,acceptedName
+121793,160946019,"Herpestes auropunctatus (Hodgson, 1836)",merged_with_accepted,6164088,"Herpestes javanicus auropunctatus (Hodgson, 1836)"
+121839,160946061,"Tinocallis kahawaluokalani (Kirkaldy, 1906)",merged_with_accepted,2071589,"Sarucallis kahawaluokalani (Kirkaldy, 1907)"
+121752,160946065,"Aedes albopictus Skuse, 1894",scientificName_replaced_by_backbone_name,1651430,"Aedes albopictus (Skuse, 1894)"
+121808,160946077,Narcissus polyanthos Loisel.,merged_with_accepted,6314270,Narcissus papyraceus subsp. polyanthos (Loisel.) Asch. & Graebn.
+121834,160946081,Sporobolus poiretii (Roem. & Schult.) Hitchc.,merged_with_accepted,2704776,Sporobolus junceus (P.Beauv.) Kunth
+121832,160946083,Sorghum halepense Pers.,scientificName_replaced_by_backbone_name,2705185,Sorghum halepense (L.) Pers.
+121818,160946087,Paspalum paspalodes (Michx.) Scribn.,merged_with_accepted,2705622,Paspalum distichum L.
+121836,160946097,Symphoricarpos albus (L.) S.F.Blake,merged_with_accepted,8012439,Symphoricarpos albus (L.) K.Koch
+121815,160946101,Parthenocissus inserta (A.Kerner) Fritsch,scientificName_replaced_by_backbone_name,3039203,Parthenocissus inserta (A.Kern.) Fritsch
+121811,160946105,Oenothera fallax Renner,scientificName_replaced_by_backbone_name,7915783,Oenothera ×fallax Renner
+121788,160946124,Euphorbia prostrata Ait.,scientificName_replaced_by_backbone_name,3067891,Euphorbia prostrata Aiton
+121782,160946127,Echinocystis lobata Torr. & A.Gray,scientificName_replaced_by_backbone_name,5331404,Echinocystis lobata (Michx.) Torr. & A.Gray
+121779,160946134,Cuscuta caesattiana Bertol.,not_matched_with_backbone,,
+121767,160946142,Broussonetia papyrifera Vent.,scientificName_replaced_by_backbone_name,5361944,Broussonetia papyrifera (L.) L'Hér. ex Vent.
+121803,160946150,Lupinus regalis (Hort.) Bergmans,scientificName_replaced_by_backbone_name,2964309,Lupinus ×regalis (Anon.) Bergmans
+121792,160946155,Helianthus xlaetiflorus,merged_with_accepted,3119181,Helianthus ×laetiflorus Pers.
+121844,160946157,Xanthium strumarium subsp. italicum (Moretti) D.Löve,not_matched_with_backbone,,
+121842,160946158,Xanthium echinatum subsp. italicum (Moretti) O.de BolÃ²s & J.Vigo,merged_with_accepted,11519882,Xanthium orientale var. italicum (Moretti) M.Hassl.
+121774,160946161,Conyza albida Willd. ex Spreng.,merged_with_accepted,3147018,Erigeron floribundus (Kunth) Sch.Bip.
+121771,160946163,Chamomilla suaveolens (Pursh) Rydb.,merged_with_accepted,3103791,Matricaria discoidea DC.
+121763,160946165,Aster novi-belgii L.,merged_with_accepted,3151558,Symphyotrichum novi-belgii (L.) G.L.Nesom
+121786,160946167,Erigeron annuus subsp. septentrionalis (Fern. & Wieg.) Wagenitz,merged_with_accepted,3117449,Erigeron annuus (L.) Pers.
+121776,160946169,Conyza canadensis (L.) Cronq.,merged_with_accepted,3146791,Erigeron canadensis L.
+121775,160946171,Conyza bonariensis (L.) Cronq.,merged_with_accepted,3146717,Erigeron bonariensis L.
+121831,160946172,Solidago canadensis L,scientificName_replaced_by_backbone_name,5389029,Solidago canadensis L.
+121785,160946175,Erigeron annuus Pers.,scientificName_replaced_by_backbone_name,3117449,Erigeron annuus (L.) Pers.
+121764,160946180,Aster squamatus Hieron.,merged_with_accepted,3151764,Symphyotrichum squamatum (Spreng.) G.L.Nesom
+121837,160946184,Tamarix dalmatica Baum,scientificName_replaced_by_backbone_name,10955204,Tamarix dalmatica B.R.Baum
+121770,160946193,Carpobrotus edulis N.E.Br.,scientificName_replaced_by_backbone_name,3084842,Carpobrotus edulis (L.) N.E.Br.
+121753,160946203,Ailanthus altissima Swingle,scientificName_replaced_by_backbone_name,3190653,Ailanthus altissima (Mill.) Swingle

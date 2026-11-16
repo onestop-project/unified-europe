@@ -1,0 +1,41 @@
+taxonID,taxonKey,scientificName,action,acceptedKey,acceptedName
+90532,160879665,"Cygnus olor (Gmelin, 1789)",scientificName_replaced_by_backbone_name,2498343,"Cygnus olor (J.F.Gmelin, 1789)"
+90549,160879676,"Halyomorpha halys (StÃ¥l, 1855)",scientificName_replaced_by_backbone_name,4485843,"Halyomorpha halys (Stål, 1855)"
+90519,160879682,"Cameraria ohridella Deschka & Dimic, 1986",scientificName_replaced_by_backbone_name,1749449,"Cameraria ohridella Deschka & Dimić, 1986"
+90500,160879688,"Aedes albopictus Skuse, 1894",scientificName_replaced_by_backbone_name,1651430,"Aedes albopictus (Skuse, 1894)"
+90556,160879694,"Hymenoscyphus fraxineus (T.Kowalski) Baral, Queloz & Hosoya, 2014",scientificName_replaced_by_backbone_name,8313437,"Hymenoscyphus fraxineus (T.Kowalski) Baral, Queloz & Hosoya"
+90608,160879699,Stropharia rugosoannulata Farl.,scientificName_replaced_by_backbone_name,7898828,Stropharia rugosoannulata Farlow
+90569,160879710,"Megachile sculpturalis Smith, 1853",not_matched_with_backbone,,
+90520,160879715,"Campylopus introflexus Bridel, 1819",scientificName_replaced_by_backbone_name,5281901,Campylopus introflexus (Hedw.) Brid.
+90553,160879729,Hemerocallis fulva L.,scientificName_replaced_by_backbone_name,2781074,Hemerocallis fulva (L.) L.
+90533,160879737,Cyperus esculentus Liebm,not_matched_with_backbone,,
+90601,160879740,Setaria italica P.Beauv.,scientificName_replaced_by_backbone_name,5289698,Setaria italica (L.) P.Beauv.
+90585,160879753,Platanus hispanica Ten.,filtered_on_establishmentMeans,7300214,Platanus hispanica Ten.
+90577,160879759,Papaver somniferum L.,filtered_on_establishmentMeans,2888439,Papaver somniferum L.
+90575,160879762,Oxalis fontana Bunge,merged_with_accepted,9823072,Oxalis stricta L.
+90566,160879766,Lonicera henryi Hemsl.,merged_with_accepted,5598598,Lonicera acuminata Wall.
+90609,160879767,Symphoricarpos albus (L.) C.Koch,not_matched_with_backbone,,
+90537,160879778,Epilobium adenocaulon Hausskn.,merged_with_accepted,7095758,Epilobium ciliatum subsp. ciliatum
+90583,160879792,Physalis alkekengi L.,merged_with_accepted,3797084,Alkekengi officinarum Moench
+90616,160879810,Veronica persica hort. ex Poir.,scientificName_replaced_by_backbone_name,3172077,Veronica persica Poir.
+90579,160879812,Paulownia tomentosa Steud.,scientificName_replaced_by_backbone_name,3170823,Paulownia tomentosa (Thunb.) Steud.
+90542,160879818,Erophila praecox (Steven) DC.,merged_with_accepted,7473187,Draba verna L.
+90530,160879820,Coronopus didymus (L.) Sm.,merged_with_accepted,5377060,Lepidium didymum L.
+90523,160879824,Cardaria draba (L.) Desv.,merged_with_accepted,5376961,Lepidium draba L.
+90599,160879834,Sedum spurium Bieb.,merged_with_accepted,11162940,Phedimus spurius subsp. spurius
+90515,160879836,Bergenia crassifolia Fritsch,scientificName_replaced_by_backbone_name,5567694,Bergenia crassifolia (L.) Fritsch
+90551,160879840,Helianthus rigidus (Cass.) Desf.,merged_with_accepted,7223475,Helianthus pauciflorus subsp. pauciflorus
+90546,160879842,Galinsoga ciliata (Rafin.) S.F.Blake,merged_with_accepted,8298495,Galinsoga quadriradiata Ruiz & Pav.
+90541,160879844,Erigeron annuus var. annuus,merged_with_accepted,3117449,Erigeron annuus (L.) Pers.
+90540,160879846,Erigeron annuus subsp. strigosus (Muehl. ex Willd.) Wagenitz,merged_with_accepted,3146632,Erigeron strigosus Muhl. ex Willd.
+90539,160879848,Erigeron annuus subsp. septentrionalis (Fern. & Wieg.) Wagenitz,merged_with_accepted,3117449,Erigeron annuus (L.) Pers.
+90529,160879850,Conyza canadensis (L.) Cronq.,merged_with_accepted,3146791,Erigeron canadensis L.
+90602,160879853,Silybum marianum Gaertn.,scientificName_replaced_by_backbone_name,3145214,Silybum marianum (L.) Gaertn.
+90512,160879856,Aster novae-angliae L.,merged_with_accepted,3151618,Symphyotrichum novae-angliae (L.) G.L.Nesom
+90513,160879858,Aster novi-belgii L.,merged_with_accepted,3151558,Symphyotrichum novi-belgii (L.) G.L.Nesom
+90514,160879860,Aster tradescantii L.,merged_with_accepted,3151474,Symphyotrichum tradescantii (L.) G.L.Nesom
+90511,160879862,Aster lanceolatus Willd.,merged_with_accepted,9202318,Symphyotrichum lanceolatum (Willd.) G.L.Nesom
+90538,160879868,Erigeron annuus Pers.,scientificName_replaced_by_backbone_name,3117449,Erigeron annuus (L.) Pers.
+90587,160879879,Polygonum polystachyum Meisn.,merged_with_accepted,8848208,Koenigia polystachya (Wall. ex Meisn.) T.M.Schust. & Reveal
+90545,160879881,Fallopia japonica (Houtt.) Ronse Decraene,merged_with_accepted,2889173,Reynoutria japonica Houtt.
+90544,160879883,Fallopia aubertii (Louis Henry) J.Holub,merged_with_accepted,5334351,Fallopia baldschuanica (Regel) Holub
