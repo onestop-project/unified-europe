@@ -1,31 +1,38 @@
-taxonID,taxonKey,scientificName,action,acceptedKey,acceptedName
-161049,163299517,"Hymenoscyphus fraxineus (T.Kowalski) Baral, Queloz & Hosoya, 2014",scientificName_replaced_by_backbone_name,8313437,"Hymenoscyphus fraxineus (T.Kowalski) Baral, Queloz & Hosoya"
-161082,163299519,"Potamopyrgus antipodarum (Gray, 1843)",scientificName_replaced_by_backbone_name,5192470,"Potamopyrgus antipodarum (J.E.Gray, 1843)"
-161025,163299536,"Corbicula fluminea (O.F.MÃ¼ller, 1774)",scientificName_replaced_by_backbone_name,8190231,"Corbicula fluminea (O.F.Müller, 1774)"
-161037,163299544,Elodea nuttallii St.John,scientificName_replaced_by_backbone_name,5329212,Elodea nuttallii (Planch.) H.St.John
-161081,163299564,Populus canadensis Moench,scientificName_replaced_by_backbone_name,8190077,Populus ×canadensis Moench
-161073,163299579,Parthenocissus inserta (A.Kerner) Fritsch,scientificName_replaced_by_backbone_name,3039203,Parthenocissus inserta (A.Kern.) Fritsch
-161064,163299593,"Neogobius kessleri (GÃ¼nther, 1861)",merged_with_accepted,4285968,"Ponticola kessleri (Günther, 1861)"
-161063,163299596,Myriophyllum aquaticum Verdc.,scientificName_replaced_by_backbone_name,5361785,Myriophyllum aquaticum (Vell.) Verdc.
-161051,163299607,Impatiens balfourii Hook.f.,scientificName_replaced_by_backbone_name,2891783,Impatiens balfourii Hook.fil.
-161070,163299632,"Orconectes limosus (Rafinesque, 1817)",merged_with_accepted,8909595,"Faxonius limosus (Rafinesque, 1817)"
-161043,163299633,Fallopia sachalinensis (Friedrich Schmidt Petrop.) Ronse Decraene,merged_with_accepted,2889088,Reynoutria sachalinensis (F.Schmidt) Nakai
-161041,163299638,Fallopia ×bohemica,merged_with_accepted,4038485,Reynoutria ×bohemica Chrtek & Chrtková
-161042,163299642,Fallopia japonica (Houtt.) Ronse Decraene,merged_with_accepted,2889173,Reynoutria japonica Houtt.
-161089,163299644,Reynoutria × bohemica Chrtek & Chrtková,scientificName_replaced_by_backbone_name,4038485,Reynoutria ×bohemica Chrtek & Chrtková
-161023,163299651,Claytonia perfoliata Donn ex Willd.,merged_with_accepted,7095665,Claytonia perfoliata subsp. perfoliata
-161062,163299661,Mimulus guttatus DC.,not_matched_with_backbone,,
-161032,163299665,"Dicranopalpus ramosus (E.Simon, 1909)",scientificName_replaced_by_backbone_name,4553430,"Dicranopalpus ramosus (Simon, 1909)"
-161011,163299679,Berberis aquifolium Pursh,merged_with_accepted,3033865,Mahonia aquifolium (Pursh) Nutt.
-161103,163299689,Spiraea alba Duroi,scientificName_replaced_by_backbone_name,7787813,Spiraea alba DuRoi
-161102,163299691,Spiraea × billiardii H‚rincq,scientificName_replaced_by_backbone_name,7732954,Spiraea ×billiardii H
-161035,163299696,Duchesnea indica (Andr.) Focke,merged_with_accepted,5365717,Potentilla indica (Andrews) Th.Wolf
-161061,163299697,"Meconema meridionale Costa & A., 1860",scientificName_replaced_by_backbone_name,1690429,"Meconema meridionale Costa, 1860"
-161006,163299706,Amelanchier lamarckii F.G.Schroed.,scientificName_replaced_by_backbone_name,3024109,Amelanchier ×lamarckii F.G.Schroed.
-161009,163299721,Aster novi-belgii L.,merged_with_accepted,3151558,Symphyotrichum novi-belgii (L.) G.L.Nesom
-161024,163299725,Conyza canadensis (L.) Cronq.,merged_with_accepted,3146791,Erigeron canadensis L.
-161008,163299729,Aster lanceolatus (Hook.) Kuntze,merged_with_accepted,11177955,Euthamia lanceolata (L.) G.L.Nesom
-161040,163299735,Erigeron annuus Pers.,scientificName_replaced_by_backbone_name,3117449,Erigeron annuus (L.) Pers.
-161079,163299742,"Phyllonorycter robiniella (Clemens, 1859)",merged_with_accepted,8741260,"Macrosaccus robiniella (Clemens, 1859)"
-161017,163299749,"Cameraria ohridella Deschka & Dimic, 1986",scientificName_replaced_by_backbone_name,1749449,"Cameraria ohridella Deschka & Dimić, 1986"
-161002,163299750,Ailanthus altissima Swingle,scientificName_replaced_by_backbone_name,3190653,Ailanthus altissima (Mill.) Swingle
+taxonID,usage_id,scientificName,action,acceptedKey,acceptedName
+1002,657NL,"Aedes japonicus (Theobald, 1901)",scientificName_replaced_by_backbone_name,657NL,"Aedes (Hulecoeteomyia) japonicus (Theobald, 1901)"
+1003,BCBF,Ailanthus altissima Swingle,scientificName_replaced_by_backbone_name,BCBF,Ailanthus altissima (Mill.) Swingle
+1007,92SRN,Amelanchier lamarckii F.G.Schroed.,scientificName_replaced_by_backbone_name,92SRN,Amelanchier × lamarckii F.G.Schroed.
+1009,8R3GP,Aster lanceolatus (Hook.) Kuntze,no_matching_distribution,8R3GP,Aster lanceolatus (L.) Kuntze
+1010,5W735,Aster novi-belgii L.,no_matching_distribution,5W735,Aster novi-belgii L.
+1012,LJFZ,Berberis aquifolium Pursh,merged_with_accepted,LJFZ,Berberis aquifolium Pursh
+1015,C6H64,"Brigittea civica (Lucas, 1850)",scientificName_replaced_by_backbone_name,C6H64,"Brigittea civica (Lucas, 1848)"
+1018,698MR,"Cameraria ohridella Deschka & Dimic, 1986",scientificName_replaced_by_backbone_name,698MR,"Cameraria ohridella Deschka & Dimić, 1986"
+1023,5XQWG,"Chelicorophium curvispinum (G.O.Sars, 1895)",scientificName_replaced_by_backbone_name,5XQWG,"Chelicorophium curvispinum (G.O. Sars, 1895)"
+1024,VJSP2,Claytonia perfoliata Donn ex Willd.,scientificName_replaced_by_backbone_name,VJSP2,Claytonia perfoliata Donn. ex Willd.
+1025,Y24W,Conyza canadensis (L.) Cronq.,no_matching_distribution,Y24W,Conyza canadensis (L.) Cronquist
+1026,5ZYZK,"Corbicula fluminea (O.F.Müller, 1774)",scientificName_replaced_by_backbone_name,5ZYZK,"Corbicula fluminea (O. F. Müller, 1774)"
+1030,MYXHM,"Cydalima perspectalis (Walker, 1859)",merged_with_accepted,MYXHM,"Cydalima perspectalis (Walker, 1859)"
+1033,7VQRK,"Dicranopalpus ramosus (E.Simon, 1909)",scientificName_replaced_by_backbone_name,7VQRK,"Dicranopalpus ramosus (Simon, 1909)"
+1035,8BXJH,"Drosophila suzukii (Matsumura, 1931)",scientificName_replaced_by_backbone_name,8BXJH,"Drosophila (Sophophora) suzukii (Matsumura, 1931)"
+1036,37Z6M,Duchesnea indica (Andr.) Focke,no_matching_distribution,37Z6M,Duchesnea indica (Andrews) Focke
+1038,39C89,Elodea nuttallii St.John,scientificName_replaced_by_backbone_name,39C89,Elodea nuttallii (Planch.) H.St.John
+1041,6GNJG,Erigeron annuus Pers.,scientificName_replaced_by_backbone_name,6GNJG,Erigeron annuus (L.) Pers.
+1042,3DTRP,Fallopia × bohemica,no_matching_distribution,3DTRP,Fallopia × bohemica (Chrtek & Chrtková) J.P.Bailey
+1043,3DTRD,Fallopia japonica (Houtt.) Ronse Decraene,no_matching_distribution,3DTRD,Fallopia japonica (Houtt.) Ronse Decr.
+1044,3DTRL,Fallopia sachalinensis (Friedrich Schmidt Petrop.) Ronse Decraene,no_matching_distribution,3DTRL,Fallopia sachalinensis (F.Schmidt) Ronse Decr.
+1050,3NL6B,"Hymenoscyphus fraxineus (T.Kowalski) Baral, Queloz & Hosoya, 2014",scientificName_replaced_by_backbone_name,3NL6B,"Hymenoscyphus fraxineus (T. Kowalski) Baral, Queloz & Hosoya"
+1052,3PJFZ,Impatiens balfourii Hook.f.,scientificName_replaced_by_backbone_name,3PJFZ,Impatiens balfourii Hook.fil.
+1061,3XJ3H,Mahonia aquifolium (Pursh) Nutt.,no_matching_distribution,3XJ3H,Mahonia aquifolium (Pursh) Nutt.
+1062,3YLJ2,"Meconema meridionale A.Costa, 1860",scientificName_replaced_by_backbone_name,3YLJ2,"Meconema meridionale Costa, 1860"
+1063,43HL4,Mimulus guttatus DC.,merged_with_accepted,43HL4,Mimulus guttatus DC.
+1064,458YG,Myriophyllum aquaticum Verdc.,scientificName_replaced_by_backbone_name,458YG,Myriophyllum aquaticum (Vell.) Verdc.
+1065,46HS9,"Neogobius kessleri (Günther, 1861)",no_matching_distribution,46HS9,"Neogobius kessleri (Günther, 1861)"
+1071,7W5YK,"Orconectes limosus (Rafinesque, 1817)",merged_with_accepted,7W5YK,"Orconectes limosus (Rafinesque, 1817)"
+1074,4DTTH,Parthenocissus inserta (A.Kerner) Fritsch,no_matching_distribution,4DTTH,Parthenocissus inserta (A.Kern.) Fritsch
+1080,RWCGW,"Phyllonorycter robiniella (Clemens, 1859)",merged_with_accepted,RWCGW,"Phyllonorycter robiniella (Clemens, 1860)"
+1082,4LVK9,Populus canadensis Moench,scientificName_replaced_by_backbone_name,4LVK9,Populus × canadensis Moench
+1083,S3TKT,"Potamopyrgus antipodarum (Gray, 1843)",scientificName_replaced_by_backbone_name,S3TKT,"Potamopyrgus antipodarum (J. E. Gray, 1843)"
+1099,4V4RW,"Sceliphron curvatum (F.Smith, 1870)",scientificName_replaced_by_backbone_name,4V4RW,"Sceliphron curvatum (F. Smith, 1870)"
+1103,T4HKB,Spiraea × billiardii H'rincq,merged_with_accepted,T4HKB,Spiraea billiardii Hérincq
+1104,T4H4L,Spiraea alba Duroi,merged_with_accepted,T4H4L,Spiraea alba Duroi
+1110,5F8HR,Trachemys scripta scripta,scientificName_replaced_by_backbone_name,5F8HR,"Trachemys scripta scripta (Schoepff, 1792)"

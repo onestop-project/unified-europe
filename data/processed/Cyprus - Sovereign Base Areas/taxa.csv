@@ -1,19 +1,20 @@
-taxonKey,nubKey,taxonID,scientificName,kingdom,taxonRank
-163732873,2264597,120115,"Rhopilema nomadica Galil, Spanier & Ferguson, 1990",Animalia,SPECIES
-163732878,2334433,120114,"Pterois miles (Bennett, 1828)",Animalia,SPECIES
-163732881,2407271,120112,"Torquigener flavimaculosus Hardy & Randall, 1983",Animalia,SPECIES
-163732882,2407271,120117,"Torquigener flavimaculosus Hardy & Randall, 1983",Animalia,SPECIES
-163732885,2356802,120108,"Sargocentron rubrum (Forsskål, 1775)",Animalia,SPECIES
-163732886,2356802,120116,"Sargocentron rubrum (Forsskål, 1775)",Animalia,SPECIES
-163732889,2350570,120106,"Gambusia holbrooki Girard, 1859",Animalia,SPECIES
-163732892,2390262,120109,"Siganus luridus (Rüppell, 1829)",Animalia,SPECIES
-163732893,2390185,120110,"Siganus rivulatus Forsskål & Niebuhr, 1775",Animalia,SPECIES
-163732895,2396749,120107,"Parupeneus forsskali (Fourmanoir & Guézé, 1976)",Animalia,SPECIES
-163732903,2441502,120119,"Testudo marginata Schoepff, 1792",Animalia,SPECIES
-163732904,2441461,120118,"Testudo graeca Linnaeus, 1758",Animalia,SPECIES
-163732911,3151764,120111,Symphyotrichum squamatum (Spreng.) G.L.Nesom,Plantae,SPECIES
-3176197,3176197,120103,Eucalyptus camaldulensis Dehn.,Plantae,SPECIES
-163732915,3176772,120104,Eucalyptus gomphocephala A.Cunn. ex DC.,Plantae,SPECIES
-163732918,5421144,120102,Dodonaea viscosa (L.) Jacq.,Plantae,SPECIES
-163732921,2891932,120101,Casuarina cunninghamiana Miq.,Plantae,SPECIES
-163732924,2978552,120100,Acacia saligna (Labill.) H.L.Wendl.,Plantae,SPECIES
+taxonID,taxonKey,scientificName,taxonRank
+120100,64BRL,Acacia saligna (Labill.) H.L.Wendl.,species
+120101,RQVJ,Casuarina cunninghamiana Miq.,species
+120102,373RT,Dodonaea viscosa (L.) Jacq.,species
+120103,3BPQQ,Eucalyptus camaldulensis Dehnh.,species
+120104,3BPZ9,Eucalyptus gomphocephala A.Cunn. ex DC.,species
+120105,6J77G,"Fistularia commersonii Rüppell, 1838",species
+120106,3F7VR,"Gambusia holbrooki Girard, 1859",species
+120107,75SSX,"Parupeneus forsskali (Fourmanoir & Guézé, 1976)",species
+120108,6XMPJ,"Sargocentron rubrum (Forsskål, 1775)",species
+120109,6YMVB,"Siganus luridus (Rüppell, 1829)",species
+120110,6YN5N,"Siganus rivulatus Forsskål & Niebuhr, 1775",species
+120112,57GHQ,"Torquigener flavimaculosus Hardy & Randall, 1983",species
+120113,6J77G,"Fistularia commersonii Rüppell, 1838",species
+120114,4PWV4,"Pterois miles (Bennett, 1828)",species
+120115,6WVVY,"Rhopilema nomadica Galil, 1990",species
+120116,6XMPJ,"Sargocentron rubrum (Forsskål, 1775)",species
+120117,57GHQ,"Torquigener flavimaculosus Hardy & Randall, 1983",species
+120118,55JSJ,"Testudo graeca Linnaeus, 1758",species
+120119,55JTW,"Testudo marginata Schoepff, 1792",species

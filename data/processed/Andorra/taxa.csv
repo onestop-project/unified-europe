@@ -1,14 +1,23 @@
-taxonKey,nubKey,taxonID,scientificName,kingdom,taxonRank
-148674352,1589999,20012,"Trachyopella straminea Roháček & Marshall, 1985",Animalia,SPECIES
-148674355,8411684,20009,"Monochamus sutor (Linnaeus, 1758)",Animalia,SPECIES
-1179369,4465638,20006,"Pentarthrum confine Broun, 1881",Animalia,SPECIES
-148674360,1047536,20008,"Leptinotarsa decemlineata (Say, 1824)",Animalia,SPECIES
-148674361,1047341,20004,"Callosobruchus chinensis (Linnaeus, 1758)",Animalia,SPECIES
-148674362,5752155,20001,"Bruchus pisorum Linnaeus, 1758",Animalia,SPECIES
-148674363,5752143,20002,"Bruchus rufimanus Boheman, 1833",Animalia,SPECIES
-148674364,1047525,20000,"Acanthoscelides obtectus (Say, 1831)",Animalia,SPECIES
-3204007,3204008,20010,Pseudoperonospora cubensis (Berk. & M.A.Curtis) Rostovzev,Chromista,SPECIES
-148674377,2576553,20005,Entoleuca mammata (Wahlenb.) J.D.Rogers & Y.M.Ju,Fungi,SPECIES
-148674383,3109086,20011,Senecio inaequidens DC.,Plantae,SPECIES
-148674386,2891783,20007,Impatiens balfourii Hook.fil.,Plantae,SPECIES
-148674389,3173338,20003,Buddleja davidii Franch.,Plantae,SPECIES
+taxonID,taxonKey,scientificName,taxonRank
+1001,LXNTM,"Acanthoscelides obtectus (Say, 1831)",species
+1002,M8RTV,"Bruchus pisorum Linnaeus, 1758",species
+1003,M8RZ9,"Bruchus rufimanus Boheman, 1833",species
+1004,NN2L,Buddleja davidii Franch.,species
+1005,MDDLF,"Callosobruchus chinensis (Linnaeus, 1758)",species
+1006,5XCVW,Castanea sativa Mill.,species
+1008,39YX8,Entoleuca mammata (Wahlenb.) J.D. Rogers & Y.M. Ju,species
+1010,6HVJJ,Ficus carica L.,species
+1011,3PJFZ,Impatiens balfourii Hook.fil.,species
+1012,Q9SPH,"Leptinotarsa decemlineata (Say, 1824)",species
+1013,6PGH9,"Leptoglossus occidentalis Heidemann, 1910",species
+1014,44646,"Monochamus sutor (Linné, 1758)",species
+1015,49L68,Onobrychis viciifolia Scop.,species
+1017,6V8D2,Petroselinum crispum (Mill.) Fuss,species
+1018,4FRDZ,Phalaris arundinacea L.,species
+1019,4FWMN,"Phasianus colchicus Linnaeus, 1758",species
+1020,4J27Y,Pinus halepensis Mill.,species
+1022,6YGST,Senecio inaequidens DC.,species
+1023,7FJL,Senecio L.,genus
+1024,4Y369,Solanum lycopersicum L.,species
+1025,8FGWY,"Trachyopella (Trachyopella) straminea Roháček & Marshall, 1985",species
+1026,5CCZ9,"Xerolenta obvia (Menke, 1828)",species

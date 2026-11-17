@@ -1,4 +1,6 @@
-taxonID,taxonKey,scientificName,action,acceptedKey,acceptedName
-74013,196397261,"Acanthoscelides pallidipennis (Motschulsky, 1874)",merged_with_accepted,6275970,"Dactylispa pallidipennis (Motschulsky, 1861)"
-74018,196397263,"Xylosandrus compactus Eichhoff, 1875",merged_with_accepted,5019579,"Xyleborus compactus Eichhoff, 1875"
-74010,196397267,"Aedes albopictus Skuse, 1894",scientificName_replaced_by_backbone_name,1651430,"Aedes albopictus (Skuse, 1894)"
+taxonID,usage_id,scientificName,action,acceptedKey,acceptedName
+74010,89W76,"Aedes albopictus Skuse, 1894",scientificName_replaced_by_backbone_name,89W76,"Aedes (Stegomyia) albopictus (Skuse, 1894)"
+74011,MB27H,Caulerpa taxifolia (M.Vahl) C.Agardh,scientificName_replaced_by_backbone_name,MB27H,Caulerpa taxifolia (Vahl) C. Ag.
+74012,M9ZSH,Caulerpa racemosa (Forssk.) J.Agardh,scientificName_replaced_by_backbone_name,M9ZSH,Caulerpa racemosa (Forsskal) J. Agardh
+74013,LXNV9,"Acanthoscelides pallidipennis (Motschulsky, 1874)",no_matching_distribution,LXNV9,"Acanthoscelides pallidipennis (Motschulsky, 1874)"
+74018,5CMJ9,"Xylosandrus compactus Eichhoff, 1875",scientificName_replaced_by_backbone_name,5CMJ9,"Xylosandrus compactus Wood & Bright, 1992"

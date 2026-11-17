@@ -1,31 +1,37 @@
-taxonID,taxonKey,scientificName,action,acceptedKey,acceptedName
-105053,160926690,"Gmelinoides fasciatus Stebbing, 1899",scientificName_replaced_by_backbone_name,8918476,"Gmelinoides fasciatus (Stebbing, 1899)"
-105023,160926701,"Carassius auratus gibelio (Bloch, 1782)",merged_with_accepted,2366634,"Carassius gibelio (Bloch, 1782)"
-105018,160926741,"Balanus improvisus Darwin, 1854",merged_with_accepted,6467647,"Amphibalanus improvisus (Darwin, 1854)"
-105030,160926794,"Chalara fraxinea T.Kowalski, 2006",merged_with_accepted,8313437,"Hymenoscyphus fraxineus (T.Kowalski) Baral, Queloz & Hosoya"
-105015,160926803,"Astacus leptodactylus Eschscholtz, 1823",merged_with_accepted,8946295,"Pontastacus leptodactylus (Eschscholtz, 1823)"
-105012,160926804,Anagallis arvensis L.,merged_with_accepted,9631539,Lysimachia arvensis subsp. arvensis
-105086,160926811,Prunus pensylvanica L.f.,scientificName_replaced_by_backbone_name,8202030,Prunus pensylvanica L.fil.
-105064,160926821,Lysichiton americanus HultÃ©n & H.St.John,scientificName_replaced_by_backbone_name,2869311,Lysichiton americanus Hultén & H.St.John
-105040,160926824,Epilobium adenocaulon Hausskn.,merged_with_accepted,7095758,Epilobium ciliatum subsp. ciliatum
-105045,160926828,Fallopia japonica (Houtt.) Ronse Decraene,merged_with_accepted,2889173,Reynoutria japonica Houtt.
-105044,160926829,Fallopia bohemica (Chrtek & ChrtkovÃ¡) J.P.Bailey,merged_with_accepted,4038485,Reynoutria ×bohemica Chrtek & Chrtková
-105031,160926834,Conyza canadensis (L.) Cronq.,merged_with_accepted,3146791,Erigeron canadensis L.
-105046,160926853,Fallopia sachalinensis (Friedrich Schmidt Petrop.) Ronse Decraene,merged_with_accepted,2889088,Reynoutria sachalinensis (F.Schmidt) Nakai
-105047,160926854,Felis silvestris catus,not_matched_with_backbone,,
-105022,160926864,Calystegia sepium R.Br.,scientificName_replaced_by_backbone_name,2928441,Calystegia sepium (L.) R.Br.
-105083,160926865,"Potamopyrgus antipodarum (Gray, 1843)",scientificName_replaced_by_backbone_name,5192470,"Potamopyrgus antipodarum (J.E.Gray, 1843)"
-105065,160926868,Malus domestica Borkh.,scientificName_replaced_by_backbone_name,3001244,Malus domestica (Suckow) Borkh.
-105066,160926869,Marenzelleria spp.,scientificName_replaced_by_backbone_name,2321007,"Marenzelleria Mesnil, 1896"
-105011,160926870,Amelanchier spicata K.Koch,merged_with_accepted,3023903,Amelanchier humilis Wiegand
-105052,160926875,Glyceria maxima Holmb.,scientificName_replaced_by_backbone_name,2705484,Glyceria maxima (Hartm.) Holmb.
-105084,160926876,Prorocentrum minimum (Pavillard) J.Schiller,merged_with_accepted,8368630,Prorocentrum cordatum (Ostenf.) J.D.Dodge
-105006,160926879,"Acipenser gueldenstaedtii Brandt & Ratzeburg, 1831",scientificName_replaced_by_backbone_name,2402129,"Acipenser gueldenstaedtii Brandt & Ratzeburg, 1833"
-105034,160926883,Cornus alba subsp. alba,not_matched_with_backbone,,
-105035,160926885,Cornus alba subsp. stolonifera (Michx.) Wangerin,not_matched_with_backbone,,
-105000,160926899,Abies balsamea Mill.,scientificName_replaced_by_backbone_name,2685383,Abies balsamea (L.) Mill.
-105102,163433554,Symphytum officinale var. bohemicum (F.W.Schmidt) Celak.,merged_with_accepted,4067581,Symphytum bohemicum F.W.Schmidt
-105104,163433555,Symphytum uplandicum Nyman,scientificName_replaced_by_backbone_name,2926068,Symphytum ×uplandicum Nyman
-105103,163433557,Symphytum officinale var. officinale,not_matched_with_backbone,,
-105090,163433568,Rorippa sylvestris Besser,scientificName_replaced_by_backbone_name,3053376,Rorippa sylvestris (L.) Besser
-105095,163433647,Senecio cannabifolius Less.,merged_with_accepted,5388606,Jacobaea cannabifolia (Less.) E.Wiebe
+taxonID,usage_id,scientificName,action,acceptedKey,acceptedName
+105000,63Z6Q,Abies balsamea Mill.,scientificName_replaced_by_backbone_name,63Z6Q,Abies balsamea (L.) Mill.
+105002,64FSN,"Acartia tonsa Dana, 1849",scientificName_replaced_by_backbone_name,64FSN,"Acartia (Acanthacartia) tonsa Dana, 1849-1852"
+105006,9C5J,"Acipenser gueldenstaedtii Brandt & Ratzeburg, 1831",scientificName_replaced_by_backbone_name,9C5J,"Acipenser gueldenstaedtii Brandt & Ratzeburg, 1833"
+105011,92SRR,Amelanchier spicata K.Koch,scientificName_replaced_by_backbone_name,92SRR,Amelanchier × spicata (Lam.) K.Koch
+105012,DD5P,Anagallis arvensis L.,no_matching_distribution,DD5P,Anagallis arvensis L.
+105013,8FT42,"Anguillicola crassus Kuwahara, Niimi & Itagaki, 1974",no_matching_distribution,8FT42,"Anguillicola crassus Kuwahara, Niimi & Itagaki, 1974"
+105015,7R7D9,"Astacus leptodactylus Eschscholtz, 1823",no_matching_distribution,7R7D9,"Astacus leptodactylus Eschscholtz, 1823"
+105016,99GDX,Aster salignus L.,merged_with_accepted,99GDX,Aster × salignus Willd.
+105018,MMQBK,"Balanus improvisus Darwin, 1854",merged_with_accepted,MMQBK,"Balanus improvisus Darwin, 1854"
+105022,Q82P,Calystegia sepium R.Br.,merged_with_accepted,Q82P,Calystegia sepium (L.) R.Br.
+105023,5G7LT,"Carassius auratus gibelio (Bloch, 1782)",no_matching_distribution,5G7LT,"Carassius auratus gibelio (Bloch, 1782)"
+105030,TFFF,"Chalara fraxinea T.Kowalski, 2006",no_matching_distribution,TFFF,Chalara fraxinea T. Kowalski
+105031,Y24W,Conyza canadensis (L.) Cronq.,no_matching_distribution,Y24W,Conyza canadensis (L.) Cronquist
+105034,VCQCK,Cornus alba var. alba,merged_with_accepted,VCQCK,Cornus alba var. alba
+105035,5GM5R,Cornus alba stolonifera (Michx.) Wangerin,no_matching_distribution,5GM5R,Cornus alba subsp. stolonifera (Michx.) Wangerin
+105040,6FT78,Epilobium adenocaulon Hausskn.,no_matching_distribution,6FT78,Epilobium adenocaulon Hausskn.
+105042,3B3LX,"Eriocheir sinensis H.Milne Edwards, 1853",scientificName_replaced_by_backbone_name,3B3LX,"Eriocheir sinensis H. Milne Edwards, 1853"
+105044,3DTRP,Fallopia bohemica (Chrtek & Chrtková) J.P.Bailey,no_matching_distribution,3DTRP,Fallopia × bohemica (Chrtek & Chrtková) J.P.Bailey
+105045,3DTRD,Fallopia japonica (Houtt.) Ronse Decraene,no_matching_distribution,3DTRD,Fallopia japonica (Houtt.) Ronse Decr.
+105046,3DTRL,Fallopia sachalinensis (Friedrich Schmidt Petrop.) Ronse Decraene,no_matching_distribution,3DTRL,Fallopia sachalinensis (F.Schmidt) Ronse Decr.
+105047,NTF2Z,Felis silvestris catus,merged_with_accepted,NTF2Z,"Felis sylvestris catus Linnaeus, 1758"
+105052,6KMHJ,Glyceria maxima Holmb.,scientificName_replaced_by_backbone_name,6KMHJ,Glyceria maxima (Hartm.) Holmb.
+105053,3GJLN,"Gmelinoides fasciatus Stebbing, 1899",scientificName_replaced_by_backbone_name,3GJLN,"Gmelinoides fasciatus (Stebbing, 1899)"
+105054,3KQ9P,"Hemimysis anomala G.O.Sars, 1907",scientificName_replaced_by_backbone_name,3KQ9P,"Hemimysis anomala G.O. Sars, 1907"
+105065,VK8LK,Malus domestica Borkh.,no_matching_distribution,VK8LK,Malus domestica (Suckow) Borkh.
+105066,84PZG,Marenzelleria spp.,scientificName_replaced_by_backbone_name,84PZG,"Marenzelleria Mesnil, 1896"
+105067,44QYZ,"Mustela vison Schreber, 1777",no_matching_distribution,44QYZ,"Mustela vison Schreber, 1777"
+105083,S3TKT,"Potamopyrgus antipodarum (Gray, 1843)",scientificName_replaced_by_backbone_name,S3TKT,"Potamopyrgus antipodarum (J. E. Gray, 1843)"
+105084,RWNWS,Prorocentrum minimum (Pavillard) J.Schiller,scientificName_replaced_by_backbone_name,RWNWS,"Prorocentrum minimum (Pavillard) Schiller, 1933"
+105086,77ZRD,Prunus pensylvanica L.f.,scientificName_replaced_by_backbone_name,77ZRD,Prunus pensylvanica L.fil.
+105090,4TCRZ,Rorippa sylvestris Besser,scientificName_replaced_by_backbone_name,4TCRZ,Rorippa sylvestris (L.) Besser
+105095,4WK37,Senecio cannabifolius Less.,no_matching_distribution,4WK37,Senecio cannabifolius Less.
+105096,6YKHQ,Setaria pumila (Poir.) Roem. & Schult.,no_matching_distribution,6YKHQ,Setaria pumila (Poir.) Roem. & Schult.
+105102,9B4LQ,Symphytum officinale var. bohemicum (F.W.Schmidt) Celak.,no_matching_distribution,9B4LQ,Symphytum officinale var. bohemicum (F.W.Schmidt) Pers.
+105103,DQWP9,Symphytum officinale var. officinale,merged_with_accepted,DQWP9,Symphytum officinale var. officinale
+105104,53QH5,Symphytum uplandicum Nyman,scientificName_replaced_by_backbone_name,53QH5,Symphytum × uplandicum Nyman
