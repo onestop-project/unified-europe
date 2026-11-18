@@ -2,199 +2,249 @@
   countryCode: AL
   doi: 10.15468/km1q9p
   uuid: 506e844e-5d60-4be5-a5a0-59e822a5f477
+  clb: 24478
 - country: Andorra
   countryCode: AD
   doi: 10.15468/cvwsdk
   uuid: 016c16c3-d907-4c88-97dd-97ad62c8130e
+  clb: 29121
 - country: Armenia
   countryCode: AM
   doi: 10.15468/w96h3j
   uuid: 72e7aab4-aa85-4fcf-b95e-3d835d3e408a
+  clb: 24471
 - country: Austria
   countryCode: AT
   doi: 10.15468/ygo6zy
   uuid: 1100c043-55c0-433d-b2f3-60747ab9de11
+  clb: 28931
 - country: Azerbaijan
   countryCode: AZ
   doi: 10.15468/eh5rx3
   uuid: f9c8f84c-a4ff-4c1d-86ae-6a1a472f2aa3
+  clb: 77924
 - country: Belarus
   countryCode: BY
   doi: 10.15468/r1l7zb
   uuid: ad95a6e9-a462-4bce-838f-bb4cd3296665
+  clb: 28919
 - country: Belgium
   countryCode: BE
   doi: 10.15468/xoidmd
   uuid: 6d9e952f-948c-4483-9807-575348147c7e
+  clb: 28552
 - country: Bosnia and Herzegovina
   countryCode: BA
   doi: 10.15468/uuzhvt
   uuid: e8508e67-3e63-4a77-94b1-47c3fb1d07b7
+  clb: 25060
 - country: Bulgaria
   countryCode: BG
   doi: 10.15468/afan6i
   uuid: d015d9e7-9eed-47c6-a0cd-62c627ad1e8b
+  clb: 23280
 - country: Croatia
   countryCode: HR
   doi: 10.15468/rhmen3
   uuid: f82a4f7f-6f84-4b58-82e6-6b41ec9a1f49
+  clb: 31953
 - country: Cyprus
   countryCode: CY
   doi: 10.15468/uryl57
   uuid: 2f7ea7d1-a73f-46f6-b790-7339126a999f
+  clb: 29007
 - country: Cyprus - Sovereign Base Areas
   countryCode: CY
   doi: 10.15468/twb956
   uuid: 497fa25f-6a32-4a2a-8f42-d01d8a0b7c22
+  clb: 22856
 - country: Cyprus - oneSTOP list
   countryCode: CY
   doi: 10.15468/mucze2
   uuid: 40344688-4ac9-41c0-abdc-ad4556a76dc0
+  clb: 315281
 - country: Czechia
   countryCode: CZ
   doi: 10.15468/9tcwfe
   uuid: 42e9b7bc-81d7-41d7-9508-1b06a688f062
+  clb: 24528
 - country: Denmark
   countryCode: DK
   doi: 10.15468/1jbiia
   uuid: ad5cba8c-45fb-428c-aafa-7ff013d0fdaf
+  clb: 28934
 - country: Estonia
   countryCode: EE
   doi: 10.15468/53s95n
   uuid: 3840e95d-a55d-4372-a924-b1ff34b856d0
+  clb: 24524
 - country: Finland
   countryCode: FI
   doi: 10.15468/njgdec
   uuid: b79c5ba3-d447-4a73-bcbf-557f3241eeb2
+  clb: 24497
 - country: France
   countryCode: FR
   doi: 10.15468/up1tr5
   uuid: 692a0aec-70e2-4038-ac9c-9a1d7acc025f
+  clb: 28907
 - country: Germany
   countryCode: DE
   doi: 10.15468/yazb1f
   uuid: 2a281675-c184-4d54-a47e-5d3a7ec6653f
+  clb: 24476
 - country: Greece
   countryCode: GR
   doi: 10.15468/td6afd
   uuid: 137a287c-911c-40b5-8051-6dc86b110bcc
+  clb: 28813
 - country: Hungary
   countryCode: HU
   doi: 10.15468/52jed5
   uuid: 9560647c-14bf-46af-b1f3-0525c2f8a53d
+  clb: 28910
 - country: Iceland
   countryCode: IS
   doi: 10.15468/b7u941
   uuid: 82fe28e9-0b8d-485f-a54e-ae5f4051314f
+  clb: 77920
 - country: Ireland
   countryCode: IE
   doi: 10.15468/br8rgw
   uuid: 278c9199-be97-4fd0-9c6c-6c46c4e2369e
+  clb: 31952
 - country: Italy
   countryCode: IT
   doi: 10.15468/n4iafs
   uuid: f6ae66a3-f267-4d03-8541-fdfa7ffc9eaf
+  clb: 28952
 - country: Latvia
   countryCode: LV
   doi: 10.15468/hb3hza
   uuid: c7056977-c11e-45d7-a348-11ff192a3cae
+  clb: 24470
 - country: Liechtenstein
   countryCode: LI
   doi: 10.15468/u1s0kr
   uuid: 5f6eb04e-24a8-4616-9214-0202c6167ad9
+  clb: 24525
 - country: Lithuania
   countryCode: LT
   doi: 10.15468/ewm0v1
   uuid: ced4b662-2201-4c55-b31b-fc5643a9a72f
+  clb: 77941
 - country: Luxembourg
   countryCode: LU
   doi: 10.15468/tvi3gf
   uuid: a811c07f-206d-46b8-ad59-93af4e2ce7c0
+  clb: 23325
 - country: Malta
   countryCode: MT
   doi: 10.15468/yvxl1l
   uuid: dfaf6b4a-43d6-4649-82c7-60f34ddf13ba
+  clb: 24534
 - country: Moldova
-  countryCode: 
+  countryCode: MD
   doi: 10.15468/ifdxj7
   uuid: 1aac3463-39ee-4a81-81f0-0a5718b218f3
+  clb: 23441
 - country: Monaco
   countryCode: MC
   doi: 10.15468/v9cbrr
   uuid: fbba79dc-ca5b-47ab-9a88-9bdf15a1d11f
+  clb: 77955
 - country: Montenegro
   countryCode: ME
   doi: 10.15468/6zl86f
   uuid: b4f2aa67-c64a-4ba4-a665-ce8c4bff5beb
+  clb: 24473
 - country: Netherlands
   countryCode: NL
   doi: https://doi.org/10.15468/wvocwo
   uuid: 6e74aa5e-d156-4fd9-9299-049307da6fe8
+  clb: 77918
 - country: North Macedonia
   countryCode: MK
   doi: 10.15468/xdl73t
   uuid: 69449228-b89e-4302-9ba6-c840997bfebc
+  clb: 28908
 - country: Norway
   countryCode: NO
   doi: 10.15468/9oaedf
   uuid: 38de3b7a-5af3-4b6f-a1c5-4c0aa6abf010
+  clb: 28950
 - country: Poland
   countryCode: PL
   doi: https://doi.org/10.15468/xxgzzh
   uuid: 250aa99d-b510-4f89-a68a-0a463ab7c530
+  clb: 24521
 - country: Portugal
   countryCode: PT
   doi: https://doi.org/10.15468/5siv3h
   uuid: 61b67ae8-c623-42a9-9172-3283f2f1473b
+  clb: 28948
 - country: Portugal - Azores
   countryCode: PT
   doi: https://doi.org/10.15468/akypdb
   uuid: e69281bf-debf-4443-812f-3fb130673273
+  clb: 28947
 - country: Portugal - Madeira
   countryCode: PT
   doi: https://doi.org/10.15468/4yof3a
   uuid: 7c822f4a-3eb7-4956-af71-052a2c0167bc
+  clb: 28946
 - country: Romania
   countryCode: RO
   doi: https://doi.org/10.15468/fgqcsu
   uuid: d20e290d-4921-4244-a9a1-59ffa3bfa975
+  clb: 24522
 - country: San Marino
   countryCode: SM
   doi: 10.15468/o3gz73
   uuid: c5051b17-4662-4e0c-9087-beb15a4fca5b
+  clb: 77954
 - country: Serbia
   countryCode: RS
   doi: 10.15468/ppo7vg
   uuid: 7d22d94b-61e5-4d34-9156-eeddd2cd5f59
+  clb: 24507
 - country: Slovakia
   countryCode: SK
   doi: https://doi.org/10.15468/9aomvv
   uuid: 1353de13-65e6-4e97-ab77-8b1830498152
+  clb: 77934
 - country: Slovenia
   countryCode: SI
   doi: https://doi.org/10.15468/awqzyu
   uuid: 628b9441-36ba-41bc-a260-be5c655bd04b
+  clb: 24523
 - country: Spain
   countryCode: ES
   doi: https://doi.org/10.15468/ylk7wp
   uuid: c7873d63-4c63-419f-8d84-a7a6cb29c5e8
+  clb: 24468
 - country: Sweden
   countryCode: SE
   doi: https://doi.org/10.15468/i57bff
   uuid: c1a61294-6195-4055-9b22-a2e48e5e16d7
+  clb: 77919
 - country: Switzerland
   countryCode: CH
-  doi:  10.15468/vnkabc
+  doi: 10.15468/vnkabc
   uuid: 5f4edb1f-5624-4066-8e83-5f3b09de87eb
+  clb: 24506
 - country: Turkiye
   countryCode: TR
   doi: 10.15468/r88y8n
   uuid: acaa145f-7944-4bc8-a4cc-4e3410c41e99
+  clb: 24510
 - country: Ukraine
   countryCode: UA
   doi: 10.15468/4nyn7n
   uuid: d006d8bb-cf1e-46ff-a054-c6768e23d86d
+  clb: 28806
 - country: United Kingdom
   countryCode: GB
   doi: 10.15468/8rzqvw
   uuid: 1288ee7d-d67c-4e23-8d95-409973067383
+  clb: 28960

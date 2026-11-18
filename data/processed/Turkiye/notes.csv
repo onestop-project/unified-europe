@@ -1,308 +1,357 @@
-taxonID,taxonKey,scientificName,action,acceptedKey,acceptedName
-94253,160903921,"Pseudo-nitzschia calliantha Lundholm, Moestrup & Hasle, 2003",filtered_on_establishmentMeans,8318878,"Pseudo-nitzschia calliantha Lundholm, Moestrup & Hasle, 2003"
-93881,160903951,"Eutintinnus lusus-undae (Entz, 1885)",not_matched_with_backbone,,
-94154,160903955,"Paraprionospio coora Wilson, 1990",filtered_on_establishmentMeans,2321419,"Paraprionospio coora Wilson, 1990"
-93618,160903966,"Astacolus sublegumen (Parr, 1950)",merged_with_accepted,7724268,"Vaginulinopsis sublegumen Parr, 1950"
-94275,160903983,"Quinqueloculina milletti (Wiesner, 1923)",scientificName_replaced_by_backbone_name,7732079,"Quinqueloculina milletti (Wiesner, 1912)"
-94049,160903984,"Marphysa disjuncta Hartman, 1961",merged_with_accepted,10043305,"Paucibranchia disjuncta (Hartman, 1961)"
-94040,160903988,"Lysidice collaris Grube, 1870",scientificName_replaced_by_backbone_name,5198157,"Lysidice collaris Grube, 1868"
-93772,160903991,"Coscinospira arietina (Batsch, 1791)",merged_with_accepted,7793616,"Peneroplis arietinus (Batsch, 1791)"
-93865,160903992,"Eunice antennata (Savigny, 1818)",merged_with_accepted,5198234,"Leodice antennata Savigny, 1818"
-94079,160903993,"Monalysidium acicularis (Batsch, 1791)",merged_with_accepted,12201174,"Monalysidium aciculare (Batsch, 1791)"
-94359,160903999,"Sorites variabilis Lacroix, 1941",scientificName_replaced_by_backbone_name,7869399,"Sorites variabilis Lacroix, 1940"
-94358,160904001,"Sorites orbiculus (ForsskÃ¥l, 1775)",scientificName_replaced_by_backbone_name,7630125,"Sorites orbiculus (Forsskål, 1775)"
-94433,160904012,"Triloculina asymmetrica Said, 1949",merged_with_accepted,8032382,"Triloculinella asymmetrica (Said, 1949)"
-94212,160904018,"Pisione guanche San MartÃ­n, LÃ³pez & NÃºÃ±ez, 1999",scientificName_replaced_by_backbone_name,2311570,"Pisione guanche San Martín, López & Núñez, 1999"
-94104,160904022,"Nephtys ciliata (MÃ¼ller, 1788)",scientificName_replaced_by_backbone_name,2316942,"Nephtys ciliata (Müller, 1788)"
-94009,160904030,"Lepidonotus carinulatus (Grube, 1870)",filtered_on_establishmentMeans,2314157,"Lepidonotus carinulatus (Grube, 1869)"
-94434,160904031,"Triloculina fichteliana d'Orbigny, 1839",merged_with_accepted,7399878,"Miliolinella fichteliana (d'Orbigny, 1839)"
-93538,160904037,"Agglutinella arenata (Said, 1949)",merged_with_accepted,10814569,"Siphonaperta arenata (Said, 1949)"
-94248,160904041,"Prosphaerosyllis longipapillata (Hartmann-SchrÃ¶der, 1979)",scientificName_replaced_by_backbone_name,2310982,"Prosphaerosyllis longipapillata (Hartmann-Schröder, 1979)"
-94268,160904044,"Pulleniatina obliquiloculata (Parker & Jones, 1862)",scientificName_replaced_by_backbone_name,7438866,"Pulleniatina obliquiloculata (Parker & Jones, 1865)"
-93883,160904045,"Exogone breviantennata Hartmann-SchrÃ¶der, 1959",scientificName_replaced_by_backbone_name,5194517,"Exogone breviantennata Hartmann-Schröder, 1959"
-93882,160904047,"Exogone africana Hartmann-SchrÃ¶der, 1974",scientificName_replaced_by_backbone_name,5815526,"Exogone africana Hartmann-Schröder, 1974"
-94184,160904070,"Pherusa parmata (Grube, 1877)",merged_with_accepted,7189658,"Daylithos parmatus (Grube, 1877)"
-93516,160904073,"Acervulina inhaerens Schulze, 1854",scientificName_replaced_by_backbone_name,8102774,"Acervulina inhaerens Schultze, 1854"
-94386,160904080,"Streblosoma comatus (Grube, 1859)",merged_with_accepted,2325283,"Thelepus comatus (Grube, 1859)"
-94443,160904085,Ulva lactuca L.,filtered_on_establishmentMeans,5273309,Ulva lactuca L.
-94028,160904086,"Loimia medusa (Savigny, 1822)",filtered_on_establishmentMeans,2325250,"Loimia medusa (Savigny, 1822)"
-93743,160904092,Cladophora flexuosa (O.F.MÃ¼ller) KÃ¼tzing,scientificName_replaced_by_backbone_name,5272747,Cladophora flexuosa (O.F.Müller) Kützing
-93713,160904097,"Chaetozone corona Berkeley & Berkeley, 1941",filtered_on_establishmentMeans,2324001,"Chaetozone corona Berkeley & Berkeley, 1941"
-93752,160904100,Codium fragile subsp. tomentosoides (Goor) P.C.Silva,merged_with_accepted,7230558,Codium fragile subsp. fragile
-93807,160904106,"Dasybranchus carneus Grube, 1870",filtered_on_establishmentMeans,2317969,"Dasybranchus carneus Grube, 1869"
-93695,160904111,"Caulerpa lamourouxii (Turner) C.Agardh, 1817",merged_with_accepted,2643103,Caulerpa racemosa var. lamourouxii (Turner) Weber Bosse
-93694,160904113,"Caulerpa lamourouxii (Turner) C.Agardh, 1817",merged_with_accepted,2643103,Caulerpa racemosa var. lamourouxii (Turner) Weber Bosse
-94369,160904117,"Spirobranchus kraussii (Baird, 1865)",scientificName_replaced_by_backbone_name,5959034,"Spirobranchus kraussii (Baird, 1864)"
-93696,160904118,Caulerpa mexicana Sond. ex KÃ¼tz.,not_matched_with_backbone,,
-93980,160904121,"Janua steueri (Sterzinger, 1909)",merged_with_accepted,4811221,"Neodexiospira steueri (Sterzinger, 1909)"
-93956,160904123,"Hydroides dirampha MÃ¶rch, 1863",not_matched_with_backbone,,
-94235,160904144,Porphyra minor Zanardini,scientificName_replaced_by_backbone_name,5275660,"Porphyra minor Zanardini, 1847"
-94236,160904146,Porphyra umbilicalis (Linnaeus) KÃ¼tzing,not_matched_with_backbone,,
-93656,160904166,"Bugula stolonifera Ryland, 1960",merged_with_accepted,8428595,"Bugulina stolonifera (Ryland, 1960)"
-93912,160904167,Gelidiocolax christianae Feldmann & G.Feldmann,scientificName_replaced_by_backbone_name,2665883,"Gelidiocolax christianae Feldmann & G.Feldmann, 1963"
-93925,160904171,Gracilaria armata (C.Agardh) Grev.,scientificName_replaced_by_backbone_name,5278942,Gracilaria armata (C.Agardh) Greville
-93636,160904175,"Beroe ovata BruguiÃ¨re, 1789",scientificName_replaced_by_backbone_name,5233152,"Beroe ovata Bruguière, 1789"
-93913,160904186,Gelidium corneum (Huds.) J.V.Lamour.,merged_with_accepted,2662738,Gelidium spinosum (S.G.Gmelin) P.C.Silva
-93916,160904188,"Gelidium spathulatum (KÃ¼tz.) Bornet, 1892",scientificName_replaced_by_backbone_name,2662804,"Gelidium spathulatum (Kütz.) Bornet, 1892"
-93915,160904190,Gelidium pusillum (Stackh.) Le Jol.,scientificName_replaced_by_backbone_name,2662756,Gelidium pusillum (Stackhouse) Le Jolis
-93914,160904192,Gelidium pulchellum,scientificName_replaced_by_backbone_name,2662689,Gelidium pulchellum (Turner) Kützing
-93911,160904198,"Gelidiella ramellosa (KÃ¼tz.) Feldmann & G.Hamel, 1934",merged_with_accepted,10346019,"Huismaniella ramellosa (Kütz.) G.H.Boo & S.M.Boo, 2016"
-93910,160904203,Gelidiella nigrescens (Feldmann) Feldmann & Hamel,merged_with_accepted,11474682,"Huismaniella nigrescens (Feldm.) G.Furnari, Cormaci, Alongi & Perrone, 2018"
-93756,160904209,"Colaconema codicola (BÃ¸rgesen) Stegenga, J.J.Bolton & R.J.Anderson",scientificName_replaced_by_backbone_name,5278525,"Colaconema codicola (Børgesen) Stegenga, J.J.Bolton & R.J.Anderson"
-93755,160904211,"Colaconema codicola (BÃ¸rgesen) Stegenga, J.J.Bolton & R.J.Anderson",scientificName_replaced_by_backbone_name,5278525,"Colaconema codicola (Børgesen) Stegenga, J.J.Bolton & R.J.Anderson"
-93644,160904219,Botryocladia madagascariensis G.Feldmann,scientificName_replaced_by_backbone_name,2663181,"Botryocladia madagascariensis G.Feldmann, 1945"
-93658,160904224,"Bursaphelenchus xylophilus (Steiner & Buhrer, 1934)",scientificName_replaced_by_backbone_name,5777790,"Bursaphelenchus xylophilus (Steiner & Buhrer, 1934), 1970"
-94397,160904240,"Synaptula reciprocans (ForsskÃ¥l, 1775)",scientificName_replaced_by_backbone_name,4341995,"Synaptula reciprocans (Forsskål, 1775)"
-94025,160904241,Lithophyllum orbiculatum (Foslie) Foslie,scientificName_replaced_by_backbone_name,5276315,"Lithophyllum orbiculatum (Foslie) Foslie, 1900"
-93963,160904253,Hypnea spinella (C.Agardh) KÃ¼tz.,not_matched_with_backbone,,
-93540,160904258,"Ahnfeltiopsis furcellata (C.Agardh) P.C.Silva & DeCew, 1992",merged_with_accepted,12259278,"Asterfilopsis furcellata (C.Agardh) M.S.Calderon & S.M.Boo, 2016"
-94126,160904263,"Ophiactis savignyi (MÃ¼ller & Troschel, 1842)",scientificName_replaced_by_backbone_name,2276151,"Ophiactis savignyi (Müller & Troschel, 1842)"
-94018,160904265,Liagora viscida (Forsskal) C.A.Agardh,scientificName_replaced_by_backbone_name,5278729,Liagora viscida (Forsskål) C.Agardh
-93906,160904267,Ganonema farinosum (J.V.Lamour.) K.C.Fan & Y.C.Wang,filtered_on_establishmentMeans,5278659,Ganonema farinosum (J.V.Lamour.) K.C.Fan & Yung C.Wang
-93526,160904274,Acrochaetium rosulatum (Rosenvinge) Papenfuss,merged_with_accepted,2664198,Kylinia rosulata Rosenvinge
-94113,160904275,"Oculina patagonica de Angelis, 1908",scientificName_replaced_by_backbone_name,5184825,"Oculina patagonica de Angelis D'Ossat, 1908"
-93525,160904281,Acrochaetium moniliforme (Rosenvinge) BÃ¸rgesen,not_matched_with_backbone,,
-93524,160904283,Acrochaetium microscopicum (NÃ¤geli ex KÃ¼tzing) NÃ¤geli,scientificName_replaced_by_backbone_name,2664353,Acrochaetium microscopicum Kütz.
-93521,160904287,Acrochaetium leptonema (Rosenvinge) BÃ¸rgesen,not_matched_with_backbone,,
-94283,160904288,"Rhopilema nomadica Galil, 1990",scientificName_replaced_by_backbone_name,2264597,"Rhopilema nomadica Galil, Spanier & Ferguson, 1990"
-94194,160904292,"Phyllorhiza punctata Lendenfeld, 1884",scientificName_replaced_by_backbone_name,2264530,"Phyllorhiza punctata von Lendenfeld, 1884"
-93928,160904293,Griffithsia corallinoides (Linnaeus) Trevisan,scientificName_replaced_by_backbone_name,2657564,Griffithsia corallinoides (L.) Trevis.
-93689,160904296,"Cassiopea andromeda (ForsskÃ¥l, 1775)",scientificName_replaced_by_backbone_name,2264603,"Cassiopea andromeda (Forskål, 1775)"
-94230,160904301,"Polysiphonia morrowii Harvey, 1857",scientificName_replaced_by_backbone_name,5277734,Polysiphonia morrowii Harv.
-94228,160904303,Polysiphonia fucoides (Hudson) Greville,merged_with_accepted,12194263,Vertebrata spec (Hudson) Kuntze
-93510,160904316,"Acanthophora nayadiformis (Delile) Papenf., 1968",filtered_on_establishmentMeans,5277294,"Acanthophora nayadiformis (Delile) Papenf., 1968"
-94322,160904336,"Sepioteuthis lessoniana FÃ©russac, 1831",not_matched_with_backbone,,
-94112,160904344,"Octopus aegina Gray, 1849",merged_with_accepted,5856036,"Amphioctopus aegina (Gray, 1849)"
-94414,160904359,"Teredo navalis Linnaeus, 1758",filtered_on_establishmentMeans,2288847,"Teredo navalis Linnaeus, 1758"
-94465,160904362,Zantedeschia aethiopica Spreng.,scientificName_replaced_by_backbone_name,2868827,Zantedeschia aethiopica (L.) Spreng.
-93818,160904366,Dieffenbachia seguine Schott,scientificName_replaced_by_backbone_name,2869345,Dieffenbachia seguine (Jacq.) Schott
-93933,160904372,Halophila stipulacea Asch.,scientificName_replaced_by_backbone_name,5329631,Halophila stipulacea (Forssk.) Asch.
-93835,160904376,Egeria densa Planch.,merged_with_accepted,5329263,Elodea densa (Planch.) Casp.
-93908,160904379,"Gastrochaena cymbium Spengler, 1783",merged_with_accepted,5793674,"Cucurbitula cymbium (Spengler, 1783)"
-93797,160904380,Cymodocea nodosa Asch.,scientificName_replaced_by_backbone_name,5328492,Cymodocea nodosa (Ucria) Asch.
-93836,160904386,Eichhornia crassipes Solms,merged_with_accepted,2765942,Pontederia crassipes Mart.
-94048,160904387,"Malvufundus regula (ForsskÃ¥l, 1775)",merged_with_accepted,4374719,"Malleus regula (Forsskål, 1775)"
-93779,160904401,"Crassostrea gigas (Thunberg, 1793)",merged_with_accepted,7820753,"Magallana gigas (Thunberg, 1793)"
-94296,160904405,"Saccostrea commercialis (Iredale & Roughley, 1933)",merged_with_accepted,4595317,"Saccostrea glomerata (Gould, 1850)"
-93682,160904418,"Cardites akabana (Sturany, 1899)",merged_with_accepted,6528791,"Centrocardita akabana (Sturany, 1899)"
-94195,160904423,Phyllostachys bambusoides Siebold & Zucc.,merged_with_accepted,5677245,Phyllostachys reticulata (Rupr.) K.Koch
-94377,160904425,Sporobolus indicus R.Br.,scientificName_replaced_by_backbone_name,2704757,Sporobolus indicus (L.) R.Br.
-94324,160904426,"Septifer forskalii Dunker, 1855",merged_with_accepted,9450610,"Septifer cumingii Récluz, 1849"
-94357,160904433,Sorghum drummondii (Nees ex Steud.) Millsp. & Chase,scientificName_replaced_by_backbone_name,2705184,Sorghum ×drummondii (Nees ex Steud.) Millsp. & Chase
-94330,160904437,Setaria italica P.Beauv.,scientificName_replaced_by_backbone_name,5289698,Setaria italica (L.) P.Beauv.
-93586,160904440,"Anodonta woodiana (I.Lea, 1834)",merged_with_accepted,4559541,"Sinanodonta woodiana (I.Lea, 1834)"
-94257,160904441,Pseudosasa japonica Makino. ex Nakai,scientificName_replaced_by_backbone_name,7952471,Pseudosasa japonica (Siebold & Zucc. ex Steud.) Makino ex Nakai
-93745,160904455,"Clementia papyracea (Gray, 1825)",merged_with_accepted,4372695,"Clementia papyracea (Gmelin, 1791)"
-94149,160904459,"Paphia textile (Gmelin, 1791)",merged_with_accepted,8385517,"Paratapes textilis (Gmelin, 1791)"
-93967,160904460,Imperata cylindrica (L.) P.Beauv.,merged_with_accepted,8424006,Imperata cylindrica (L.) Raeusch.
-93851,160904462,Eragrostis curvula Nees,scientificName_replaced_by_backbone_name,2705378,Eragrostis curvula (Schrad.) Nees
-94179,160904463,"Petricola hemprichi Issel, 1869",merged_with_accepted,6524162,"Petricola fabagella Lamarck, 1818"
-93821,160904464,Diplachne fusca (L.) Roem. & Schult.,scientificName_replaced_by_backbone_name,8010581,Diplachne fusca (L.) P.Beauv. ex Roem. & Schult.
-94294,160904465,"Ruditapes philippinarum (Adams & Reeve, 1850)",scientificName_replaced_by_backbone_name,4372686,"Ruditapes philippinarum (A.Adams & Reeve, 1850)"
-93830,160904470,Echinochloa colona (L.) Link,scientificName_replaced_by_backbone_name,6431411,Echinochloa colonum (L.) Link
-93767,160904476,Cortaderia selloana Asch. & Graebn.,scientificName_replaced_by_backbone_name,2704523,Cortaderia selloana (Schult. & Schult.f.) Asch. & Graebn.
-93580,160904477,"Anadara inflata (Reeve, 1844)",merged_with_accepted,5855397,"Anadara broughtonii (Schrenck, 1867)"
-93578,160904481,"Anadara demiri (Piani, 1981)",merged_with_accepted,5188945,"Anadara transversa (Say, 1822)"
-93579,160904487,"Anadara inaequivalvis (BruguiÃ¨re, 1789)",scientificName_replaced_by_backbone_name,4373260,"Anadara inaequivalvis (Bruguière, 1789)"
-93976,160904494,Iris albicans Lange,merged_with_accepted,5298079,Iris florentina L.
-94413,160904495,"Tellina valtonis Hanley, 1844",merged_with_accepted,6126908,"Nitidotellina valtonis (Hanley, 1844)"
-94249,160904499,"Psammotreta praerupta (Salisbury, 1934)",merged_with_accepted,8770976,"Psammacoma gubernaculum (Hanley, 1844)"
-93898,160904503,"Fulvia fragilis (ForsskÃ¥l, 1775)",scientificName_replaced_by_backbone_name,5729175,"Fulvia fragilis (Forsskål, 1775)"
-93939,160904510,Hemerocallis fulva L.,scientificName_replaced_by_backbone_name,2781074,Hemerocallis fulva (L.) L.
-93907,160904512,Gasteria obliqua Duval,scientificName_replaced_by_backbone_name,2778690,Gasteria obliqua (Aiton) Duval
-93763,160904518,Cordyline australis Endl.,scientificName_replaced_by_backbone_name,2766411,Cordyline australis (G.Forst.) Endl.
-94410,160904535,Taxodium distichum Rich.,scientificName_replaced_by_backbone_name,2684191,Taxodium distichum (L.) Rich.
-94327,160904541,Sequoia sempervirens Endl.,scientificName_replaced_by_backbone_name,2683909,Sequoia sempervirens (D.Don) Endl.
-94328,160904543,Sequoiadendron giganteum (Lindl.) J.Buchholz,scientificName_replaced_by_backbone_name,2684120,Sequoiadendron giganteum (Lindl.) J.T.Buchholz
-94162,160904544,"Parviturbo dibellai Buzzurro & Cecalupo, 2007",filtered_on_establishmentMeans,10055245,"Conradia eutornisca (Melvill, 1918)"
-93968,160904551,"Infundibulops erythraeus (Brocchi, 1821)",merged_with_accepted,9512405,"Trochus erithreus Brocchi, 1821"
-93784,160904552,Cupressus Ã—leylandii A.B.Jacks. & Dallim.,not_matched_with_backbone,,
-93781,160904554,Cryptomeria japonica D.Don,scientificName_replaced_by_backbone_name,5284237,Cryptomeria japonica (Thunb. ex L.f.) D.Don
-94385,160904555,"Stomatella varia (A.Adams, 1850)",merged_with_accepted,4616141,"Stomatella auricula Lamarck, 1816"
-93718,160904560,Chamaecyparis lawsoniana Parl.,scientificName_replaced_by_backbone_name,2683866,Chamaecyparis lawsoniana (A.Murray bis) Parl.
-93918,160904567,"Gibborissoia virgata (Philippi, 1849)",scientificName_replaced_by_backbone_name,7403107,"Gibborissoia virgata (R.A.Philippi, 1849)"
-94438,160904569,Tsuga heterophylla Sarg.,scientificName_replaced_by_backbone_name,2687210,Tsuga heterophylla (Raf.) Sarg.
-93815,160904572,"Diala varia A.Adams, 1861",merged_with_accepted,10609794,"Diala semistriata (R.A.Philippi, 1849)"
-94208,160904573,Pinus ponderosa Douglas ex P.Lawson & C.Lawson,scientificName_replaced_by_backbone_name,5285053,Pinus ponderosa Douglas ex C.Lawson
-93846,160904576,"Elysia tomentosa K.Jensen, 1997",scientificName_replaced_by_backbone_name,5724656,"Elysia tomentosa K.R.Jensen, 1997"
-93733,160904588,"Chrysallida fischeri (Hornung & Mermod, 1925)",merged_with_accepted,7510386,"Pyrgulina fischeri Hornung & Mermod, 1925"
-94001,160904589,Larix kaempferi (Lamb.) CarriÃ¨re,scientificName_replaced_by_backbone_name,2686157,Larix kaempferi (Lamb.) Carrière
-93736,160904592,"Chrysallida pirinthella (Melvill, 1910)",merged_with_accepted,7361172,"Pyrgulina pirinthella Melvill, 1910"
-93700,160904593,Cedrus deodara (Roxb. ex Lambert) G.Don,scientificName_replaced_by_backbone_name,5284698,Cedrus deodara (Lamb.) G.Don
-93501,160904596,Abies concolor (Gordon & Glend.) Hildebr.,scientificName_replaced_by_backbone_name,2685580,Abies concolor (Gordon) Lindl. ex Hildebr.
-93735,160904597,"Chrysallida micronana Ã–ztÃ¼rk & van Aartsen, 2006",not_matched_with_backbone,,
-93734,160904601,"Chrysallida maiae (Hornung & Mermod, 1924)",scientificName_replaced_by_backbone_name,4358923,"Chrysallida majae Landau, Harzhauser, İslamoğlu & Silva, 2013"
-94083,160904605,"Monotigma lauta (A.Adams, 1853)",merged_with_accepted,4358939,"Monotygma lauta (A.Adams, 1853)"
-94134,160904606,Oxalis articulata Savign.,scientificName_replaced_by_backbone_name,2891664,Oxalis articulata Savigny
-94082,160904609,"Monotigma fulva (A.Adams, 1853)",merged_with_accepted,4358938,"Monotygma fulva (A.Adams, 1853)"
-93949,160904613,"Hinemoa cylindrica (de Folin, 1879)",merged_with_accepted,11188104,"Oscilla cylindrica (de Folin, 1879)"
-94114,160904623,"Odostomia lorioli (Hornung & Mermod, 1924)",merged_with_accepted,12220649,"Megastomia lorioli (Hornung & Mermod, 1924)"
-94378,160904634,"Spurilla major (Eliot, 1903)",merged_with_accepted,8172198,"Baeolidia moebii Bergh, 1888"
-94222,160904638,"Plocamopherus ocellatus RÃ¼ppell & Leuckart, 1828",not_matched_with_backbone,,
-93894,160904649,"Flabellina rubrolineata (O'Donoghue, 1929)",merged_with_accepted,6518477,"Coryphellina rubrolineata O'Donoghue, 1929"
-93731,160904654,"Chromodoris annulata Eliot, 1904",merged_with_accepted,6519803,"Goniobranchus annulatus (Eliot, 1904)"
-93966,160904656,"Hypselodoris infucata (RÃ¼ppell & Leuckart, 1830)",scientificName_replaced_by_backbone_name,4360080,"Hypselodoris infucata (Rüppell & Leuckart, 1830)"
-93732,160904658,"Chromodoris quadricolor (RÃ¼ppell & Leuckart, 1830)",scientificName_replaced_by_backbone_name,4360023,"Chromodoris quadricolor (Rüppell & Leuckart, 1830)"
-94312,160904659,Schefflera actinophylla (Endl.) Harms,merged_with_accepted,11008739,Heptapleurum actinophyllum (Endl.) Lowry & G.M.Plunkett
-94313,160904661,Schefflera arboricola (Hayata) Merr.,merged_with_accepted,3038724,Heptapleurum arboricola Hayata
-93820,160904666,Diodora rueppellii,merged_with_accepted,4357847,"Diodora ruppellii (G.B.Sowerby I, 1835)"
-93847,160904670,"Emarginula elongata O.G.Costa, 1829",merged_with_accepted,4357918,"Emarginula octaviana Coen, 1939"
-94169,160904676,Pelargonium zonale L'HÃ©r.,not_matched_with_backbone,,
-93749,160904678,"Cocculina corrugata Jeffreys, 1883",merged_with_accepted,10674041,"Copulabyssia tenuis (Monterosato, 1880)"
-93750,160904683,"Cocculina labronica Bogi, 1984",merged_with_accepted,4357679,"Bogia labronica (Bogi, 1984)"
-94280,160904687,"Rhinoclavis kochi (Philippi, 1848)",scientificName_replaced_by_backbone_name,4362907,"Rhinoclavis kochi (R.A.Philippi, 1848)"
-93711,160904693,"Cerithium scabridum Philippi, 1848",scientificName_replaced_by_backbone_name,4362895,"Cerithium scabridum R.A.Philippi, 1848"
-94451,160904707,"Vexillum granum (Forbes, 1844)",merged_with_accepted,9387590,"Pusia granum (Forbes, 1844)"
-93799,160904710,Cynoglossum wallichii G.Don,merged_with_accepted,7533568,Paracynoglossum glochidiatum (Wall. ex Benth.) Valdés
-94076,160904717,"Mitromorpha mediterranea Mifsud, 2001",merged_with_accepted,7557276,"Mitromorpha columbellaria (Scacchi, 1836)"
-94034,160904718,Luffa cylindrica (L.) Roem,not_matched_with_backbone,,
-93929,160904727,"Gymnobela watsoni (Dautzenberg, 1889)",merged_with_accepted,8135280,"Mioawateria watsoni (Dautzenberg, 1889)"
-94036,160904729,"Lusitanops cingulatus Bouchet & WarÃ©n, 1980",scientificName_replaced_by_backbone_name,4369720,"Lusitanops cingulatus Bouchet & Warén, 1980"
-94196,160904734,Physalis alkekengi L.,merged_with_accepted,3797084,Alkekengi officinarum Moench
-93951,160904735,"Houartiella alboranensis Smriglio, Mariottini & Bonfitto, 1997",merged_with_accepted,4364971,"Trophonopsis alboranensis (Smriglio, Mariottini & Bonfitto, 1997)"
-94417,160904738,"Thais lacera (Born, 1778)",merged_with_accepted,7655863,"Indothais lacera (Born, 1778)"
-94037,160904739,Lycianthes rantonnei (CarriÃ¨re) Bitter,merged_with_accepted,3799026,Lycianthes rantonnetii (Carrière ex Lesc.) Bitter
-94256,160904746,"Pseudorhaphitoma iodolabiata (Hornung & Mermod, 1929)",scientificName_replaced_by_backbone_name,6507885,"Pseudorhaphitoma iodolabiata (Hornung & Mermod, 1928)"
-94347,160904748,Solanum angustifolium Mill.,scientificName_replaced_by_backbone_name,2929800,Solanum angustifolium Houst. ex Mill.
-93595,160904759,"Aplysia parvula MÃ¶rch, 1863",not_matched_with_backbone,,
-94288,160904785,"Rissoina ambigua (Gould, 1849)",scientificName_replaced_by_backbone_name,4361753,"Rissoina ambigua (A.Gould, 1849)"
-94266,160904790,"Pterotrachea coronata ForsskÃ¥l, 1775",scientificName_replaced_by_backbone_name,5192664,"Pterotrachea coronata Forsskål, 1775"
-94389,160904799,"Strombus vittatus Linnaeus, 1758",merged_with_accepted,6489837,"Doxander vittatus (Linnaeus, 1758)"
-93684,160904814,"Carinaria mediterranea Blainville, 1825",merged_with_accepted,6490136,"Carinaria lamarckii Blainville, 1817"
-93824,160904815,Duchesnea indica (Andr.) Focke,merged_with_accepted,5365717,Potentilla indica (Andrews) Th.Wolf
-94368,160904817,Spiraea vanhouttei (Briot) Zabel,scientificName_replaced_by_backbone_name,3026622,Spiraea ×vanhouttei (Briot) Zabel
-94047,160904819,Malus sieboldii Rehder,merged_with_accepted,7848132,Malus toringo (Siebold) de Vriese
-93552,160904822,"Alvania dorbignyi (Audouin, 1826)",filtered_on_establishmentMeans,5725191,"Alvania dorbignyi (Audouin, 1826)"
-93896,160904823,Fragaria ananassa (Weston) Duchesne ex Rozier,scientificName_replaced_by_backbone_name,3029912,Fragaria ×ananassa (Weston) Rozier
-93775,160904829,Cotoneaster franchetii Bois,scientificName_replaced_by_backbone_name,3026162,Cotoneaster franchetii Boiss.
-94278,160904830,"Retusa fourierii (Audouin, 1826)",merged_with_accepted,4359506,"Pyrunculus fourierii (Audouin, 1826)"
-93793,160904836,"Cylichnina girardi (Audouin, 1826)",merged_with_accepted,9299496,"Mnestia girardi (Audouin, 1826)"
-94043,160904837,Maclura pomifera (Raf.) C.K.Schneid.,scientificName_replaced_by_backbone_name,2984580,Maclura pomifera (Raf. ex Sarg.) C.K.Schneid.
-93891,160904839,Ficus microcarpa L.f.,scientificName_replaced_by_backbone_name,7467639,Ficus microcarpa L.fil.
-93890,160904841,Ficus macrophylla Desf.,scientificName_replaced_by_backbone_name,7460131,"Ficus macrophylla Desf., 1804"
-93725,160904842,"Chelidonura mediterranea Swennen, 1961",merged_with_accepted,9746127,"Biuve fulvipunctata (Baba, 1938)"
-93724,160904844,"Chelidonura fulvipunctata Baba, 1938",merged_with_accepted,9746127,"Biuve fulvipunctata (Baba, 1938)"
-93654,160904845,Broussonetia papyrifera Vent.,scientificName_replaced_by_backbone_name,5361944,Broussonetia papyrifera (L.) L'Hér. ex Vent.
-93657,160904848,"Bulla arabica Malaquias & Reid, 2008",scientificName_replaced_by_backbone_name,6520353,"Bulla arabica Malaquias & D.Reid, 2008"
-93935,160904852,"Haminoea cyanomarginata Heller & Thompson, 1983",merged_with_accepted,10906181,"Lamprohaminoea ovalis (Pease, 1868)"
-93625,160904854,"Atys angustatus E.A.Smith, 1872",filtered_on_establishmentMeans,6075968,"Atys angustatus E.A.Smith, 1872"
-93530,160904858,"Acteocina mucronata (Philippi, 1849)",scientificName_replaced_by_backbone_name,4359672,"Acteocina mucronata (R.A.Philippi, 1849)"
-93895,160904861,Forsythia intermedia Zabel,scientificName_replaced_by_backbone_name,5415054,Forsythia ×intermedia Zabel
-93794,160904876,"Cymbalaria muralis P.Gaertner, B.Meyer & Scherb.",scientificName_replaced_by_backbone_name,8200663,"Cymbalaria muralis G.Gaertn., B.Mey. & Scherb."
-94176,160904882,Perilla frutescens Britton.,scientificName_replaced_by_backbone_name,5341394,Perilla frutescens (L.) Britton
-93844,160904884,Elsholtzia ciliata (Thunb.) Hylander,scientificName_replaced_by_backbone_name,2927075,Elsholtzia ciliata (Thunb.) Hyl.
-94411,160904891,Tecoma capensis Lindl.,merged_with_accepted,3172490,Tecomaria capensis (Thunb.) Spach
-94274,160904896,"Pyura momus (Savigny, 1816)",merged_with_accepted,5200658,"Herdmania momus (Savigny, 1816)"
-93673,160904899,Campsis radicans (L.) Seem.,merged_with_accepted,3172549,Campsis radicans (L.) Bureau
-93948,160904907,"Himantura uarnak (Gmelin, 1789)",scientificName_replaced_by_backbone_name,5215888,"Himantura uarnak (Forskål, 1775)"
-94309,160904926,"Sargocentron rubrum (ForsskÃ¥l, 1775)",scientificName_replaced_by_backbone_name,2356802,"Sargocentron rubrum (Forsskål, 1775)"
-93952,160904937,Hoya carnosa R.Br.,scientificName_replaced_by_backbone_name,8658195,Hoya carnosa (L.fil.) R.Br.
-94416,160904938,"Tetrodon lunaris Bloch & Schneider, 1801",merged_with_accepted,2407773,"Lagocephalus lunaris (Bloch & Schneider, 1801)"
-93922,160904939,Gomphocarpus fruticosus (L.) Ait.,scientificName_replaced_by_backbone_name,7150619,Gomphocarpus fruticosus (L.) W.T.Aiton
-94362,160904944,"Sphoeroides pachygaster (MÃ¼ller & Troschel, 1848)",scientificName_replaced_by_backbone_name,2407845,"Sphoeroides pachygaster (Müller & Troschel, 1848)"
-93940,160904960,"Hemiramphus far (ForsskÃ¥l, 1775)",scientificName_replaced_by_backbone_name,2368968,"Hemiramphus far (Forsskål, 1775)"
-94053,160904961,Melaleuca armillaris Sm.,scientificName_replaced_by_backbone_name,5415719,Melaleuca armillaris (Gaertn.) Sm.
-93965,160904962,"Hyporhamphus affinis (GÃ¼nther, 1866)",scientificName_replaced_by_backbone_name,2368900,"Hyporhamphus affinis (Günther, 1866)"
-93861,160904963,Eucalyptus camaldulensis Dehnh.,scientificName_replaced_by_backbone_name,3176197,Eucalyptus camaldulensis Dehn.
-93670,160904967,Callistemon viminalis G.Don,scientificName_replaced_by_backbone_name,3173353,Callistemon viminalis (Sol. ex Gaertn.) G.Don
-93950,160904970,"Hippocampus fuscus RÃ¼ppell, 1838",not_matched_with_backbone,,
-93893,160904974,"Fistularia commersonii RÃ¼ppell, 1838",not_matched_with_backbone,,
-93620,160904984,Aster subulatus hort.,merged_with_accepted,3151535,Symphyotrichum ericoides (L.) G.L.Nesom
-93766,160904987,"Coregonus lavaretus maraena (Bloch, 1779)",merged_with_accepted,2351174,"Coregonus maraena (Bloch, 1779)"
-94395,160904990,Symphyotrichum laeve (L.) Ã .LÃ¶ve & D.LÃ¶ve,not_matched_with_backbone,,
-94301,160904991,"Salmo trutta labrax Pallas, 1814",filtered_on_establishmentMeans,2351566,"Salmo labrax Pallas, 1814"
-94302,160904995,"Salmo trutta macrostigma (DumÃ©ril, 1858)",filtered_on_establishmentMeans,2351621,"Salmo macrostigma (Duméril, 1858)"
-94300,160905000,"Salmo trutta abanticus Tortonese, 1954",filtered_on_establishmentMeans,7193469,"Salmo abanticus Tortonese, 1954"
-94052,160905004,Matricaria matricarioides (Less.) Porter,merged_with_accepted,3103791,Matricaria discoidea DC.
-94340,160905019,"Silurus glanis Linnaeus, 1758",filtered_on_establishmentMeans,2337607,"Silurus glanis Linnaeus, 1758"
-93853,160905020,Erigeron annuus Pers.,scientificName_replaced_by_backbone_name,3117449,Erigeron annuus (L.) Pers.
-93817,160905024,Dichrocephala integrifolia Kuntze,scientificName_replaced_by_backbone_name,3115588,Dichrocephala integrifolia (L.fil.) Kuntze
-93744,160905027,"Clarias gariepinus (Burchell, 1822)",filtered_on_establishmentMeans,5202793,"Clarias gariepinus (Burchell, 1822)"
-93726,160905035,"Chelon haematocheilus (Temminck & Schlegel, 1845)",merged_with_accepted,9377860,"Planiliza haematocheila (Temminck & Schlegel, 1845)"
-93619,160905046,Aster squamatus Hieron.,merged_with_accepted,3151764,Symphyotrichum squamatum (Spreng.) G.L.Nesom
-93944,160905047,"Herklotsichthys punctatus (RÃ¼ppell, 1837)",scientificName_replaced_by_backbone_name,2413065,"Herklotsichthys punctatus (Rüppell, 1837)"
-93860,160905054,"Etrumeus teres (DeKay, 1842)",merged_with_accepted,2413189,"Etrumeus sadina (Mitchill, 1814)"
-93729,160905060,"Chirocentrus dorab (ForsskÃ¥l, 1775)",scientificName_replaced_by_backbone_name,2413687,"Chirocentrus dorab (Forsskål, 1775)"
-93721,160905065,"Chanos chanos (ForsskÃ¥l, 1775)",scientificName_replaced_by_backbone_name,2406374,"Chanos chanos (Forsskål, 1775)"
-93623,160905076,"Atherina boyeri Risso, 1810",filtered_on_establishmentMeans,2411944,"Atherina boyeri Risso, 1810"
-94087,160905077,Muehlenbeckia platyclados Meisn.,merged_with_accepted,8160440,Muehlenbeckia platyclada (F.Muell.) Meisn.
-93624,160905078,"Atherinomorus forskalii (RÃ¼ppell, 1838)",scientificName_replaced_by_backbone_name,7999925,"Atherinomorus forskalii (Rüppell, 1838)"
-94128,160905085,Opuntia microdasys (Lehm.) Lehm. ex Pfeiff.,scientificName_replaced_by_backbone_name,7283961,Opuntia microdasys (Lehm.) Pfeiff.
-93833,160905087,Echinopsis chamaecereus Friedrich & Glaetzle,merged_with_accepted,3944596,Chamaecereus silvestrii (Speg.) Britton & Rose
-93584,160905092,"Anguilla anguilla (Linnaeus, 1758)",filtered_on_establishmentMeans,5212973,"Anguilla anguilla (Linnaeus, 1758)"
-93645,160905093,Bougainvillea buttiana Holttum & Standl.,scientificName_replaced_by_backbone_name,5553651,Bougainvillea ×buttiana Holttum & Standl.
-93606,160905103,Armeria maritima Willd.,scientificName_replaced_by_backbone_name,8930531,Armeria maritima (Mill.) Willd.
-93592,160905104,"Aphanius mento (Heckel, 1843)",filtered_on_establishmentMeans,2348056,"Aphanius mento (Heckel, 1843)"
-93601,160905109,Aptenia cordifolia (L.fil.) Schwant.,merged_with_accepted,8185812,Mesembryanthemum cordifolium L.fil.
-94425,160905110,"Tinca tinca (Linnaeus, 1758)",filtered_on_establishmentMeans,2362524,"Tinca tinca (Linnaeus, 1758)"
-93996,160905116,Lampranthus multiradiatus N.E.Br.,scientificName_replaced_by_backbone_name,3705230,Lampranthus multiradiatus (Jacq.) N.E.Br.
-93804,160905117,"Cyprinus carpio Linnaeus, 1758",filtered_on_establishmentMeans,4286975,"Cyprinus carpio Linnaeus, 1758"
-93686,160905118,Carpobrotus edulis N.E.Br.,scientificName_replaced_by_backbone_name,3084842,Carpobrotus edulis (L.) N.E.Br.
-93685,160905120,Carpobrotus acinaciformis L.Bolus,scientificName_replaced_by_backbone_name,3703606,Carpobrotus acinaciformis (L.) L.Bolus
-93543,160905124,"Alburnus chalcoides (GÃ¼ldenstÃ¤dt, 1772)",filtered_on_establishmentMeans,2362973,"Alburnus chalcoides (Güldenstädt, 1772)"
-93544,160905126,"Alburnus tarichi (GÃ¼ldenstÃ¤dt, 1814)",filtered_on_establishmentMeans,2362899,"Alburnus tarichi (Güldenstädt, 1814)"
-93557,160905127,"Amaranthus blitum subsp. emarginatus (Moq. ex Uline & Bray) Carretero, F.MuÃ±oz Garmendia & J.Pedrol",merged_with_accepted,7323251,Amaranthus emarginatus subsp. emarginatus
-94318,160905131,"Scomberomorus commerson (LacepÃ¨de, 1800)",scientificName_replaced_by_backbone_name,2374255,"Scomberomorus commerson (Lacepède, 1800)"
-94364,160905137,"Sphyraena flavicauda RÃ¼ppell, 1838",not_matched_with_backbone,,
-94336,160905140,"Siganus luridus (RÃ¼ppell, 1829)",scientificName_replaced_by_backbone_name,2390262,"Siganus luridus (Rüppell, 1829)"
-94337,160905142,"Siganus rivulatus ForsskÃ¥l, 1775",scientificName_replaced_by_backbone_name,2390185,"Siganus rivulatus Forsskål & Niebuhr, 1775"
-94339,160905146,"Sillago sihama (ForsskÃ¥l, 1775)",scientificName_replaced_by_backbone_name,2391929,"Sillago sihama (Forsskål, 1775)"
-94220,160905150,"Platax teira (ForsskÃ¥l, 1775)",scientificName_replaced_by_backbone_name,2394312,"Platax teira (Forsskål, 1775)"
-94231,160905154,"Pomadasys stridens (ForsskÃ¥l, 1775)",scientificName_replaced_by_backbone_name,2382872,"Pomadasys stridens (Forsskål, 1775)"
-93558,160905159,Amaranthus blitum subsp. oleraceus (L.) Costea,merged_with_accepted,8911082,Amaranthus blitum L.
-94174,160905163,"Perca fluviatilis Linnaeus, 1758",filtered_on_establishmentMeans,8140485,"Perca fluviatilis Linnaeus, 1758"
-94170,160905167,"Pelates quadrilineatus Cuvier & Valenciennes, 1829",scientificName_replaced_by_backbone_name,5208652,"Pelates quadrilineatus (Bloch, 1790)"
-94160,160905179,"Parupeneus forsskali (Fourmanoir & GuÃ©zÃ©, 1976)",scientificName_replaced_by_backbone_name,2396749,"Parupeneus forsskali (Fourmanoir & Guézé, 1976)"
-94180,160905183,"Petroscirtes ancylodon RÃ¼ppell, 1835",not_matched_with_backbone,,
-94041,160905185,Lysimachia japonica C.P.Thunberg ex A.Murray,not_matched_with_backbone,,
-94081,160905192,"Monotaxis grandoculis (ForsskÃ¥l, 1775)",scientificName_replaced_by_backbone_name,5208715,"Monotaxis grandoculis (Forsskål, 1775)"
-93534,160905216,Aesculus carnea Hayne,scientificName_replaced_by_backbone_name,3189809,Aesculus ×carnea Hayne
-93514,160905227,Acer palmatum C.P.Thunberg ex A.Murray,scientificName_replaced_by_backbone_name,7912328,Acer palmatum Thunb. ex Murr.
-94234,160905234,Populus nigra var. italica (Moench.) Koehne,scientificName_replaced_by_backbone_name,7358677,Populus nigra var. italica (Moench) Koehne
-94232,160905236,Populus canadensis Moench,scientificName_replaced_by_backbone_name,8190077,Populus ×canadensis Moench
-93599,160905246,"Apogon smithi (Kotthaus, 1970)",merged_with_accepted,2397095,"Jaydia smithi Kotthaus, 1970"
-93597,160905249,"Apogon pharaonis Bellotti, 1874",merged_with_accepted,5853511,"Apogonichthyoides pharaonis (Bellotti, 1874)"
-93598,160905253,"Apogon queketti Gilchrist, 1903",merged_with_accepted,2397204,"Jaydia queketti (Gilchrist, 1903)"
-93596,160905257,"Apogon fasciatus (White, 1790)",merged_with_accepted,7193045,"Ostorhinchus fasciatus (White, 1790)"
-93811,160905263,"Decapterus russelli (RÃ¼ppell, 1830)",scientificName_replaced_by_backbone_name,2391050,"Decapterus russelli (Rüppell, 1830)"
-93545,160905265,"Alepes djedaba (ForsskÃ¥l, 1775)",scientificName_replaced_by_backbone_name,2390581,"Alepes djedaba (Forsskål, 1775)"
-94388,160905279,"Streptopelia senegalensis (Linnaeus, 1766)",merged_with_accepted,6101223,"Spilopelia senegalensis (Linnaeus, 1766)"
-93649,160905282,Brachychiton populneus R.Br.,scientificName_replaced_by_backbone_name,7323035,Brachychiton populneus (Schott & Endl.) R.Br.
-94458,160905296,Wisteria sinensis Sweet,merged_with_accepted,8149049,Wisteria sinensis (Sims) DC.
-94247,160905308,Prosopis farcta J.F.Macbr.,scientificName_replaced_by_backbone_name,5358492,Prosopis farcta (Banks & Sol.) J.F.Macbr.
-94003,160905314,Lens culinaris Medik.,merged_with_accepted,3973001,Vicia lens (L.) Coss. & Germ.
-93806,160905322,Dalbergia sissoo DC.,scientificName_replaced_by_backbone_name,2968532,Dalbergia sissoo Roxb. ex DC.
-93660,160905327,Caesalpinia gilliesii (Hook.) D.Dietr.,merged_with_accepted,8130309,Erythrostemon gilliesii (Hook.) Klotzsch
-93573,160905334,"Amphibalanus eburneus Gould, 1841",scientificName_replaced_by_backbone_name,5862470,"Amphibalanus eburneus (Gould, 1841)"
-93574,160905336,"Amphibalanus improvisus Darwin, 1854",scientificName_replaced_by_backbone_name,6467647,"Amphibalanus improvisus (Darwin, 1854)"
-94440,160905350,"Tuta absoluta (Meyrick, 1917)",merged_with_accepted,4528100,"Phthorimaea absoluta Meyrick, 1917"
-94457,160905356,Weigela florida A.DC.,scientificName_replaced_by_backbone_name,2888730,Weigela florida (Bunge) A.DC.
-93500,160905364,Abelia xgrandiflora (Rovelli ex AndrÃ©) Rehder,not_matched_with_backbone,,
-93672,160905365,"Cameraria ohridella Deschka & Dimic, 1986",scientificName_replaced_by_backbone_name,1749449,"Cameraria ohridella Deschka & Dimić, 1986"
-93740,160905382,"Cinara juniperensis (Gillette & M.A.Palmer, 1925)",scientificName_replaced_by_backbone_name,5159173,"Cinara juniperensis (Gillette & Palmer, 1925)"
-93739,160905383,Cinara indica,merged_with_accepted,2073291,"Cinara confinis (Koch, 1856)"
-93714,160905384,"Chaitophorus indicus Ghosh, A.K., M.R.Ghosh & D.N.Raychaudhuri, 1970",scientificName_replaced_by_backbone_name,2074458,"Chaitophorus indicus Ghosh, Ghosh & Raychaudhuri, 1970"
-94284,160905389,"Rhynchophorus ferrugineus Heyne, A.-Taschenberg & O., 1908",scientificName_replaced_by_backbone_name,6132234,"Rhynchophorus ferrugineus (A.G.Olivier, 1791)"
-94024,160905409,"Liriomyza huidobrensis Blanchard, 1926",scientificName_replaced_by_backbone_name,1553410,"Liriomyza huidobrensis (Blanchard, 1926)"
-93532,160905414,"Aedes albopictus Skuse, 1894",scientificName_replaced_by_backbone_name,1651430,"Aedes albopictus (Skuse, 1894)"
-94379,160905426,"Squilla massavensis Kossmann, 1880",merged_with_accepted,4316681,"Erugosquilla massavensis (Kossmann, 1880)"
-93747,160905427,"Clorida albolitura Ahyong, S.T. & P.Naiyanetr, 2000",scientificName_replaced_by_backbone_name,5717425,"Clorida albolitura Ahyong & Naiyanetr, 2000"
-94157,160905432,"Parhyale explorator Arresti, 1989",merged_with_accepted,6461597,"Ptilohyale explorator (Arresti, 1989)"
-93905,160905436,"Gammaropsis togoensis (Schellenberg, 1925)",merged_with_accepted,11154347,"Latigammaropsis togoensis (Schellenberg, 1925)"
-94046,160905439,"Maera hamigera Haswell, 1880",merged_with_accepted,6463086,"Hamimaera hamigera (Haswell, 1879)"
-94013,160905463,"Leptochela pugnax de Man, 1916",scientificName_replaced_by_backbone_name,5716545,"Leptochela pugnax De Man, 1916"
-94067,160905465,"Micippa thalia Herbst, 1803",scientificName_replaced_by_backbone_name,4375150,"Micippa thalia (Herbst, 1803)"
-93863,160905467,"Eucrate crenata De Haan, 1835",scientificName_replaced_by_backbone_name,4375326,"Eucrate crenata (De Haan, 1835)"
-94429,160905474,"Trachysalambria palaestinensis (Steinitz, 1932)",merged_with_accepted,2223511,"Trachysalambria curvirostris (Stimpson, 1860)"
-94172,160905475,"Penaeus semisulcatus de Haan, 1844",scientificName_replaced_by_backbone_name,2223416,"Penaeus semisulcatus De Haan, 1844"
-94050,160905476,"Marsupenaeus japonicus (Bate, 1888)",merged_with_accepted,2223429,"Penaeus japonicus Spence Bate, 1888"
-94056,160905479,"Melicertus hathor Burkenroad, 1959",merged_with_accepted,4309319,"Penaeus hathor (Burkenroad, 1959)"
-93885,160905483,"Farfantepenaeus aztecus (Ives, 1891)",merged_with_accepted,2223840,"Penaeus aztecus Ives, 1891"
-93886,160905484,"Fenneropenaeus merguiensis (De Man, 1888)",merged_with_accepted,2223715,"Penaeus merguiensis De Man, 1888"
-93805,160905486,"Daira perlata Herbst, 1790",scientificName_replaced_by_backbone_name,2227465,"Daira perlata (Herbst, 1790)"
-93757,160905490,"Coleusia signata (Paul'son, 1875)",scientificName_replaced_by_backbone_name,4382675,"Coleusia signata (Paulson, 1875)"
-94239,160905495,"Portunus segnis (ForskÃ¥l, 1775)",scientificName_replaced_by_backbone_name,5863622,"Portunus segnis (Forskål, 1775)"
-93923,160905496,"Gonioinfradens paucidentatus (A.Milne Edwards, 1861)",scientificName_replaced_by_backbone_name,5974552,"Gonioinfradens paucidentatus (A.Milne-Edwards, 1861)"
-93548,160905503,"Alpheus audouini CoutiÃ¨re, 1905",merged_with_accepted,2226103,"Alpheus edwardsii (Andouin, 1826)"
-93622,160905508,"Atergatis roseus (RÃ¼ppell, 1830)",scientificName_replaced_by_backbone_name,2227756,"Atergatis roseus (Rüppell, 1830)"
-94366,160905528,"Spinocalanus terranovae Damkaer, 1975",filtered_on_establishmentMeans,2114888,"Spinocalanus terranovae Damkaer, 1975"
+taxonID,usage_id,scientificName,action,acceptedKey,acceptedName
+93500,,Abelia xgrandiflora (Rovelli ex André) Rehder,not_matched_with_COL,,
+93501,8KBM,Abies concolor (Gordon & Glend.) Hildebr.,scientificName_replaced_by_backbone_name,8KBM,Abies concolor (Gordon) Lindl. ex Hildebr.
+93509,LXDYN,Acanthophora muscoides (L.) Bory,scientificName_replaced_by_backbone_name,LXDYN,Acanthophora muscoides (Linnaeus) Bory
+93510,,"Acanthophora nayadiformis (Delile) Papenf., 1968",not_matched_with_COL,,
+93511,64FSN,"Acartia tonsa Dana, 1849",scientificName_replaced_by_backbone_name,64FSN,"Acartia (Acanthacartia) tonsa Dana, 1849-1852"
+93514,94G9,Acer palmatum C.P.Thunberg ex A.Murray,scientificName_replaced_by_backbone_name,94G9,Acer palmatum Thunb.
+93516,9562,"Acervulina inhaerens Schulze, 1854",scientificName_replaced_by_backbone_name,9562,"Acervulina inhaerens Schultze, 1854"
+93520,M8DST,Acrochaetium kylinii G.Hamel,scientificName_replaced_by_backbone_name,M8DST,Acrochaetium kylinii G. Hamel
+93521,M8DTT,Acrochaetium leptonema (Rosenvinge) Børgesen,scientificName_replaced_by_backbone_name,M8DTT,"Acrochaetium leptonema (Rosenvinge) Børgesen, 1915"
+93522,NCD,"Acrochaetium mahumetanum G.Hamel, 1927",scientificName_replaced_by_backbone_name,NCD,"Acrochaetium Nägeli, 1858"
+93523,NCD,"Acrochaetium mediterraneum (Levring) Athanasiadis, 2002",scientificName_replaced_by_backbone_name,NCD,"Acrochaetium Nägeli, 1858"
+93524,M8DY6,Acrochaetium microscopicum (Nägeli ex Kützing) Nägeli,merged_with_accepted,M8DY6,Acrochaetium microscopicum (Nageli ex Kutzing) Nageli
+93525,M8DZF,Acrochaetium moniliforme (Rosenvinge) Børgesen,scientificName_replaced_by_backbone_name,M8DZF,"Acrochaetium moniliforme (Rosenvinge) Børgesen, 1915"
+93526,M8F8R,Acrochaetium rosulatum (Rosenvinge) Papenfuss,merged_with_accepted,M8F8R,"Acrochaetium rosulatum (Rosenvinge) Papenfuss, 1945"
+93527,NCD,"Acrochaetium subpinnatum Bornet ex G.Hamel, 1927",scientificName_replaced_by_backbone_name,NCD,"Acrochaetium Nägeli, 1858"
+93528,9S59,"Actaea savignii (H.Milne Edwards, 1834)",scientificName_replaced_by_backbone_name,9S59,"Actaea savignii (H. Milne Edwards, 1834)"
+93530,9SH3,"Acteocina mucronata (Philippi, 1849)",scientificName_replaced_by_backbone_name,9SH3,"Acteocina mucronata (R. A. Philippi, 1849)"
+93532,89W76,"Aedes albopictus Skuse, 1894",scientificName_replaced_by_backbone_name,89W76,"Aedes (Stegomyia) albopictus (Skuse, 1894)"
+93534,65BYY,Aesculus carnea Hayne,scientificName_replaced_by_backbone_name,65BYY,Aesculus × carnea Hayne
+93538,7QQKC,"Agglutinella arenata (Said, 1949)",merged_with_accepted,7QQKC,"Agglutinella arenata (Said, 1949)"
+93540,R4V,"Ahnfeltiopsis furcellata (C.Agardh) P.C.Silva & DeCew, 1992",scientificName_replaced_by_backbone_name,R4V,"Ahnfeltiopsis P.C.Silva & DeCew, 1992"
+93543,BGX3,"Alburnus chalcoides (Güldenstädt, 1772)",filtered_on_establishmentMeans,BGX3,"Alburnus chalcoides (Güldenstädt, 1772)"
+93544,BGZM,"Alburnus tarichi (Güldenstädt, 1814)",filtered_on_establishmentMeans,BGZM,"Alburnus tarichi (Güldenstädt, 1814)"
+93548,85LF6,"Alpheus audouini Coutière, 1905",no_matching_distribution,85LF6,"Alpheus audouini Coutière, 1905"
+93552,CBFD,"Alvania dorbignyi (Audouin, 1826)",filtered_on_establishmentMeans,CBFD,"Alvania dorbignyi (Audouin, 1826)"
+93557,5FJK4,"Amaranthus blitum subsp. emarginatus (Moq. ex Uline & Bray) Carretero, F.Muñoz Garmendia & J.Pedrol",no_matching_distribution,5FJK4,"Amaranthus blitum subsp. emarginatus (Moq. ex Uline & W.L.Bray) Carretero, Muñoz Garm. & Pedrol"
+93558,5FJK5,Amaranthus blitum subsp. oleraceus (L.) Costea,no_matching_distribution,5FJK5,Amaranthus blitum subsp. oleraceus (L.) Costea
+93563,CXBZC,Amaranthus hybridus subsp. hybridus,merged_with_accepted,CXBZC,Amaranthus hybridus subsp. hybridus
+93573,LCHL9,"Amphibalanus eburneus Gould, 1841",scientificName_replaced_by_backbone_name,LCHL9,"Amphibalanus eburneus (Gould, 1841)"
+93574,LCHLX,"Amphibalanus improvisus Darwin, 1854",scientificName_replaced_by_backbone_name,LCHLX,"Amphibalanus improvisus (Darwin, 1854)"
+93575,D46P,"Amphiodia obtecta Mortensen, 1940",scientificName_replaced_by_backbone_name,D46P,"Amphiodia (Amphispina) obtecta Mortensen, 1940"
+93576,LFKB6,Amphiroa rigida J.V.Lamour.,scientificName_replaced_by_backbone_name,LFKB6,"Amphiroa rigida J.V.Lamouroux, 1816"
+93578,DCFG,"Anadara demiri (Piani, 1981)",no_matching_distribution,DCFG,"Anadara demiri (Piani, 1981)"
+93580,DCGC,"Anadara inflata (Reeve, 1844)",no_matching_distribution,DCGC,"Anadara inflata (Reeve, 1844)"
+93584,DZZN,"Anguilla anguilla (Linnaeus, 1758)",filtered_on_establishmentMeans,DZZN,"Anguilla anguilla (Linnaeus, 1758)"
+93585,8FT42,"Anguillicola crassus Kuwahara, Niimi & Itagaki, 1974",no_matching_distribution,8FT42,"Anguillicola crassus Kuwahara, Niimi & Itagaki, 1974"
+93586,675W9,"Anodonta woodiana (I.Lea, 1834)",no_matching_distribution,675W9,"Anodonta (Pteranodon) woodiana I. Lea, 1834"
+93592,FB63,"Aphanius mento (Heckel, 1843)",filtered_on_establishmentMeans,FB63,"Aphanius mento (Heckel, 1843)"
+93593,7QZ4Y,"Apionsoma misakianum (Ikeda, 1904)",scientificName_replaced_by_backbone_name,7QZ4Y,"Apionsoma (Apionsoma) misakianum (Ikeda, 1904)"
+93595,FQ54,"Aplysia parvula Mörch, 1863",filtered_on_establishmentMeans,FQ54,"Aplysia parvula Mörch, 1863"
+93596,FSDP,"Apogon fasciatus (White, 1790)",no_matching_distribution,FSDP,"Apogon fasciatus (White, 1790)"
+93597,FSJS,"Apogon pharaonis Bellotti, 1874",no_matching_distribution,FSJS,"Apogon pharaonis Bellotti, 1874"
+93598,FSKF,"Apogon queketti Gilchrist, 1903",no_matching_distribution,FSKF,"Apogon queketti Gilchrist, 1903"
+93599,FSLX,"Apogon smithi (Kotthaus, 1970)",no_matching_distribution,FSLX,"Apogon smithi (Kotthaus, 1970)"
+93601,FYCT,Aptenia cordifolia (L.fil.) Schwant.,no_matching_distribution,FYCT,Aptenia cordifolia (L.fil.) Schwantes
+93606,GS9T,Armeria maritima Willd.,scientificName_replaced_by_backbone_name,GS9T,Armeria maritima (Mill.) Willd.
+93614,LQ38J,Asparagopsis taxiformis (Delile) Trevis.,scientificName_replaced_by_backbone_name,LQ38J,Asparagopsis taxiformis (Delile) Trevisan
+93615,HHKD,"Aspidosiphon elegans (Chamisso & Eysenhardt, 1821)",scientificName_replaced_by_backbone_name,HHKD,"Aspidosiphon (Aspidosiphon) elegans (Chamisso & Eysenhardt, 1821)"
+93616,7R6YG,"Aspidosiphon mexicanus (Murina, 1967)",scientificName_replaced_by_backbone_name,7R6YG,"Aspidosiphon (Akrikos) mexicanus (Murina, 1967)"
+93618,HMR3,"Astacolus sublegumen (Parr, 1950)",no_matching_distribution,HMR3,"Astacolus sublegumen (Parr, 1950)"
+93619,8S3GB,Aster squamatus Hieron.,merged_with_accepted,8S3GB,Aster squamatus (Spreng.) Hieron. ex Sodiro
+93620,62DZL,Aster subulatus hort.,no_matching_distribution,62DZL,Aster L.
+93623,688WN,"Atherina boyeri Risso, 1810",filtered_on_establishmentMeans,688WN,"Atherina boyeri Risso, 1810"
+93625,JP2K,"Atys angustatus E.A.Smith, 1872",filtered_on_establishmentMeans,JP2K,"Atys angustatus E. A. Smith, 1872"
+93641,MDDF,"Bolinopsis vitrea (L.Agassiz, 1860)",scientificName_replaced_by_backbone_name,MDDF,"Bolinopsis vitrea (L. Agassiz, 1860)"
+93642,MBD6F,Bonnemaisonia asparagoides (Woodward) C.Agardh,scientificName_replaced_by_backbone_name,MBD6F,Bonnemaisonia asparagoides (Woodward) C. A. Agardh
+93643,MBD8L,Bonnemaisonia hamifera Hariot,scientificName_replaced_by_backbone_name,MBD8L,Bonnemaisonia hamifera Har.
+93644,3BXH,Botryocladia madagascariensis G.Feldmann,scientificName_replaced_by_backbone_name,3BXH,"Botryocladia (J.Agardh) Kylin, 1931"
+93645,MR3G,Bougainvillea buttiana Holttum & Standl.,scientificName_replaced_by_backbone_name,MR3G,Bougainvillea × buttiana Holttum & Standl.
+93648,MSSL,"Brachidontes pharaonis (P.Fischer, 1870)",scientificName_replaced_by_backbone_name,MSSL,"Brachidontes pharaonis (P. Fischer, 1870)"
+93649,68Q45,Brachychiton populneus R.Br.,scientificName_replaced_by_backbone_name,68Q45,Brachychiton populneus (Schott & Endl.) R.Br.
+93654,VJSTZ,Broussonetia papyrifera Vent.,scientificName_replaced_by_backbone_name,VJSTZ,Broussonetia papyrifera (L.) L'Hér. ex Vent.
+93656,694CF,"Bugula stolonifera Ryland, 1960",no_matching_distribution,694CF,"Bugula stolonifera Ryland, 1960"
+93657,5X3TL,"Bulla arabica Malaquias & Reid, 2008",scientificName_replaced_by_backbone_name,5X3TL,"Bulla arabica Malaquias & D. Reid, 2008"
+93658,C3JXH,"Bursaphelenchus xylophilus (Steiner & Buhrer, 1934)",no_matching_distribution,C3JXH,"Bursaphelenchus xylophilus (Steiner & Buhrer, 1934) Nickle, 1970"
+93660,M4V2G,Caesalpinia gilliesii (Hook.) D.Dietr.,merged_with_accepted,M4V2G,Caesalpinia gilliesii (Hook.) D.Dietr.
+93662,PFB2,"Calanopia elliptica (Dana, 1849)",scientificName_replaced_by_backbone_name,PFB2,"Calanopia elliptica (Dana, 1849-1852)"
+93663,PFB8,"Calanopia minor A.Scott, 1902",scientificName_replaced_by_backbone_name,PFB8,"Calanopia minor Scott A., 1902"
+93669,PTPB,Callistemon citrinus (Curtis) Skeels,merged_with_accepted,PTPB,Callistemon citrinus (Curtis) Skeels
+93670,VLXL4,Callistemon viminalis G.Don,merged_with_accepted,VLXL4,Callistemon viminalis (Sol. ex Gaertn.) G.Don
+93672,698MR,"Cameraria ohridella Deschka & Dimic, 1986",scientificName_replaced_by_backbone_name,698MR,"Cameraria ohridella Deschka & Dimić, 1986"
+93673,699XG,Campsis radicans (L.) Seem.,merged_with_accepted,699XG,Campsis radicans (L.) Seem.
+93682,R643,"Cardites akabana (Sturany, 1899)",no_matching_distribution,R643,"Cardites akabana (Sturany, 1899)"
+93684,RD8X,"Carinaria mediterranea Blainville, 1825",no_matching_distribution,RD8X,"Carinaria mediterranea Blainville, 1825"
+93685,5XDQS,Carpobrotus acinaciformis L.Bolus,scientificName_replaced_by_backbone_name,5XDQS,Carpobrotus acinaciformis (L.) L.Bolus
+93686,RG7K,Carpobrotus edulis N.E.Br.,scientificName_replaced_by_backbone_name,RG7K,Carpobrotus edulis (L.) N.E.Br.
+93689,RN9G,"Cassiopea andromeda (Forsskål, 1775)",scientificName_replaced_by_backbone_name,RN9G,"Cassiopea andromeda (Forskål, 1775)"
+93692,VJVXV,"Caulerpa cylindracea Sonder, 1845",scientificName_replaced_by_backbone_name,VJVXV,Caulerpa cylindracea Sonder
+93693,VJVXV,"Caulerpa cylindracea Sonder, 1845",scientificName_replaced_by_backbone_name,VJVXV,Caulerpa cylindracea Sonder
+93694,M9ZCX,"Caulerpa lamourouxii (Turner) C.Agardh, 1817",no_matching_distribution,M9ZCX,Caulerpa lamourouxii (Turner) C.Agardh
+93695,M9ZCX,"Caulerpa lamourouxii (Turner) C.Agardh, 1817",no_matching_distribution,M9ZCX,Caulerpa lamourouxii (Turner) C.Agardh
+93696,M9ZHQ,Caulerpa mexicana Sond. ex Kütz.,scientificName_replaced_by_backbone_name,M9ZHQ,Caulerpa mexicana (Sonder ex Kuet.) J. Ahardh
+93698,MB27H,Caulerpa taxifolia (M.Vahl) C.Agardh,scientificName_replaced_by_backbone_name,MB27H,Caulerpa taxifolia (Vahl) C. Ag.
+93699,VM3KS,Cedrus atlantica (Endl.) Manetti ex Carriere,scientificName_replaced_by_backbone_name,VM3KS,Cedrus atlantica (Endl.) G.Manetti ex Carrière
+93700,VK8VH,Cedrus deodara (Roxb. ex Lambert) G.Don,scientificName_replaced_by_backbone_name,VK8VH,Cedrus deodara (Roxb. ex D.Don) G.Don
+93705,5XHLQ,"Centropages furcatus (Dana, 1849)",scientificName_replaced_by_backbone_name,5XHLQ,"Centropages furcatus (Dana, 1849-1852)"
+93707,SYM9,"Cerithidium diplax (R.B.Watson, 1886)",scientificName_replaced_by_backbone_name,SYM9,"Cerithidium diplax (R. B. Watson, 1886)"
+93708,69LDN,"Cerithidium perparvulum (R.B.Watson, 1886)",scientificName_replaced_by_backbone_name,69LDN,"Cerithidium perparvulum (R. B. Watson, 1886)"
+93711,SZDC,"Cerithium scabridum Philippi, 1848",scientificName_replaced_by_backbone_name,SZDC,"Cerithium scabridum R. A. Philippi, 1848"
+93713,69QKS,"Chaetozone corona Berkeley & Berkeley, 1941",filtered_on_establishmentMeans,69QKS,"Chaetozone corona Berkeley & Berkeley, 1941"
+93714,VFTWJ,"Chaitophorus indicus A.K.Ghosh, M.R.Ghosh & D.N.Raychaudhuri, 1970",scientificName_replaced_by_backbone_name,VFTWJ,"Chaitophorus indicus Ghosh, Ghosh & Raychaudhuri, 1970"
+93716,V96TN,"Chama aspersa Reeve, 1846",merged_with_accepted,V96TN,"Chama aspersa Reeve, 1846 sensu Spry, 1964"
+93718,TJJD,Chamaecyparis lawsoniana Parl.,scientificName_replaced_by_backbone_name,TJJD,Chamaecyparis lawsoniana (A.Murray bis) Parl.
+93721,KV4XR,"Chanos chanos (Forsskål, 1775)",scientificName_replaced_by_backbone_name,KV4XR,"Chanos chanos (Fabricius, 1775)"
+93722,TPTB,"Charybdis hellerii (A.Milne-Edwards, 1867)",scientificName_replaced_by_backbone_name,TPTB,"Charybdis (Charybdis) hellerii (A. Milne-Edwards, 1867)"
+93723,5Y22T,"Charybdis longicollis Leene, 1938",scientificName_replaced_by_backbone_name,5Y22T,"Charybdis (Archias) longicollis Leene, 1938"
+93724,5XR9F,"Chelidonura fulvipunctata Baba, 1938",no_matching_distribution,5XR9F,"Chelidonura fulvipunctata Baba, 1938"
+93725,BDV9Q,"Chelidonura mediterranea Swennen, 1961",no_matching_distribution,BDV9Q,"Chelidonura mediterranea Swennen, 1961"
+93726,TVBV,"Chelon haematocheilus (Temminck & Schlegel, 1845)",no_matching_distribution,TVBV,"Chelon haematocheilus (Temminck & Schlegel, 1845)"
+93730,ML9QJ,Chondria curvilineata Collins & Herv.,scientificName_replaced_by_backbone_name,ML9QJ,"Chondria curvilineata F.S.Collins & Hervey, 1917"
+93731,5YHK9,"Chromodoris annulata Eliot, 1904",no_matching_distribution,5YHK9,"Chromodoris annulata Eliot, 1904"
+93733,5YJLL,"Chrysallida fischeri (Hornung & Mermod, 1925)",no_matching_distribution,5YJLL,"Chrysallida fischeri (Hornung & Mermod, 1925)"
+93734,5YJMR,"Chrysallida maiae (Hornung & Mermod, 1924)",no_matching_distribution,5YJMR,"Chrysallida maiae (Hornung & Mermod, 1924)"
+93735,5YJNW,"Chrysallida micronana Öztürk & van Aartsen, 2006",no_matching_distribution,5YJNW,"Chrysallida micronana Öztürk & van Aartsen, 2006"
+93736,C5L4H,"Chrysallida pirinthella (Melvill, 1910)",no_matching_distribution,C5L4H,Chrysallida pirintella
+93737,MVKN3,Chrysymenia ventricosa (J.V.Lamour.) J.Agardh,scientificName_replaced_by_backbone_name,MVKN3,"Chrysymenia ventricosa (J.V.Lamouroux) J.Agardh, 1842"
+93739,8QSYZ,Cinara indica,merged_with_accepted,8QSYZ,"Cinara indica Verma, 1970"
+93740,VG84Y,"Cinara juniperensis (Gillette & M.A.Palmer, 1925)",scientificName_replaced_by_backbone_name,VG84Y,"Cinara (Cinara) juniperensis (Gillette & Palmer, 1925)"
+93743,ML38N,Cladophora flexuosa (O.F.Müller) Kützing,merged_with_accepted,ML38N,Cladophora flexuosa (O F Müller) Kützing
+93744,VRBD,"Clarias gariepinus (Burchell, 1822)",filtered_on_establishmentMeans,VRBD,"Clarias gariepinus (Burchell, 1822)"
+93745,VYS3,"Clementia papyracea (Gray, 1825)",scientificName_replaced_by_backbone_name,VYS3,"Clementia papyracea (Gmelin, 1791)"
+93747,MWT2G,"Clorida albolitura S.T.Ahyong & P.Naiyanetr, 2000",scientificName_replaced_by_backbone_name,MWT2G,"Clorida albolitura Ahyong & Naiyanetr, 2000"
+93749,WM8R,"Cocculina corrugata Jeffreys, 1883",no_matching_distribution,WM8R,"Cocculina corrugata Jeffreys, 1883"
+93750,WM94,"Cocculina labronica Bogi, 1984",no_matching_distribution,WM94,"Cocculina labronica Bogi, 1984"
+93751,D2Z69,Codium fragile subsp. fragile,scientificName_replaced_by_backbone_name,D2Z69,"Codium fragile subsp. fragile (Suringar) Hariot, 1889"
+93752,N4VXQ,Codium fragile subsp. tomentosoides (Goor) P.C.Silva,no_matching_distribution,N4VXQ,Codium fragile subsp. tomentosoides (van Goor) P.C. Silva
+93753,N4X32,Codium taylorii P.C.Silva,scientificName_replaced_by_backbone_name,N4X32,Codium taylori Silva
+93755,MKQDD,"Colaconema codicola (Børgesen) Stegenga, J.J.Bolton & R.J.Anderson",scientificName_replaced_by_backbone_name,MKQDD,"Colaconema codicola (Børgesen) H.Stegenga, J.J.Bolton & R.J.Anderson, 1997"
+93756,MKQDD,"Colaconema codicola (Børgesen) Stegenga, J.J.Bolton & R.J.Anderson",scientificName_replaced_by_backbone_name,MKQDD,"Colaconema codicola (Børgesen) H.Stegenga, J.J.Bolton & R.J.Anderson, 1997"
+93757,5ZLQH,"Coleusia signata (Paul'son, 1875)",scientificName_replaced_by_backbone_name,5ZLQH,"Coleusia signata (Paulson, 1875)"
+93763,YCSS,Cordyline australis Endl.,scientificName_replaced_by_backbone_name,YCSS,Cordyline australis (G.Forst.) Endl.
+93764,YCYJ,"Cordylomera spinicornis (Fabricius, 1775)",no_matching_distribution,YCYJ,"Cordylomera spinicornis (Fabricius, 1775)"
+93766,5GLYY,"Coregonus lavaretus maraena (Bloch, 1779)",no_matching_distribution,5GLYY,"Coregonus lavaretus maraena (Bloch, 1779)"
+93767,6B4FT,Cortaderia selloana Asch. & Graebn.,scientificName_replaced_by_backbone_name,6B4FT,Cortaderia selloana (Schult. & Schult.f.) Asch. & Graebn.
+93772,YTFZ,"Coscinospira arietina (Batsch, 1791)",no_matching_distribution,YTFZ,"Coscinospira arietina (Batsch, 1791)"
+93775,YXXT,Cotoneaster franchetii Bois,scientificName_replaced_by_backbone_name,YXXT,Cotoneaster franchetii Boiss.
+93779,6BBJK,"Crassostrea gigas (Thunberg, 1793)",no_matching_distribution,6BBJK,"Crassostrea (Magallana) gigas (Thunberg, 1793)"
+93781,ZY5W,Cryptomeria japonica D.Don,scientificName_replaced_by_backbone_name,ZY5W,Cryptomeria japonica (Thunb. ex L.) D.Don
+93784,C6VP6,Cupressus sp. Ã-leylandii A.B.Jacks. & Dallim.,scientificName_replaced_by_backbone_name,C6VP6,Cupressus L.
+93785,32FVX,Cupressus arizonica Greene,merged_with_accepted,32FVX,Cupressus arizonica Greene
+93786,C6VTF,Cupressus macrocarpa Hartw. ex Gordon,merged_with_accepted,C6VTF,Cupressus macrocarpa Hartw.
+93790,32WY2,"Cycloscala hyalina (G.B.Sowerby II, 1844)",scientificName_replaced_by_backbone_name,32WY2,"Cycloscala hyalina (G. B. Sowerby II, 1844)"
+93791,MYXHM,"Cydalima perspectalis (Walker, 1859)",merged_with_accepted,MYXHM,"Cydalima perspectalis (Walker, 1859)"
+93792,MYXHM,"Cydalima perspectalis (Walker, 1859)",merged_with_accepted,MYXHM,"Cydalima perspectalis (Walker, 1859)"
+93793,BDVB4,"Cylichnina girardi (Audouin, 1826)",no_matching_distribution,BDVB4,"Cylichnina girardi (Audouin, 1826)"
+93794,VJTMB,"Cymbalaria muralis P.Gaertner, B.Meyer & Scherb.",scientificName_replaced_by_backbone_name,VJTMB,"Cymbalaria muralis G.Gaertn., B.Mey. & Scherb."
+93797,337QF,Cymodocea nodosa Asch.,scientificName_replaced_by_backbone_name,337QF,Cymodocea nodosa (Ucria) Asch.
+93799,6C5YN,Cynoglossum wallichii G.Don,merged_with_accepted,6C5YN,Cynoglossum wallichii G.Don
+93804,33HRJ,"Cyprinus carpio Linnaeus, 1758",filtered_on_establishmentMeans,33HRJ,"Cyprinus carpio Linnaeus, 1758"
+93805,33YMC,"Daira perlata Herbst, 1790",scientificName_replaced_by_backbone_name,33YMC,"Daira perlata (Herbst, 1790)"
+93806,VLRBC,Dalbergia sissoo DC.,scientificName_replaced_by_backbone_name,VLRBC,Dalbergia sissoo Roxb. ex DC.
+93807,347M7,"Dasybranchus carneus Grube, 1870",filtered_on_establishmentMeans,347M7,"Dasybranchus carneus Grube, 1869"
+93815,6D2K5,"Diala varia A.Adams, 1861",no_matching_distribution,6D2K5,"Diala varia A. Adams, 1861"
+93817,35NN4,Dichrocephala integrifolia Kuntze,scientificName_replaced_by_backbone_name,35NN4,Dichrocephala integrifolia (L.fil.) Kuntze
+93818,35ZWF,Dieffenbachia seguine Schott,scientificName_replaced_by_backbone_name,35ZWF,Dieffenbachia seguine (Jacq.) Schott
+93820,C56F9,Diodora rueppellii,no_matching_distribution,C56F9,Diodora rueppellii
+93821,36GL3,Diplachne fusca (L.) Roem. & Schult.,scientificName_replaced_by_backbone_name,36GL3,Diplachne fusca (L.) P.Beauv.
+93823,8BXJH,"Drosophila suzukii (Matsumura, 1931)",scientificName_replaced_by_backbone_name,8BXJH,"Drosophila (Sophophora) suzukii (Matsumura, 1931)"
+93824,37Z6M,Duchesnea indica (Andr.) Focke,no_matching_distribution,37Z6M,Duchesnea indica (Andrews) Focke
+93833,VLL2Z,Echinopsis chamaecereus Friedrich & Glaetzle,merged_with_accepted,VLL2Z,Echinopsis chamaecereus H.Friedrich & Glaetzle
+93835,6DXH3,Egeria densa Planch.,merged_with_accepted,6DXH3,Egeria densa Planch.
+93836,38V65,Eichhornia crassipes Solms,merged_with_accepted,38V65,Eichhornia crassipes (Mart.) Solms
+93837,394SH,"Elasmopus pectenicrus (Spence Bate, 1862)",scientificName_replaced_by_backbone_name,394SH,"Elasmopus pectenicrus (Spence Bate, 1863)"
+93844,39CZ2,Elsholtzia ciliata (Thunb.) Hylander,scientificName_replaced_by_backbone_name,39CZ2,Elsholtzia ciliata (Thunb.) Hyl.
+93846,6F5QC,"Elysia tomentosa K.Jensen, 1997",scientificName_replaced_by_backbone_name,6F5QC,"Elysia tomentosa K. R. Jensen, 1997"
+93847,39F9N,"Emarginula elongata O.G.Costa, 1829",no_matching_distribution,39F9N,"Emarginula elongata O. G. Costa, 1829"
+93849,6FHVX,Eocuma sarsii (Kossmann) 1880,scientificName_replaced_by_backbone_name,6FHVX,"Eocuma sarsii (Kossmann), 1880"
+93851,6G9XL,Eragrostis curvula Nees,scientificName_replaced_by_backbone_name,6G9XL,Eragrostis curvula (Schrad.) Nees
+93853,6GNJG,Erigeron annuus Pers.,scientificName_replaced_by_backbone_name,6GNJG,Erigeron annuus (L.) Pers.
+93860,6H4WN,"Etrumeus teres (DeKay, 1842)",no_matching_distribution,6H4WN,"Etrumeus teres (DeKay, 1842)"
+93863,L24VX,"Eucrate crenata De Haan, 1835",scientificName_replaced_by_backbone_name,L24VX,"Eucrate crenata (De Haan, 1835)"
+93865,3CF3Z,"Eunice antennata (Savigny, 1818)",no_matching_distribution,3CF3Z,"Eunice antennata (Savigny in Lamarck, 1818)"
+93885,9XL8D,"Farfantepenaeus aztecus (Ives, 1891)",merged_with_accepted,9XL8D,"Farfantepenaeus aztecus (Ives, 1891)"
+93886,9XL9B,"Fenneropenaeus merguiensis (De Man, 1888)",merged_with_accepted,9XL9B,"Fenneropenaeus merguiensis (De Man, 1888)"
+93890,,Ficus macrophylla Desf.,not_matched_with_COL,,
+93891,6HWT2,Ficus microcarpa L.f.,scientificName_replaced_by_backbone_name,6HWT2,Ficus microcarpa L.fil.
+93892,6J3MC,"Finella pupoides A.Adams, 1860",scientificName_replaced_by_backbone_name,6J3MC,"Finella pupoides A. Adams, 1860"
+93894,6J6QW,"Flabellina rubrolineata (O'Donoghue, 1929)",no_matching_distribution,6J6QW,"Flabellina rubrolineata (O'Donoghue, 1929)"
+93895,6JJ2V,Forsythia intermedia Zabel,scientificName_replaced_by_backbone_name,6JJ2V,Forsythia × intermedia Zabel
+93896,933X5,Fragaria ananassa (Weston) Duchesne ex Rozier,merged_with_accepted,933X5,Fragaria ananassa Duchesne
+93905,7W8TB,"Gammaropsis togoensis (Schellenberg, 1925)",merged_with_accepted,7W8TB,"Gammaropsis togoensis (Schellenberg, 1925)"
+93906,NYSYG,Ganonema farinosum (J.V.Lamour.) K.C.Fan & Y.C.Wang,filtered_on_establishmentMeans,NYSYG,Ganonema farinosum (J.V.Lamour.) K.C.Fan & Yung C.Wang
+93907,3FCBM,Gasteria obliqua Duval,scientificName_replaced_by_backbone_name,3FCBM,Gasteria obliqua (Aiton) Duval
+93908,3FD4Q,"Gastrochaena cymbium Spengler, 1783",no_matching_distribution,3FD4Q,"Gastrochaena cymbium L. Spengler, 1783"
+93910,4MN5,Gelidiella nigrescens (Feldmann) Feldmann & Hamel,scientificName_replaced_by_backbone_name,4MN5,"Gelidiella Feldmann & G.Hamel, 1934"
+93911,4MN5,"Gelidiella ramellosa (Kütz.) Feldmann & G.Hamel, 1934",no_matching_distribution,4MN5,"Gelidiella Feldmann & G.Hamel, 1934"
+93912,4MN7,Gelidiocolax christianae Feldmann & G.Feldmann,scientificName_replaced_by_backbone_name,4MN7,"Gelidiocolax N.L.Gardner, 1927"
+93913,P6MDK,Gelidium corneum (Huds.) J.V.Lamour.,no_matching_distribution,P6MDK,Gelidium corneum (Hudson) Lamouroux
+93914,P6NXB,Gelidium pulchellum,no_matching_distribution,P6NXB,Gelidium pulchellum (Turner) Kützing
+93915,P6P2B,Gelidium pusillum (Stackh.) Le Jol.,scientificName_replaced_by_backbone_name,P6P2B,Gelidium pusillum (Stackhouse) Le Jolis
+93916,62T5Y,"Gelidium spathulatum (Kütz.) Bornet, 1892",scientificName_replaced_by_backbone_name,62T5Y,"Gelidium J.V. Lamouroux, 1813"
+93918,3FZFL,"Gibborissoia virgata (Philippi, 1849)",scientificName_replaced_by_backbone_name,3FZFL,"Gibborissoia virgata (R. A. Philippi, 1849)"
+93922,3GSRX,Gomphocarpus fruticosus (L.) Ait.,scientificName_replaced_by_backbone_name,3GSRX,Gomphocarpus fruticosus (L.) W.T.Aiton
+93923,6KQHG,"Gonioinfradens paucidentatus (A.Milne Edwards, 1861)",scientificName_replaced_by_backbone_name,6KQHG,"Gonioinfradens paucidentatus (A. Milne-Edwards, 1861)"
+93925,PFGRV,Gracilaria armata (C.Agardh) Grev.,scientificName_replaced_by_backbone_name,PFGRV,Gracilaria armata (C. Agardh) Grev.
+93928,PLS3M,Griffithsia corallinoides (Linnaeus) Trevisan,scientificName_replaced_by_backbone_name,PLS3M,"Griffithsia corallinoides (Linnaeus) Trevisan, 1845"
+93929,3HQJV,"Gymnobela watsoni (Dautzenberg, 1889)",no_matching_distribution,3HQJV,"Gymnobela watsoni (Dautzenberg, 1889)"
+93933,3JFLP,Halophila stipulacea Asch.,scientificName_replaced_by_backbone_name,3JFLP,Halophila stipulacea (Forssk.) Asch.
+93935,7RH6M,"Haminoea cyanomarginata Heller & Thompson, 1983",merged_with_accepted,7RH6M,"Haminoea cyanomarginata Heller & T. E. Thompson, 1983"
+93939,3KKX8,Hemerocallis fulva L.,scientificName_replaced_by_backbone_name,3KKX8,Hemerocallis fulva (L.) L.
+93947,3LKCV,Hibiscus trionum L.,merged_with_accepted,3LKCV,Hibiscus trionum L.
+93949,V96RK,"Hinemoa cylindrica (de Folin, 1879)",no_matching_distribution,V96RK,"Hinemoa cylindrica (de Folin, 1879) sensu Buzzurro et al., 2001"
+93950,3LZLK,"Hippocampus fuscus Rüppell, 1838",merged_with_accepted,3LZLK,"Hippocampus fuscus Rüppell, 1838"
+93951,3MQZ6,"Houartiella alboranensis Smriglio, Mariottini & Bonfitto, 1997",no_matching_distribution,3MQZ6,"Houartiella alboranensis Smriglio, Mariottini & Bonfitto, 1997"
+93952,3MRLT,Hoya carnosa R.Br.,scientificName_replaced_by_backbone_name,3MRLT,Hoya carnosa (L.fil.) R.Br.
+93957,6MJMD,"Hydroides elegans (Haswell, 1883)",scientificName_replaced_by_backbone_name,6MJMD,"Hydroides elegans (Haswell, 1883) [nomen protectum]"
+93963,PJ249,Hypnea spinella (C.Agardh) Kütz.,scientificName_replaced_by_backbone_name,PJ249,Hypnea spinella (C. Agardh) Kuetzing
+93967,9KCTL,Imperata cylindrica (L.) P.Beauv.,scientificName_replaced_by_backbone_name,9KCTL,Imperata cylindrica (L.) Raeusch.
+93968,QMNFR,"Infundibulops erythraeus (Brocchi, 1821)",no_matching_distribution,QMNFR,"Infundibulops erythraeus (Brocchi, 1821)"
+93975,3PXMD,"Ips typographus (C.Linnaeus, 1758)",scientificName_replaced_by_backbone_name,3PXMD,"Ips typographus (Linnaeus, C., 1758)"
+93976,3PZGP,Iris albicans Lange,merged_with_accepted,3PZGP,Iris albicans Lange
+93980,3QLM7,"Janua steueri (Sterzinger, 1909)",no_matching_distribution,3QLM7,"Janua steueri (Sterzinger, 1909)"
+93996,6NVPC,Lampranthus multiradiatus N.E.Br.,scientificName_replaced_by_backbone_name,6NVPC,Lampranthus multiradiatus (Jacq.) N.E.Br.
+94000,6NYWF,Larix decidua Mill.,scientificName_replaced_by_backbone_name,6NYWF,Larix decidua (L.) Mill.
+94003,6P8RY,Lens culinaris Medik.,merged_with_accepted,6P8RY,Lens culinaris Medik.
+94004,3T6C9,"Leodice antennata Savigny, 1818",scientificName_replaced_by_backbone_name,3T6C9,"Leodice antennata Savigny in Lamarck, 1818"
+94009,6PCBM,"Lepidonotus carinulatus (Grube, 1870)",filtered_on_establishmentMeans,6PCBM,"Lepidonotus carinulatus (Grube, 1869)"
+94010,6PCCW,"Lepidonotus tenuisetosus (Gravier, 1902)",no_matching_distribution,6PCCW,"Lepidonotus tenuisetosus (Gravier, 1902)"
+94013,9CRX2,"Leptochela pugnax de Man, 1916",scientificName_replaced_by_backbone_name,9CRX2,"Leptochela (Leptochela) pugnax De Man, 1916"
+94017,6Q823,"Leucotina natalensis E.A.Smith, 1910",scientificName_replaced_by_backbone_name,6Q823,"Leucotina natalensis E. A. Smith, 1910"
+94018,PZXDS,Liagora viscida (Forsskal) C.A.Agardh,scientificName_replaced_by_backbone_name,PZXDS,Liagora viscida (Forsskal) C. A. Agardh
+94023,3V92V,"Lipaphis pseudobrassicae (Davis, 1914)",scientificName_replaced_by_backbone_name,3V92V,"Lipaphis (Lipaphis) pseudobrassicae (Davis, 1914)"
+94024,3VCP3,"Liriomyza huidobrensis Blanchard, 1926",scientificName_replaced_by_backbone_name,3VCP3,"Liriomyza huidobrensis (Blanchard, 1926)"
+94025,PVNJZ,Lithophyllum orbiculatum (Foslie) Foslie,no_matching_distribution,PVNJZ,"Lithophyllum orbiculatum (Foslie) Foslie, 1900"
+94027,PXN6M,"Liza carinata (Valenciennes, 1836)",merged_with_accepted,PXN6M,"Liza carinata (Valenciennes, 1836)"
+94028,3VVN4,"Loimia medusa (Savigny, 1822)",filtered_on_establishmentMeans,3VVN4,"Loimia medusa (Savigny, 1822)"
+94032,VJR5L,"Lophocladia lallemandii (Mont.) F.Schmitz, 1893",scientificName_replaced_by_backbone_name,VJR5L,Lophocladia lallemandii (Montagne) F.Schmitz
+94034,3WDK4,Luffa cylindrica (L.) Roem,no_matching_distribution,3WDK4,Luffa cylindrica M.Roem.
+94037,QGBGW,Lycianthes rantonnei (Carrière) Bitter,no_matching_distribution,QGBGW,Lycianthes rantonnei (Carrière) Bitter
+94040,B6LTT,"Lysidice collaris Grube, 1870",scientificName_replaced_by_backbone_name,B6LTT,"Lysidice collaris Grube, 1868"
+94041,73322,Lysimachia japonica C.P.Thunberg ex A.Murray,scientificName_replaced_by_backbone_name,73322,Lysimachia japonica Thunb.
+94043,3WZQK,Maclura pomifera (Raf.) C.K.Schneid.,scientificName_replaced_by_backbone_name,3WZQK,Maclura pomifera (Raf. ex Sarg.) C.K.Schneid.
+94044,3X864,"Macrophthalmus graeffei A.Milne-Edwards, 1873",scientificName_replaced_by_backbone_name,3X864,"Macrophthalmus (Macrophthalmus) graeffei A. Milne-Edwards, 1873"
+94046,3XFQ7,"Maera hamigera Haswell, 1880",no_matching_distribution,3XFQ7,"Maera hamigera Haswell, 1879"
+94047,3XQXZ,Malus sieboldii Rehder,merged_with_accepted,3XQXZ,Malus sieboldii (Regel) Rehder
+94048,QK32R,"Malvufundus regula (Forsskål, 1775)",no_matching_distribution,QK32R,"Malvufundus regula (Forsskål, 1775)"
+94049,3Y89G,"Marphysa disjuncta Hartman, 1961",no_matching_distribution,3Y89G,"Marphysa disjuncta Hartman, 1961"
+94050,9XP5V,"Marsupenaeus japonicus (Bate, 1888)",merged_with_accepted,9XP5V,"Marsupenaeus japonicus (Spence Bate, 1888)"
+94052,6QV3D,Matricaria matricarioides (Less.) Porter,no_matching_distribution,6QV3D,Matricaria matricarioides (Less.) Porter ex Britton
+94053,6QXQK,Melaleuca armillaris Sm.,scientificName_replaced_by_backbone_name,6QXQK,Melaleuca armillaris (Gaertn.) Sm.
+94056,9XPBB,"Melicertus hathor Burkenroad, 1959",merged_with_accepted,9XPBB,"Melicertus hathor (Burkenroad, 1959)"
+94061,9XPSW,"Metapenaeus affinis (H.Milne Edwards, 1837)",scientificName_replaced_by_backbone_name,9XPSW,"Metapenaeus affinis (H. Milne Edwards, 1837)"
+94065,QXZJY,"Metaxia bacillum (Issel, 1869)",merged_with_accepted,QXZJY,"Metaxia bacillum (Issel, 1869)"
+94067,42MGV,"Micippa thalia Herbst, 1803",scientificName_replaced_by_backbone_name,42MGV,"Micippa thalia (Herbst, 1803)"
+94076,43RFP,"Mitromorpha mediterranea Mifsud, 2001",no_matching_distribution,43RFP,"Mitromorpha (Mitrolumna) mediterranea Mifsud, 2001"
+94077,6RMT2,"Mnemiopsis leidyi A.Agassiz, 1865",scientificName_replaced_by_backbone_name,6RMT2,"Mnemiopsis leidyi A. Agassiz, 1865"
+94079,B8VGQ,"Monalysidium acicularis (Batsch, 1791)",merged_with_accepted,B8VGQ,"Monalysidium acicularis (Batsch, 1791)"
+94082,449PK,"Monotigma fulva (A.Adams, 1853)",no_matching_distribution,449PK,"Monotigma fulva (A. Adams, 1853)"
+94083,449PL,"Monotigma lauta (A.Adams, 1853)",no_matching_distribution,449PL,"Monotigma lauta (A. Adams, 1853)"
+94087,44HTC,Muehlenbeckia platyclados Meisn.,scientificName_replaced_by_backbone_name,44HTC,Muehlenbeckia platyclada (F.Muell.) Meisn.
+94102,,"Neosiphonia paniculata (Mont.) J.N.Norris, 2014",not_matched_with_COL,,
+94103,46Y5Q,"Nephasoma eremita (Sars, 1851)",scientificName_replaced_by_backbone_name,46Y5Q,"Nephasoma (Nephasoma) eremita (Sars, 1851)"
+94112,48KJM,"Octopus aegina Gray, 1849",no_matching_distribution,48KJM,"Octopus aegina J. E. Gray, 1849"
+94113,48L55,"Oculina patagonica de Angelis, 1908",scientificName_replaced_by_backbone_name,48L55,"Oculina patagonica de Angelis D'Ossat, 1908"
+94114,48SYC,"Odostomia lorioli (Hornung & Mermod, 1924)",merged_with_accepted,48SYC,"Odostomia lorioli (Hornung & Mermod, 1924)"
+94119,492YH,Oldenlandia capensis L.f.,scientificName_replaced_by_backbone_name,492YH,Oldenlandia capensis L.fil.
+94120,492YH,Oldenlandia capensis L.f.,scientificName_replaced_by_backbone_name,492YH,Oldenlandia capensis L.fil.
+94128,753ML,Opuntia microdasys (Lehm.) Lehm. ex Pfeiff.,scientificName_replaced_by_backbone_name,753ML,Opuntia microdasys (Lehm.) Pfeiff.
+94134,75FDS,Oxalis articulata Savign.,scientificName_replaced_by_backbone_name,75FDS,Oxalis articulata Savigny
+94140,R9LXX,Oxyphysis oxytoxoides Kof.,scientificName_replaced_by_backbone_name,R9LXX,"Oxyphysis oxytoxoides Kofoid, 1926"
+94144,RNWN2,Palisada perforata (Bory) K.W.Nam,scientificName_replaced_by_backbone_name,RNWN2,"Palisada perforata (Bory de Saint-Vincent) K.W.Nam, 2007"
+94146,9CZ4H,"Pandalus latirostris M.J.Rathbun, 1902",no_matching_distribution,9CZ4H,"Pandalus latirostris M. J. Rathbun, 1902"
+94149,4CJRX,"Paphia textile (Gmelin, 1791)",no_matching_distribution,4CJRX,"Paphia textile (Gmelin, 1791)"
+94151,7XVF2,"Paracartia grani G.O.Sars, 1904",merged_with_accepted,7XVF2,"Paracartia grani Sars G.O., 1904"
+94154,4D9Q5,"Paraprionospio coora Wilson, 1990",filtered_on_establishmentMeans,4D9Q5,"Paraprionospio coora Wilson, 1990"
+94157,7XYCT,"Parhyale explorator Arresti, 1989",merged_with_accepted,7XYCT,"Parhyale explorator Arresti, 1989"
+94161,RGCJP,Parviphycus pannosus (Feldmann) G.Furnari,scientificName_replaced_by_backbone_name,RGCJP,"Parviphycus pannosus (Feldmann) G.Furnari, 2010"
+94162,BDVDW,"Parviturbo dibellai Buzzurro & Cecalupo, 2007",no_matching_distribution,BDVDW,"Parviturbo dibellai Buzzurro & Cecalupo, 2007"
+94167,9KKZT,Paspalum thunbergii Kunth ex Steud.,scientificName_replaced_by_backbone_name,9KKZT,Paspalum thunbergii Kunth
+94169,6TZF2,Pelargonium zonale L'Hér.,scientificName_replaced_by_backbone_name,6TZF2,Pelargonium zonale (L.) L'Hér.
+94170,6TZ73,"Pelates quadrilineatus Cuvier & Valenciennes, 1829",scientificName_replaced_by_backbone_name,6TZ73,"Pelates quadrilineatus (Bloch, 1790)"
+94172,9XW7R,"Penaeus semisulcatus de Haan, 1844",scientificName_replaced_by_backbone_name,9XW7R,"Penaeus semisulcatus De Haan, 1844"
+94173,CDSV4,"Peneroplis pertusus var. arietina (Batsch, 1791)",no_matching_distribution,CDSV4,"Peneroplis pertusus var. arietina (Batsch, 1791)"
+94174,6V3PB,"Perca fluviatilis Linnaeus, 1758",filtered_on_establishmentMeans,6V3PB,"Perca fluviatilis Linnaeus, 1758"
+94175,773T8,"Percnon gibbesi (H.Milne Edwards, 1853)",scientificName_replaced_by_backbone_name,773T8,"Percnon gibbesi (H. Milne Edwards, 1853)"
+94176,76TV9,Perilla frutescens Britton.,scientificName_replaced_by_backbone_name,76TV9,Perilla frutescens (L.) Britton
+94179,4FDQR,"Petricola hemprichi Issel, 1869",no_matching_distribution,4FDQR,"Petricola hemprichii Issel, 1869"
+94181,VL8PW,"Peyssonnelia rosa-marina Boudouresque & Denizot, 1973",merged_with_accepted,VL8PW,Peyssonnelia rosa-marina Boudouresque & Denizot
+94184,4G3HV,"Pherusa parmata (Grube, 1877)",no_matching_distribution,4G3HV,"Pherusa parmata (Grube, 1877)"
+94194,77FKP,"Phyllorhiza punctata Lendenfeld, 1884",scientificName_replaced_by_backbone_name,77FKP,"Phyllorhiza punctata von Lendenfeld, 1884"
+94195,6VFPG,Phyllostachys bambusoides Siebold & Zucc.,no_matching_distribution,6VFPG,Phyllostachys bambusoides Siebold & Zucc.
+94196,4HFCQ,Physalis alkekengi L.,no_matching_distribution,4HFCQ,Physalis alkekengi L.
+94206,8SXG6,"Pinctada radiata (Leach, 1814)",no_matching_distribution,8SXG6,"Pinctada radiata (Leach, 1814)"
+94208,4J2F3,Pinus ponderosa Douglas ex P.Lawson & C.Lawson,scientificName_replaced_by_backbone_name,4J2F3,Pinus ponderosa Douglas ex C.Lawson
+94212,4J8V3,"Pisione guanche San MartÃn, López & Núñez, 1999",scientificName_replaced_by_backbone_name,4J8V3,"Pisione guanche San Martín, López & Núñez, 1999"
+94215,CQVTN,Pittosporum tobira (Murray) Aiton fil.,scientificName_replaced_by_backbone_name,CQVTN,Pittosporum tobira W.T.Aiton
+94216,KVPF9,"Planiliza haematocheila (Temminck & Schlegel, 1845)",merged_with_accepted,KVPF9,"Planiliza haematocheila (Temminck & Schlegel, 1845)"
+94217,KVPF9,"Planiliza haematocheila (Temminck & Schlegel, 1845)",merged_with_accepted,KVPF9,"Planiliza haematocheila (Temminck & Schlegel, 1845)"
+94228,RRQKQ,Polysiphonia fucoides (Hudson) Greville,merged_with_accepted,RRQKQ,Polysiphonia fucoides (Hudson) Greville
+94230,RRRS8,"Polysiphonia morrowii Harvey, 1857",scientificName_replaced_by_backbone_name,RRRS8,Polysiphonia morrowii Harv.
+94232,4LVK9,Populus canadensis Moench,scientificName_replaced_by_backbone_name,4LVK9,Populus × canadensis Moench
+94234,5QWMQ,Populus nigra var. italica (Moench.) Koehne,scientificName_replaced_by_backbone_name,5QWMQ,Populus nigra var. italica (Moench) Koehne
+94235,63PYM,Porphyra minor Zanardini,scientificName_replaced_by_backbone_name,63PYM,"Porphyra C.Agardh, 1824"
+94236,RZPNM,Porphyra umbilicalis (Linnaeus) Kützing,scientificName_replaced_by_backbone_name,RZPNM,"Porphyra umbilicalis Kützing, 1843"
+94247,4MW6M,Prosopis farcta J.F.Macbr.,scientificName_replaced_by_backbone_name,4MW6M,Prosopis farcta (Banks & Sol.) J.F.Macbr.
+94249,4NDC2,"Psammotreta praerupta (Salisbury, 1934)",no_matching_distribution,4NDC2,"Psammotreta praerupta (A. E. Salisbury, 1934)"
+94253,S6DVD,"Pseudo-nitzschia calliantha Lundholm, Moestrup & Hasle, 2003",filtered_on_establishmentMeans,S6DVD,"Pseudo-nitzschia calliantha Lundholm, Moestrup & Hasle, 2003"
+94256,9D6VS,"Pseudorhaphitoma iodolabiata (Hornung & Mermod, 1929)",scientificName_replaced_by_backbone_name,9D6VS,"Pseudorhaphitoma iodolabiata (Hornung & Mermod, 1928)"
+94257,78GY2,Pseudosasa japonica Makino. ex Nakai,scientificName_replaced_by_backbone_name,78GY2,Pseudosasa japonica (Siebold & Zucc. ex Steud.) Makino ex Nakai
+94265,74P7,"Pterocladiella melanoidea (Schousb. ex Bornet) Santel. & Hommers., 1997",scientificName_replaced_by_backbone_name,74P7,"Pterocladiella B.Santelices & Hommersand, 1997"
+94268,4QGMJ,"Pulleniatina obliquiloculata (Parker & Jones, 1862)",scientificName_replaced_by_backbone_name,4QGMJ,"Pulleniatina obliquiloculata (Parker & Jones, 1865)"
+94270,7HYD4,"Purpuradusta gracilis notata (Gill, 1858)",scientificName_replaced_by_backbone_name,7HYD4,"Purpuradusta gracilis notata (T. Gill, 1858)"
+94274,4QY9Y,"Pyura momus (Savigny, 1816)",no_matching_distribution,4QY9Y,"Pyura momus (Savigny, 1816)"
+94275,8RDR8,"Quinqueloculina milletti (Wiesner, 1923)",no_matching_distribution,8RDR8,"Quinqueloculina milletti (Wiesner, 1912)"
+94278,6WRVR,"Retusa fourierii (Audouin, 1826)",no_matching_distribution,6WRVR,"Retusa fourierii (Audouin, 1826)"
+94280,CF2VZ,"Rhinoclavis kochi (Philippi, 1848)",scientificName_replaced_by_backbone_name,CF2VZ,"Rhinoclavis kochi (R. A. Philippi, 1848)"
+94281,SKJC4,"Rhodophysema georgei Batters, 1900",scientificName_replaced_by_backbone_name,SKJC4,Rhodophysema georgii Batters
+94284,4SS63,"Rhynchophorus ferrugineus Heyne & O.A.-Taschenberg, 1908",scientificName_replaced_by_backbone_name,4SS63,"Rhynchophorus ferrugineus (Olivier, A.G., 1791)"
+94288,4T65Y,"Rissoina ambigua (Gould, 1849)",scientificName_replaced_by_backbone_name,4T65Y,"Rissoina ambigua (A. A. Gould, 1849)"
+94294,4TMNJ,"Ruditapes philippinarum (Adams & Reeve, 1850)",scientificName_replaced_by_backbone_name,4TMNJ,"Ruditapes philippinarum (A. Adams & Reeve, 1850)"
+94296,78YJ3,"Saccostrea commercialis (Iredale & Roughley, 1933)",no_matching_distribution,78YJ3,"Saccostrea commercialis (Iredale & Roughley, 1933)"
+94300,7L2JV,"Salmo trutta abanticus Tortonese, 1954",no_matching_distribution,7L2JV,"Salmo trutta abanticus Tortonese, 1954"
+94301,5KZF7,"Salmo trutta labrax Pallas, 1814",no_matching_distribution,5KZF7,"Salmo trutta labrax Pallas, 1814"
+94302,5KZFC,"Salmo trutta macrostigma (Duméril, 1858)",no_matching_distribution,5KZFC,"Salmo trutta macrostigma (Duméril, 1858)"
+94312,6XVNH,Schefflera actinophylla (Endl.) Harms,merged_with_accepted,6XVNH,Schefflera actinophylla (Endl.) Harms
+94313,4V6NY,Schefflera arboricola (Hayata) Merr.,merged_with_accepted,4V6NY,Schefflera arboricola (Hayata) Merr.
+94320,V6VBQ,"Scrippsiella trochoidea (Stein) Loeblich III, 1976",scientificName_replaced_by_backbone_name,V6VBQ,"Scrippsiella trochoidea (Stein) Balech ex Loeblich III, 1965"
+94322,CHGPM,"Sepioteuthis lessoniana Férussac, 1831",scientificName_replaced_by_backbone_name,CHGPM,"Sepioteuthis lessoniana Lesson, 1831"
+94324,4WR9T,"Septifer forskalii Dunker, 1855",no_matching_distribution,4WR9T,"Septifer forskalii Dunker, 1855"
+94327,4WSQG,Sequoia sempervirens Endl.,scientificName_replaced_by_backbone_name,4WSQG,Sequoia sempervirens (D.Don) Endl.
+94330,6YKG8,Setaria italica P.Beauv.,scientificName_replaced_by_backbone_name,6YKG8,Setaria italica (L.) P.Beauv.
+94337,6YN5N,"Siganus rivulatus Forsskål, 1775",scientificName_replaced_by_backbone_name,6YN5N,"Siganus rivulatus Forsskål & Niebuhr, 1775"
+94340,6YPTG,"Silurus glanis Linnaeus, 1758",filtered_on_establishmentMeans,6YPTG,"Silurus glanis Linnaeus, 1758"
+94347,4XZHQ,Solanum angustifolium Mill.,scientificName_replaced_by_backbone_name,4XZHQ,Solanum angustifolium Houst. ex Mill.
+94357,4YC8H,Sorghum drummondii (Nees ex Steud.) Millsp. & Chase,merged_with_accepted,4YC8H,Sorghum × drummondii (Nees ex Steud.) Millsp. & Chase
+94358,4YCMJ,"Sorites orbiculus (Forsskål, 1775)",scientificName_replaced_by_backbone_name,4YCMJ,"Sorites orbiculus (Forsskål in Niebuhr, 1775)"
+94359,4YCML,"Sorites variabilis Lacroix, 1941",scientificName_replaced_by_backbone_name,4YCML,"Sorites variabilis Lacroix, 1940"
+94361,4YV7Q,"Sphenia rueppellii A.Adams, 1851",scientificName_replaced_by_backbone_name,4YV7Q,"Sphenia rueppellii A. Adams, 1851"
+94363,4Z2LF,"Sphyraena chrysotaenia Klunzinger, 1884",merged_with_accepted,4Z2LF,"Sphyraena chrysotaenia Klunzinger, 1884"
+94365,4Z4BQ,"Spilopelia senegalensis (Linnaeus, 1766)",no_matching_distribution,4Z4BQ,"Spilopelia senegalensis (Linnaeus, 1766)"
+94366,4Z5MM,"Spinocalanus terranovae Damkaer, 1975",filtered_on_establishmentMeans,4Z5MM,"Spinocalanus terranovae Damkaer, 1975"
+94367,4Z69D,"Spiophanes algidus Meissner, 2005",scientificName_replaced_by_backbone_name,4Z69D,"Spiophanes algidus Meißner, 2005"
+94368,7NMFH,Spiraea vanhouttei (Briot) Zabel,scientificName_replaced_by_backbone_name,7NMFH,Spiraea × vanhouttei (Briot) Zabel
+94369,4Z7S8,"Spirobranchus kraussii (Baird, 1865)",scientificName_replaced_by_backbone_name,4Z7S8,"Spirobranchus kraussii (Baird, 1864)"
+94373,4Z8FC,"Spirorbis marioni Caullery & Mesnil, 1897",scientificName_replaced_by_backbone_name,4Z8FC,"Spirorbis (Spirorbis) marioni Caullery & Mesnil, 1897"
+94377,4ZCL7,Sporobolus indicus R.Br.,scientificName_replaced_by_backbone_name,4ZCL7,Sporobolus indicus (L.) R.Br.
+94378,4ZDW8,"Spurilla major (Eliot, 1903)",no_matching_distribution,4ZDW8,"Spurilla major (Eliot, 1903)"
+94379,SZ2V3,"Squilla massavensis Kossmann, 1880",no_matching_distribution,SZ2V3,"Squilla massavensis Kossmann, 1880"
+94382,52JPD,"Sticteulima lentiginosa (A.Adams, 1861)",scientificName_replaced_by_backbone_name,52JPD,"Sticteulima lentiginosa (A. Adams, 1861)"
+94385,6ZVD2,"Stomatella varia (A.Adams, 1850)",no_matching_distribution,6ZVD2,"Stomatella varia (A. Adams, 1850)"
+94386,8576Z,"Streblosoma comatus (Grube, 1859)",merged_with_accepted,8576Z,"Streblosoma comatus (Grube, 1859)"
+94388,6ZY25,"Streptopelia senegalensis (Linnaeus, 1766)",merged_with_accepted,6ZY25,"Streptopelia senegalensis (Linnaeus, 1766)"
+94389,5346W,"Strombus vittatus Linnaeus, 1758",no_matching_distribution,5346W,"Strombus (Doxander) vittatus Linnaeus, 1758"
+94395,53Q86,Symphyotrichum laeve (L.) Ã.Löve & D.Löve,scientificName_replaced_by_backbone_name,53Q86,Symphyotrichum laeve (L.) Á.Löve & D.Löve
+94400,54223,"Syphonota geographica (A.Adams & Reeve, 1850)",scientificName_replaced_by_backbone_name,54223,"Syphonota geographica (A. Adams & Reeve, 1850)"
+94402,542W5,"Syrnola cinctella A.Adams, 1860",scientificName_replaced_by_backbone_name,542W5,"Syrnola cinctella A. Adams, 1860"
+94404,542XR,"Syrnola lendix (A.Adams, 1863)",scientificName_replaced_by_backbone_name,542XR,"Syrnola lendix (A. Adams, 1863)"
+94405,7BDY7,"Tachidiella minuta G.O.Sars, 1909",scientificName_replaced_by_backbone_name,7BDY7,"Tachidiella minuta Sars G.O., 1909"
+94407,KVVCW,"Taeniura grabata (Geoffroy Saint-Hilaire, 1817)",merged_with_accepted,KVVCW,"Taeniura grabata (Geoffroy Saint-Hilaire, 1817)"
+94410,5526G,Taxodium distichum Rich.,scientificName_replaced_by_backbone_name,5526G,Taxodium distichum (L.) Rich.
+94411,552SW,Tecoma capensis Lindl.,merged_with_accepted,552SW,Tecoma capensis (Thunb.) Lindl.
+94413,5574S,"Tellina valtonis Hanley, 1844",no_matching_distribution,5574S,"Tellina valtonis Hanley, 1844"
+94414,55F29,"Teredo navalis Linnaeus, 1758",filtered_on_establishmentMeans,55F29,"Teredo navalis Linnaeus, 1758"
+94416,7C4GZ,"Tetrodon lunaris Bloch & Schneider, 1801",no_matching_distribution,7C4GZ,"Tetrodon lunaris Bloch & Schneider, 1801"
+94417,55YVY,"Thais lacera (Born, 1778)",no_matching_distribution,55YVY,"Thais (Thaisella) lacera (Born, 1778)"
+94425,56ZWM,"Tinca tinca (Linnaeus, 1758)",filtered_on_establishmentMeans,56ZWM,"Tinca tinca (Linnaeus, 1758)"
+94429,TH86X,"Trachysalambria palaestinensis (Steinitz, 1932)",no_matching_distribution,TH86X,"Trachysalambria palaestinensis (Steinitz, 1932)"
+94433,7CTVV,"Triloculina asymmetrica Said, 1949",no_matching_distribution,7CTVV,"Triloculina asymmetrica Said, 1949"
+94434,7D5V5,"Triloculina fichteliana d'Orbigny, 1839",no_matching_distribution,7D5V5,"Triloculina fichteliana d'Orbigny, 1839"
+94438,59HMG,Tsuga heterophylla Sarg.,scientificName_replaced_by_backbone_name,59HMG,Tsuga heterophylla (Raf.) Sarg.
+94443,TQYCD,Ulva lactuca L.,filtered_on_establishmentMeans,TQYCD,"Ulva lactuca Linnaeus, 1753"
+94451,7G2MF,"Vexillum granum (Forbes, 1844)",no_matching_distribution,7G2MF,"Vexillum granum (Forbes, 1844)"
+94456,5BV46,Washingtonia robusta H.Wendl.,merged_with_accepted,5BV46,Washingtonia robusta H.Wendl.
+94457,5BW8Z,Weigela florida A.DC.,scientificName_replaced_by_backbone_name,5BW8Z,Weigela florida (Bunge) A.DC.
+94458,9DQYB,Wisteria sinensis Sweet,scientificName_replaced_by_backbone_name,9DQYB,Wisteria sinensis (Sims) DC.
+94465,5CW7S,Zantedeschia aethiopica Spreng.,scientificName_replaced_by_backbone_name,5CW7S,Zantedeschia aethiopica (L.) Spreng.

@@ -1,12 +1,13 @@
-taxonKey,nubKey,taxonID,scientificName,taxonomicStatus,acceptedKey,acceptedName,acceptedTaxonRank,acceptedKingdom
-196397247,9752149,74020,"Phasianus colchicus Linnaeus, 1758",ACCEPTED,9752149,"Phasianus colchicus Linnaeus, 1758",SPECIES,Animalia
-196397252,5156102,74016,"Leptoglossus occidentalis Heidemann, 1910",ACCEPTED,5156102,"Leptoglossus occidentalis Heidemann, 1910",SPECIES,Animalia
-196397254,8001222,74019,"Corythauma ayyari (Drake, 1933)",ACCEPTED,8001222,"Corythauma ayyari (Drake, 1933)",SPECIES,Animalia
-196397256,9302212,74017,"Phenacoccus peruvianus Granara de Willink, 2007",ACCEPTED,9302212,"Phenacoccus peruvianus Granara de Willink, 2007",SPECIES,Animalia
-196397257,2094171,74015,"Crisicoccus pini (Kuwana, 1902)",ACCEPTED,2094171,"Crisicoccus pini (Kuwana, 1902)",SPECIES,Animalia
-196397261,1047502,74013,"Acanthoscelides pallidipennis (Motschulsky, 1874)",HOMOTYPIC_SYNONYM,6275970,"Dactylispa pallidipennis (Motschulsky, 1861)",SPECIES,Animalia
-196397263,8636797,74018,"Xylosandrus compactus Eichhoff, 1875",HOMOTYPIC_SYNONYM,5019579,"Xyleborus compactus Eichhoff, 1875",SPECIES,Animalia
-196397264,4292054,74014,"Trachyphloeosoma advena Zimmerman, 1956",ACCEPTED,4292054,"Trachyphloeosoma advena Zimmerman, 1956",SPECIES,Animalia
-196397267,1651430,74010,"Aedes albopictus Skuse, 1894",ACCEPTED,1651430,"Aedes albopictus (Skuse, 1894)",SPECIES,Animalia
-196397273,2643093,74012,Caulerpa racemosa (Forssk.) J.Agardh,ACCEPTED,2643093,Caulerpa racemosa (Forssk.) J.Agardh,SPECIES,Plantae
-196397274,2643172,74011,Caulerpa taxifolia (M.Vahl) C.Agardh,ACCEPTED,2643172,Caulerpa taxifolia (M.Vahl) C.Agardh,SPECIES,Plantae
+usage_id,taxonID,scientificName,taxonomicStatus,acceptedKey,acceptedName,acceptedTaxonRank
+89W76,74010,"Aedes albopictus Skuse, 1894",accepted,89W76,"Aedes (Stegomyia) albopictus (Skuse, 1894)",species
+MB27H,74011,Caulerpa taxifolia (M.Vahl) C.Agardh,accepted,MB27H,Caulerpa taxifolia (Vahl) C. Ag.,species
+M9ZSH,74012,Caulerpa racemosa (Forssk.) J.Agardh,accepted,M9ZSH,Caulerpa racemosa (Forsskal) J. Agardh,species
+LXNV9,74013,"Acanthoscelides pallidipennis (Motschulsky, 1874)",accepted,LXNV9,"Acanthoscelides pallidipennis (Motschulsky, 1874)",species
+57S66,74014,"Trachyphloeosoma advena Zimmerman, 1956",accepted,57S66,"Trachyphloeosoma advena Zimmerman, 1956",species
+ZHS9,74015,"Crisicoccus pini (Kuwana, 1902)",accepted,ZHS9,"Crisicoccus pini (Kuwana, 1902)",species
+6PGH9,74016,"Leptoglossus occidentalis Heidemann, 1910",accepted,6PGH9,"Leptoglossus occidentalis Heidemann, 1910",species
+S2HLK,74017,"Phenacoccus peruvianus Granara de Willink, 2007",accepted,S2HLK,"Phenacoccus peruvianus Granara de Willink, 2007",species
+5CMJ9,74018,"Xylosandrus compactus Eichhoff, 1875",provisionally accepted,5CMJ9,"Xylosandrus compactus Wood & Bright, 1992",species
+YSYM,74019,"Corythauma ayyari (Drake, 1933)",accepted,YSYM,"Corythauma ayyari (Drake, 1933)",species
+4FWMN,74020,"Phasianus colchicus Linnaeus, 1758",accepted,4FWMN,"Phasianus colchicus Linnaeus, 1758",species
+7L734,74021,"Vespa velutina nigrithorax Buysson, 1905",accepted,7L734,"Vespa velutina nigrithorax Buysson, 1905",subspecies

@@ -1,1 +1,660 @@
-taxonKey,nubKey,taxonID,scientificName,kingdom,taxonRank
+taxonID,taxonKey,scientificName,taxonRank
+1001,8NCQ,Abutilon theophrasti Medik.,species
+1002,64FSN,"Acartia (Acanthacartia) tonsa Dana, 1849-1852",species
+1003,94F5,Acer negundo L.,species
+1004,94JH,Acer saccharinum L.,species
+1005,V53BB,"Achnanthes pseudogroenlandica N.I. Hendey, 1964",species
+1006,64MF2,Acorus calamus L.,species
+1008,654JZ,Adonis aestivalis L.,species
+1009,65964,"Aegopinella nitidula (Draparnaud, 1805)",species
+1010,65964,"Aegopinella nitidula (Draparnaud, 1805)",species
+1011,65BKZ,Aesculus hippocastanum L.,species
+1012,65CDF,Aethusa cynapium L.,species
+1013,B99P,Agrostemma githago L.,species
+1014,BCBF,Ailanthus altissima (Mill.) Swingle,species
+1015,L9NNP,"Alexandrium Halim, 1960",genus
+1016,L9NP4,"Alexandrium affine (H.Inoue & Y.Fukuyo) Balech, 1995",species
+1017,L9NS7,"Alexandrium monilatum (Howell) F. J. R. Taylor, 1979",species
+1018,L9NT6,"Alexandrium pseudogonyaulax (Biecheler) Horiguchi ex Kita & Fukuyo, 1992",species
+1019,L9NW8,"Alexandrium tamarense (Lebour, 1925) Balech, 1992",species
+1020,5TY3W,Althaea officinalis L.,species
+1021,CGXJ,Amaranthus albus L.,species
+1022,CGYJ,Amaranthus blitoides S.Watson,species
+1023,CGYL,Amaranthus blitum L.,species
+1024,CGZ8,Amaranthus caudatus L.,species
+1025,CH35,Amaranthus hybridus L.,species
+1026,CH37,Amaranthus hypochondriacus L.,species
+1027,CH52,Amaranthus palmeri S.Watson,species
+1029,CH5L,Amaranthus powellii S.Watson,species
+1030,CH63,Amaranthus retroflexus L.,species
+1032,VK7M3,Amaranthus tuberculatus (Moq.) J.D.Sauer,species
+1033,BWJDR,"Amathillina cristata Grimm in G.O. Sars, 1894",species
+1034,5TZQZ,Ambrosia artemisiifolia L.,species
+1035,CPQH,Ambrosia trifida L.,species
+1036,CX4J,Amorpha fruticosa L.,species
+1038,LCHHJ,"Amphibalanus amphitrite (Darwin, 1854)",species
+1039,LCHL9,"Amphibalanus eburneus (Gould, 1841)",species
+1041,V7W9P,"Amphorellopsis acuta (Schmidt, 1901)",species
+1042,66KDT,"Anadara inaequivalvis (Bruguière, 1789)",species
+1045,DLZL,Anchusa officinalis L.,species
+1047,DY93,Anethum graveolens L.,species
+1049,67BTJ,Anthemis arvensis L.,species
+1050,67C59,Anthemis cotula L.,species
+1051,LBG2M,"Apedinella radians (Lohmann) Campbell, 1973",species
+1052,LBG2T,Apedinella spinifera (Throndsen) Throndsen,species
+1053,F9J7,Apera spica-venti (L.) P.Beauv.,species
+1054,67MJ5,Aphanes arvensis L.,species
+1056,FZVW,Aquilegia vulgaris L.,species
+1057,G26R,Arabidopsis thaliana (L.) Heynh.,species
+1058,84LTX,"Aracia Nogueira, Fitzhugh & Rossi, 2010",genus
+1059,G8DM,"Archesola typhlops (Sars G.O., 1908)",species
+1061,67QX5,"Arion distinctus Mabille, 1868",species
+1063,7NPPK,"Arion A. Férussac, 1819",genus
+1066,VJT6M,"Armoracia rusticana G.Gaertn., B.Mey. & Scherb.",species
+1067,GTSZ,Aronia melanocarpa (Michx.) Elliott,species
+1068,GVZ9,Artemisia abrotanum L.,species
+1069,GVZC,Artemisia absinthium L.,species
+1070,GW2V,Artemisia annua L.,species
+1071,H6QS,Asclepias syriaca L.,species
+1073,LWMWN,Asterionellopsis glacialis (Castracane) Round in Round et al.,species
+1074,688F5,Atriplex hortensis L.,species
+1075,JLMY,Atriplex prostrata DC.,species
+1076,JLPB,Atriplex sagittata Borkh.,species
+1077,JLR8,Atriplex tatarica L.,species
+1078,LNRLS,Attheya decora T.West,species
+1080,K2GH,Avena fatua L.,species
+1081,K2QJ,Avena sativa L.,species
+1082,K49Z,"Axis axis (Erxleben, 1777)",species
+1083,67YLV,Azolla caroliniana Willd.,species
+1084,67YM7,Azolla filiculoides Lam.,species
+1085,K9JJ,Bacteriastrum hyalinum Lauder,species
+1086,MMNWQ,"Balanus amphitrite Darwin, 1854",species
+1087,MMNX2,"Balanus eburneus Gould, 1841",species
+1088,MMQBK,"Balanus improvisus Darwin, 1854",species
+1089,KHNL,Ballota nigra L.,species
+1090,KV57,"Basramyces marinus Abdullah, Abdulk. & Goos",species
+1091,L65P,Beckmannia syzigachne (Steud.) Fernald,species
+1092,5WJTR,"Beroe ovata Bruguière, 1789",species
+1093,LS6G,Bidens connata Muhl. ex Willd.,species
+1094,LS97,Bidens frondosa L.,species
+1095,LSTZ,"Bielzia coerulans (M. Bielz, 1851)",species
+1096,68JDM,Bifora radians M.Bieb.,species
+1097,LV34,"Biomphalaria glabrata (Say, 1818)",species
+1098,LXZF,Bituminaria bituminosa (L.) C.H.Stirt.,species
+1099,LYSK,"Blackfordia virginica Mayer, 1910",species
+1101,MJ92,Borago officinalis L.,species
+1102,MLVD,"Bosmina (Eubosmina) coregoni Baird, 1857",species
+1105,MR4G,"Bougainvillia muscus (Allman, 1863)",species
+1107,N7ZK,Brassica juncea (L.) Czern.,species
+1108,M53VZ,Brassica nigra (L.) W.D.J.Koch,species
+1109,N9CP,"Brephulopsis bidens (Krynicki, 1833)",species
+1110,N9CQ,"Brephulopsis cylindrica (Menke, 1828)",species
+1111,NCTM,Bromus arvensis L.,species
+1112,5X35T,Bromus commutatus Schrad.,species
+1113,NDCY,Bromus secalinus L.,species
+1114,NDDV,Bromus squarrosus L.,species
+1115,NJ97,Bryonia alba L.,species
+1116,5WSSB,Bryonia dioica Jacq.,species
+1117,NPNN,Buglossoides arvensis (L.) I.M.Johnst.,species
+1118,695NB,Bunias orientalis L.,species
+1119,NVPD,Bupleurum fruticosum L.,species
+1120,NVVR,Bupleurum rotundifolium L.,species
+1121,696CL,"Calanipeda aquaedulcis Krichagin, 1873",species
+1122,PJDZ,Calendula officinalis L.,species
+1123,PQYN,"Callinectes sapidus Rathbun, 1896",species
+1125,Q9DB,Camelina microcarpa Andrz. ex DC.,species
+1126,Q9DM,Camelina sativa (L.) Crantz,species
+1128,698MR,"Cameraria ohridella Deschka & Dimić, 1986",species
+1130,QM84,Cannabis sativa L.,species
+1131,QT37,Capsella bursa-pastoris (L.) Medik.,species
+1132,QZWK,Caragana arborescens Lam.,species
+1133,68ZXN,"Carassius auratus (Linnaeus, 1758)",species
+1134,R3BW,Carbosphaerella leptosphaerioides I. Schmidt,species
+1136,R6M5,Carduus acanthoides L.,species
+1137,R6ZB,Carduus nutans L.,species
+1139,RWQN,Caucalis platycarpos L.,species
+1141,S5H6,Cenchrus longispinus (Hack.) Fernald,species
+1142,69GPL,Centaurea cyanus L.,species
+1144,S6FY,Centaurea diffusa Lam.,species
+1145,69GB5,Centaurea iberica Trevis. ex Spreng.,species
+1146,S7GJ,Centaurea solstitialis L.,species
+1147,SBY2,"Cepaea hortensis (O. F. Müller, 1774)",species
+1148,SBY4,"Cepaea nemoralis (Linnaeus, 1758)",species
+1151,SSYB,"Cercopagis pengoi (Ostroumov, 1891)",species
+1152,SZMC,"Cernuella virgata (Da Costa, 1778)",species
+1153,T56N,"Cervus nippon Temminck, 1838",species
+1154,TB4D,Chaetoceros diversus Cleve,species
+1155,TB8K,Chaetoceros tortissimus Gran,species
+1157,7TP24,"Chaetogammarus warpachowskyi (G.O. Sars, 1894)",species
+1158,TM2L,"Channa argus (Cantor, 1842)",species
+1159,5XQWG,"Chelicorophium curvispinum (G.O. Sars, 1895)",species
+1161,TVBX,"Chelon labrosus (Risso, 1827)",species
+1166,TXCW,Chenopodium ficifolium Sm.,species
+1170,9JZ9K,Chenopodium opulifolium Schrad. ex W.D.J.Koch & Ziz,species
+1172,TXJT,Chenopodium pratericola Rydb.,species
+1174,TXM8,Chenopodium striatiforme Murr,species
+1175,TXMG,Chenopodium suecicum Murr,species
+1176,5YBGC,"Chondrula microtragus (Rossmässler, 1839)",species
+1178,5YHDK,"Chromogobius zebratus (Kolombatović, 1891)",species
+1179,V857,Cichorium intybus L.,species
+1180,VGLR,Cirrenalia basiminuta Raghuk. & Zainal,species
+1181,VMHN,Citrullus lanatus (Thunb.) Matsum. & Nakai,species
+1182,7SC9P,"Clausocalanus arcuicornis (Dana, 1849-1852)",species
+1183,VYJ3,Clematis vitalba L.,species
+1184,N36J7,"Cocconeis brittanica Naegeli, 1849",species
+1185,N47SZ,"Cochlodinium polykrikoides Margalef, 1961",species
+1186,XD5N,Colutea arborescens L.,species
+1187,XP6T,Conium maculatum L.,species
+1189,5ZZF6,"Corambe obscura (A. E. Verrill, 1870)",species
+1190,5ZYZX,"Corbicula fluminalis (O. F. Müller, 1774)",species
+1191,5ZYZK,"Corbicula fluminea (O. F. Müller, 1774)",species
+1192,6B288,"Cordylophora caspia (Pallas, 1771)",species
+1194,YD7R,"Coregonus albula (Linnaeus, 1758)",species
+1197,6B298,"Coregonus lavaretus (Linnaeus, 1758)",species
+1198,YDB4,"Coregonus pallasii Valenciennes, 1848",species
+1199,YDB5,"Coregonus peled (Gmelin, 1789)",species
+1200,9JYSN,Coreopsis grandiflora Hogg ex Sweet,species
+1201,YDRV,Coreopsis lanceolata L.,species
+1202,YDWG,Coreopsis tinctoria Nutt.,species
+1203,6B3DT,Coriandrum sativum L.,species
+1204,VJSJG,Corispermum pallasii Steven,species
+1205,6B4XW,"Cornigerius bicornis (Zernov, 1901)",species
+1206,YG3F,"Cornigerius lacustris (Spandl, 1923)",species
+1207,CJZ8R,"Cornigerius maeoticus maeoticus (Pengo, 1879)",subspecies
+1208,YGWH,Corollospora lacera (Linder) Kohlm.,species
+1214,6B7N7,Cosmos bipinnatus Cav.,species
+1215,7NTPV,"Craspedacusta Lankester, 1880",genus
+1217,6BB55,Crataegus coccinea L.,species
+1220,326B3,"Ctenopharyngodon idella (Valenciennes, 1844)",species
+1222,329ZP,Cucurbita pepo L.,species
+1223,6BQ69,Cumulospora marina I. Schmidt,species
+1228,NCGRB,Cuscuta tinei Insenga,species
+1229,32MSC,"Cuthona perca (Er. Marcus, 1958)",species
+1230,6C4GJ,Cyclachaena xanthiifolia (Nutt.) Fresen.,species
+1231,6C6DN,Cynoglossum officinale L.,species
+1232,ND9BR,"Cystobranchus fasciatus (Kollar, 1842)",species
+1233,342N9,"Dama dama (Linnaeus, 1758)",species
+1234,345B9,"Daphnia (Daphnia) cucullata Sars, 1862",species
+1235,345X2,"Darcythompsonia fairliensis (Scott T., 1899)",species
+1236,34B7C,Datura stramonium L.,species
+1237,34J6Z,Delphinium cuneatum Steven ex DC.,species
+1238,34XZH,"Deroceras caucasicum (Simroth, 1902)",species
+1239,34ZD5,Descurainia sophia (L.) Webb ex Prantl,species
+1240,NFR3Z,Desmarestia viridis (O F Müller) Lamouroux,species
+1241,358C6,"Diadumene lineata (Verrill, 1869)",species
+1242,6CPY4,Dianthus barbatus L.,species
+1243,3638W,Digitalis lanata Ehrh.,species
+1244,363K7,Digitaria ischaemum (Schreb.) Muhl.,species
+1245,363RV,Digitaria sanguinalis (L.) Scop.,species
+1246,364SM,"Dikerogammarus haemobaphes (Eichwald, 1841)",species
+1247,364SQ,"Dikerogammarus villosus (Sowinsky, 1894)",species
+1248,NFN65,Dinophysis islandica Paulsen,species
+1249,NFNFN,Dinophysis nasuta (Stein),species
+1250,NFNHK,Dinophysis odiosa (Pavillard) Tai & Skogsberg,species
+1251,NFNPS,"Dinophysis recurva Kofoid & Skogsberg, 1928",species
+1252,NFNSQ,Dinophysis schilleri Sournia,species
+1253,36NTB,Diplotaxis muralis (L.) DC.,species
+1254,6D9JX,Diplotaxis tenuifolia (L.) DC.,species
+1256,37KDC,Dracocephalum thymiflorum L.,species
+1257,37M64,"Dreissena bugensis Andrusov, 1897",species
+1258,37M79,"Dreissena polymorpha (Pallas, 1771)",species
+1260,38GZJ,Echinochloa crus-galli (L.) P.Beauv.,species
+1263,38HFQ,Echinocystis lobata (Michx.) Torr. & A.Gray,species
+1264,38J3W,"Echinogammarus trichiatus (Martynov, 1932)",species
+1265,7VV44,"Ectinosoma abrau (Krichagin, 1877)",species
+1266,7NY47,"Ectocarpus Lyngbye, 1819",genus
+1267,38X9R,Elaeagnus angustifolia L.,species
+1268,39C7P,Elodea canadensis Michx.,species
+1269,39C89,Elodea nuttallii (Planch.) H.St.John,species
+1270,39CZ2,Elsholtzia ciliata (Thunb.) Hyl.,species
+1273,BJP5M,"Eocyzicus orientalis Daday, 1914",species
+1274,6G4VY,Epilobium ciliatum Raf.,species
+1275,6FSKN,Epilobium pseudorubescens A.K.Skvortsov,species
+1276,6G5LM,"Epinephelus caninus (Valenciennes, 1843)",species
+1277,6FZSX,Eragrostis minor Host,species
+1278,6FZWZ,Eragrostis pectinacea (Michx.) Nees,species
+1279,6GBJQ,"Ercolania viridis (A. Costa, 1866)",species
+1280,6GNBD,Erigeron canadensis L.,species
+1281,3B3LX,"Eriocheir sinensis H. Milne Edwards, 1853",species
+1282,3B9TG,Eruca vesicaria (L.) Cav.,species
+1283,3BBH6,Erysimum cheiranthoides L.,species
+1284,3BBRH,Erysimum repandum L.,species
+1286,3BTX8,Euclidium syriacum (L.) W.T.Aiton,species
+1287,6H73L,"Eudendrium capillare Alder, 1856",species
+1288,3BZLC,"Eudendrium vaginatum Allman, 1863",species
+1289,8882X,"Eudiaptomus gracilis (Sars G.O., 1863)",species
+1290,3BZZX,"Eudiaptomus graciloides (Lilljeborg, 1888)",species
+1292,3CNKH,Euphorbia dentata Michx.,species
+1293,3CNSC,Euphorbia exigua L.,species
+1294,3CNSM,Euphorbia falcata L.,species
+1295,3CP4R,Euphorbia helioscopia L.,species
+1296,3CPP5,Euphorbia marginata Pursh,species
+1297,3CQ74,Euphorbia peplus L.,species
+1298,6GZX6,Euphorbia platyphyllos L.,species
+1299,3CQM8,Euphorbia salicifolia Host,species
+1300,P96NH,"Eutintinnus apertus (Kofoid & Campbell, 1929)",species
+1301,P96MN,"Eutintinnus Kofoid & Campbell, 1939",genus
+1302,VL9GV,"Eutintinnus lusus-undae (Entz, 1885)",species
+1304,7RB55,"Euxinipyrgula lincta (Milaschewitsch, 1908)",species
+1305,3DS8L,Fagopyrum esculentum Moench,species
+1307,3DTR4,Fallopia convolvulus (L.) Á.Löve,species
+1308,84NP6,"†Favella Coryell & Fields, 1937",genus
+1310,6HVS2,"Ficopomatus enigmaticus (Fauvel, 1923)",species
+1311,6JBPX,Foeniculum vulgare Mill.,species
+1313,6JMHT,Fraxinus pennsylvanica Marshall,species
+1314,6K42D,Fumaria parviflora Lam.,species
+1315,6K3PT,Fumaria schleicheri Soy.-Will.,species
+1316,6JRPV,Fumaria vaillantii Loisel.,species
+1317,6K87X,Gagea pratensis (Pers.) Dumort.,species
+1318,6K88Z,Gagea villosa (M.Bieb.) Sweet,species
+1319,3F3Y7,Galeopsis ladanum L.,species
+1320,3F55R,Galinsoga parviflora Cav.,species
+1322,3F6J8,Galium spurium L.,species
+1323,3F7VR,"Gambusia holbrooki Girard, 1859",species
+1324,3F8NP,"Gammogobius steinitzi Bath, 1971",species
+1325,7V2QN,"Garveia franciscana (Torrey, 1902)",species
+1326,6KCB2,Geranium columbinum L.,species
+1327,6KCC8,Geranium dissectum L.,species
+1328,6KDH8,Geranium molle L.,species
+1329,3FV3T,Geranium pusillum L.,species
+1330,3FV6Y,Geranium sibiricum L.,species
+1332,3G66N,Glaucium corniculatum (L.) Rudolph,species
+1333,6KH48,Gleditsia triacanthos L.,species
+1334,6KJLG,Gloniella clavatispora Steinke & K.D. Hyde,species
+1335,6KKP7,"Glycera capitata Örsted, 1842",species
+1336,3GJJV,"Gmelina costata G.O. Sars, 1894",species
+1339,6KN8X,"Gobius couchi Miller & El-Tawil, 1974",species
+1340,3GPR2,"Gobius cruentatus Gmelin, 1789",species
+1341,3GQ9Z,"Gobius xanthocephalus Heymer & Zander, 1992",species
+1342,6KSR7,Grindelia squarrosa (Pursh) Dunal,species
+1343,3HR6W,Gymnocladus dioicus (L.) K.Koch,species
+1344,3HRPR,"Gymnodinium aureolum (Hulburt) Hansen, 2000",species
+1345,3HRQS,"Gymnodinium catenatum Graham, 1943",species
+1346,3HRX4,"Gymnodinium radiatum Kofoid & Swezy, 1921",species
+1347,3HRYK,"Gymnodinium uberrimum (Allman) Kofoid & Swezy, 1921",species
+1348,3HYYP,"Gyrodactylus avalonia Hanek & Threlfall, 1969",species
+1349,3HZ9X,"Gyrodactylus mugili Zhukov, 1970",species
+1350,3HZBM,"Gyrodactylus perccotti Ergens & Yukhimenko, 1973",species
+1351,3HZFY,"Gyrodactylus zhukovi Ling, 1962",species
+1352,3HZG4,"Gyrodinium impudicum Fraga & Bravo, 1995",species
+1353,P6J2F,Gyrodinium instriatum Freudenthal & Lee,species
+1354,3JDKR,Haligena elaterophora Kohlm.,species
+1355,6KZML,Halosarpheia phragmiticola Poon & K.D. Hyde,species
+1356,PNVYQ,"Harmonia axyridis (Pallas, 1773)",species
+1357,3K5TS,Helianthus annuus L.,species
+1358,3K5VG,Helianthus decapetalus L.,species
+1359,3K5XG,Helianthus × laetiflorus Pers.,species
+1362,3K63N,Helianthus tuberosus L.,species
+1365,3KDTL,"Helix albescens Rossmässler, 1839",species
+1366,6LLW9,"Helix lucorum Linnaeus, 1758",species
+1367,6LLM4,"Helix pomatia Linnaeus, 1758",species
+1368,3KKXG,Hemerocallis lilioasphodelus L.,species
+1369,3KQ9P,"Hemimysis anomala G.O. Sars, 1907",species
+1370,3KV2Z,"Heniochus acuminatus (Linnaeus, 1758)",species
+1371,6LS3M,Heracleum mantegazzianum Sommier & Levier,species
+1372,3KXGJ,Heracleum sosnowskyi Manden.,species
+1373,3L3Z2,"Hesionides arenaria Friedrich, 1937",species
+1374,3L53Y,Hesperis matronalis L.,species
+1375,3L55M,Hesperis pycnotricha Borbás & Degen,species
+1376,3L8VQ,"Heterocope appendiculata Sars G.O., 1863",species
+1377,3L8VS,"Heterocope caspia Sars G.O., 1897",species
+1378,3LKCV,Hibiscus trionum L.,species
+1379,6375W,"Hillea J.Schiller, 1926",genus
+1380,3MNVH,Hordeum bulbosum L.,species
+1381,3MNYC,Hordeum jubatum L.,species
+1383,3MNZG,Hordeum murinum L.,species
+1384,6MJML,"Hydroides dianthus (Verrill, 1873)",species
+1385,3NM3P,Hyoscyamus niger L.,species
+1386,6N2MZ,"Hypania invalida (Grube, 1860)",species
+1387,6MQMT,"Hypaniola kowalewskii (Grimm, 1877)",species
+1389,9G82D,"Hypanis colorata (Eichwald, 1829)",species
+1390,7P5KN,"Hypanis Ménétries, 1832",genus
+1391,7P5KN,"Hypanis Ménétries, 1832",genus
+1392,CJ4R2,"Hypanis pontica (Eichwald, 1838)",species
+1393,6MR5M,"Hypophthalmichthys molitrix (Valenciennes, 1844)",species
+1395,3PB88,"Ictalurus punctatus (Rafinesque, 1818)",species
+1396,3PBC5,"Ictiobus bubalus (Rafinesque, 1818)",species
+1397,3PBC6,"Ictiobus cyprinellus (Valenciennes, 1844)",species
+1398,6N5WT,"Ictiobus niger (Rafinesque, 1819)",species
+1399,6MSXP,"Idyella pallidula Sars G.O., 1905",species
+1400,3PJSV,Impatiens glandulifera Royle,species
+1401,3PK9K,Impatiens parviflora DC.,species
+1402,6MWFS,Ipomoea purpurea (L.) Roth,species
+1403,3Q3HY,Isatis tinctoria L.,species
+1405,3QK5Q,"Jaera (Jaera) sarsi Valkanov, 1936",species
+1406,6NFN8,Juglans regia L.,species
+1407,6NGWJ,Juncus tenuis Willd.,species
+1408,6NJLF,"Katamysis warpachowskyi G.O. Sars, 1893",species
+1409,6NM4S,"Knipowitschia caucasica (Berg, 1916)",species
+1413,3RTCK,Lactuca serriola L.,species
+1414,3RX8X,"Lagocephalus sceleratus (Gmelin, 1789)",species
+1415,6NVQM,Lallemantia canescens (L.) Fisch. & C.A.Mey.,species
+1416,6NW2M,Lallemantia iberica (M.Bieb.) Fisch. & C.A.Mey.,species
+1417,3S28Q,Lamium album L.,species
+1418,6NW79,Lamium amplexicaule L.,species
+1419,3S2DF,Lamium purpureum L.,species
+1420,3S6CY,"Lanceogammarus andrussowi (G.O. Sars, 1896)",species
+1421,6NWB8,Lappula patula (Lehm.) Gürke,species
+1422,3S9VG,Lappula squarrosa (Retz.) Dumort.,species
+1423,3SHXM,"Lateolabrax japonicus (Cuvier, 1828)",species
+1424,3SL24,Lathyrus sativus L.,species
+1425,3SL39,Lathyrus tuberosus L.,species
+1426,6P8L5,Leonurus cardiaca L.,species
+1427,6P99B,Lepidium campestre (L.) W.T.Aiton,species
+1428,6P8ZX,Lepidium densiflorum Schrad.,species
+1429,6PBJ2,Lepidium perfoliatum L.,species
+1430,6PBC8,Lepidium ruderale L.,species
+1432,3TG2F,"Lepomis gibbosus (Linnaeus, 1758)",species
+1433,3TNWV,"Leptodora kindti (Focke, 1844)",species
+1434,6Q8TX,"Ligophorus kaohsianghsieni (Gusev, 1962) Gusev, 1985",species
+1435,7295X,"Ligophorus llewellyni Dmitrieva, Gerasev & Pron'kina, 2007",species
+1436,7297W,"Ligophorus pilengas Sarabeev & Balbuena, 2004",species
+1440,6QBDG,"Limax maximus Linnaeus, 1758",species
+1441,72BLS,"Limnocletodes behningi Borutzky, 1926",species
+1443,6QDJL,"Limnomysis benedeni Czerniavsky, 1882",species
+1444,6QDYY,Limonium bungei (Claus) Gamajun.,species
+1445,3V528,Linum usitatissimum L.,species
+1447,3VKPP,"Lithoglyphus naticoides (C. Pfeiffer, 1828)",species
+1448,3VKQK,"Lithognathus mormyrus (Linnaeus, 1758)",species
+1450,3VVXG,Lolium multiflorum Lam.,species
+1451,3VVXR,Lolium remotum Schrank,species
+1452,3VZ56,Lonicera caprifolium L.,species
+1453,3VZH4,Lonicera tatarica L.,species
+1454,732CQ,"Lulwoana uniseptata (Nakagiri) Kohlm., Volkm.-Kohlm., J. Campb., Spatafora & Gräfenhan",species
+1455,6R28C,Lunaria annua L.,species
+1456,3WFL5,Lupinus polyphyllus Lindl.,species
+1457,3WKGV,Lycium barbarum L.,species
+1458,3WLP6,Lycopersicon esculentum Mill.,species
+1459,3WN34,Lycopsis arvensis L.,species
+1461,3WS6G,"Lymnaea stagnalis (Linnaeus, 1758)",species
+1462,9GQCK,"Macrobrachium nipponense (De Haan, 1849)",species
+1463,9GQF3,"Macrobrachium rosenbergii (De Man, 1879)",species
+1464,3XGSM,"Magelona mirabilis (Johnston, 1865)",species
+1468,3XR9F,Malva neglecta Wallr.,species
+1469,3XRBH,Malva pusilla Sm.,species
+1470,3XRCL,Malva sylvestris L.,species
+1471,3XSX5,"Manayunkia caspica Annenkova, 1929",species
+1472,84PZG,"Marenzelleria Mesnil, 1896",genus
+1473,3Y8KQ,Marrubium vulgare L.,species
+1474,9XP5V,"Marsupenaeus japonicus (Spence Bate, 1888)",species
+1477,3YNPB,Medicago sativa L.,species
+1478,3Z8P3,"Melanoides tuberculata (O. F. Müller, 1774)",species
+1479,3ZJGV,Melissa officinalis L.,species
+1480,72ZVX,Mentha × gentilis L.,species
+1481,3ZS7B,Mentha pulegium L.,species
+1482,72ZHW,Mentha spicata L.,species
+1483,3ZSFC,"Mentissa gracilicosta (Rossmässler, 1836)",species
+1484,7ZFMY,"Mesocyclops (Mesocyclops) leuckarti (Claus, 1857)",species
+1486,42Z4T,"Micromesistius poutassou (Risso, 1827)",species
+1487,4353G,"Micropterus salmoides (Lacepède, 1802)",species
+1488,43D37,"Millerigobius macrocephalus (Kolombatovic, 1891)",species
+1489,43LGW,Mirabilis jalapa L.,species
+1490,6RMT2,"Mnemiopsis leidyi A. Agassiz, 1865",species
+1491,43ZGN,"Monacha cartusiana (O. F. Müller, 1774)",species
+1493,6S3CN,"Morone saxatilis (Walbaum, 1792)",species
+1494,44FPX,Morus alba L.,species
+1496,44NK3,"Mus (Mus) musculus Linnaeus, 1758",species
+1497,44RHY,"Mya arenaria Linnaeus, 1758",species
+1498,743PJ,"Mylopharyngodon piceus (Richardson, 1846)",species
+1499,6RRQT,"Myocastor coypus (Molina, 1782)",species
+1500,455T6,Myosotis arvensis (L.) Hill,species
+1501,6S4TM,"Mytilopsis leucophaeata (Conrad, 1831)",species
+1502,73T5L,"Mytilus edulis Linnaeus, 1758",species
+1503,45GSC,"Mytilus trossulus A. A. Gould, 1850",species
+1504,6RSNC,Narcissus poeticus L.,species
+1506,46WF6,"Neovison vison (Schreber, 1777)",species
+1507,46XJB,Nepeta cataria L.,species
+1508,472YS,"Nephtys ciliata (Müller, 1788)",species
+1509,47429,"Neptunea arthritica (Valenciennes, 1858)",species
+1510,477FM,Neslia paniculata (L.) Desv.,species
+1511,749S3,Nicandra physalodes (L.) Gaertn.,species
+1512,6RXV5,Nigella arvensis L.,species
+1514,QXTK4,Nitzschia sigmoidea (Nitzsch) W. Sm.,species
+1515,47PF6,Nonea lutea (Desr.) DC.,species
+1516,4859P,"Nyctereutes procyonoides (Gray, 1834)",species
+1517,74DSL,"Obesogammarus crassus (G.O. Sars, 1894)",species
+1518,74DTZ,"Obesogammarus obesus (G.O. Sars, 1894)",species
+1519,QX6YH,"Octactis octonaria (Ehrenberg) Hovasse, 1946",species
+1520,48XQP,Oenothera biennis L.,species
+1522,48XX5,Oenothera × hoelscheri Renner ex Rostański,species
+1523,48XXZ,Oenothera laciniata Hill,species
+1524,48Y36,Oenothera odorata Jacq.,species
+1525,48Y6K,Oenothera × rubricaulis Kleb.,species
+1526,74JBC,Oenothera villosa Thunb.,species
+1527,88STR,"Oithona brevicornis Giesbrecht, 1891",species
+1528,4924M,"Oithona davisae Ferrari F.D. & Orsi, 1984",species
+1529,4925M,"Oithona plumifera Baird, 1843",species
+1530,7W554,"Oithona setigera Dana, 1853-1855",species
+1532,49FVM,"Onchocleidus similis Mueller, 1936",species
+1533,74N5S,"Oncorhynchus gorbuscha (Walbaum, 1792)",species
+1534,49JFF,"Oncorhynchus mykiss (Walbaum, 1792)",species
+1535,49JSC,"Ondatra zibethicus (Linnaeus, 1766)",species
+1536,49L68,Onobrychis viciifolia Scop.,species
+1537,49LG8,Onopordum acanthium L.,species
+1538,49R32,"Onychocamptus mohammed (Blanchard & Richard, 1891)",species
+1539,74T3H,"Oreochromis aureus (Steindachner, 1864)",species
+1540,6T53D,"Oreochromis mossambicus (Peters, 1852)",species
+1541,6SSRC,"Oreochromis niloticus (Linnaeus, 1758)",species
+1542,758K8,Ornithogalum umbellatum L.,species
+1543,74ZBP,"Oryctolagus cuniculus (Linnaeus, 1758)",species
+1544,4B9VF,"Ovis aries Linnaeus, 1758",species
+1546,6TFZS,"Oxychilus draparnaudi (H. Beck, 1837)",species
+1547,5K46Q,"Oxychilus koutaisanus mingrelicus (Mousson, 1863)",subspecies
+1548,7PBG5,"Oxychilus Fitzinger, 1833",genus
+1549,RBSPG,Oxytoxum gladiolus,species
+1550,4BQZL,"Pachycordyle navis (Millard, 1959)",species
+1552,9CZ4F,"Pandalus kessleri Czerniavsky, 1878",species
+1555,4CD8S,Panicum capillare L.,species
+1556,4CDHS,Panicum dichotomiflorum Michx.,species
+1557,4CJ8B,Papaver argemone L.,species
+1558,6TM7X,Papaver dubium L.,species
+1559,6TM6N,Papaver rhoeas L.,species
+1560,4CJK3,Papaver somniferum L.,species
+1561,4CMHV,"Parablennius incognitus (Bath, 1968)",species
+1562,75PZ5,"Paraleptastacus spinicauda (Scott T. & Scott A., 1895)",species
+1563,4D3Y2,"Paramphiascella vararensis (Scott T., 1903)",species
+1564,4D4BC,"Paramysis (Paramysis) baeri Czerniavsky, 1882",species
+1565,CVK65,"Paramysis (Mesomysis) intermedia (Czerniavsky, 1882)",species
+1566,4D4BQ,"Paramysis (Serrapalpisis) lacustris (Czerniavsky, 1882)",species
+1567,84Z4N,"Parmacella ibera Eichwald, 1841",species
+1569,4DTTQ,Parthenocissus quinquefolia (L.) Planch.,species
+1571,6TVNM,"Pectinatella magnifica (Leidy, 1851)",species
+1572,75Y75,Peganum harmala L.,species
+1573,6V3SC,"Perccottus glenii Dybowski, 1877",species
+1574,4F6V8,"Perna viridis (Linnaeus, 1758)",species
+1575,4F9VK,Persicaria orientalis (L.) Spach,species
+1576,776HP,Petrorhagia saxifraga (L.) Link,species
+1577,4FJZW,Phacelia tanacetifolia Benth.,species
+1578,RRXW7,Phaeocystis pouchetii (Hariot) Lagerheim,species
+1581,777GZ,Phalaris canariensis L.,species
+1582,4FXQ2,Phedimus spurius (M.Bieb.) 't Hart,species
+1584,7SP3K,"Phenacolimax (Gallandia) annularis (S. Studer, 1820)",species
+1585,6VC83,Phlox paniculata L.,species
+1586,4GJB8,Phlox subulata L.,species
+1587,4H9WF,"Phyllopodopsyllus bradyi (Scott T., 1892)",species
+1589,4HGZ8,"Physella acuta (Draparnaud, 1805)",species
+1590,S2VLB,"Physella heterostropha (Say, 1817)",species
+1591,7SPYZ,"Physella integra (Haldeman, 1841)",species
+1592,6VHZC,Physocarpus opulifolius (L.) Maxim.,species
+1593,4HM9F,Phytolacca americana L.,species
+1594,4HPZF,Picea abies (L.) H.Karst.,species
+1595,RM7G9,"Pinnularia trevelyana (Donkin) Rabenh., 1864",species
+1596,4J2D5,Pinus nigra J.F.Arnold,species
+1597,C85FM,Pinus pallasiana D.Don,species
+1598,4J2J5,Pinus sylvestris L.,species
+1600,4KQWS,"Podonevadne trigona (Sars, 1897)",species
+1601,4L63D,"Polydora cornuta Bosc, 1802",species
+1602,4L9VH,Polygonum ramosissimum Michx.,species
+1603,4LQX7,"Pomatoschistus bathi Miller, 1982",species
+1604,77W32,"Pontogammarus maeoticus (Sovinskij, 1894)",species
+1605,78832,"Pontogammarus robustoides (Sars, 1894)",species
+1606,4LVJS,Populus balsamifera L.,species
+1607,4LVKV,Populus deltoides W.Bartram ex Marshall,species
+1608,RZCRL,"Poropila Schiller, 1925",genus
+1609,4M2DF,Portulaca oleracea L.,species
+1610,S3TKT,"Potamopyrgus antipodarum (J. E. Gray, 1843)",species
+1613,4ML67,"Proameira simplex (Norman & Scott T., 1905)",species
+1614,7WLST,"Procambarus fallax (Hagen, 1870)",species
+1615,RVKDP,"Pronoctiluca pelagica Fabre-Domergue, 1889",species
+1616,RWNKZ,"Prorocentrum cordatum (Ostenfeld) Dodge, 1975",species
+1617,RWNM6,"Prorocentrum dentatum Stein, 1883",species
+1618,RWNWS,"Prorocentrum minimum (Pavillard) Schiller, 1933",species
+1621,4N8QW,Prunus cerasifera Ehrh.,species
+1622,4N8SY,Prunus domestica L.,species
+1624,77ZRD,Prunus pensylvanica L.fil.,species
+1627,6WF43,"Pseudocuma (Stenocuma) cercarioides Sars, 1894",species
+1628,S6DVD,"Pseudo-nitzschia calliantha Lundholm, Moestrup & Hasle, 2003",species
+1630,6WGQH,"Pseudopotamilla reniformis (Bruguière, 1789)",species
+1631,4P9F3,"Pseudorasbora parva (Temminck & Schlegel, 1846)",species
+1633,4PSYD,Ptelea trifoliata L.,species
+1634,6WKKH,"Pterocuma pectinatum (Sowinsky, 1893)",species
+1635,78KKH,"Pterocuma rostratum (Sars, 1894)",species
+1636,SKMYS,"Pterosperma cristatum Schiller, 1925",species
+1637,74V8,"Pterosperma Pouchet, 1893",genus
+1638,4QBX9,Puccinellia nuttalliana (Schult.) Hitchc.,species
+1639,4QHWS,"Pungitius platygaster (Kessler, 1859)",species
+1640,S8DBL,Pyramimonas longicauda L. Van Meel,species
+1642,4QWMZ,Pyrus communis L.,species
+1643,4R5QY,Quercus palustris Münchh.,species
+1644,4R5Z8,Quercus rubra L.,species
+1645,4RJGP,"Rapana venosa (Valenciennes, 1846)",species
+1646,4RJXQ,Raphanus raphanistrum L.,species
+1647,4RJXT,Raphanus sativus L.,species
+1648,4RKX9,Rapistrum perenne (L.) All.,species
+1649,4RM67,"Rattus norvegicus (Berkenhout, 1769)",species
+1650,4RM6W,"Rattus rattus (Linnaeus, 1758)",species
+1651,794P6,Reseda lutea L.,species
+1652,793ZB,Reynoutria japonica Houtt.,species
+1653,6WRZD,Reynoutria sachalinensis (F.Schmidt) Nakai,species
+1654,4S78N,Rhinanthus apterus (Fr.) Ostenf.,species
+1655,4SBRY,"Rhithropanopeus harrisii (Gould, 1841)",species
+1656,4SND6,Rhus typhina L.,species
+1658,7996C,"Robertgurneya ecaudata (Monard, 1936)",species
+1659,4T7PN,"Robertgurneya rostrata (Gurney, 1927)",species
+1660,4T7XZ,Robinia hispida L.,species
+1661,4T7YV,Robinia pseudoacacia L.,species
+1662,L2LQD,Robinia viscosa Michx. ex Vent.,species
+1663,4TDX9,Rosa rugosa Thunb.,species
+1664,4TMB7,Rudbeckia hirta L.,species
+1665,799R2,Rudbeckia laciniata L.,species
+1666,4TPYM,Rumex triangulivalvis (Danser) Rech.fil.,species
+1667,4TTH5,"Rutilus frisii (von Nordmann, 1840)",species
+1668,6WZX5,"Saduria entomon (Linnaeus, 1758)",species
+1669,4TYQL,Sagittaria latifolia Willd.,species
+1670,79C4X,Salix fragilis L.,species
+1673,SM8YG,"Salpingella Jörgensen, 1924",genus
+1674,6XH6L,Salvia reflexa Hornem.,species
+1675,6XGTK,Salvia sclarea L.,species
+1676,6XL6Y,Saponaria officinalis L.,species
+1677,79MLF,"Sardinella aurita Valenciennes, 1847",species
+1678,79PJZ,"Sarpa salpa (Linnaeus, 1758)",species
+1679,6Y2ZQ,Savoryella lignicola E.B.G. Jones & R.A. Eaton,species
+1680,7YYHN,"Schizopera (Schizopera) borutzkyi Monchenko, 1967",species
+1681,4VNGF,Scleranthus annuus L.,species
+1682,6XXTX,Sclerochloa dura (L.) P.Beauv.,species
+1683,V6VBQ,"Scrippsiella trochoidea (Stein) Balech ex Loeblich III, 1965",species
+1684,4W83N,Secale cereale L.,species
+1685,4W8VP,Sedum album L.,species
+1686,6YGMR,Senecio viscosus L.,species
+1687,4WNRF,Senecio vulgaris L.,species
+1690,6YMB6,Setaria verticillata (L.) P.Beauv.,species
+1691,4X2NF,Setaria viridis (L.) P.Beauv.,species
+1692,4X3VF,"Shablogammarus subnudus (G.O. Sars, 1896)",species
+1693,4X7H6,Sicyos angulatus L.,species
+1694,6YMRT,"Sigambra tentaculata (Treadwell, 1941)",species
+1695,6YQLT,Silphium perfoliatum L.,species
+1696,4XJB8,"Sinanodonta woodiana (I. Lea, 1834)",species
+1697,4XJCN,Sinapis alba L.,species
+1698,4XJCV,Sinapis arvensis L.,species
+1699,4XRSY,Sisymbrium altissimum L.,species
+1700,4XS2D,Sisymbrium loeselii L.,species
+1701,4XS49,Sisymbrium officinale (L.) Scop.,species
+1703,6YSP7,Sisyrinchium septentrionale E.P.Bicknell,species
+1704,T2H9Y,Skeletonema subsalsum (A. Cleve) Bethge,species
+1705,4XZVH,Solanum carolinense L.,species
+1707,4Y3H2,Solanum nigrum L.,species
+1708,4Y4K6,Solanum tuberosum L.,species
+1709,4Y76S,Solidago canadensis L.,species
+1711,4Y969,Sonchus arvensis L.,species
+1712,4Y96B,Sonchus asper (L.) Hill,species
+1713,4Y9CR,Sonchus oleraceus L.,species
+1714,4YB6Z,Sorbaria sorbifolia (L.) A.Braun,species
+1715,4YF8Y,"Sparus aurata Linnaeus, 1758",species
+1716,SVXSK,"Spatulodinium pseudonoctiluca (Pouchet) Cachon & Cachon ex Loeblich & Loeblich, 1969",species
+1717,6YX5D,Spergula arvensis L.,species
+1718,6YWBR,"Sphaerium corneum (Linnaeus, 1758)",species
+1719,4YPLY,"Sphaerium rivicola (Lamarck, 1818)",species
+1720,4Z2MS,"Sphyraena obtusata Cuvier, 1829",species
+1721,4Z6H5,Spiraea douglasii Hook.,species
+1722,VJSZZ,Spiraea media Schmidt,species
+1723,4ZFBH,Stachys annua (L.) L.,species
+1724,7Q2TG,"Stenogammarus Martynov, 1924",genus
+1725,7PHGB,"Stenomphalia Lindholm, 1927",genus
+1726,84TWN,"Streblospio Webster, 1879",genus
+1727,53Q87,Symphyotrichum lanceolatum (Willd.) G.L.Nesom,species
+1728,53Q8K,Symphyotrichum novae-angliae (L.) G.L.Nesom,species
+1729,53Q8K,Symphyotrichum novae-angliae (L.) G.L.Nesom,species
+1730,53Q8L,Symphyotrichum novi-belgii (L.) G.L.Nesom,species
+1731,53Q8L,Symphyotrichum novi-belgii (L.) G.L.Nesom,species
+1732,7B6K2,Symphyotrichum × salignum (Willd.) G.L.Nesom,species
+1733,53WJY,"Syngnathus abaster Risso, 1827",species
+1734,53WJY,"Syngnathus abaster Risso, 1827",species
+1735,53WK2,"Syngnathus acus Linnaeus, 1758",species
+1736,53ZXP,"Synurella ambulans (F. Müller, 1846)",species
+1737,TL9D5,"Syracolithus dalmaticus (Kamptner) Loeblich & Tappan, 1963",species
+1738,542H2,Syringa vulgaris L.,species
+1739,54P24,"Tandonia kusceri (H. Wagner, 1931)",species
+1740,55F29,"Teredo navalis Linnaeus, 1758",species
+1741,T8WJW,"Thalassiosira nordenskioeldii Cleve, 1873",species
+1742,7TCJK,"Theodoxus danasteri (Lindholm, 1908)",species
+1743,885QR,"Theodoxus (Theodoxus) euxinus (Clessin, 1885)",species
+1744,56C5W,"Theodoxus fluviatilis (Linnaeus, 1758)",species
+1746,56HWX,Thladiantha dubia Bunge,species
+1747,899BZ,Thlaspi alliaceum L.,species
+1750,7BYV5,"Tiaropsis multicirrata (M. Sars, 1835)",species
+1752,573WC,"Tintinnopsis directa Hada, 1932",species
+1753,57FNY,Torilis arvensis (Huds.) Link,species
+1754,57LHS,Toxicodendron radicans (L.) Kuntze,species
+1755,TFJQR,Toxonidea insignis,species
+1756,7CLWT,Tradescantia virginiana L.,species
+1757,57WT4,Tragus racemosus (L.) All.,species
+1758,586BR,"Tribolodon brandtii (Dybowski, 1872)",species
+1759,586J2,Tribulus terrestris L.,species
+1760,58N22,"Triconia minuta (Giesbrecht, 1893)",species
+1761,7CSB6,"Tridentiger trigonocephalus (Gill, 1859)",species
+1762,58PVM,Trifolium hybridum L.,species
+1763,58PVS,Trifolium incarnatum L.,species
+1765,58R59,Trigonella caerulea (L.) Ser.,species
+1766,58YGZ,Tripleurospermum inodorum (L.) Sch.-Bip,species
+1767,CWVKM,Tripolium pannonicum subsp. pannonicum,subspecies
+1768,5944Q,Triticum aestivum L.,species
+1769,7CXK2,"Tubificoides benedii (d'Udekem, 1855)",species
+1770,59PHF,"Turcogammarus aralensis (Uljanin, 1875)",species
+1771,7DFP7,Ulmus pumila L.,species
+1773,7DRXB,"Urnatella gracilis Leidy, 1851",species
+1774,7F3LX,Urtica urens L.,species
+1775,7F85Y,Vaccaria hispanica (Mill.) Rauschert,species
+1776,7FBYH,Valerianella dentata (L.) Pollich,species
+1777,7FBNK,Valerianella locusta (L.) Laterr.,species
+1778,7FBPN,Valerianella rimosa Bastard,species
+1779,5B2TY,Verbena officinalis L.,species
+1780,5B6FX,Veronica arvensis L.,species
+1781,5B773,Veronica peregrina L.,species
+1782,5B777,Veronica persica Poir.,species
+1783,5B786,Veronica polita Fr.,species
+1784,9Y85S,Vesicularia marina I. Schmidt,species
+1786,5BCQ7,Vicia hirsuta (L.) Gray,species
+1787,5BCYC,Vicia tetrasperma (L.) Schreb.,species
+1788,5BCZ6,Vicia villosa Roth,species
+1789,5BGDQ,Viola arvensis Murray,species
+1790,7G588,"Viviparus viviparus (Linnaeus, 1758)",species
+1791,TX7K9,Warnowia schuettii (Kof. & Swezy) J.Schiller,species
+1792,5C4XD,Xanthium albinum (Widder) H.Scholz & Sukopp,species
+1793,TYLTN,Xanthium pennsylvanicum Gand.,species
+1794,5C4YT,Xanthium spinosum L.,species
+1795,7G6SB,Xanthium strumarium L.,species
+1800,5CDCC,"Xeropicta derbentina (Krynicki, 1836)",species
+1801,5CDCD,"Xeropicta krynickii (Krynicki, 1833)",species
+1802,5CXX5,Zea mays L.,species
+1803,7GD2B,"Zebrus zebrus (Risso, 1827)",species
+1804,5D7RS,Zopfiella latipes (N. Lundq.) Malloch & Cain,species

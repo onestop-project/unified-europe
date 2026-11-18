@@ -124,7 +124,7 @@ The directory is `data/interim/{country}` where `{country}` is the name of the c
 purrr::walk(
   checklists,
   ~ save_taxa_and_distributions(
-    datasetKey = purrr::pluck(.x, "uuid"),
+    datasetKey = purrr::pluck(.x, "clb"),
     directory = here::here("data", "interim", purrr::pluck(.x, "country"))
   )
 )

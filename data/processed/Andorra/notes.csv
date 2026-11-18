@@ -1,7 +1,22 @@
-taxonID,taxonKey,scientificName,action,acceptedKey,acceptedName
-20012,148674352,"Trachyopella straminea Rohacek & Marshall, 1985",scientificName_replaced_by_backbone_name,1589999,"Trachyopella straminea Roháček & Marshall, 1985"
-20009,148674355,"Monochamus sutor (LinnÃ©, 1758)",scientificName_replaced_by_backbone_name,8411684,"Monochamus sutor (Linnaeus, 1758)"
-20006,148674358,"Euophryum confine (Broun, 1880)",merged_with_accepted,1179369,"Pentarthrum confine Broun, 1881"
-20001,148674362,"Bruchus pisorum (Linnaeus, 1758)",scientificName_replaced_by_backbone_name,5752155,"Bruchus pisorum Linnaeus, 1758"
-20010,148674371,Pseudoperonospora humuli (Miyabe & Takah.) G.W.Wilson,merged_with_accepted,3204007,Pseudoperonospora cubensis (Berk. & M.A.Curtis) Rostovzev
-20007,148674386,Impatiens balfourii Hook.f.,scientificName_replaced_by_backbone_name,2891783,Impatiens balfourii Hook.fil.
+taxonID,usage_id,scientificName,action,acceptedKey,acceptedName
+1002,M8RTV,"Bruchus pisorum (Linnaeus, 1758)",scientificName_replaced_by_backbone_name,M8RTV,"Bruchus pisorum Linnaeus, 1758"
+1004,NN2L,Buddleja davidii,scientificName_replaced_by_backbone_name,NN2L,Buddleja davidii Franch.
+1006,5XCVW,Castanea sativa,scientificName_replaced_by_backbone_name,5XCVW,Castanea sativa Mill.
+1007,VJT32,Sarothamnus scoparius,no_matching_distribution,VJT32,Sarothamnus scoparius (L.) Wimm. ex W.D.J.Koch
+1008,39YX8,"Entoleuca mammata (Wahlenb.) J.D.Rogers & Y.M.Ju, 1996",scientificName_replaced_by_backbone_name,39YX8,Entoleuca mammata (Wahlenb.) J.D. Rogers & Y.M. Ju
+1009,5H5JC,Eragrostis mexicana subsp. virescens,no_matching_distribution,5H5JC,Eragrostis mexicana subsp. virescens (J.Presl) S.D.Koch & Sánchez Vega
+1010,6HVJJ,Ficus carica,scientificName_replaced_by_backbone_name,6HVJJ,Ficus carica L.
+1011,3PJFZ,Impatiens balfourii,scientificName_replaced_by_backbone_name,3PJFZ,Impatiens balfourii Hook.fil.
+1013,6PGH9,Leptoglossus occidentalis,scientificName_replaced_by_backbone_name,6PGH9,"Leptoglossus occidentalis Heidemann, 1910"
+1015,49L68,Onobrychis viciifolia,scientificName_replaced_by_backbone_name,49L68,Onobrychis viciifolia Scop.
+1016,NQGGB,"Euophryum confine (Broun, 1880)",no_matching_distribution,NQGGB,"Euophryum confine (Broun, 1881)"
+1017,6V8D2,Petroselinum crispum,scientificName_replaced_by_backbone_name,6V8D2,Petroselinum crispum (Mill.) Fuss
+1018,4FRDZ,Phalaris arundinacea,scientificName_replaced_by_backbone_name,4FRDZ,Phalaris arundinacea L.
+1019,4FWMN,Phasianus colchicus,scientificName_replaced_by_backbone_name,4FWMN,"Phasianus colchicus Linnaeus, 1758"
+1020,4J27Y,Pinus halepensis,scientificName_replaced_by_backbone_name,4J27Y,Pinus halepensis Mill.
+1021,4P6HS,Pseudoperonospora humuli,no_matching_distribution,4P6HS,Pseudoperonospora humuli (Miyabe & Takah.) G.W. Wilson
+1022,6YGST,Senecio inaequidens,scientificName_replaced_by_backbone_name,6YGST,Senecio inaequidens DC.
+1023,7FJL,Senecio jacobaea,scientificName_replaced_by_backbone_name,7FJL,Senecio L.
+1024,4Y369,Solanum lycopersicum,scientificName_replaced_by_backbone_name,4Y369,Solanum lycopersicum L.
+1025,8FGWY,"Trachyopella straminea Rohacek & Marshall, 1985",scientificName_replaced_by_backbone_name,8FGWY,"Trachyopella (Trachyopella) straminea Roháček & Marshall, 1985"
+1026,5CCZ9,Xerolenta obvia,scientificName_replaced_by_backbone_name,5CCZ9,"Xerolenta obvia (Menke, 1828)"

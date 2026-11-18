@@ -1,128 +1,154 @@
-taxonID,taxonKey,scientificName,action,acceptedKey,acceptedName
-38533,148733238,"Phoronis psammophila Cori, 1889",filtered_on_establishmentMeans,5186405,"Phoronis psammophila Cori, 1889"
-38534,148733239,"Phoronopsis harmeri Pixell, 1912",filtered_on_establishmentMeans,2269650,"Phoronopsis harmeri Pixell, 1912"
-38526,148733245,Petalonia binghamiae,scientificName_replaced_by_backbone_name,3197869,Petalonia binghamiae (J.Agardh) K.L.Vinogr.
-38527,148733247,Petalonia binghamiae,scientificName_replaced_by_backbone_name,3197869,Petalonia binghamiae (J.Agardh) K.L.Vinogr.
-38528,148733248,Petalonia binghamiae,scientificName_replaced_by_backbone_name,3197869,Petalonia binghamiae (J.Agardh) K.L.Vinogr.
-38530,148733250,Petalonia binghamiae,scientificName_replaced_by_backbone_name,3197869,Petalonia binghamiae (J.Agardh) K.L.Vinogr.
-38529,148733251,Petalonia binghamiae,scientificName_replaced_by_backbone_name,3197869,Petalonia binghamiae (J.Agardh) K.L.Vinogr.
-38531,148733252,Petalonia binghamiae,scientificName_replaced_by_backbone_name,3197869,Petalonia binghamiae (J.Agardh) K.L.Vinogr.
-38617,148733253,Venerupis decussata,merged_with_accepted,4372687,"Ruditapes decussatus (Linnaeus, 1758)"
-38618,148733255,Venerupis decussata,merged_with_accepted,4372687,"Ruditapes decussatus (Linnaeus, 1758)"
-38539,148733263,"Pisidium casertanum (Poli, 1791)",merged_with_accepted,7664805,"Euglesa casertana (Poli, 1791)"
-38395,148733264,Cladophoropsis membranacea (Bang ex C.Agardh) BÃ¸rgesen,not_matched_with_backbone,,
-38538,148733270,"Pinctada imbricata RÃ¶ding, 1798",not_matched_with_backbone,,
-38408,148733279,Codium fragile subsp. tomentosoides (Goor) P.C.Silva,merged_with_accepted,7230558,Codium fragile subsp. fragile
-38407,148733282,Codium fragile subsp. tomentosoides (Goor) P.C.Silva,merged_with_accepted,7230558,Codium fragile subsp. fragile
-38466,148733285,"Hiatella arctica (Linnaeus, 1767)",filtered_on_establishmentMeans,5189537,"Hiatella arctica (Linnaeus, 1767)"
-38409,148733289,"Codium vermilara (Olivis) Chiaje, 1829",scientificName_replaced_by_backbone_name,5272160,"Codium vermilara (Olivi) Delle Chiaje, 1829"
-38410,148733291,"Codium vermilara (Olivis) Chiaje, 1829",scientificName_replaced_by_backbone_name,5272160,"Codium vermilara (Olivi) Delle Chiaje, 1829"
-38473,148733306,Hypnea flagelliformis J.Agardh,not_matched_with_backbone,,
-38551,148733326,"Pollia dorbignyi (Payraudeau, 1826)",merged_with_accepted,9025372,"Aplus dorbignyi (Payraudeau, 1826)"
-38550,148733328,"Pollia dorbignyi (Payraudeau, 1826)",merged_with_accepted,9025372,"Aplus dorbignyi (Payraudeau, 1826)"
-38549,148733330,"Pollia dorbignyi (Payraudeau, 1826)",merged_with_accepted,9025372,"Aplus dorbignyi (Payraudeau, 1826)"
-38548,148733332,"Pollia dorbignyi (Payraudeau, 1826)",merged_with_accepted,9025372,"Aplus dorbignyi (Payraudeau, 1826)"
-38547,148733333,"Pollia dorbignyi (Payraudeau, 1826)",merged_with_accepted,9025372,"Aplus dorbignyi (Payraudeau, 1826)"
-38597,148733336,"Symphyocladia marchantioides (Harvey) Falkenberg, 1897",scientificName_replaced_by_backbone_name,2661325,Symphyocladia marchantioides (Harv.) Falkenb.
-38596,148733338,"Symphyocladia marchantioides (Harvey) Falkenberg, 1897",scientificName_replaced_by_backbone_name,2661325,Symphyocladia marchantioides (Harv.) Falkenb.
-38483,148733340,Laurencia obtusa (Huds.) J.V.Lamour.,merged_with_accepted,2661140,Laurencia dendroidea J.Agardh
-38482,148733341,Laurencia majuscula (Harv.) A.H.S.Lucas,merged_with_accepted,2661140,Laurencia dendroidea J.Agardh
-38556,148733342,"Pterosiphonia pinnulata (KÃ¼tz.) Maggs & Hommersand, 1993",scientificName_replaced_by_backbone_name,2660290,"Pterosiphonia pinnulata (Kützing) Maggs & Hommersand, 1993"
-38504,148733345,Neosiphonia sphaerocarpa (BÃ¸rgesen) M.S.Kim & I.K.Lee,merged_with_accepted,10433923,"Melanothamnus sphaerocarpus (Børgesen) Díaz-Tapia & Maggs, 2017"
-38503,148733347,"Neosiphonia harveyi (J.W.Bailey) M.-S.Kim, H.-G.Choi, Guiry & G.W.Saunders",merged_with_accepted,9738520,Melanothamnus harveyi (Bailey) Diaz-Tapia & Maggs
-38481,148733348,Laurencia chondrioides BÃ¸rgesen,not_matched_with_backbone,,
-38480,148733349,"Laurencia brongniartii J.Agardh, 1841",scientificName_replaced_by_backbone_name,2661081,Laurencia brongniartii J.Agardh
-38560,148733350,"Radix peregra (O.F.Müller, 1774)",merged_with_accepted,9842003,"Peregriana peregra (O.F.Müller, 1774)"
-38590,148733352,Spongoclonium caribaeum (BÃ¸rgesen) M.J.Wynne,scientificName_replaced_by_backbone_name,6452772,Spongoclonium caribaeum (Børgesen) M.J.Wynne
-38452,148733353,Gymnophycus hapsiphorus,not_matched_with_backbone,,
-38559,148733355,"Radix balthica (Linnaeus, 1758)",merged_with_accepted,9991201,"Ampullaceana balthica (Linnaeus, 1758)"
-38314,148733357,Aglaothamnion cordatum (BÃ¸rgesen) Feldm.-Maz.,scientificName_replaced_by_backbone_name,2656879,Aglaothamnion cordatum (Børgesen) Feldm.-Maz.
-38445,148733359,"Galba truncatula (O.F.MÃ¼ller, 1774)",scientificName_replaced_by_backbone_name,2291336,"Galba truncatula (O.F.Müller, 1774)"
-38573,148733361,Scageliopsis patens,not_matched_with_backbone,,
-38574,148733363,Scageliopsis patens,not_matched_with_backbone,,
-38575,148733364,Scageliopsis patens,not_matched_with_backbone,,
-38443,148733365,"Ferrissia fragilis (Tryon, 1863)",merged_with_accepted,9520065,"Ferrissia californica (Rowell, 1863)"
-38391,148733366,"Ceramium cingulatum Weber-van Bosse, 1923",scientificName_replaced_by_backbone_name,5276982,"Ceramium cingulatum Weber Bosse, 1923"
-38341,148733370,Antithamnionella ternifolia (J.D.Hooker & Harvey) Lyle,scientificName_replaced_by_backbone_name,2657641,Antithamnionella ternifolia (Hook.f. & Harv.) Lyle
-38333,148733372,Antithamnion pectinatum (Montagne) J.Brauner,scientificName_replaced_by_backbone_name,2657493,Antithamnion pectinatum (Mont.) Brauner
-38332,148733374,Antithamnion pectinatum (Montagne) J.Brauner,scientificName_replaced_by_backbone_name,2657493,Antithamnion pectinatum (Mont.) Brauner
-38335,148733377,Antithamnion taxiformis,not_matched_with_backbone,,
-38334,148733378,Antithamnion taxiformis,not_matched_with_backbone,,
-38337,148733380,Antithamnion taxiformis,not_matched_with_backbone,,
-38336,148733382,Antithamnion taxiformis,not_matched_with_backbone,,
-38339,148733384,Antithamnion taxiformis,not_matched_with_backbone,,
-38500,148733385,"Mycale (Carmia) sp. Gray, 1867",not_matched_with_backbone,,
-38338,148733386,Antithamnion taxiformis,not_matched_with_backbone,,
-38329,148733389,Antithamnion armatum (J.Agardh) De Toni,not_matched_with_backbone,,
-38331,148733390,Antithamnion diminuatum,scientificName_replaced_by_backbone_name,2657449,Antithamnion diminuatum Wollaston
-38330,148733391,Antithamnion diminuatum,scientificName_replaced_by_backbone_name,2657449,Antithamnion diminuatum Wollaston
-38309,148733393,"Acrothamnion preissii (Sonder) E.M.Wollaston, 1968",scientificName_replaced_by_backbone_name,2658484,Acrothamnion preissii (Sonder) E.M.Wollaston
-38455,148733399,Hedychium gardnerianum Ker Gawl.,scientificName_replaced_by_backbone_name,2758700,Hedychium gardnerianum Sheph. ex Ker Gawl.
-38457,148733401,Hedychium gardnerianum Ker Gawl.,scientificName_replaced_by_backbone_name,2758700,Hedychium gardnerianum Sheph. ex Ker Gawl.
-38456,148733402,Hedychium gardnerianum Ker Gawl.,scientificName_replaced_by_backbone_name,2758700,Hedychium gardnerianum Sheph. ex Ker Gawl.
-38458,148733403,Hedychium gardnerianum Ker Gawl.,scientificName_replaced_by_backbone_name,2758700,Hedychium gardnerianum Sheph. ex Ker Gawl.
-38459,148733404,Hedychium gardnerianum Ker Gawl.,scientificName_replaced_by_backbone_name,2758700,Hedychium gardnerianum Sheph. ex Ker Gawl.
-38392,148733409,"Cinachyrella alloclada (Uliczka, 1929)",filtered_on_establishmentMeans,2248879,"Cinachyrella alloclada (Uliczka, 1929)"
-38461,148733412,Heteranthera rotundifolia Griseb.,scientificName_replaced_by_backbone_name,2766169,Heteranthera rotundifolia (Kunth) Griseb.
-38433,148733413,Eichhornia crassipes Solms,merged_with_accepted,2765942,Pontederia crassipes Mart.
-38623,148733416,Zantedeschia aethiopica Spreng.,scientificName_replaced_by_backbone_name,2868827,Zantedeschia aethiopica (L.) Spreng.
-38361,148733436,Baldellia ranunculoides Parl.,scientificName_replaced_by_backbone_name,2864546,Baldellia ranunculoides (L.) Parl.
-38569,148733438,"Sabella spallanzanii (Gmelin, 1791)",filtered_on_establishmentMeans,2328603,"Sabella spallanzanii (Gmelin, 1791)"
-38432,148733440,Egeria densa Planch.,merged_with_accepted,5329263,Elodea densa (Planch.) Casp.
-38365,148733441,Blyxa japonica Maxim. ex Asch. & GÃ¼rke,scientificName_replaced_by_backbone_name,2865980,Blyxa japonica (Miq.) Maxim. ex Asch. & Gürke
-38568,148733443,"Sabella spallanzanii (Gmelin, 1791)",filtered_on_establishmentMeans,2328603,"Sabella spallanzanii (Gmelin, 1791)"
-38580,148733454,Spartina versicolor Fabre,merged_with_accepted,9637373,Sporobolus versicolor (E.Fabre) P.M.Peterson & Saarela
-38520,148733459,Pennisetum clandestinum Hochst. ex Chiov.,merged_with_accepted,5828201,Cenchrus clandestinus (Hochst. ex Chiov.) Morrone
-38412,148733461,Craspedacusta sowerbyi Lancaster,not_matched_with_backbone,,
-38591,148733469,Sporobolus africanus (Poir.) A.Robyns & Tournay,scientificName_replaced_by_backbone_name,4152259,Sporobolus africanus (Poir.) Robyns & Tournay
-38521,148733477,Pennisetum villosum,merged_with_accepted,5290192,Cenchrus longisetus M.C.Johnst.
-38621,148733484,"Virididentula dentata (Lamouroux, 1816)",filtered_on_establishmentMeans,7856206,"Virididentula dentata (Lamouroux, 1816)"
-38619,148733486,"Virididentula dentata (Lamouroux, 1816)",filtered_on_establishmentMeans,7856206,"Virididentula dentata (Lamouroux, 1816)"
-38620,148733488,"Virididentula dentata (Lamouroux, 1816)",filtered_on_establishmentMeans,7856206,"Virididentula dentata (Lamouroux, 1816)"
-38379,148733493,"Bugulina simplex (Hincks, 1886)",filtered_on_establishmentMeans,7668385,"Bugulina simplex (Hincks, 1886)"
-38414,148733494,Crocosmia crocosmiiflora (Nicholson) N.E.Br.,scientificName_replaced_by_backbone_name,2747939,Crocosmia ×crocosmiiflora (Lemoine) N.E.Br.
-38380,148733495,"Bugulina stolonifera (Ryland, 1960)",filtered_on_establishmentMeans,8428595,"Bugulina stolonifera (Ryland, 1960)"
-38378,148733497,"Bugula stolonifera Ryland, 1960",merged_with_accepted,8428595,"Bugulina stolonifera (Ryland, 1960)"
-38624,148733505,"Zoobotryon verticillatum (Delle Chiaje, 1822)",merged_with_accepted,7446481,"Amathia verticillata (delle Chiaje, 1822)"
-38417,148733513,Cyathea medullaris (G.Forst.) Sw.,merged_with_accepted,5529626,Sphaeropteris medullaris (G.Forst.) Bernh.
-38416,148733518,Cyathea cooperi (F.Muell.) Domin,merged_with_accepted,5274893,Sphaeropteris cooperi (Hook. ex F.Muell.) R.M.Tryon
-38555,148733524,"Pseudaletia unipuncta Haworth, 1809",merged_with_accepted,5772169,"Mythimna unipuncta (Haworth, 1809)"
-38419,148733532,Cyrtomium falcatum C.Presl,scientificName_replaced_by_backbone_name,2650829,Cyrtomium falcatum (L.fil.) C.Presl
-38364,148733537,Blechnum rupestre (Kaulf. ex Link) Christenh.,merged_with_accepted,7296839,Doodia caudata (Cav.) R.Br.
-38598,148733543,"Tanais dulongii (Audouin, 1826)",filtered_on_establishmentMeans,5178840,"Tanais dulongii (Audouin, 1826)"
-38582,148733549,"Sphaeroma serratum (Fabricius, 1787)",filtered_on_establishmentMeans,5176584,"Sphaeroma serratum (J.C.Fabricius, 1787)"
-38545,148733561,"Plagusia depressa (Fabricius, 1775)",filtered_on_establishmentMeans,2225788,"Plagusia depressa (Fabricius, 1775)"
-38537,148733577,"Pilumnus spinifer H.Milne Edwards, 1834",filtered_on_establishmentMeans,2227612,"Pilumnus spinifer H.Milne Edwards, 1834"
-38471,148733587,Hydrocotyle bonariensis Lam.,scientificName_replaced_by_backbone_name,3034611,Hydrocotyle bonariensis Comm. ex Lam.
-38564,148733613,Rotala indica Koehne,scientificName_replaced_by_backbone_name,3188674,Rotala indica (Willd.) Koehne
-38495,148733615,Metrosideros excelsa Gaertn.,scientificName_replaced_by_backbone_name,3185393,Metrosideros excelsa Sol. ex Gaertn.
-38486,148733617,Leptospermum scoparium J.R.Forst. & G.Forst.,scientificName_replaced_by_backbone_name,3181762,Leptospermum scoparium Forst.
-38599,148733618,"Tesseropora atlantica Newman & Ross, 1976",filtered_on_establishmentMeans,4335610,"Tesseropora atlantica Newman & Ross, 1976"
-38523,148733628,"Perforatus perforatus (Buizer, 1978)",scientificName_replaced_by_backbone_name,9802456,"Perforatus perforatus (Bruguière, 1789)"
-38429,148733632,Duchesnea indica (Andr.) Focke,merged_with_accepted,5365717,Potentilla indica (Andrews) Th.Wolf
-38351,148733641,"Balanus eburneus Gould, 1841",merged_with_accepted,5862470,"Amphibalanus eburneus (Gould, 1841)"
-38352,148733643,"Balanus perforatus BruguiÃ¨re, 1789-1792",merged_with_accepted,9802456,"Perforatus perforatus (Bruguière, 1789)"
-38320,148733646,"Amphibalanus amphitrite Darwin, 1854",scientificName_replaced_by_backbone_name,4805564,"Amphibalanus amphitrite (Darwin, 1854)"
-38501,148733647,Myriophyllum aquaticum Verdc.,scientificName_replaced_by_backbone_name,5361785,Myriophyllum aquaticum (Vell.) Verdc.
-38321,148733648,"Amphibalanus eburneus Gould, 1841",scientificName_replaced_by_backbone_name,5862470,"Amphibalanus eburneus (Gould, 1841)"
-38319,148733650,"Amphibalanus amphitrite Darwin, 1854",scientificName_replaced_by_backbone_name,4805564,"Amphibalanus amphitrite (Darwin, 1854)"
-38476,148733651,Kalanchoe pinnata Pers.,scientificName_replaced_by_backbone_name,2985930,Kalanchoe pinnata (Lam.) Pers.
-38322,148733652,"Amphibalanus eburneus Gould, 1841",scientificName_replaced_by_backbone_name,5862470,"Amphibalanus eburneus (Gould, 1841)"
-38519,148733665,"Pelophylax perezi (LÃ³pez-Seoane, 1885)",scientificName_replaced_by_backbone_name,2426658,"Pelophylax perezi (López-Seoane, 1885)"
-38390,148733676,Centranthus ruber (All.) Lam. & DC.,scientificName_replaced_by_backbone_name,2888740,Centranthus ruber (L.) DC.
-38447,148733703,Gomphocarpus fruticosus (L.) Ait.,scientificName_replaced_by_backbone_name,7150619,Gomphocarpus fruticosus (L.) W.T.Aiton
-38441,148733705,"Eudistoma angolanum (Michaelsen, 1915)",filtered_on_establishmentMeans,2330298,"Eudistoma angolanum (Michaelsen, 1914)"
-38420,148733712,"Cystodytes dellechiajei (Della Valle, 1877)",filtered_on_establishmentMeans,2330276,"Cystodytes dellechiajei (Della Valle, 1877)"
-38508,148733713,Opuntia maxima,scientificName_replaced_by_backbone_name,5626003,Opuntia maxima Mill.
-38602,148733719,Tetragonia tetragonoides Kuntze,scientificName_replaced_by_backbone_name,5554574,Tetragonia tetragonoides (Pall.) Kuntze
-38397,148733725,"Clavelina lepadiformis (MÃ¼ller, 1776)",scientificName_replaced_by_backbone_name,2330198,"Clavelina lepadiformis (Müller, 1776)"
-38396,148733726,"Clavelina lepadiformis (MÃ¼ller, 1776)",scientificName_replaced_by_backbone_name,2330198,"Clavelina lepadiformis (Müller, 1776)"
-38494,148733729,Mesembryanthemum cordifolium L.f.,scientificName_replaced_by_backbone_name,8185812,Mesembryanthemum cordifolium L.fil.
-38428,148733731,Drosanthemum floribundum Schwantes,scientificName_replaced_by_backbone_name,3084872,Drosanthemum floribundum (Haw.) Schwantes
-38387,148733733,Carpobrotus edulis N.E.Br.,scientificName_replaced_by_backbone_name,3084842,Carpobrotus edulis (L.) N.E.Br.
-38315,148733743,Ailanthus altissima Swingle,scientificName_replaced_by_backbone_name,3190653,Ailanthus altissima (Mill.) Swingle
-38498,148733744,"Molgula plana Monniot C., 1971",filtered_on_establishmentMeans,2331602,"Molgula plana Monniot C., 1971"
-38348,148733763,Aster squamatus Hieron.,merged_with_accepted,3151764,Symphyotrichum squamatum (Spreng.) G.L.Nesom
-38595,148733779,Symphocladia marchantioides,not_matched_with_backbone,,
-38497,148733785,"Micropterus salmoides (LacepÃ¨de, 1802)",scientificName_replaced_by_backbone_name,2394563,"Micropterus salmoides (Lacepède, 1802)"
-38421,148733803,Cytisus scoparius Link,scientificName_replaced_by_backbone_name,5354656,Cytisus scoparius (L.) Link
+taxonID,usage_id,scientificName,action,acceptedKey,acceptedName
+38309,VL8NF,"Acrothamnion preissii (Sonder) E.M.Wollaston, 1968",scientificName_replaced_by_backbone_name,VL8NF,Acrothamnion preissii (Sonder) E.M.Wollaston
+38311,653M9,Adiantum raddianum C.Presl,no_matching_distribution,653M9,Adiantum raddianum C.Presl
+38314,LDVZN,Aglaothamnion cordatum (Børgesen) Feldm.-Maz.,scientificName_replaced_by_backbone_name,LDVZN,"Aglaothamnion cordatum (Børgesen) Feldmann-Mazoyer, 1941"
+38315,BCBF,Ailanthus altissima Swingle,scientificName_replaced_by_backbone_name,BCBF,Ailanthus altissima (Mill.) Swingle
+38316,BWHH,"Alloeocarpa loculosa C.Monniot, 1974",scientificName_replaced_by_backbone_name,BWHH,"Alloeocarpa loculosa Monniot C., 1974"
+38317,BWHH,"Alloeocarpa loculosa C.Monniot, 1974",scientificName_replaced_by_backbone_name,BWHH,"Alloeocarpa loculosa Monniot C., 1974"
+38319,LCHHJ,"Amphibalanus amphitrite Darwin, 1854",scientificName_replaced_by_backbone_name,LCHHJ,"Amphibalanus amphitrite (Darwin, 1854)"
+38320,LCHHJ,"Amphibalanus amphitrite Darwin, 1854",scientificName_replaced_by_backbone_name,LCHHJ,"Amphibalanus amphitrite (Darwin, 1854)"
+38321,LCHL9,"Amphibalanus eburneus Gould, 1841",scientificName_replaced_by_backbone_name,LCHL9,"Amphibalanus eburneus (Gould, 1841)"
+38322,LCHL9,"Amphibalanus eburneus Gould, 1841",scientificName_replaced_by_backbone_name,LCHL9,"Amphibalanus eburneus (Gould, 1841)"
+38323,DCBB,Anacyclus australis Sieber,merged_with_accepted,DCBB,Anacyclus australis Sieber ex Spreng.
+38329,XRR,Antithamnion armatum (J.Agardh) De Toni,scientificName_replaced_by_backbone_name,XRR,"Antithamnion Nägeli, 1847"
+38330,LR6LK,Antithamnion diminuatum,scientificName_replaced_by_backbone_name,LR6LK,Antithamnion diminuatum Wollaston
+38331,LR6LK,Antithamnion diminuatum,scientificName_replaced_by_backbone_name,LR6LK,Antithamnion diminuatum Wollaston
+38332,LR6F2,Antithamnion pectinatum (Montagne) J.Brauner,scientificName_replaced_by_backbone_name,LR6F2,Antithamnion pectinatum (Mont.) Brauner
+38333,LR6F2,Antithamnion pectinatum (Montagne) J.Brauner,scientificName_replaced_by_backbone_name,LR6F2,Antithamnion pectinatum (Mont.) Brauner
+38334,XRR,Antithamnion taxiformis,filtered_on_establishmentMeans,XRR,"Antithamnion Nägeli, 1847"
+38335,XRR,Antithamnion taxiformis,filtered_on_establishmentMeans,XRR,"Antithamnion Nägeli, 1847"
+38336,XRR,Antithamnion taxiformis,filtered_on_establishmentMeans,XRR,"Antithamnion Nägeli, 1847"
+38337,XRR,Antithamnion taxiformis,filtered_on_establishmentMeans,XRR,"Antithamnion Nägeli, 1847"
+38338,XRR,Antithamnion taxiformis,filtered_on_establishmentMeans,XRR,"Antithamnion Nägeli, 1847"
+38339,XRR,Antithamnion taxiformis,filtered_on_establishmentMeans,XRR,"Antithamnion Nägeli, 1847"
+38340,LR74B,Antithamnionella spirographidis (Schiffner) E.M.Wollaston,scientificName_replaced_by_backbone_name,LR74B,"Antithamnionella spirographidis (Schiffner) E.M.Wollaston, 1968"
+38341,LR74R,Antithamnionella ternifolia (J.D.Hooker & Harvey) Lyle,scientificName_replaced_by_backbone_name,LR74R,Antithamnionella ternifolia (Hook.f. & Harv.) Lyle
+38347,LQ38J,Asparagopsis taxiformis (Delile) Trevis.,scientificName_replaced_by_backbone_name,LQ38J,Asparagopsis taxiformis (Delile) Trevisan
+38348,8S3GB,Aster squamatus Hieron.,merged_with_accepted,8S3GB,Aster squamatus (Spreng.) Hieron. ex Sodiro
+38351,MMNX2,"Balanus eburneus Gould, 1841",merged_with_accepted,MMNX2,"Balanus eburneus Gould, 1841"
+38352,MMQNL,"Balanus perforatus Bruguière, 1789",merged_with_accepted,MMQNL,"Balanus perforatus Bruguière, 1789"
+38361,KGPG,Baldellia ranunculoides Parl.,scientificName_replaced_by_backbone_name,KGPG,Baldellia ranunculoides (L.) Parl.
+38364,M3XW,Blechnum rupestre (Kaulf. ex Link) Christenh.,no_matching_distribution,M3XW,Blechnum rupestre (Kaulf. ex Link) Christenh.
+38365,M7SD,Blyxa japonica Maxim. ex Asch. & Gürke,scientificName_replaced_by_backbone_name,M7SD,Blyxa japonica (Miq.) Maxim. ex Asch. & Gürke
+38366,MBD8L,Bonnemaisonia hamifera Hariot,scientificName_replaced_by_backbone_name,MBD8L,Bonnemaisonia hamifera Har.
+38367,MBD8L,Bonnemaisonia hamifera Hariot,scientificName_replaced_by_backbone_name,MBD8L,Bonnemaisonia hamifera Har.
+38368,MBD8L,Bonnemaisonia hamifera Hariot,scientificName_replaced_by_backbone_name,MBD8L,Bonnemaisonia hamifera Har.
+38369,MBD8L,Bonnemaisonia hamifera Hariot,scientificName_replaced_by_backbone_name,MBD8L,Bonnemaisonia hamifera Har.
+38370,MBD8L,Bonnemaisonia hamifera Hariot,scientificName_replaced_by_backbone_name,MBD8L,Bonnemaisonia hamifera Har.
+38378,694CF,"Bugula stolonifera Ryland, 1960",no_matching_distribution,694CF,"Bugula stolonifera Ryland, 1960"
+38379,NPTC,"Bugulina simplex (Hincks, 1886)",filtered_on_establishmentMeans,NPTC,"Bugulina simplex (Hincks, 1886)"
+38380,694CM,"Bugulina stolonifera (Ryland, 1960)",filtered_on_establishmentMeans,694CM,"Bugulina stolonifera (Ryland, 1960)"
+38382,VJTLW,Callitriche deflexa A.Braun,scientificName_replaced_by_backbone_name,VJTLW,Callitriche deflexa A.Braun ex Hegelm.
+38387,RG7K,Carpobrotus edulis N.E.Br.,scientificName_replaced_by_backbone_name,RG7K,Carpobrotus edulis (L.) N.E.Br.
+38388,M9ZRK,Caulerpa prolifera (Forssk.) J.V.Lamour.,scientificName_replaced_by_backbone_name,M9ZRK,Caulerpa prolifera (P. Forsskal) Lamouroux
+38390,S8CR,Centranthus ruber (All.) Lam. & DC.,scientificName_replaced_by_backbone_name,S8CR,Centranthus ruber (L.) DC.
+38391,VL8NQ,"Ceramium cingulatum Weber-van Bosse, 1923",merged_with_accepted,VL8NQ,Ceramium cingulatum Weber Bosse
+38392,VCPG,"Cinachyrella alloclada (Uliczka, 1929)",filtered_on_establishmentMeans,VCPG,"Cinachyrella alloclada (Uliczka, 1929)"
+38395,ML7H4,Cladophoropsis membranacea (Bang ex C.Agardh) Børgesen,filtered_on_establishmentMeans,ML7H4,Cladophoropsis membranacea (C. Aghardh) Borgesen
+38402,W4BP,Clethra arborea Aiton,scientificName_replaced_by_backbone_name,W4BP,Clethra arborea Sol. ex Aiton
+38403,N4VSJ,Codium fragile subsp. atlanticum (Cotton) P.C.Silva,scientificName_replaced_by_backbone_name,N4VSJ,Codium fragile subsp. atlanticum (A.D. Cotton) P.C. Silva
+38404,N4VSJ,Codium fragile subsp. atlanticum (Cotton) P.C.Silva,scientificName_replaced_by_backbone_name,N4VSJ,Codium fragile subsp. atlanticum (A.D. Cotton) P.C. Silva
+38405,N4VSJ,Codium fragile subsp. atlanticum (Cotton) P.C.Silva,scientificName_replaced_by_backbone_name,N4VSJ,Codium fragile subsp. atlanticum (A.D. Cotton) P.C. Silva
+38406,D2Z69,Codium fragile subsp. fragile,scientificName_replaced_by_backbone_name,D2Z69,"Codium fragile subsp. fragile (Suringar) Hariot, 1889"
+38409,N4X6S,"Codium vermilara (Olivis) Chiaje, 1829",scientificName_replaced_by_backbone_name,N4X6S,"Codium vermilara (Olivi) Delle Chiaje, 1829"
+38410,N4X6S,"Codium vermilara (Olivis) Chiaje, 1829",scientificName_replaced_by_backbone_name,N4X6S,"Codium vermilara (Olivi) Delle Chiaje, 1829"
+38412,7NTPV,Craspedacusta sowerbyi Lancaster,scientificName_replaced_by_backbone_name,7NTPV,"Craspedacusta Lankester, 1880"
+38414,ZKPM,Crocosmia crocosmiiflora (Nicholson) N.E.Br.,scientificName_replaced_by_backbone_name,ZKPM,Crocosmia × crocosmiiflora (Lemoine) N.E.Br.
+38416,VLJ73,Cyathea cooperi (F.Muell.) Domin,no_matching_distribution,VLJ73,Cyathea cooperi (Hook. ex F.Muell.) Domin
+38417,32PXW,Cyathea medullaris (G.Forst.) Sw.,no_matching_distribution,32PXW,Cyathea medullaris (G.Forst.) Sw.
+38419,33MNJ,Cyrtomium falcatum C.Presl,scientificName_replaced_by_backbone_name,33MNJ,Cyrtomium falcatum (L.fil.) C.Presl
+38420,33PTF,"Cystodytes dellechiajei (Della Valle, 1877)",filtered_on_establishmentMeans,33PTF,"Cystodytes dellechiajei (Della Valle, 1877)"
+38421,33S3C,Cytisus scoparius Link,scientificName_replaced_by_backbone_name,33S3C,Cytisus scoparius (L.) Link
+38426,6DB35,"Distaplia corolla F.Monniot, 1974",scientificName_replaced_by_backbone_name,6DB35,"Distaplia corolla Monniot F., 1974"
+38427,6DB35,"Distaplia corolla F.Monniot, 1974",scientificName_replaced_by_backbone_name,6DB35,"Distaplia corolla Monniot F., 1974"
+38428,37QK2,Drosanthemum floribundum Schwantes,scientificName_replaced_by_backbone_name,37QK2,Drosanthemum floribundum (Haw.) Schwantes
+38429,37Z6M,Duchesnea indica (Andr.) Focke,no_matching_distribution,37Z6M,Duchesnea indica (Andrews) Focke
+38432,6DXH3,Egeria densa Planch.,merged_with_accepted,6DXH3,Egeria densa Planch.
+38433,38V65,Eichhornia crassipes Solms,merged_with_accepted,38V65,Eichhornia crassipes (Mart.) Solms
+38441,3C27V,"Eudistoma angolanum (Michaelsen, 1915)",filtered_on_establishmentMeans,3C27V,"Eudistoma angolanum (Michaelsen, 1914)"
+38443,6HQF5,"Ferrissia fragilis (Tryon, 1863)",no_matching_distribution,6HQF5,"Ferrissia (Kincaidilla) fragilis (Tryon, 1863)"
+38445,3F33Y,"Galba truncatula (O.F.Müller, 1774)",scientificName_replaced_by_backbone_name,3F33Y,"Galba truncatula (O. F. Müller, 1774)"
+38447,3GSRX,Gomphocarpus fruticosus (L.) Ait.,scientificName_replaced_by_backbone_name,3GSRX,Gomphocarpus fruticosus (L.) W.T.Aiton
+38449,PK9P6,Grateloupia filicina (J.V.Lamour.) C.Agardh,scientificName_replaced_by_backbone_name,PK9P6,Grateloupia filicina (Lamouroux) C. Agardh
+38452,P3K7X,Gymnophycus hapsiphorus,scientificName_replaced_by_backbone_name,P3K7X,Gymnophycus hapsiphorus Huisman & Kraft
+38453,PFJCV,Halimeda incrassata (J.Ellis) J.V.Lamour.,scientificName_replaced_by_backbone_name,PFJCV,Halimeda incrassata (Ellis) Lamour.
+38455,3JZPN,Hedychium gardnerianum Ker Gawl.,scientificName_replaced_by_backbone_name,3JZPN,Hedychium gardnerianum Sheph. ex Ker Gawl.
+38456,3JZPN,Hedychium gardnerianum Ker Gawl.,scientificName_replaced_by_backbone_name,3JZPN,Hedychium gardnerianum Sheph. ex Ker Gawl.
+38457,3JZPN,Hedychium gardnerianum Ker Gawl.,scientificName_replaced_by_backbone_name,3JZPN,Hedychium gardnerianum Sheph. ex Ker Gawl.
+38458,3JZPN,Hedychium gardnerianum Ker Gawl.,scientificName_replaced_by_backbone_name,3JZPN,Hedychium gardnerianum Sheph. ex Ker Gawl.
+38459,3JZPN,Hedychium gardnerianum Ker Gawl.,scientificName_replaced_by_backbone_name,3JZPN,Hedychium gardnerianum Sheph. ex Ker Gawl.
+38461,3L7CH,Heteranthera rotundifolia Griseb.,scientificName_replaced_by_backbone_name,3L7CH,Heteranthera rotundifolia (Kunth) Griseb.
+38466,3LHV5,"Hiatella arctica (Linnaeus, 1767)",filtered_on_establishmentMeans,3LHV5,"Hiatella arctica (Linnaeus, 1767)"
+38471,3N6G9,Hydrocotyle bonariensis Lam.,scientificName_replaced_by_backbone_name,3N6G9,Hydrocotyle bonariensis Comm. ex Lam.
+38472,6MJMD,"Hydroides elegans (Haswell, 1883)",scientificName_replaced_by_backbone_name,6MJMD,"Hydroides elegans (Haswell, 1883) [nomen protectum]"
+38473,PHZK3,Hypnea flagelliformis J.Agardh,scientificName_replaced_by_backbone_name,PHZK3,Hypnea flagelliformis Greville ex J.Agardh
+38476,3QYN8,Kalanchoe pinnata Pers.,scientificName_replaced_by_backbone_name,3QYN8,Kalanchoe pinnata (Lam.) Pers.
+38480,PNRM9,"Laurencia brongniartii J.Agardh, 1841",scientificName_replaced_by_backbone_name,PNRM9,Laurencia brongniartii J.Agardh
+38482,VL8MZ,Laurencia majuscula (Harv.) A.H.S.Lucas,no_matching_distribution,VL8MZ,Laurencia majuscula (Harvey) A.H.S.Lucas
+38483,PNSZM,Laurencia obtusa (Huds.) J.V.Lamour.,no_matching_distribution,PNSZM,Laurencia obtusa (Hudson) Lamouroux
+38486,3TV42,Leptospermum scoparium J.R.Forst. & G.Forst.,scientificName_replaced_by_backbone_name,3TV42,Leptospermum scoparium Forst.
+38494,3ZYG4,Mesembryanthemum cordifolium L.f.,scientificName_replaced_by_backbone_name,3ZYG4,Mesembryanthemum cordifolium L.fil.
+38495,42JVL,Metrosideros excelsa Gaertn.,scientificName_replaced_by_backbone_name,42JVL,Metrosideros excelsa Sol. ex Gaertn.
+38498,6RMHV,"Molgula plana C.Monniot, 1971",filtered_on_establishmentMeans,6RMHV,"Molgula plana Monniot C., 1971"
+38500,84QN6,"Mycale (Carmia) sp. Gray, 1867",scientificName_replaced_by_backbone_name,84QN6,"Mycale Gray, 1867"
+38501,458YG,Myriophyllum aquaticum Verdc.,scientificName_replaced_by_backbone_name,458YG,Myriophyllum aquaticum (Vell.) Verdc.
+38503,QJGSG,"Neosiphonia harveyi (J.W.Bailey) M.-S.Kim, H.-G.Choi, Guiry & G.W.Saunders",merged_with_accepted,QJGSG,"Neosiphonia harveyi (J.W.Bailey) M.-S.Kim, H.-G.Choi, Guiry & G.W.Saunders, 2001"
+38504,VL8MQ,Neosiphonia sphaerocarpa (Børgesen) M.S.Kim & I.K.Lee,merged_with_accepted,VL8MQ,Neosiphonia sphaerocarpa (Børgesen) M.-S.Kim & I.K.Lee
+38508,753N2,Opuntia maxima,scientificName_replaced_by_backbone_name,753N2,Opuntia maxima Mill.
+38516,4DBX9,Paraserianthes lophantha (Willd.) I.C.Nielsen,scientificName_replaced_by_backbone_name,4DBX9,Paraserianthes lophantha (Vent.) I.C.Nielsen
+38520,76JT2,Pennisetum clandestinum Hochst. ex Chiov.,no_matching_distribution,76JT2,Pennisetum clandestinum Hochst. ex Chiov.
+38521,76LBW,Pennisetum villosum,merged_with_accepted,76LBW,Pennisetum villosum Fresen.
+38523,RCDCN,"Perforatus perforatus (Buizer, 1978)",scientificName_replaced_by_backbone_name,RCDCN,"Perforatus perforatus (Bruguière, 1789)"
+38526,RLZHN,Petalonia binghamiae,merged_with_accepted,RLZHN,Petalonia binghamiae (J.Agardh) K.L.Vinogradova
+38527,RLZHN,Petalonia binghamiae,merged_with_accepted,RLZHN,Petalonia binghamiae (J.Agardh) K.L.Vinogradova
+38528,RLZHN,Petalonia binghamiae,merged_with_accepted,RLZHN,Petalonia binghamiae (J.Agardh) K.L.Vinogradova
+38529,RLZHN,Petalonia binghamiae,merged_with_accepted,RLZHN,Petalonia binghamiae (J.Agardh) K.L.Vinogradova
+38530,RLZHN,Petalonia binghamiae,merged_with_accepted,RLZHN,Petalonia binghamiae (J.Agardh) K.L.Vinogradova
+38531,RLZHN,Petalonia binghamiae,merged_with_accepted,RLZHN,Petalonia binghamiae (J.Agardh) K.L.Vinogradova
+38533,4GRZX,"Phoronis psammophila Cori, 1889",filtered_on_establishmentMeans,4GRZX,"Phoronis psammophila Cori, 1889"
+38534,4GS25,"Phoronopsis harmeri Pixell, 1912",filtered_on_establishmentMeans,4GS25,"Phoronopsis harmeri Pixell, 1912"
+38537,4HVX7,"Pilumnus spinifer H.Milne Edwards, 1834",filtered_on_establishmentMeans,4HVX7,"Pilumnus spinifer H. Milne Edwards, 1834"
+38539,4J8MS,"Pisidium casertanum (Poli, 1791)",no_matching_distribution,4J8MS,"Pisidium (Rivulina) casertanum (Poli, 1791)"
+38545,4JHVW,"Plagusia depressa (Fabricius, 1775)",filtered_on_establishmentMeans,4JHVW,"Plagusia depressa (Fabricius, 1775)"
+38547,4KZ22,"Pollia dorbignyi (Payraudeau, 1826)",no_matching_distribution,4KZ22,"Pollia dorbignyi (Payraudeau, 1826)"
+38548,4KZ22,"Pollia dorbignyi (Payraudeau, 1826)",no_matching_distribution,4KZ22,"Pollia dorbignyi (Payraudeau, 1826)"
+38549,4KZ22,"Pollia dorbignyi (Payraudeau, 1826)",no_matching_distribution,4KZ22,"Pollia dorbignyi (Payraudeau, 1826)"
+38550,4KZ22,"Pollia dorbignyi (Payraudeau, 1826)",no_matching_distribution,4KZ22,"Pollia dorbignyi (Payraudeau, 1826)"
+38551,4KZ22,"Pollia dorbignyi (Payraudeau, 1826)",no_matching_distribution,4KZ22,"Pollia dorbignyi (Payraudeau, 1826)"
+38555,S9Y5W,"Pseudaletia unipuncta Haworth, 1809",merged_with_accepted,S9Y5W,"Pseudaletia unipuncta (Haworth, 1809)"
+38556,SKMNN,"Pterosiphonia pinnulata (Kütz.) Maggs & Hommersand, 1993",scientificName_replaced_by_backbone_name,SKMNN,"Pterosiphonia pinnulata (Kützing) Maggs & Hommersand, 1993"
+38559,4R9F3,"Radix balthica (Linnaeus, 1758)",merged_with_accepted,4R9F3,"Radix balthica (Linnaeus, 1758)"
+38560,4R9HD,"Radix peregra (O.F.Müller, 1774)",no_matching_distribution,4R9HD,"Radix (Radix) peregra (O. F. Müller, 1774)"
+38564,4TFWS,Rotala indica Koehne,scientificName_replaced_by_backbone_name,4TFWS,Rotala indica (Willd.) Koehne
+38568,6WYS2,"Sabella spallanzanii (Gmelin, 1791)",filtered_on_establishmentMeans,6WYS2,"Sabella spallanzanii (Gmelin, 1791)"
+38569,6WYS2,"Sabella spallanzanii (Gmelin, 1791)",filtered_on_establishmentMeans,6WYS2,"Sabella spallanzanii (Gmelin, 1791)"
+38573,ST7KH,Scageliopsis patens,scientificName_replaced_by_backbone_name,ST7KH,Scageliopsis patens E.M.Wollaston
+38574,ST7KH,Scageliopsis patens,scientificName_replaced_by_backbone_name,ST7KH,Scageliopsis patens E.M.Wollaston
+38575,ST7KH,Scageliopsis patens,scientificName_replaced_by_backbone_name,ST7KH,Scageliopsis patens E.M.Wollaston
+38576,4VCFN,"Schizoporella unicornis (Johnston, 1844)",scientificName_replaced_by_backbone_name,4VCFN,"Schizoporella unicornis (Johnston in Wood, 1844)"
+38579,4Y5GK,Soleirolia soleirolii (Req.) Dandy,merged_with_accepted,4Y5GK,Soleirolia soleirolii (Req.) Dandy
+38580,4YF5F,Spartina versicolor Fabre,no_matching_distribution,4YF5F,Spartina versicolor E.Fabre
+38582,4YQQN,"Sphaeroma serratum (Fabricius, 1787)",filtered_on_establishmentMeans,4YQQN,"Sphaeroma serratum (J. C. Fabricius, 1787)"
+38583,SYN5M,Sphaerotrichia divaricata (C.Agardh) Kylin,scientificName_replaced_by_backbone_name,SYN5M,"Sphaerotrichia divaricata (C.Agardh) Kylin, 1940"
+38584,SYN5M,Sphaerotrichia divaricata (C.Agardh) Kylin,scientificName_replaced_by_backbone_name,SYN5M,"Sphaerotrichia divaricata (C.Agardh) Kylin, 1940"
+38586,4Z8FC,"Spirorbis marioni Caullery & Mesnil, 1897",scientificName_replaced_by_backbone_name,4Z8FC,"Spirorbis (Spirorbis) marioni Caullery & Mesnil, 1897"
+38587,4Z8FC,"Spirorbis marioni Caullery & Mesnil, 1897",scientificName_replaced_by_backbone_name,4Z8FC,"Spirorbis (Spirorbis) marioni Caullery & Mesnil, 1897"
+38588,4Z8FC,"Spirorbis marioni Caullery & Mesnil, 1897",scientificName_replaced_by_backbone_name,4Z8FC,"Spirorbis (Spirorbis) marioni Caullery & Mesnil, 1897"
+38589,4Z8FC,"Spirorbis marioni Caullery & Mesnil, 1897",scientificName_replaced_by_backbone_name,4Z8FC,"Spirorbis (Spirorbis) marioni Caullery & Mesnil, 1897"
+38590,SXYFC,Spongoclonium caribaeum (Børgesen) M.J.Wynne,scientificName_replaced_by_backbone_name,SXYFC,"Spongoclonium caribaeum (Børgesen) M.J.Wynne, 2005"
+38591,4ZCDY,Sporobolus africanus (Poir.) A.Robyns & Tournay,scientificName_replaced_by_backbone_name,4ZCDY,Sporobolus africanus (Poir.) Robyns & Tournay
+38595,,Symphocladia marchantioides,not_matched_with_COL,,
+38596,TGJJ4,"Symphyocladia marchantioides (Harvey) Falkenberg, 1897",no_matching_distribution,TGJJ4,Symphyocladia marchantioides (Harv.) Falkenb.
+38597,TGJJ4,"Symphyocladia marchantioides (Harvey) Falkenberg, 1897",no_matching_distribution,TGJJ4,Symphyocladia marchantioides (Harv.) Falkenb.
+38598,54NMY,"Tanais dulongii (Audouin, 1826)",filtered_on_establishmentMeans,54NMY,"Tanais dulongii (Audouin, 1826)"
+38599,T4JW2,"Tesseropora atlantica Newman & Ross, 1976",filtered_on_establishmentMeans,T4JW2,"Tesseropora atlantica Newman & Ross, 1976"
+38602,7C2YJ,Tetragonia tetragonoides Kuntze,scientificName_replaced_by_backbone_name,7C2YJ,Tetragonia tetragonoides (Pall.) Kuntze
+38617,7PKPN,Venerupis decussata,scientificName_replaced_by_backbone_name,7PKPN,"Venerupis Lamarck, 1818"
+38618,7PKPN,Venerupis decussata,scientificName_replaced_by_backbone_name,7PKPN,"Venerupis Lamarck, 1818"
+38619,5BJXV,"Virididentula dentata (Lamouroux, 1816)",filtered_on_establishmentMeans,5BJXV,"Virididentula dentata (Lamouroux, 1816)"
+38620,5BJXV,"Virididentula dentata (Lamouroux, 1816)",filtered_on_establishmentMeans,5BJXV,"Virididentula dentata (Lamouroux, 1816)"
+38621,5BJXV,"Virididentula dentata (Lamouroux, 1816)",filtered_on_establishmentMeans,5BJXV,"Virididentula dentata (Lamouroux, 1816)"
+38623,5CW7S,Zantedeschia aethiopica Spreng.,scientificName_replaced_by_backbone_name,5CW7S,Zantedeschia aethiopica (L.) Spreng.
+38624,5D77X,"Zoobotryon verticillatum (Delle Chiaje, 1822)",no_matching_distribution,5D77X,"Zoobotryon verticillatum (Delle Chiaje, 1822)"
+,N4VXQ,Codium fragile subsp. tomentosoides (Goor) P.C.Silva,no_matching_distribution,N4VXQ,Codium fragile subsp. tomentosoides (van Goor) P.C. Silva
+,N4VXQ,Codium fragile subsp. tomentosoides (Goor) P.C.Silva,no_matching_distribution,N4VXQ,Codium fragile subsp. tomentosoides (van Goor) P.C. Silva

@@ -1,1 +1,812 @@
-taxonKey,nubKey,taxonID,scientificName,kingdom,taxonRank
+taxonID,taxonKey,scientificName,taxonRank
+1001,8KCJ,Abies firma Siebold & Zucc.,species
+1002,8KCY,Abies grandis (Douglas ex D.Don) Lindl.,species
+1003,63Z83,Abies nordmanniana (Steven) Spach,species
+1004,8NCQ,Abutilon theophrasti Medik.,species
+1005,94F5,Acer negundo L.,species
+1006,94JH,Acer saccharinum L.,species
+1007,97GJ,Achillea macrophylla L.,species
+1008,9C4T,"Acipenser baerii Brandt, 1869",species
+1009,64MF2,Acorus calamus L.,species
+1010,64RFJ,Adiantum capillus-veneris L.,species
+1011,654JZ,Adonis aestivalis L.,species
+1012,654KB,Adonis annua L.,species
+1013,64SM6,Adonis flammea Jacq.,species
+1014,89W76,"Aedes (Stegomyia) albopictus (Skuse, 1894)",species
+1015,65BKZ,Aesculus hippocastanum L.,species
+1016,65CDF,Aethusa cynapium L.,species
+1017,65RYZ,Ageratum houstonianum Mill.,species
+1018,B99P,Agrostemma githago L.,species
+1020,BCBF,Ailanthus altissima (Mill.) Swingle,species
+1021,BH8Y,Alcea rosea L.,species
+1022,BH93,Alcea rugosa Alef.,species
+1023,BHWZ,Alchemilla mollis (Buser) Rothm.,species
+1024,RRZ,"Aleuroclava Singh, 1931",genus
+1025,667JH,Allium cepa L.,species
+1026,667JB,Allium cristophii Trautv.,species
+1027,65XDM,Allium karataviense Regel,species
+1028,66973,Allium moly L.,species
+1030,6697C,Allium sativum L.,species
+1031,5TX7G,Allium schoenoprasum L.,species
+1032,65WX6,Allium stipitatum Regel,species
+1034,C55V,Alopecurus myosuroides Huds.,species
+1035,669QF,Althaea armeniaca Ten.,species
+1036,87BSP,Alyssum murale Waldst. & Kit.,species
+1037,84JPQ,Amaranthus × ozanonii Priszter,species
+1038,CGXJ,Amaranthus albus L.,species
+1039,CGYJ,Amaranthus blitoides S.Watson,species
+1040,CGYL,Amaranthus blitum L.,species
+1042,CGYP,Amaranthus bouchonii Thell.,species
+1043,CGZ8,Amaranthus caudatus L.,species
+1044,CGZM,Amaranthus crispus (Lesp. & Thévenau) N.Terracc.,species
+1045,CGZR,Amaranthus cruentus L.,species
+1046,CGZV,Amaranthus deflexus L.,species
+1047,65Z9L,Amaranthus graecizans L.,species
+1049,CH35,Amaranthus hybridus L.,species
+1050,CH37,Amaranthus hypochondriacus L.,species
+1051,CH52,Amaranthus palmeri S.Watson,species
+1052,CH5L,Amaranthus powellii S.Watson,species
+1053,CH63,Amaranthus retroflexus L.,species
+1054,CH79,Amaranthus tricolor L.,species
+1055,CH7N,Amaranthus viridis L.,species
+1056,5TZQZ,Ambrosia artemisiifolia L.,species
+1057,CPQH,Ambrosia trifida L.,species
+1058,CQKD,"Ameiurus melas (Rafinesque, 1820)",species
+1059,CQKG,"Ameiurus nebulosus (Lesueur, 1819)",species
+1060,CQN6,Amelanchier canadensis (L.) Medik.,species
+1061,CX4J,Amorpha fruticosa L.,species
+1062,D8CT,Amsinckia calycina (Moris) Chater,species
+1063,DCBJ,Anacyclus clavatus (Desf.) Pers.,species
+1067,66KW2,Anaphalis margaritacea (L.) Benth.,species
+1069,66LPC,Anchusa leptophylla Roem. & Schult.,species
+1070,DLZL,Anchusa officinalis L.,species
+1071,DX6J,Anemone apennina L.,species
+1072,DY93,Anethum graveolens L.,species
+1073,67BTJ,Anthemis arvensis L.,species
+1074,67C59,Anthemis cotula L.,species
+1075,67BJH,Anthemis ruthenica M.Bieb.,species
+1076,5VH25,Anthoxanthum aristatum Boiss.,species
+1077,67HW6,Anthriscus caucalis M.Bieb.,species
+1078,5VHVT,Anthriscus cerefolium (L.) Hoffm.,species
+1079,5VHVT,Anthriscus cerefolium (L.) Hoffm.,species
+1080,F2W4,Antirrhinum majus L.,species
+1081,F9J7,Apera spica-venti (L.) P.Beauv.,species
+1082,67MJ5,Aphanes arvensis L.,species
+1083,FNGV,Apium graveolens L.,species
+1086,LM2TS,"Aproceros leucopoda Takeuchi, 1939",species
+1087,5VQFD,Arabis caucasica Willd.,species
+1088,G2KS,Arabis procurrens Waldst. & Kit.,species
+1089,683PH,Arctium × ambiguum (Čelak.) Nyman,species
+1090,5W3PG,Arctium × cimbricum (E.H.L.Krause) Hayek,species
+1091,67S22,Arctium lappa L.,species
+1092,5W3Q6,Arctium minus (Hill) Bernh.,species
+1093,LS8GR,Arctium × nothum (Ruhmer) J. Weiss,species
+1094,683PD,Arctium tomentosum Mill.,species
+1095,VJT6M,"Armoracia rusticana G.Gaertn., B.Mey. & Scherb.",species
+1096,684T5,Arnoseris minima (L.) Schweigg. & Körte,species
+1097,GVZ9,Artemisia abrotanum L.,species
+1098,GVZC,Artemisia absinthium L.,species
+1099,67SJZ,Artemisia alba Turra,species
+1100,GW2V,Artemisia annua L.,species
+1101,GW9Y,Artemisia dracunculus L.,species
+1103,GWW4,Artemisia scoparia Waldst. & Kit.,species
+1104,GWWW,Artemisia sieversiana Ehrh. ex Willd.,species
+1105,H3L8,Arundo donax L.,species
+1107,H6QS,Asclepias syriaca L.,species
+1108,HCJN,Asperugo procumbens L.,species
+1109,HCKK,Asperula arvensis L.,species
+1113,688F5,Atriplex hortensis L.,species
+1114,JLJJ,Atriplex micrantha Ledeb.,species
+1115,JLL4,Atriplex oblongifolia Waldst. & Kit.,species
+1116,JLNW,Atriplex rosea L.,species
+1117,JLPB,Atriplex sagittata Borkh.,species
+1118,JLR8,Atriplex tatarica L.,species
+1119,K2GH,Avena fatua L.,species
+1120,K2MM,Avena nuda L.,species
+1121,K2QJ,Avena sativa L.,species
+1122,67YVX,Avena sterilis L.,species
+1123,K2S4,Avena strigosa Schreb.,species
+1124,67YM7,Azolla filiculoides Lam.,species
+1125,K6K8,"Babka gymnotrachelus (Kessler, 1857)",species
+1126,KHNL,Ballota nigra L.,species
+1127,MTMP6,Bassia scoparia (L.) A.J.Scott,species
+1129,L65P,Beckmannia syzigachne (Steud.) Fernald,species
+1130,68KBW,Berberis julianae C.K.Schneid.,species
+1131,LK9J,Berberis thunbergii DC.,species
+1132,5WJWB,Berteroa incana (L.) DC.,species
+1133,LNNK,Beta vulgaris L.,species
+1134,LS97,Bidens frondosa L.,species
+1135,68JDM,Bifora radians M.Bieb.,species
+1136,MJ92,Borago officinalis L.,species
+1137,N7XK,Brassica carinata A.Braun,species
+1138,5G24W,Brassica elongata subsp. integrifolia (Boiss.) Breistr.,subspecies
+1139,N7ZK,Brassica juncea (L.) Czern.,species
+1140,N82B,Brassica napus L.,species
+1141,M53VZ,Brassica nigra (L.) W.D.J.Koch,species
+1142,N82N,Brassica oleracea L.,species
+1143,N83Q,Brassica rapa L.,species
+1144,NCTM,Bromus arvensis L.,species
+1145,NCV9,Bromus briziformis Fisch. & C.A.Mey.,species
+1146,NCVX,Bromus carinatus Hook. & Arn.,species
+1147,NCVZ,Bromus catharticus Vahl,species
+1148,ND4L,Bromus lanceolatus Roth,species
+1149,NDCY,Bromus secalinus L.,species
+1150,VL7N3,Bromus sterilis L.,species
+1151,6937F,Bromus tectorum L.,species
+1152,VJSTZ,Broussonetia papyrifera (L.) L'Hér. ex Vent.,species
+1153,NFXS,Brunnera macrophylla (Adams) I.M.Johnst.,species
+1154,NJ97,Bryonia alba L.,species
+1155,5WSSB,Bryonia dioica Jacq.,species
+1156,NN2L,Buddleja davidii Franch.,species
+1157,695NB,Bunias orientalis L.,species
+1158,NVVR,Bupleurum rotundifolium L.,species
+1159,5X65N,Buxus sempervirens L.,species
+1161,PJC6,Calendula arvensis L.,species
+1162,PJDZ,Calendula officinalis L.,species
+1163,PTRG,Callistephus chinensis (L.) Nees,species
+1164,Q9CS,Camelina alyssum (Mill.) Thell.,species
+1165,C6MWM,Camelina microcarpa subsp. microcarpa,subspecies
+1167,Q9DM,Camelina sativa (L.) Crantz,species
+1168,Q9DM,Camelina sativa (L.) Crantz,species
+1169,698MR,"Cameraria ohridella Deschka & Dimić, 1986",species
+1170,68X3V,Campanula alliariifolia Willd.,species
+1171,QBKK,Campanula medium L.,species
+1172,QBRH,Campanula portenschlagiana Schult.,species
+1173,699XG,Campsis radicans (L.) Seem.,species
+1176,QM84,Cannabis sativa L.,species
+1177,QT37,Capsella bursa-pastoris (L.) Medik.,species
+1178,QT4R,Capsicum annuum L.,species
+1179,QZWK,Caragana arborescens Lam.,species
+1180,68ZXN,"Carassius auratus (Linnaeus, 1758)",species
+1182,R6M5,Carduus acanthoides L.,species
+1183,R785,Carduus × beckianus Soó,species
+1184,99GP6,Carduus × leptocephalus Peterm.,species
+1185,R78H,Carduus × orthocephalus Wallr.,species
+1186,R78M,Carduus × solteszii Budai,species
+1187,R78N,Carduus × textorisianus Margittai,species
+1188,RBS5,Carex scoparia Schkuhr ex Willd.,species
+1189,RCKN,Carex vulpinoidea Michx.,species
+1190,RH96,Carthamus tinctorius L.,species
+1191,RHSS,Carya ovata (Mill.) K.Koch,species
+1193,5XCVW,Castanea sativa Mill.,species
+1194,RRY6,Catalpa bignonioides Walter,species
+1195,RWQN,Caucalis platycarpos L.,species
+1196,5XGKD,Celtis australis L.,species
+1197,S4SV,Celtis occidentalis L.,species
+1200,S68Z,Centaurea calcitrapa L.,species
+1201,S6FY,Centaurea diffusa Lam.,species
+1202,69GBG,Centaurea nigrescens Willd.,species
+1203,S7GJ,Centaurea solstitialis L.,species
+1204,5XJ6Q,Cephalaria gigantea (Ledeb.) Bobrov,species
+1205,SKLS,Cerastium tomentosum L.,species
+1206,MG8ST,"Ceroplastes Gray, 1828",genus
+1207,TJJD,Chamaecyparis lawsoniana (A.Murray bis) Parl.,species
+1212,5XQW8,Chelidonium majus L.,species
+1216,TXCW,Chenopodium ficifolium Sm.,species
+1217,TXDF,Chenopodium giganteum D.Don,species
+1223,9JZ9K,Chenopodium opulifolium Schrad. ex W.D.J.Koch & Ziz,species
+1226,TXJW,Chenopodium probstii Aellen,species
+1229,TXM8,Chenopodium striatiforme Murr,species
+1230,92Y28,Chenopodium strictum Roth,species
+1231,TXPR,Chenopodium × thellungii Murr,species
+1233,TXNQ,Chenopodium vulvaria L.,species
+1234,TXPX,Chenopodium × zahnii Murr,species
+1235,5YD8L,Chorispora tenella (Pall.) DC.,species
+1238,V7JJ,Cicer arietinum L.,species
+1239,V857,Cichorium intybus L.,species
+1240,VMHN,Citrullus lanatus (Thunb.) Matsum. & Nakai,species
+1241,VRBD,"Clarias gariepinus (Burchell, 1822)",species
+1243,VJSP2,Claytonia perfoliata Donn. ex Willd.,species
+1246,WZRJ,"Coleotechnites piceaella (Kearfott, 1903)",species
+1247,X4RW,Collomia grandiflora Lindl.,species
+1248,XFFY,Commelina communis L.,species
+1249,XP6T,Conium maculatum L.,species
+1250,XV57,Conringia orientalis (L.) Dumort.,species
+1251,XV6K,Consolida ajacis (L.) Schur,species
+1254,5ZXFY,Convolvulus arvensis L.,species
+1255,XZV9,Convolvulus tricolor L.,species
+1258,99MNK,Conyzigeron × huelsenii (Vatke) Rauschert,species
+1259,YD7R,"Coregonus albula (Linnaeus, 1758)",species
+1260,6B28S,"Coregonus maraena (Bloch, 1779)",species
+1261,6B29Z,"Coregonus migratorius (Georgi, 1775)",species
+1262,YDB5,"Coregonus peled (Gmelin, 1789)",species
+1263,YDBG,"Coregonus renke (Schrank, 1783)",species
+1264,YDCB,"Coregonus wartmanni (Bloch, 1784)",species
+1265,6B3DT,Coriandrum sativum L.,species
+1266,YGGQ,Cornus alba L.,species
+1267,YGGV,Cornus alternifolia L.fil.,species
+1268,YGMJ,Cornus sericea L.,species
+1273,YHMK,Corrigiola litoralis L.,species
+1275,6B78B,Corylus colurna L.,species
+1276,6B7N7,Cosmos bipinnatus Cav.,species
+1277,YWY7,Cota austriaca (Jacq.) Sch.Bip.,species
+1278,YXWV,Cotoneaster divaricatus Rehder & E.H.Wilson,species
+1279,YXYX,Cotoneaster horizontalis Decne.,species
+1281,6BFRM,Crepis foetida L.,species
+1282,6BFHG,Crepis neglecta L.,species
+1284,ZT4H,Cryphonectria parasitica (Murrill) M.E. Barr,species
+1285,326B3,"Ctenopharyngodon idella (Valenciennes, 1844)",species
+1286,329TQ,Cucumis melo L.,species
+1287,6BPNL,Cucumis sativus L.,species
+1288,329ZP,Cucurbita pepo L.,species
+1290,32LQR,Cuscuta epilinum Weihe,species
+1292,32SMF,Cyclamen purpurascens Mill.,species
+1293,8R3GX,Cycloloma atriplicifolium (Spreng.) J.M.Coult.,species
+1294,MYXHM,"Cydalima perspectalis (Walker, 1859)",species
+1295,32ZLZ,Cydonia oblonga Mill.,species
+1296,VJTMB,"Cymbalaria muralis G.Gaertn., B.Mey. & Scherb.",species
+1297,6C72Q,Cynodon dactylon (L.) Pers.,species
+1298,33B2B,Cynosurus echinatus L.,species
+1299,33HYJ,"Cyprinus rubrofuscus Lacepède, 1803",species
+1300,MZ3JW,Dasypyrum villosum (L.) P.Candargy,species
+1301,34B67,Datura innoxia Mill.,species
+1302,34B7C,Datura stramonium L.,species
+1303,6CFRZ,Daucus carota L.,species
+1304,34ZD5,Descurainia sophia (L.) Webb ex Prantl,species
+1305,6CPLC,Deutzia scabra Thunb.,species
+1306,6CPY4,Dianthus barbatus L.,species
+1307,6CPZ5,Dianthus caryophyllus L.,species
+1308,6CPPZ,Dianthus gratianopolitanus Vill.,species
+1309,35NZB,"Dichromothrips corbetti (Priesner, 1936)",species
+1310,3638W,Digitalis lanata Ehrh.,species
+1311,3639Z,Digitalis purpurea L.,species
+1312,363K7,Digitaria ischaemum (Schreb.) Muhl.,species
+1313,363RV,Digitaria sanguinalis (L.) Scop.,species
+1314,364SH,"Dikerogammarus bispinosus Martynov, 1925",species
+1315,364SM,"Dikerogammarus haemobaphes (Eichwald, 1841)",species
+1316,364SQ,"Dikerogammarus villosus (Sowinsky, 1894)",species
+1317,6D84Z,Dinebra retroflexa (Vahl) Panz.,species
+1318,6D8KG,Diospyros lotus L.,species
+1319,36NTB,Diplotaxis muralis (L.) DC.,species
+1320,6D9JX,Diplotaxis tenuifolia (L.) DC.,species
+1321,36Q8Q,Dipsacus sativus (L.) Honck.,species
+1323,36ZJ7,Dittrichia graveolens (L.) Greuter,species
+1324,37HD9,Dothistroma septosporum (Dorog.) M. Morelet,species
+1325,37KDC,Dracocephalum thymiflorum L.,species
+1326,38DKH,Ecballium elaterium (L.) A.Rich.,species
+1327,6DW3C,Echinacea purpurea (L.) Moench,species
+1328,38GZJ,Echinochloa crus-galli (L.) P.Beauv.,species
+1329,38H3B,Echinochloa oryzoides (Ard.) Fritsch,species
+1330,38HFQ,Echinocystis lobata (Michx.) Torr. & A.Gray,species
+1331,38J24,"Echinogammarus ischnus (Stebbing, 1899)",species
+1332,38J3W,"Echinogammarus trichiatus (Martynov, 1932)",species
+1333,6DXH3,Egeria densa Planch.,species
+1334,38V65,Eichhornia crassipes (Mart.) Solms,species
+1335,38X9R,Elaeagnus angustifolia L.,species
+1336,39C7P,Elodea canadensis Michx.,species
+1337,39C89,Elodea nuttallii (Planch.) H.St.John,species
+1338,39CZ2,Elsholtzia ciliata (Thunb.) Hyl.,species
+1339,6G4VY,Epilobium ciliatum Raf.,species
+1340,6G52L,Epilobium × floridulum Smejkal,species
+1341,6FSQD,Epilobium × interjectum Smejkal,species
+1342,VK88X,Epilobium komarovianum H.Lév.,species
+1345,6GB7B,Eranthis hyemalis (L.) Salisb.,species
+1346,6GCW8,Erechtites hieraciifolius (L.) Raf. ex DC.,species
+1347,6GNJG,Erigeron annuus (L.) Pers.,species
+1348,6GPVP,Erigeron speciosus (Lindl.) DC.,species
+1349,6GQ7J,Erigeron strigosus Muhl. ex Willd.,species
+1350,3B3LX,"Eriocheir sinensis H. Milne Edwards, 1853",species
+1351,3B93R,Erodium malacoides (L.) L'Hér.,species
+1353,6GQNW,Erucastrum gallicum (Willd.) O.E.Schulz,species
+1354,3B9VL,Erucastrum nasturtiifolium (Poir.) O.E.Schulz,species
+1355,3BBH6,Erysimum cheiranthoides L.,species
+1356,3BBRH,Erysimum repandum L.,species
+1357,3BH52,Eschscholzia californica Cham.,species
+1359,3CGXQ,Euonymus japonicus Thunb.,species
+1360,3CNSC,Euphorbia exigua L.,species
+1361,3CNSM,Euphorbia falcata L.,species
+1362,3CP4R,Euphorbia helioscopia L.,species
+1363,3CPFX,Euphorbia lathyris L.,species
+1364,3CPMM,Euphorbia maculata L.,species
+1365,3CPP5,Euphorbia marginata Pursh,species
+1366,3CQ74,Euphorbia peplus L.,species
+1367,6GZX6,Euphorbia platyphyllos L.,species
+1368,3CQCF,Euphorbia prostrata Aiton,species
+1369,3CQPR,Euphorbia segetalis L.,species
+1370,3CQXR,Euphorbia taurinensis All.,species
+1371,3DS8L,Fagopyrum esculentum Moench,species
+1372,3DS9T,Fagopyrum tataricum (L.) Gaertn.,species
+1375,3DTR4,Fallopia convolvulus (L.) Á.Löve,species
+1379,6HVJJ,Ficus carica L.,species
+1380,6JBPX,Foeniculum vulgare Mill.,species
+1381,6JJ2R,Forsythia suspensa (Thunb.) Vahl,species
+1382,6JN3T,Fraxinus americana L.,species
+1383,6JMHT,Fraxinus pennsylvanica Marshall,species
+1384,6K3N6,Fumaria capreolata L.,species
+1385,6JS2P,Fumaria officinalis L.,species
+1386,6K3PT,Fumaria schleicheri Soy.-Will.,species
+1387,6JRPV,Fumaria vaillantii Loisel.,species
+1389,6K7MT,Gaillardia aristata Pursh,species
+1390,6K7NT,Gaillardia pulchella Foug.,species
+1391,3F3DY,Galega officinalis L.,species
+1393,3F3Y7,Galeopsis ladanum L.,species
+1394,3F3ZT,Galeopsis segetum Neck.,species
+1395,3F55R,Galinsoga parviflora Cav.,species
+1396,3F55T,Galinsoga quadriradiata Ruiz & Pav.,species
+1397,3F6J8,Galium spurium L.,species
+1398,3F6MX,Galium tricornutum Dandy,species
+1399,6JXF7,Galium verrucosum Huds.,species
+1400,3FCKT,"Gasterosteus aculeatus Linnaeus, 1758",species
+1401,6KCC8,Geranium dissectum L.,species
+1402,6KDH8,Geranium molle L.,species
+1403,3FV3P,Geranium purpureum Vill.,species
+1405,3FV3V,Geranium pyrenaicum Burm. f.,species
+1406,3FV6Y,Geranium sibiricum L.,species
+1407,6KDBC,Geranium tuberosum L.,species
+1408,3G66N,Glaucium corniculatum (L.) Rudolph,species
+1409,6KGMW,Glaucium flavum Crantz,species
+1410,6KH48,Gleditsia triacanthos L.,species
+1411,3GF5W,Glycine max (L.) Merr.,species
+1412,3GFQT,Glycyrrhiza glabra L.,species
+1413,6KSR7,Grindelia squarrosa (Pursh) Dunal,species
+1414,3HLGN,Guizotia abyssinica (L.fil.) Cass.,species
+1415,3HR6W,Gymnocladus dioicus (L.) K.Koch,species
+1416,3HXYK,Gypsophila perfoliata L.,species
+1417,3HY24,Gypsophila scorzonerifolia Ser.,species
+1418,3K5TS,Helianthus annuus L.,species
+1419,3K5XG,Helianthus × laetiflorus Pers.,species
+1421,3K626,Helianthus salicifolius A.Dietr.,species
+1422,3K63N,Helianthus tuberosus L.,species
+1423,B3GQQ,Heliopsis helianthoides (L.) Sweet,species
+1424,3KCFQ,Heliotropium europaeum L.,species
+1426,6LNKM,Helleborus niger L.,species
+1427,8S4ZD,Helleborus viridis L.,species
+1428,3KGL4,Helminthotheca echioides (L.) Holub,species
+1429,3KKX8,Hemerocallis fulva (L.) L.,species
+1430,3KKXG,Hemerocallis lilioasphodelus L.,species
+1431,3KQ9P,"Hemimysis anomala G.O. Sars, 1907",species
+1432,6LS3M,Heracleum mantegazzianum Sommier & Levier,species
+1433,3L2KH,Herniaria hirsuta L.,species
+1434,3L55M,Hesperis pycnotricha Borbás & Degen,species
+1435,3LFPF,Heuchera americana L.,species
+1436,3LKBM,Hibiscus syriacus L.,species
+1437,3LKCV,Hibiscus trionum L.,species
+1438,3M2F8,Hippophae rhamnoides L.,species
+1439,3MNWP,Hordeum distichon L.,species
+1440,3MNYC,Hordeum jubatum L.,species
+1441,3MNZ5,Hordeum marinum Huds.,species
+1442,3MNZG,Hordeum murinum L.,species
+1443,6MDJP,Hordeum vulgare L.,species
+1444,3MQV4,Hosta plantaginea (Lam.) Asch.,species
+1446,6MH3S,Hyacinthus orientalis L.,species
+1447,3N52R,Hydrilla verticillata (L.f.) Royle,species
+1448,3NGSC,Hylotelephium spectabile (Boreau) H.Ohba,species
+1449,3NM3P,Hyoscyamus niger L.,species
+1450,6MR5M,"Hypophthalmichthys molitrix (Valenciennes, 1844)",species
+1451,6N2TM,"Hypophthalmichthys nobilis (Richardson, 1845)",species
+1452,6MT5F,Hyssopus officinalis L.,species
+1453,3P7C4,Iberis pinnata L.,species
+1454,3P7D4,Iberis umbellata L.,species
+1455,6N77K,Ilex aquifolium L.,species
+1456,3PJFZ,Impatiens balfourii Hook.fil.,species
+1457,3PJG3,Impatiens balsamina L.,species
+1458,3PJSV,Impatiens glandulifera Royle,species
+1459,3PK9K,Impatiens parviflora DC.,species
+1460,3PT6J,Inula helenium L.,species
+1461,6MWFS,Ipomoea purpurea (L.) Roth,species
+1462,6N8GR,Ipomoea violacea L.,species
+1464,3PZQ9,Iris × germanica L.,species
+1466,3Q3HY,Isatis tinctoria L.,species
+1468,3QK5Q,"Jaera (Jaera) sarsi Valkanov, 1936",species
+1469,6NFM9,Juglans nigra L.,species
+1470,6NFN8,Juglans regia L.,species
+1471,3QTND,Juncus dudleyi Wiegand,species
+1472,6NGWJ,Juncus tenuis Willd.,species
+1473,6NJLF,"Katamysis warpachowskyi G.O. Sars, 1893",species
+1474,3R6JN,Kerria japonica (L.) DC.,species
+1475,6NKXH,Kickxia elatine (L.) Dumort.,species
+1476,6NKYY,Kickxia spuria (L.) Dumort.,species
+1477,3RBVV,Koelreuteria paniculata Laxm.,species
+1478,3RL8H,Laburnum alpinum (Mill.) Bercht. & J.Presl,species
+1479,3RL8J,Laburnum anagyroides Medik.,species
+1480,3RTC5,Lactuca sativa L.,species
+1481,3RTCK,Lactuca serriola L.,species
+1482,6NSGF,Lactuca tatarica (L.) C.A.Mey.,species
+1483,3RWFV,Lagenaria siceraria (Molina) Standl.,species
+1484,3RXZ3,Lagurus ovatus L.,species
+1485,3S28Q,Lamium album L.,species
+1486,6NW79,Lamium amplexicaule L.,species
+1487,3S2DF,Lamium purpureum L.,species
+1488,3S9RB,Lappula consanguinea (Fisch. & C.A.Mey.) Gürke,species
+1490,3SKSC,Lathyrus annuus L.,species
+1491,6P332,Lathyrus aphaca L.,species
+1492,3SKYF,Lathyrus odoratus L.,species
+1493,3SL24,Lathyrus sativus L.,species
+1494,3SL39,Lathyrus tuberosus L.,species
+1495,6P3VZ,Lavandula angustifolia Mill.,species
+1497,3SXFN,Legousia speculum-veneris (L.) Chaix,species
+1498,3T4SH,Lemna minuta Kunth,species
+1499,6P8RY,Lens culinaris Medik.,species
+1500,6P8L5,Leonurus cardiaca L.,species
+1501,C7JMY,Lepidium campestre Brot. ex Nyman,species
+1502,6P8ZX,Lepidium densiflorum Schrad.,species
+1503,6PBCK,Lepidium heterophyllum (DC.) Benth.,species
+1504,6PBG5,Lepidium latifolium L.,species
+1505,6PBC8,Lepidium ruderale L.,species
+1506,6PBBR,Lepidium sativum L.,species
+1507,6PB3R,Lepidium virginicum L.,species
+1508,3TG2F,"Lepomis gibbosus (Linnaeus, 1758)",species
+1509,6Q236,Lepyrodiclis holosteoides (C.A.Mey.) Fenzl ex Fisch. & C.A.Mey.,species
+1510,6Q3WX,Leucanthemum × superbum (Bergmans ex J.W.Ingram) D.H.Kent,species
+1512,VJTPC,Levisticum officinale W.D.J.Koch,species
+1513,6PYSK,Ligustrum ovalifolium Hassk.,species
+1514,6PYBX,Lilium candidum L.,species
+1515,6QDJL,"Limnomysis benedeni Czerniavsky, 1882",species
+1516,72D56,Limnophila sessiliflora (Vahl) Blume,species
+1517,72F65,Linaria arvensis (L.) Desf.,species
+1518,72GLL,Linaria incarnata (Vent.) Spreng.,species
+1519,3V528,Linum usitatissimum L.,species
+1520,3VCGS,Liriodendron tulipifera L.,species
+1522,72LQZ,Lobularia maritima (L.) Desv.,species
+1523,3VVXG,Lolium multiflorum Lam.,species
+1524,3VVXR,Lolium remotum Schrank,species
+1525,72MWC,Lolium temulentum L.,species
+1526,3VZ56,Lonicera caprifolium L.,species
+1527,3VZBF,Lonicera maackii (Rupr.) Maxim.,species
+1528,6QMQP,Lonicera periclymenum L.,species
+1529,3VZH4,Lonicera tatarica L.,species
+1530,6R28C,Lunaria annua L.,species
+1531,3WF58,Lupinus albus L.,species
+1532,3WFG8,Lupinus luteus L.,species
+1533,3WFL5,Lupinus polyphyllus Lindl.,species
+1535,3WKGV,Lycium barbarum L.,species
+1536,3WKHM,Lycium chinense Mill.,species
+1538,3WN34,Lycopsis arvensis L.,species
+1539,3WZNV,Macleaya cordata (Willd.) R.Br.,species
+1540,3WZQK,Maclura pomifera (Raf. ex Sarg.) C.K.Schneid.,species
+1544,3XQCC,Malope trifida Cav.,species
+1546,936PT,Malva × adulterina Wallr.,species
+1548,6R4X7,Malva moschata L.,species
+1549,3XR9F,Malva neglecta Wallr.,species
+1550,3XRBH,Malva pusilla Sm.,species
+1551,3XRCL,Malva sylvestris L.,species
+1552,6QT8R,Malva verticillata L.,species
+1553,72TQ8,Marrubium × paniculatum Desr.,species
+1554,3Y8KQ,Marrubium vulgare L.,species
+1555,736RP,Matricaria discoidea DC.,species
+1556,3YNNJ,Medicago polymorpha L.,species
+1557,3YNP4,Medicago rigidula (L.) All.,species
+1558,3YNPB,Medicago sativa L.,species
+1560,3YSD7,"Megachile sculpturalis Smith, 1853",species
+1561,6QY35,Melampyrum arvense L.,species
+1562,5NQC,Melilotus (L.) Mill.,genus
+1563,3ZFBQ,Melilotus albus Medik.,species
+1564,3ZFCK,Melilotus indicus (L.) All.,species
+1565,3ZFDD,Melilotus officinalis (L.) Pall.,species
+1566,6QYG7,Melilotus wolgicus Poir.,species
+1567,3ZJGV,Melissa officinalis L.,species
+1569,72ZGR,Mentha × piperita L.,species
+1570,7KC6W,Mentha spicata subsp. spicata,subspecies
+1571,3ZSB4,Mentha suaveolens Ehrh.,species
+1572,3ZSDQ,Mentha × villosa Huds.,species
+1573,3ZTJ8,Mercurialis annua L.,species
+1574,3ZWVY,Mertensia sibirica (L.) G.Don,species
+1575,3ZYGR,Mesembryanthemum crystallinum L.,species
+1576,6RBGS,Mespilus germanica L.,species
+1577,42D4S,Metasequoia glyptostroboides Hu & W.C.Cheng,species
+1578,4353G,"Micropterus salmoides (Lacepède, 1802)",species
+1582,43LGW,Mirabilis jalapa L.,species
+1583,43NMT,Misopates orontium (L.) Raf.,species
+1584,6RMY8,Moenchia mantica (L.) Bartl.,species
+1585,44FPX,Morus alba L.,species
+1586,44FTD,Morus nigra L.,species
+1587,QVFMP,Muscari armeniacum Leichtlin ex Baker,species
+1588,44RPK,Myagrum perfoliatum L.,species
+1589,455T6,Myosotis arvensis (L.) Hill,species
+1590,45DGC,Myrrhis odorata (L.) Scop.,species
+1592,45KZD,Najas guadalupensis (Spreng.) Magnus,species
+1593,6RSNC,Narcissus poeticus L.,species
+1594,73SNC,Narcissus pseudonarcissus L.,species
+1596,46HS5,"Neogobius fluviatilis (Pallas, 1814)",species
+1599,6RW9X,"Neogobius melanostomus (Pallas, 1814)",species
+1600,46XJB,Nepeta cataria L.,species
+1601,6S8XN,Nepeta racemosa Lam.,species
+1602,477FM,Neslia paniculata (L.) Desv.,species
+1603,749S3,Nicandra physalodes (L.) Gaertn.,species
+1604,47CZN,Nicotiana alata Link & Otto,species
+1605,47D6X,Nicotiana rustica L.,species
+1606,47D7F,Nicotiana tabacum L.,species
+1607,6RXV5,Nigella arvensis L.,species
+1608,749V4,Nigella damascena L.,species
+1609,47PF6,Nonea lutea (Desr.) DC.,species
+1610,47PFY,Nonea rosea (M.Bieb.) Link,species
+1611,74DTZ,"Obesogammarus obesus (G.O. Sars, 1894)",species
+1612,48GBK,Ocimum basilicum L.,species
+1613,63FVB,Oenothera L.,genus
+1614,48XQP,Oenothera biennis L.,species
+1616,74JQN,Oenothera × drawertii Renner ex Rostański,species
+1617,6SK2H,Oenothera × fallax Renner,species
+1618,48XVS,Oenothera glazioviana Micheli,species
+1619,48XX5,Oenothera × hoelscheri Renner ex Rostański,species
+1620,48XXP,Oenothera × issleri Renner ex Rostański,species
+1621,VK894,Oenothera oakesiana (A.Gray) J.W.Robbins ex S.Watson,species
+1622,CDTRF,Oenothera × oehlkersii Kappus ex Rostański,species
+1623,48Y3T,Oenothera parviflora L.,species
+1624,VN86D,Oenothera pycnocarpa G.F.Atk. & Bartlett,species
+1625,48Y6K,Oenothera × rubricaulis Kleb.,species
+1626,6SJD4,Oenothera × slovaca V.Jehlík & Rostański,species
+1627,48Y8G,Oenothera suaveolens Desf. ex Pers.,species
+1628,74KWQ,Omphalodes verna Moench,species
+1629,49JFF,"Oncorhynchus mykiss (Walbaum, 1792)",species
+1630,9CLHZ,Onobrychis Mill.,genus
+1631,49L68,Onobrychis viciifolia Scop.,species
+1632,49LG8,Onopordum acanthium L.,species
+1633,6T3NQ,Opuntia phaeacantha Engelm.,species
+1634,7W5YK,"Orconectes limosus (Rafinesque, 1817)",species
+1635,6T53D,"Oreochromis mossambicus (Peters, 1852)",species
+1636,758GT,Ornithogalum nutans L.,species
+1637,6SWBW,Ornithopus perpusillus L.,species
+1638,6SW2Y,Orobanche cernua Loefl.,species
+1639,75865,Orobanche minor Sm.,species
+1640,6SZF3,Oryza sativa L.,species
+1641,6TCXD,Ostrya carpinifolia Scop.,species
+1644,75FCV,Oxalis bowiei W.T.Aiton ex G.Don,species
+1645,75F72,Oxalis corniculata L.,species
+1646,6TF7H,Oxalis debilis Kunth,species
+1647,75F8P,Oxalis dillenii Jacq.,species
+1649,75F5J,Oxalis latifolia Kunth,species
+1652,7W7FR,"Pacifastacus leniusculus (Dana, 1852)",species
+1653,4BYC9,Paeonia officinalis L.,species
+1654,4BYCL,Paeonia peregrina Mill.,species
+1655,4CD8S,Panicum capillare L.,species
+1656,4CDHS,Panicum dichotomiflorum Michx.,species
+1657,6TMS7,Panicum miliaceum L.,species
+1660,4CJ7N,Papaver alpinum L.,species
+1661,4CJ8B,Papaver argemone L.,species
+1663,7KGHM,Papaver dubium subsp. stevenianum (Mikheev) Kubát & Šípošová,subspecies
+1665,6TM6N,Papaver rhoeas L.,species
+1666,4CJK3,Papaver somniferum L.,species
+1667,76477,"Parectopa robiniella Clemens, 1863",species
+1668,4DMC4,Parietaria officinalis L.,species
+1669,4DRMX,Paronychia kapela (Hacq.) A.Kern.,species
+1671,4DTTQ,Parthenocissus quinquefolia (L.) Planch.,species
+1672,6TSTD,Parthenocissus tricuspidata (Siebold & Zucc.) Planch.,species
+1673,6TVD7,Paulownia tomentosa (Thunb.) Steud.,species
+1674,6TW5F,"Pealius azaleae (Baker & Moles, 1920)",species
+1675,6V3SC,"Perccottus glenii Dybowski, 1877",species
+1676,4F3C7,Periploca graeca L.,species
+1677,4F9VK,Persicaria orientalis (L.) Spach,species
+1678,76WCQ,Petroselinum crispum (Mill.) A.W.Hill,species
+1679,84KDF,Petunia × atkinsiana D.Don ex Loudon,species
+1680,4FJZW,Phacelia tanacetifolia Benth.,species
+1682,777GZ,Phalaris canariensis L.,species
+1683,778SJ,Phaseolus coccineus L.,species
+1684,778SQ,Phaseolus vulgaris L.,species
+1685,4FYYT,Phelipanche ramosa (L.) Pomel,species
+1686,4G4L8,Philadelphus coronarius L.,species
+1688,6VC83,Phlox paniculata L.,species
+1689,4GJB8,Phlox subulata L.,species
+1690,RWCGW,"Phyllonorycter robiniella (Clemens, 1860)",species
+1692,4HFJV,Physalis peruviana L.,species
+1693,6VHZC,Physocarpus opulifolius (L.) Maxim.,species
+1694,4HJJW,Physostegia virginiana (L.) Benth.,species
+1695,4HM9F,Phytolacca americana L.,species
+1698,4J24Y,Pinus contorta Douglas ex Loudon,species
+1699,4J2D5,Pinus nigra J.F.Arnold,species
+1700,77L6F,Pinus peuce Griseb.,species
+1701,4J2HY,Pinus strobus L.,species
+1702,4J2KS,Pinus wallichiana (Wall. ex D.Don) A.B.Jacks.,species
+1703,4J9VH,Pistia stratiotes L.,species
+1704,77MMF,Pisum sativum L.,species
+1705,6VNYZ,Plantago aristata Michx.,species
+1706,77NS2,Plantago coronopus L.,species
+1707,4JN38,Platanus × hispanica Mill. ex Münchh.,species
+1708,4JN3N,Platanus occidentalis L.,species
+1709,4JN3Q,Platanus orientalis L.,species
+1710,4JPPV,Platycladus orientalis (L.) Franco,species
+1711,4KSF6,"Poecilia reticulata Peters, 1859",species
+1712,4KSFJ,"Poecilia sphenops Valenciennes, 1846",species
+1713,4L3GD,Polycarpon tetraphyllum (L.) L.,species
+1714,6W65D,"Polyodon spathula (Walbaum, 1792)",species
+1715,6W7RT,"Ponticola kessleri (Günther, 1861)",species
+1716,4LVK9,Populus × canadensis Moench,species
+1718,6W7KX,Portulaca grandiflora Hook.,species
+1719,4M2DF,Portulaca oleracea L.,species
+1721,VM7PL,Potentilla indica (Andrews) Th.Wolf,species
+1722,4M5H5,Potentilla intermedia L.,species
+1723,77Z2S,"Proterorhinus semilunaris (Heckel, 1837)",species
+1724,4N8NW,Prunus armeniaca L.,species
+1725,4N8QW,Prunus cerasifera Ehrh.,species
+1727,4N8SY,Prunus domestica L.,species
+1728,4N8T5,Prunus dulcis (Mill.) D.A.Webb,species
+1729,4N9C4,Prunus × eminens Beck,species
+1730,4N8WH,Prunus insititia L.,species
+1731,4N8Y3,Prunus laurocerasus L.,species
+1732,77ZQW,Prunus mahaleb L.,species
+1734,4N97Q,Prunus serotina Ehrh.,species
+1735,4N97Q,Prunus serotina Ehrh.,species
+1738,4P9F3,"Pseudorasbora parva (Temminck & Schlegel, 1846)",species
+1739,6WHCL,Pseudotsuga menziesii (Mirb.) Franco,species
+1740,4PSYD,Ptelea trifoliata L.,species
+1741,4QPXZ,Pyracantha coccinea M.Roem.,species
+1742,4QWMZ,Pyrus communis L.,species
+1743,4R5Z8,Quercus rubra L.,species
+1744,4RFQ5,Ranunculus arvensis L.,species
+1745,4RJXQ,Raphanus raphanistrum L.,species
+1746,4RJXT,Raphanus sativus L.,species
+1747,4RKXB,Rapistrum rugosum (L.) All.,species
+1748,4RST3,Reseda alba L.,species
+1749,794P6,Reseda lutea L.,species
+1750,4RSWB,Reseda luteola L.,species
+1751,78TKC,Rhaponticum repens (L.) Hidalgo,species
+1752,5KVZZ,Rhaponticum scariosum subsp. rhaponticum (L.) Greuter,subspecies
+1753,4S6BX,Rheum × rhabarbarum L.,species
+1754,6X6ZT,"Rhodeus amarus (Bloch, 1782)",species
+1755,4SJTQ,Rhodotypos scandens (Thunb.) Makino,species
+1756,4SND6,Rhus typhina L.,species
+1757,4SY7V,Ribes aureum Pursh,species
+1759,4SYJD,Ribes rubrum L.,species
+1760,4T27V,Ricinus communis L.,species
+1762,4T7YV,Robinia pseudoacacia L.,species
+1763,L2LQD,Robinia viscosa Michx. ex Vent.,species
+1765,4TD2S,Rosa chinensis Jacq.,species
+1766,4TDL3,Rosa majalis Herrm.,species
+1767,4TDNJ,Rosa multiflora Thunb.,species
+1768,4TDX9,Rosa rugosa Thunb.,species
+1769,4TJ4K,Rubia tinctorum L.,species
+1770,4TJGY,Rubus armeniacus Focke,species
+1771,4TL3H,Rubus occidentalis L.,species
+1772,4TL9N,Rubus phoenicolasius Maxim.,species
+1773,4TMB7,Rudbeckia hirta L.,species
+1774,799R2,Rudbeckia laciniata L.,species
+1776,6WXCN,Rumex patientia L.,species
+1777,4TPY7,Rumex thyrsiflorus Fingerh.,species
+1778,4TPYM,Rumex triangulivalvis (Danser) Rech.fil.,species
+1779,4TT2S,Ruta graveolens L.,species
+1780,4TYFK,Sagina apetala Ard.,species
+1781,4TYSL,Sagittaria subulata (L.) Buchenau,species
+1783,6XG35,"Salvelinus fontinalis (Mitchill, 1814)",species
+1784,6XH46,Salvia officinalis L.,species
+1785,6XGTK,Salvia sclarea L.,species
+1786,79L79,Saponaria ocymoides L.,species
+1787,6XL6Y,Saponaria officinalis L.,species
+1788,6XQFN,Satureja hortensis L.,species
+1790,6XRWR,Scandix pecten-veneris L.,species
+1791,4V4RW,"Sceliphron curvatum (F. Smith, 1870)",species
+1792,4VNGF,Scleranthus annuus L.,species
+1793,6XXTX,Sclerochloa dura (L.) P.Beauv.,species
+1794,4W83N,Secale cereale L.,species
+1795,4W9DP,Sedum hispanicum L.,species
+1797,4W9WD,Sedum sarmentosum Bunge,species
+1799,4WJ47,Sempervivum tectorum L.,species
+1800,6YGST,Senecio inaequidens DC.,species
+1801,4WNPH,Senecio vernalis Waldst. & Kit.,species
+1802,4WNRF,Senecio vulgaris L.,species
+1803,4WZFJ,Seseli rigidum Waldst. & Kit.,species
+1804,4X2CK,Setaria faberi R.A.W.Herrm.,species
+1805,6YKG8,Setaria italica (L.) P.Beauv.,species
+1807,6YMB6,Setaria verticillata (L.) P.Beauv.,species
+1809,4X2NF,Setaria viridis (L.) P.Beauv.,species
+1810,4X4G4,Sherardia arvensis L.,species
+1811,4X4PZ,Shinnersia rivularis (A.Gray) R.M.King & H.Rob.,species
+1812,4X7H6,Sicyos angulatus L.,species
+1814,4XBY6,Silene cretica L.,species
+1815,4XC27,Silene dichotoma Ehrh.,species
+1816,4XC79,Silene gallica L.,species
+1817,4XDGW,Silene × hampeana Meusel & Werner,species
+1818,7KS4J,Silene latifolia subsp. alba (Mill.) Greuter & Burdet,subspecies
+1819,4XCQG,Silene noctiflora L.,species
+1820,6Z2GK,Silene pendula L.,species
+1821,4XDJ7,Siler montanum Crantz,species
+1822,6YPNF,Silybum marianum (L.) Gaertn.,species
+1823,4XJCV,Sinapis arvensis L.,species
+1824,4XRSY,Sisymbrium altissimum L.,species
+1825,4XRZ8,Sisymbrium irio L.,species
+1826,4XS2D,Sisymbrium loeselii L.,species
+1827,4XS49,Sisymbrium officinale (L.) Scop.,species
+1828,6YSJS,Sisymbrium orientale L.,species
+1829,4XS5K,Sisymbrium polymorphum (Murray) Roth,species
+1830,4XS9C,Sisymbrium volgense M.Bieb. ex E.Fourn.,species
+1831,4XSJM,Sisyrinchium bermudiana L.,species
+1832,4XY82,Smyrnium perfoliatum L.,species
+1834,4XZYM,Solanum citrullifolium A.Br.,species
+1835,7WYCK,Solanum decipiens Opiz,species
+1836,6YTHR,Solanum melongena L.,species
+1837,4Y3H2,Solanum nigrum L.,species
+1838,4Y3RD,Solanum physalifolium Rusby,species
+1839,4Y45Y,Solanum scabrum Mill.,species
+1840,4Y4K6,Solanum tuberosum L.,species
+1841,4Y4PP,Solanum villosum Mill.,species
+1842,4Y752,Solidago altissima L.,species
+1843,4Y76S,Solidago canadensis L.,species
+1844,6Z4X2,Solidago gigantea Aiton,species
+1845,4Y969,Sonchus arvensis L.,species
+1846,4Y96B,Sonchus asper (L.) Hill,species
+1847,4Y9CR,Sonchus oleraceus L.,species
+1849,4YB6Z,Sorbaria sorbifolia (L.) A.Braun,species
+1850,4YC6L,Sorghum bicolor (L.) Moench,species
+1851,6YVQ5,Sorghum halepense (L.) Pers.,species
+1852,6YX5D,Spergula arvensis L.,species
+1853,4Z547,Spinacia oleracea L.,species
+1854,646D8,Spiraea L.,genus
+1855,4Z6FX,Spiraea chamaedryfolia L.,species
+1856,4Z6H5,Spiraea douglasii Hook.,species
+1857,4Z6KJ,Spiraea japonica L.fil.,species
+1858,4Z6RT,Spiraea tomentosa L.,species
+1859,7NMFH,Spiraea × vanhouttei (Briot) Zabel,species
+1860,6ZD3K,Sporobolus cryptandrus (Torr.) A.Gray,species
+1861,4ZFBH,Stachys annua (L.) L.,species
+1862,4ZFC6,Stachys arvensis (L.) L.,species
+1863,6ZGPC,Stachys byzantina K.Koch,species
+1866,53PNG,Symphoricarpos orbiculatus Moench,species
+1867,53Q74,Symphyotrichum ciliatum (Ledeb.) G.L.Nesom,species
+1868,542H2,Syringa vulgaris L.,species
+1870,54MBV,Tamarix gallica L.,species
+1871,54N6D,Tanacetum balsamita L.,species
+1872,7BJ6P,Tanacetum parthenium (L.) Sch.Bip.,species
+1873,55LZ8,Tetradium daniellii (Benn.) T.G.Hartley,species
+1874,56HWX,Thladiantha dubia Bunge,species
+1875,899BZ,Thlaspi alliaceum L.,species
+1877,56Q7Y,"Thymallus baicalensis Dybowski, 1874",species
+1878,57BND,Tolpis staticifolia (All.) Sch.Bip.,species
+1879,57FNY,Torilis arvensis (Huds.) Link,species
+1880,57LHS,Toxicodendron radicans (L.) Kuntze,species
+1881,57LK2,Toxicodendron vernicifluum (Stokes) F.A.Barkley,species
+1882,7CMBD,Tradescantia andersoniana W. Ludw. & Rohweder,species
+1883,8W49J,Tradescantia Ruppius ex L.,genus
+1884,57WT4,Tragus racemosus (L.) All.,species
+1885,586J2,Tribulus terrestris L.,species
+1886,58PNJ,Trifolium angustifolium L.,species
+1887,58PVM,Trifolium hybridum L.,species
+1888,58PVS,Trifolium incarnatum L.,species
+1889,7CRVT,Trifolium pallidum Waldst. & Kit.,species
+1891,58Q4Z,Trifolium resupinatum L.,species
+1892,58Q76,Trifolium squamosum L.,species
+1893,58R59,Trigonella caerulea (L.) Ser.,species
+1894,58R6D,Trigonella foenum-graecum L.,species
+1895,58YGG,Tripleurospermum caucasicum (Willd.) Hayek,species
+1896,58YGZ,Tripleurospermum inodorum (L.) Sch.-Bip,species
+1897,5944Q,Triticum aestivum L.,species
+1898,7CVJH,Tropaeolum majus L.,species
+1899,59KYV,Tulipa gesneriana L.,species
+1900,59L6K,Tulipa sylvestris L.,species
+1901,59PPD,Turgenia latifolia (L.) Hoffm.,species
+1902,59V6T,Typha laxmannii Lepech.,species
+1903,7F22V,Urtica pilulifera L.,species
+1904,7F3LX,Urtica urens L.,species
+1905,7F5BK,Utricularia gibba L.,species
+1906,7F85Y,Vaccaria hispanica (Mill.) Rauschert,species
+1908,7FCD2,Valeriana phu L.,species
+1909,7FBYH,Valerianella dentata (L.) Pollich,species
+1910,7FBNK,Valerianella locusta (L.) Laterr.,species
+1911,7FBPN,Valerianella rimosa Bastard,species
+1912,5B2TY,Verbena officinalis L.,species
+1913,5B6DT,Veronica agrestis L.,species
+1914,5B6FX,Veronica arvensis L.,species
+1915,5B6R7,Veronica filiformis Sm.,species
+1916,7FPJK,Veronica opaca Fr.,species
+1917,5B773,Veronica peregrina L.,species
+1918,5B777,Veronica persica Poir.,species
+1919,5B786,Veronica polita Fr.,species
+1921,5B7GF,Veronica triphyllos L.,species
+1922,7L734,"Vespa velutina nigrithorax Buysson, 1905",subspecies
+1923,5BC5K,Viburnum carlesii Hemsl. ex Forbes & Hemsl.,species
+1924,5BCDM,Viburnum rhytidophyllum Hemsl. ex Forbes & Hemsl.,species
+1926,5BCK2,Vicia articulata Hornem.,species
+1927,5BCNM,Vicia ervilia (L.) Willd.,species
+1929,5BCQ7,Vicia hirsuta (L.) Gray,species
+1930,VLRFH,Vicia melanops Sm.,species
+1931,5BCTL,Vicia narbonensis L.,species
+1932,7FSGR,Vicia sativa L.,species
+1933,5BCYC,Vicia tetrasperma (L.) Schreb.,species
+1934,5BCZ6,Vicia villosa Roth,species
+1935,5BFGF,Vinca major L.,species
+1936,5BGDQ,Viola arvensis Murray,species
+1937,9TP5D,Viola × haynaldii Wiesb.,species
+1938,5BHXY,Viola × kalksburgensis Wiesb.,species
+1939,5BH9J,Viola odorata L.,species
+1941,VJT9J,Viola × scabra F.Braun,species
+1942,5BHLM,Viola sororia Willd.,species
+1943,5BHMP,Viola suavis M.Bieb.,species
+1944,5BJ4M,Viola × vindobonensis Wiesb.,species
+1945,7G44D,Viola × wittrockiana Gams,species
+1946,5BM7B,Vitis vinifera L.,species
+1947,5BM7V,Vitis vulpina L.,species
+1948,7G7HR,Wisteria frutescens (L.) Poir.,species
+1949,5C4YJ,Xanthium orientale L.,species
+1950,5C4YT,Xanthium spinosum L.,species
+1951,7G6SB,Xanthium strumarium L.,species
+1952,7G774,Xanthoceras sorbifolia Bunge,species
+1953,5CFPC,"Xiphophorus hellerii Heckel, 1848",species
+1954,5CT6S,Yucca filamentosa L.,species
+1955,5CXX5,Zea mays L.,species
